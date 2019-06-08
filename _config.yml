@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+title:            'Caravans of Gold'
+description:      'This website features select objects from the first major exhibition addressing the scope of Saharan trade and the shared history of West Africa, the Middle East, North Africa, and Europe from the eighth to sixteenth centuries.'
+url:              ''
+baseurl:          ''
+copyright:        'ART HIST 395: Museums Seminar, Northwestern University, 2019'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -130,12 +130,14 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+    - label: 'The Block Museum of Art'
+      link: 'https://www.blockmuseum.northwestern.edu'
+    - label: 'Northwestern University Libraries'
+      link: 'https://www.library.northwestern.edu/'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: '#'
   logos:
     - img: '/img/logo.png'
 
