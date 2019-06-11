@@ -20,4 +20,4 @@ _Caravans of Gold_ draws on recent archaeological discoveries, including rare fr
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='caravans' %}
