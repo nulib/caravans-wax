@@ -28,6 +28,6 @@ label: 'Riding on camelback, the Tuareg once controlled the caravan routes that 
 order: '24'
 layout: caravans_item
 collection: caravans
-thumbnail: img/derivatives/simple/obj_1/thumbnail.jpg
-full: img/derivatives/simple/obj_1/full.jpg
+thumbnail: "/img/derivatives/simple/obj_1/thumbnail.jpg"
+full: "/img/derivatives/simple/obj_1/full.jpg"
 ---
