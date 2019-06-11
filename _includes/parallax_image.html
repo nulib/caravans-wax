@@ -17,10 +17,10 @@
 <div class='wax-parallax full-width {% if page.banner %}top-banner{% else %}inline-parallax{% endif %}'>
   <div class='parallax-image' style="{{ style | strip }}"></div>
 
-  {% if item.label %}
+  {% if item.object_name %}
   <div class='parallax-caption'>
     <div class='wax-inline-container'>
-      Above: <a href='{{ item.url | absolute_url }}'>{{ item.label }}</a>
+      Above: <a href='{{ item.url | absolute_url }}'>{{ item.object_name }}</a>
     </div>
   </div>
   {% endif %}
