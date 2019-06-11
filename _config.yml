@@ -70,7 +70,7 @@ collections:
     metadata:
       source: 'caravans_metadata.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images' # path to the directory of images within `_data`
+      source: 'raw_images/caravans' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
