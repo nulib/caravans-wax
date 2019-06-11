@@ -23,7 +23,7 @@ description:      'This website features select objects from the first major exh
 url:              ''
 baseurl:          ''
 copyright:        'ART HIST 395: Museums Seminar, Northwestern University, 2019'
-logo:             '/assets/logo.png'
+logo:             '/img/caravans_logo.jpg'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -64,13 +64,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  caravans: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'caravans_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'caravans_metadata.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,15 +84,17 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      caravans:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
+          - object_name
+          - artist_maker
           - location
           - label
           - _date
           - object_type
-          - current_location
+          - region_culture_time_period
+          - credit_line
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -139,6 +141,6 @@ footer:
     - label: 'Contact'
       link: '#'
   logos:
-    - img: '/img/logo.png'
+    - img: '/img/caravans_logo.jpg'
 
 # FIN
