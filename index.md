@@ -2,13 +2,13 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
+  collection: caravans
+  pid: obj_24
   y: 25%
   height: '500px'
 ---
 
-قوافل من ذهب، شذرات من التاريخ: فن، ثقافة، وتبادل عبر الصحراء الكبرى خلال القرون الوسطى
+### قوافل من ذهب، شذرات من التاريخ: فن، ثقافة، وتبادل عبر الصحراء الكبرى خلال القرون الوسطى
 
 ### Journey to a medieval world with Africa at its center.
 
