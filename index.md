@@ -3,8 +3,8 @@ layout: page
 show_title: false
 banner:
   collection: caravans
-  pid: obj_24
-  y: 25%
+  pid: obj_47
+  y: 90%
   height: '500px'
 ---
 
