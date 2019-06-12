@@ -142,7 +142,7 @@ footer:
       link: '/credits'
     - label: 'Contact'
       link: '#'
-  logos:
-    - img: '/img/caravans_logo.jpg'
+  #logos:
+  #  - img: ''
 
 # FIN
