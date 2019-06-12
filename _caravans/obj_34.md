@@ -1,6 +1,6 @@
 ---
 pid: obj_34
-section: 'Driving Desires '
+section: Driving Desires
 img_no: '34'
 object_name: Coronation of the Virgin
 artist_maker: Unknown
