@@ -7,7 +7,7 @@ artist_maker: Unknown
 _date: 9th-10th century; 17th-18th century
 region_culture_time_period: Sijilmasa, Morocco
 medium: Stucco, Plaster
-dimensions: 
+dimensions:
 credit_line: Ministère de la culture et de la communication, Rabat, Morocco
 label: Many of these stucco fragments decorated architecture around the city. These
   fragments are the remains of a mosque, a citadel, an ore-processing site, and the
@@ -19,6 +19,6 @@ label: Many of these stucco fragments decorated architecture around the city. Th
 order: '09'
 layout: caravans_item
 collection: caravans
-thumbnail: img/derivatives/simple/obj_4/thumbnail.jpg
-full: img/derivatives/simple/obj_4/full.jpg
+thumbnail: "/img/derivatives/simple/obj_4/thumbnail.jpg"
+full: "/img/derivatives/simple/obj_4/full.jpg"
 ---

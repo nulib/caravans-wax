@@ -4,10 +4,10 @@ section: Saharan Frontiers/Tadmekka
 img_no: '10'
 object_name: Qingbai bowl
 artist_maker: Unknown
-_date: 
-region_culture_time_period: 
+_date:
+region_culture_time_period:
 medium: Porcelain
-dimensions: 
+dimensions:
 credit_line: The Metropolitan Museum of Art, New York
 label: The Qingbai fragment excavated belongs to a shallow bowl alike this foliate
   bowl featured in the exhibition. Qingbai pottery was widely exported between the
@@ -16,6 +16,6 @@ label: The Qingbai fragment excavated belongs to a shallow bowl alike this folia
 order: '01'
 layout: caravans_item
 collection: caravans
-thumbnail: img/derivatives/simple/obj_10/thumbnail.jpg
-full: img/derivatives/simple/obj_10/full.jpg
+thumbnail: "/img/derivatives/simple/obj_10/thumbnail.jpg"
+full: "/img/derivatives/simple/obj_10/full.jpg"
 ---

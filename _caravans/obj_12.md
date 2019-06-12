@@ -4,10 +4,10 @@ section: Saharan Frontiers/Tadmekka
 img_no: '12'
 object_name: Unglazed local ceramic
 artist_maker: Unknown
-_date: 
+_date:
 region_culture_time_period: Excavated at Tadmekka
 medium: Ceramic
-dimensions: 
+dimensions:
 credit_line: Institut des sciences humain, Mali. Photograph by Kathleen Bickford Berzock
 label: Vast amounts of unglazed ceramic fragments— the remains of bottles, bowls,
   jars, storage containers, and other items essential to daily life—have been excavated
@@ -24,6 +24,6 @@ label: Vast amounts of unglazed ceramic fragments— the remains of bottles, bow
 order: '03'
 layout: caravans_item
 collection: caravans
-thumbnail: img/derivatives/simple/obj_12/thumbnail.jpg
-full: img/derivatives/simple/obj_12/full.jpg
+thumbnail: "/img/derivatives/simple/obj_12/thumbnail.jpg"
+full: "/img/derivatives/simple/obj_12/full.jpg"
 ---

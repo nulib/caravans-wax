@@ -4,8 +4,8 @@ section: Saharan Frontiers/Tadmekka
 img_no: '9'
 object_name: Gold coin blank mold
 artist_maker: Unknown
-_date: 
-region_culture_time_period: 
+_date:
+region_culture_time_period:
 medium: Terracotta
 dimensions: 1.9cm x 3.8 cm x 4.572 cm
 credit_line: L'Institut des science humaines, Bamako, Mali
@@ -30,6 +30,6 @@ label: Eleventh century Andalusian historian and geographer Abu ‘Ubayd al-Bakr
 order: '04'
 layout: caravans_item
 collection: caravans
-thumbnail: img/derivatives/simple/obj_9/thumbnail.jpg
-full: img/derivatives/simple/obj_9/full.jpg
+thumbnail: "/img/derivatives/simple/obj_9/thumbnail.jpg"
+full: "/img/derivatives/simple/obj_9/full.jpg"
 ---
