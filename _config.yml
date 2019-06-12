@@ -113,7 +113,7 @@ menu:
   - label: 'Sections'
     sub:
       - label: 'Saharan Echoes'
-        link: '/sections/sarahan-echoes/'
+        link: '/sections/saharan-echoes/'
       - label: 'Saharan Frontiers'
         link: '/sections/saharan-frontiers/'
       - label: 'Driving Desires'
@@ -122,7 +122,7 @@ menu:
         link: '/sections/long-reach-of-the-sahara/'
       - label: 'Shifting Away from the Sahara'
         link: '/sections/shifting-away-from-the-sahara/'
-  - label: 'Browse'
+  - label: 'Collection'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
