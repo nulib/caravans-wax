@@ -4,4 +4,4 @@ title: Browse the Collection
 permalink: /collection/
 ---
 
-{% include collection_gallery.html collection='caravans' facet_by='section' %}
+{% include collection_gallery.html collection='caravans' %}
