@@ -407,7 +407,7 @@ search box
         flex-wrap: nowrap;
         img {
           float: left;
-          width: 50px;
+          width: 200px;
         }
         p {
           margin: 0 !important;
@@ -418,7 +418,7 @@ search box
         }
       }
       &:hover {
-        background-color: $neutral
+        background-color: $accent-dark;
       }
     }
   }
