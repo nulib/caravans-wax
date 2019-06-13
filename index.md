@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: home
 show_title: false
-banner:
-  collection: caravans
-  pid: obj_47
-  y: 90%
-  height: '500px'
+hero:
+  src: /img/derivatives/simple/obj_47/full.jpg
+  caption: Biconical bead, Egypt or Syria, 10th -11th century Gold
 ---
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/307108617" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/307108617" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### قوافل من ذهب، شذرات من التاريخ: فن، ثقافة، وتبادل عبر الصحراء الكبرى خلال القرون الوسطى
 
