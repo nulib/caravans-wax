@@ -3,19 +3,6 @@ layout: none
 ---
 [
   {
-    "pid": "obj_43",
-    "object_name": "Earrings, Pendant, and Ring",
-    "artist_maker": "Unknown",
-    "_date": "13th /15th century",
-    "region_culture_time_period": "Probably manufactured in the Western Sudan, excavated at Durbi Takusheyi, Nigeria, Tumulus 7",
-    "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
-    "label": "These four pieces of solid gold jewelry were excavated among the valuable grave goods of a high-status individual buried at Durbi Takusheyi in north-central Nigeria. They were deposited with strung cowrie shells in the large Mamluk brass bowl (see next page.) The hoop earrings are made with of inner and outer petal-like forms with a pseudo-granulation texture. This technique is comparable to Amazigh earrings, collected near Algiers in the early twentieth century. The gold however is likely sourced from places that contributed to trans-Saharan trade such as Bambuk, Bure or the Upper Volta. The pendant, however has five soldered cabochon ornaments and is outlined with braided filigree, which is very similar in craftsmanship to the Rao Pectoral and the jewelry from the Salcombe Bay treasure. This pendant was most likely traded and traveled as a finished object over West Africa, and therefore had different origins from the earrings. These treasures were acquired through trade in multiple directions, and therefore provide evidence for a far reaching interaction. Studies of the gold jewelry indicate that they were likely made in Senegal or southern Mauritania, while the other cowrie shells originated in the Indian Ocean and would have traveled along the same routes of trade as the brass bowl.",
-    "collection": "caravans",
-    "thumbnail": "",
-    "permalink": "/caravans/obj_43",
-    "lunr_id": 0
-  },
-  {
     "pid": "obj_12",
     "object_name": "Unglazed local ceramic",
     "artist_maker": "Unknown",
@@ -24,9 +11,9 @@ layout: none
     "credit_line": "Institut des sciences humain, Mali. Photograph by Kathleen Bickford Berzock",
     "label": "Vast amounts of unglazed ceramic fragments— the remains of bottles, bowls, jars, storage containers, and other items essential to daily life—have been excavated at multiple sites in the Western Sudan region, and even north of the Sahara at sites including Sijilmasa. This distribution across sites from the Inland Niger Delta to the Northern Sahara has led archaeologists to speculate that ceramic containers were used to carry goods, such as shea butter or honey, short and long distances in trade. They are decorated with imprinted roulette patterns or slip-painted motifs. Some of the fragments are predicted to have been parts of containers for products like shea butter and honey. Because of their distribution across sites from the Inland Niger Delta to the Northern Sahara archaeologists speculate that ceramic containers were used to carry goods, such as shea butter or honey, short and long distances in trade.",
     "collection": "caravans",
-    "thumbnail": "img/derivatives/simple/obj_12/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/obj_12/thumbnail.jpg",
     "permalink": "/caravans/obj_12",
-    "lunr_id": 1
+    "lunr_id": 0
   },
   {
     "pid": "obj_32",
@@ -39,7 +26,7 @@ layout: none
     "collection": "caravans",
     "thumbnail": "img/derivatives/simple/obj_32/thumbnail.jpg",
     "permalink": "/caravans/obj_32",
-    "lunr_id": 2
+    "lunr_id": 1
   },
   {
     "pid": "obj_9",
@@ -50,8 +37,21 @@ layout: none
     "credit_line": "L'Institut des science humaines, Bamako, Mali",
     "label": "Eleventh century Andalusian historian and geographer Abu ‘Ubayd al-Bakri references the gold currency found of the Saharan entrepôt of Tadmekka, “of all the towns in the world, [Tadmekka] is the one that resembles Mecca the most… Their dinars are called ‘bald’ because they are of pure gold without any stamp.” With little pre-existing accounts of West African coinage, this account had been considered fictional. Most currency production was attributed to north of the Sahara. The 2005 excavations at Tadmekka uncovered the very terracotta fragments with cup-like indentations that substantiates Al-Bakri’s account. The three small circular pieces immediately suggest their original function as molds. Subsequent examinations and research not only concluded that these forms relate to known traditions of coin production, but also detected small droplets of gold adhered to one of the indentations. Working with the archaeologist who recovered the mold fragments, material scientists from Northwestern University have tested a process for purifying and casting gold using the same material resources available at Tadmekka. Gold dust was melted and filtered through crushed glass to purify it. Copies of the mold fragments were then used by the scientists to cast replica blank dinars in bronze. Using the domestic ceramic fabric found at Tadmekka, the molds differ in their superficial vitrification from the high-temperature firing process.",
     "collection": "caravans",
-    "thumbnail": "img/derivatives/simple/obj_9/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/obj_9/thumbnail.jpg",
     "permalink": "/caravans/obj_9",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj_47",
+    "object_name": "Gold Bead (Aga Khan)",
+    "artist_maker": null,
+    "_date": null,
+    "region_culture_time_period": null,
+    "credit_line": null,
+    "label": null,
+    "collection": "caravans",
+    "thumbnail": "img/derivatives/simple/obj_47/thumbnail.jpg",
+    "permalink": "/caravans/obj_47",
     "lunr_id": 3
   },
   {
@@ -81,32 +81,6 @@ layout: none
     "lunr_id": 5
   },
   {
-    "pid": "obj_8",
-    "object_name": "Fragment of Qingbai porcelain",
-    "artist_maker": "Unknown",
-    "_date": "10–12th century",
-    "region_culture_time_period": "Northern Song dynasty",
-    "credit_line": "L’Institut des sciences humaines de Bamako, No. 17.1",
-    "label": "This fragment of porcelain excavated at Tadmekka is a sherd of ceramic ware that expands the exhibition’s conception of the Trans Saharan trade scale. The light green piece of celadon-glazed porcelain was originally part of a shallow bowl made in the Song dynasty in Southeastern Jiangxi Province, China. Fragments of Qingbai ware have been found at medieval sites across the Sahara, Asia, and Egypt. The global dispersion of Qingbai ware fragments is a representation of the pervasive impact of long term exchange. Archaeologist Timothy Insoll, who excavated at Gao Ancien (Mali) and other West African sites, states, “Commerce meant interaction; no matter how strictly one might attempt to control this, trade meant the flow of ideas, and once again complexity is evident and must be allowed for.” The Qingbai fragment becomes one of the exhibition’s fragments that helps ground the imagination as a tool for navigating the Trans Saharan trade.",
-    "collection": "caravans",
-    "thumbnail": "",
-    "permalink": "/caravans/obj_8",
-    "lunr_id": 6
-  },
-  {
-    "pid": "obj_17",
-    "object_name": "Biconical bead",
-    "artist_maker": "Unknown",
-    "_date": "19th or early 20th century",
-    "region_culture_time_period": "Fulbe, Senegal",
-    "credit_line": "The Detroit Institute of Arts, Detroit, MI, Founders Society Purchase, Eleanor Clay Ford Fund for African Art, 77.10",
-    "label": "This biconical, or double-cone shaped bead, made in the late nineteenth or early twentieth century, shares the shape of biconical beads from the Medieval period. It is likely that the style continued to be produced in the region from eleventh century onward. The beads are not exactly comparable. The more bead was cast in silver and gilded with golding silver. The surface of the bead is embellished with wire filigree and granulation. Filigree and granulation are both techniques that uses intricate pieces of metal to create a decorative pattern. In the filigree technique, goldsmiths use thin pieces of metal and twist them into patterns, while granulation is a technique where small spheres are pieced together to create a pattern.",
-    "collection": "caravans",
-    "thumbnail": "",
-    "permalink": "/caravans/obj_17",
-    "lunr_id": 7
-  },
-  {
     "pid": "obj_46",
     "object_name": "James II Coins",
     "artist_maker": null,
@@ -117,20 +91,7 @@ layout: none
     "collection": "caravans",
     "thumbnail": "img/derivatives/simple/obj_46/thumbnail.jpg",
     "permalink": "/caravans/obj_46",
-    "lunr_id": 8
-  },
-  {
-    "pid": "obj_23",
-    "object_name": "Salt slabs from the Sahara Desert",
-    "artist_maker": "Unknown",
-    "_date": null,
-    "region_culture_time_period": null,
-    "credit_line": null,
-    "label": null,
-    "collection": "caravans",
-    "thumbnail": "img/derivatives/simple/obj_23/thumbnail.jpg",
-    "permalink": "/caravans/obj_23",
-    "lunr_id": 9
+    "lunr_id": 6
   },
   {
     "pid": "obj_37",
@@ -143,7 +104,7 @@ layout: none
     "collection": "caravans",
     "thumbnail": "img/derivatives/simple/obj_37/thumbnail.jpg",
     "permalink": "/caravans/obj_37",
-    "lunr_id": 10
+    "lunr_id": 7
   },
   {
     "pid": "obj_42",
@@ -156,20 +117,20 @@ layout: none
     "collection": "caravans",
     "thumbnail": "img/derivatives/simple/obj_42/thumbnail.jpg",
     "permalink": "/caravans/obj_42",
-    "lunr_id": 11
+    "lunr_id": 8
   },
   {
-    "pid": "obj_38",
-    "object_name": "Seated Figure",
+    "pid": "obj_3",
+    "object_name": "Headdress",
     "artist_maker": "Unknown",
-    "_date": "Late 13th–14th century",
-    "region_culture_time_period": "Probably Ife, found at Tada, Nigeria",
-    "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
-    "label": "This large seated figure (about 54 cm tall) in naturalist style is hollow-cast in almost pure copper (with traces of arsenic, lead, and tin). It was found at Tada, a small village on the banks of the Niger River in Nigeria. In the late nineteenth and early twentieth century, the figure was still part of the ritual life of Tada. Every Friday it was taken to the Niger River to be ritually bathed with sand and water, accompanied by chants in Yoruba, a language associated with the city of Ife. Its casting style and the fact that it wears a wrapper with a sash tied on its left hip (which is characteristic of Ife culture), further associates the figure with Ile-Ife during the late thirteenth to fourteenth century. Ife was the capital of a powerful state 120 miles south of Tada. In the medieval period, Tada’s location would have been of strategic importance to Ife, connecting it with long-distance trade. As an indication, analysis of the raw copper from which the statue is made suggests that it might have originated in France, traveling along these very trade routes to Ife, where it was cast.",
+    "_date": "Early 20th Century",
+    "region_culture_time_period": null,
+    "credit_line": null,
+    "label": "In this Tekna headdress, knotted and twisted synthetic hair is decorated with colorful beads. Ebony, silver, coral, glass, shells, and semiprecious stones are intricately stitched into the hairs. Each bead recalls the travel and exchange of these very same materials throughout the decades of the exhibition, exemplifying the legacy of the medieval period in more recent times.",
     "collection": "caravans",
-    "thumbnail": "",
-    "permalink": "/caravans/obj_38",
-    "lunr_id": 12
+    "thumbnail": "/img/derivatives/simple/obj_3/thumbnail.jpg",
+    "permalink": "/caravans/obj_3",
+    "lunr_id": 9
   },
   {
     "pid": "obj_1",
@@ -180,9 +141,9 @@ layout: none
     "credit_line": "Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA, gift of the Estate of Dr. Lloyd Cabot Briggs, 1975, 975-32-50/11927",
     "label": "Riding on camelback, the Tuareg once controlled the caravan routes that stretched across the Sahara. Their economy was based on herding and supplemented by the trade of salt. Tuareg nobility depended on a worker class to tend its flocks, a slave class to meet its domestic needs, and an artisan class to produce leather, wood, and metal goods, like this very saddle. Tuareg artisans make camel saddles by covering a wooden core with dyed leather. Then, they decorate the pommel and other parts of the saddle with metal embellishments filled with geometric patterns, similar to those found in Tuareg jewelry of the same period (desired comparative image). Ornate saddles like this one would probably not be used for lengthy travel, but, rather, for special occasions.  Until the widespread adoption of the camel in the early centuries of the Common Era, historians believe that trans-Saharan trade and exchange was quite rare. Camels are ideal for Saharan movement for their endurance: they rarely sweat, even in hot desert climates, and can conserve fluids for long periods of time.",
     "collection": "caravans",
-    "thumbnail": "img/derivatives/simple/obj_1/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/obj_1/thumbnail.jpg",
     "permalink": "/caravans/obj_1",
-    "lunr_id": 13
+    "lunr_id": 10
   },
   {
     "pid": "obj_4",
@@ -193,9 +154,9 @@ layout: none
     "credit_line": "Ministère de la culture et de la communication, Rabat, Morocco",
     "label": "Many of these stucco fragments decorated architecture around the city. These fragments are the remains of a mosque, a citadel, an ore-processing site, and the residence where the gold ring was found. Houses and other buildings were decorated with painted plaster and wood veneer, sometimes inscribed with words from the Qur’an. The homes usually had wood roofs and plaster floors as well. Excavations reveal that the original Sijilmasa mosque was redone to be properly oriented towards Mecca in about 1148 AD.",
     "collection": "caravans",
-    "thumbnail": "img/derivatives/simple/obj_4/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/obj_4/thumbnail.jpg",
     "permalink": "/caravans/obj_4",
-    "lunr_id": 14
+    "lunr_id": 11
   },
   {
     "pid": "obj_30",
@@ -208,7 +169,7 @@ layout: none
     "collection": "caravans",
     "thumbnail": "img/derivatives/simple/obj_30/thumbnail.jpg",
     "permalink": "/caravans/obj_30",
-    "lunr_id": 15
+    "lunr_id": 12
   },
   {
     "pid": "obj_34",
@@ -219,9 +180,9 @@ layout: none
     "credit_line": "Loyola University Museum of Art, Chicago, IL, Martin D’Arcy, S.J., Collection, gift of D.F. Rowe, S.J., in memory of Mrs. Mary Flannery, 1976:01",
     "label": "Generous amounts of gold thread were used in this textile fragment from England depicting the Coronation of the Virgin. Gold thread, often made with West African gold, was commonly used to embroider luxury textiles. This fragment from an English textile from the late 1400s depicts the heavenly coronation of the Virgin Mary, a popular religious scene (LINK to triptych Coronation). Gold thread was also woven into church vestments and into cloth in looms. Records suggest that most embroidered goods were commissioned by wealthy patrons, but most of the objects that survive today were used in religious, mainly Catholic, contexts. Although European gold deposits were discovered in the Middle Ages, West African gold continued to be prized for its quality and purity.",
     "collection": "caravans",
-    "thumbnail": "",
+    "thumbnail": "img/derivatives/simple/obj_34/thumbnail.jpg",
     "permalink": "/caravans/obj_34",
-    "lunr_id": 16
+    "lunr_id": 13
   },
   {
     "pid": "obj_24",
@@ -234,7 +195,7 @@ layout: none
     "collection": "caravans",
     "thumbnail": "img/derivatives/simple/obj_24/thumbnail.jpg",
     "permalink": "/caravans/obj_24",
-    "lunr_id": 17
+    "lunr_id": 14
   },
   {
     "pid": "obj_10",
@@ -245,35 +206,9 @@ layout: none
     "credit_line": "The Metropolitan Museum of Art, New York",
     "label": "The Qingbai fragment excavated belongs to a shallow bowl alike this foliate bowl featured in the exhibition. Qingbai pottery was widely exported between the tenth and twelfth centuries. This specific bowl with stylized peony spray dates from the 12th century, the Northwestern Song dynasty.",
     "collection": "caravans",
-    "thumbnail": "img/derivatives/simple/obj_10/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/obj_10/thumbnail.jpg",
     "permalink": "/caravans/obj_10",
-    "lunr_id": 18
-  },
-  {
-    "pid": "obj_41",
-    "object_name": "Ingots",
-    "artist_maker": "Unknown",
-    "_date": "Late 14th/15th century",
-    "region_culture_time_period": "Durbi Takusheyi, Nigeria",
-    "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
-    "label": "Copper was a sought-after commodity in trans-Saharan trade that was mined from sources in the Sahara and also in Europe. Gold was commonly traced for copper south of the Sahara, which is described in the mid-tenth century by ‘Ishāq Ibn al-Ḥusayn’: \"Their country (the Sudan) has much gold, but the people there prefer brass to gold. From the brass they make ornaments for their women.\" The origins of the metals alloyed to make these ingots is not clear. However, a preliminary isotopic analysis of the ingots and the copper-alloy objects cast in Durbi Takusheyi suggests possible sources in France, the Iberian Peninsula, and the Middle East. Similar ingots have been found in three other sites, bu tonly those recently excavated by Sam Nixon in Tamdult have the identical triangular shape, whereas the others found in Maden Ifajen and Natamatao are cylindrical. These ingots were later made into jewelry or regalia and sculpture, like the leglets, armlet, leg bracelets, and heavy arm rings also found in the burials. However, these long brass ingots were buried as grave goods and it is believed that they were exclusively made to symbolize commodity and indicate wealth. ",
-    "collection": "caravans",
-    "thumbnail": "",
-    "permalink": "/caravans/obj_41",
-    "lunr_id": 19
-  },
-  {
-    "pid": "obj_35",
-    "object_name": "Head",
-    "artist_maker": "Unknown",
-    "_date": "10th century–1st century BCE",
-    "region_culture_time_period": "Nok culture, Nigeria",
-    "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
-    "label": "This standing figure from the Nok Culture in North-Central Nigeria is one of the earliest known terracotta sculptures in excavated from a site in Africa. Dating back to the first century, it points to a rich material culture in the Central Sudan that existed before the Medieval period. The figure’s beaded necklace and belt suggests that beads were already deeply ingrained culturally, and tied to leadership and wealth. Excavations in the region also found beads made of colorful stones. Archeologist such Peter Breunig and Bernard Fagg imagine the later Ife culture bronze figures may have taken inspiration from Nok in their subject matter and style. The Jebba Bowman exemplify this.",
-    "collection": "caravans",
-    "thumbnail": "",
-    "permalink": "/caravans/obj_35",
-    "lunr_id": 20
+    "lunr_id": 15
   },
   {
     "pid": "obj_11",
@@ -284,22 +219,9 @@ layout: none
     "credit_line": "L'Institut des sciences humaines de Bamako, Loan Nos. 17.10–12. ",
     "label": null,
     "collection": "caravans",
-    "thumbnail": "img/derivatives/simple/obj_11/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/obj_11/thumbnail.jpg",
     "permalink": "/caravans/obj_11",
-    "lunr_id": 21
-  },
-  {
-    "pid": "obj_31",
-    "object_name": "Siddur (Prayer book)",
-    "artist_maker": "Unknown",
-    "_date": "Late 15th century",
-    "region_culture_time_period": "Lisbon",
-    "credit_line": "The Library of the Jewish Theological Seminary of America, New York, NY, Ms. 8235",
-    "label": "This Siddur, a Jewish prayer book, reflects a taste for delicate tracery penwork. Key pages are also embellished with gold leaf and watercolor. Jewish craftsmen made significant contributions to art and culture during the Middle Ages, creating works for Jewish, Muslim, and Christian clients. Gold was an important artistic material for all three faiths, much of it coming from West Africa.",
-    "collection": "caravans",
-    "thumbnail": "",
-    "permalink": "/caravans/obj_31",
-    "lunr_id": 22
+    "lunr_id": 16
   },
   {
     "pid": "obj_44",
@@ -312,7 +234,7 @@ layout: none
     "collection": "caravans",
     "thumbnail": "img/derivatives/simple/obj_44/thumbnail.jpg",
     "permalink": "/caravans/obj_44",
-    "lunr_id": 23
+    "lunr_id": 17
   },
   {
     "pid": "obj_15",
@@ -325,6 +247,6 @@ layout: none
     "collection": "caravans",
     "thumbnail": "img/derivatives/simple/obj_15/thumbnail.jpg",
     "permalink": "/caravans/obj_15",
-    "lunr_id": 24
+    "lunr_id": 18
   }
 ]
