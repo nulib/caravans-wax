@@ -104,12 +104,8 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
-    sub:
-      - label: 'Exhibit'
-        link: '/exhibit/'
-      - label: 'Credits'
-        link: '/credits/'
+  - label: 'Tour'
+    link: '#'
   - label: 'Sections'
     sub:
       - label: 'Saharan Echoes'
@@ -124,6 +120,12 @@ menu:
         link: '/sections/shifting-away-from-the-sahara/'
   - label: 'Collection'
     link: '/collection/'
+  - label: 'About'
+    sub:
+      - label: 'Exhibit'
+        link: '/exhibit/'
+      - label: 'Credits'
+        link: '/credits/'
   - label: 'Search'
     link: '/search/'
 
