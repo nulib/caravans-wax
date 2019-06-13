@@ -215,23 +215,27 @@ content section
     font-family: $heading-font;
     padding-bottom: 1em;
     margin: 0;
+    color: #E6C120;
   }
   .footer-description {
     font-family: $heading-font;
     margin: 0;
     font-size: .9em;
     line-height: 1.2;
+    color: #fff;
   }
   .footer-copyright {
     margin: $margin 0 $margin 0;
     font-size: .9em;
     line-height: 1.2;
+    color: #fff;
   }
   .footer-links {
     font-family: $heading-font;
     margin: 0;
     font-size: .9em;
     line-height: 1.2;
+    color: #E6C120;
   }
   .footer-logos {
     margin: $margin 0 $margin 0;
@@ -500,7 +504,7 @@ search box
           display: table-cell;
           padding: .4rem;
           vertical-align: center;
-        }        
+        }
 
         // .info {
         //   text-decoration: none;
