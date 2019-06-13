@@ -26,7 +26,7 @@ permalink: /sections/saharan-echoes/
 
       <h3>{{ item.object_name }}</h3>
       <p>{{ item.label }}</p>
-      <a href="{{ item.url }}" class="btn btn-primary">View Object</a>
+      <a href="{{ item.url }}" class="btn btn-dark">View Object</a>
 
     </div>
 
