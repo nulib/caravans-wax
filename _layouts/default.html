@@ -11,6 +11,11 @@
       {% include parallax_image.html collection=b.collection pid=b.pid y=b.y height=b.height %}
     {% endif %}
 
+    {% if page.hero %}
+      {% assign h = page.hero %}
+      {% include hero_image.html %}
+    {% endif %}
+
     <div id='wax-main'>
       <div id='wax-content' class='wax-inline-container'>
         {{ content }}
