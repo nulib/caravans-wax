@@ -1,5 +1,9 @@
 <div class='image-viewer'>
   <a href='{{ include.full_image | absolute_url }}'>
-    <img class='item-full-image' src='{{ include.full_image | absolute_url }}' alt='{{ page.label | slugify }}'/>
+    <picture>
+      <source media="(min-width: 800px)" srcset="{{ include.full_image | absolute_url }}" alt='{{ page.label | slugify }}'>
+      <source media="(max-width: 500px)" srcset="{{ include.small_image | absolute_url }}" alt='{{ page.label | slugify }}'>
+      <img class='item-full-image scale-down' src='{{ include.full_image | absolute_url }}' alt='{{ page.label | slugify }}'/>
+    </picture>
   </a>
 </div>
