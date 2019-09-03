@@ -62,13 +62,11 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
-  exhibits:
-    output: true
-  caravans: # name of collection
+  objects: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'caravans_item' # the layout for the pages to use
     metadata:
-      source: 'caravans_metadata.csv' # path to the metadata file within `_data`
+      source: 'objects_20190903.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/caravans' # path to the directory of images within `_data`
 
@@ -84,12 +82,11 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      caravans:
+      objects:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - object_name
           - artist_maker
-          - location
           - label
           - _date
           - object_type
