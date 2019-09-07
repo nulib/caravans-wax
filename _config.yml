@@ -102,7 +102,7 @@ search:
 
 menu:
   - label: 'Tour'
-    link: '#'
+    link: '/tour/'
   - label: 'Sections'
     sub:
       - label: 'Saharan Echoes'
