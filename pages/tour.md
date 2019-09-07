@@ -12,7 +12,7 @@ They moved across Saharan trade routes along with ceramics, copper, glass beads,
 
 The reach of trans-Saharan exchange is revealed in the fragments excavated from now uninhabited archaeological sites that were once vibrant communities. In this app, these archaeological “fragments in time” from three key sites—Gao and Tadmekka, Mali and Sijilmasa, Morocco—are presented along with works of art and other objects that allow us to imagine them as they may have been. They are the starting point for reimagining the medieval past and for seeing the present in a new light.
 
-<a href="/saharan-echoes/" title="Saharan Echoes">
+<a href="/tour/saharan-echoes/" title="Saharan Echoes">
   <button type="button" class="btn btn-secondary btn-lg btn-block">Saharan Echoes</button>
 </a>
 <br>

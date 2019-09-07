@@ -1,4 +1,4 @@
 ---
 layout: saharan-echoes
-permalink: /saharan-echoes/
+permalink: /tour/saharan-echoes/
 ---
