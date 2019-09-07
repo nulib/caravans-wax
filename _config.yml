@@ -118,11 +118,7 @@ menu:
   - label: 'Collection'
     link: '/collection/'
   - label: 'About'
-    sub:
-      - label: 'Exhibit'
-        link: '/exhibit/'
-      - label: 'Credits'
-        link: '/credits/'
+    link: '/about/'
   - label: 'Search'
     link: '/search/'
 
