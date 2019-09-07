@@ -1,0 +1,4 @@
+---
+layout: reveal
+permalink: /tour/
+---
