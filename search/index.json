@@ -9,6 +9,7 @@ layout: none
     "_date": "Early 20th century",
     "credit_line": "Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA, gift of the Estate of Dr. Lloyd Cabot Briggs, 1975, 975-32-50/11927",
     "label": "Riding on camelback, the Tuareg once controlled the caravan routes that stretched across the Sahara. Their economy was based on herding and supplemented by the trade of salt. Tuareg nobility depended on a worker class to tend its flocks, a slave class to meet its domestic needs, and an artisan class to produce leather, wood, and metal goods, like this very saddle. Tuareg artisans make camel saddles by covering a wooden core with dyed leather. Then, they decorate the pommel and other parts of the saddle with metal embellishments filled with geometric patterns, similar to those found in Tuareg jewelry of the same period (desired comparative image). Ornate saddles like this one would probably not be used for lengthy travel, but, rather, for special occasions.  Until the widespread adoption of the camel in the early centuries of the Common Era, historians believe that trans-Saharan trade and exchange was quite rare. Camels are ideal for Saharan movement for their endurance: they rarely sweat, even in hot desert climates, and can conserve fluids for long periods of time.",
+    "small": "/img/objects/obj_1_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_1",
     "lunr_id": 0
@@ -20,6 +21,7 @@ layout: none
     "_date": null,
     "credit_line": "The Metropolitan Museum of Art, New York",
     "label": "The Qingbai fragment excavated belongs to a shallow bowl alike this foliate bowl featured in the exhibition. Qingbai pottery was widely exported between the tenth and twelfth centuries. This specific bowl with stylized peony spray dates from the 12th century, the Northwestern Song dynasty.",
+    "small": "/img/objects/obj_10_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_10",
     "lunr_id": 1
@@ -31,6 +33,7 @@ layout: none
     "_date": null,
     "credit_line": "L'Institut des sciences humaines de Bamako, Loan Nos. 17.10–12. ",
     "label": null,
+    "small": "/img/objects/obj_11_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_11",
     "lunr_id": 2
@@ -42,6 +45,7 @@ layout: none
     "_date": null,
     "credit_line": "Institut des sciences humain, Mali. Photograph by Kathleen Bickford Berzock",
     "label": "Vast amounts of unglazed ceramic fragments— the remains of bottles, bowls, jars, storage containers, and other items essential to daily life—have been excavated at multiple sites in the Western Sudan region, and even north of the Sahara at sites including Sijilmasa. This distribution across sites from the Inland Niger Delta to the Northern Sahara has led archaeologists to speculate that ceramic containers were used to carry goods, such as shea butter or honey, short and long distances in trade. They are decorated with imprinted roulette patterns or slip-painted motifs. Some of the fragments are predicted to have been parts of containers for products like shea butter and honey. Because of their distribution across sites from the Inland Niger Delta to the Northern Sahara archaeologists speculate that ceramic containers were used to carry goods, such as shea butter or honey, short and long distances in trade.",
+    "small": "/img/objects/obj_12_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_12",
     "lunr_id": 3
@@ -53,6 +57,7 @@ layout: none
     "_date": "8th–10th century",
     "credit_line": "Direction nationale du patrimoine culturel, Bamako, Mali",
     "label": "This small crucible recovered from Gao was used in glass bead making. Glass beads, which were produced at many locales and exchanged across vast distances, provide a microcosm for considering the complex networks that met at Gao. Approximately two-thirds of the beads are from the lower occupation levels, dated to the eighth to tenth centuries, with many of those found in trenches in broken, malformed, or unfinished condition. The evidence from these trenches is especially compelling, suggesting that Gao was a production site for recycling and remaking imported glass. Fragments suggest, for instance, that beads were cut from glass canes and then heated in order to smooth their edges, and that broken glassware was melted to make beads crush them",
+    "small": "/img/objects/obj_13_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_13",
     "lunr_id": 4
@@ -64,6 +69,7 @@ layout: none
     "_date": "9th–13th century",
     "credit_line": "Direction nationale du patrimoine culturel, Bamako, Mali",
     "label": "A total of 293 fragments of imported glass vessels have been recorded at the ancient medieval city, Gao Saney. Out of a total of almost eight hundred glass beads and fragments, they are blue, blue green, green, or off-white and cylindrical, oval, or tubular. Approximately two-thirds of the beads are from lower occupation levels, dated to the eighth to tenth centuries in broken, malformed, or unfinished condition. The production of glass beads in the medieval took two forms: primary production from molten glass and secondary production involving the remeltinging of broken glass for bead making. Fragments suggest, for instance, that beads were cut from glass canes and then heated in order to smooth their edges, and that broken glassware was melted to make beads. Glass beads are recognized as objects of power, affluence, ritual, commerce, and social status in many African societies. At local and, to some extent, regional levels, the production of glass beads in medieval brought about dramatic social, political, and economic transformations: a period of “bleaded splendor”. The demand for these glass beads were largely ornamental, though as costly items of prestige they would have constituted signs of rank. Glass beads, which were produced at many locales and exchanged across vast distances, provide a microcosm for considering the complex networks that met at Gao.\n",
+    "small": "/img/objects/obj_14_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_14",
     "lunr_id": 5
@@ -75,6 +81,7 @@ layout: none
     "_date": "1100/1299",
     "credit_line": "Corning Museum of Glass, Corning, NY, 69.1.12",
     "label": null,
+    "small": "/img/objects/obj_15_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_15",
     "lunr_id": 6
@@ -86,6 +93,7 @@ layout: none
     "_date": "11th/13th century",
     "credit_line": "Musée national du Mali, Bamako, No. 92.05.513",
     "label": "Fragments of woven textiles have been found within burials in the caves of the Bandiagara Cliffs east of Mali’s Inland Niger Delta. Tellem textiles, named after the Tellem people’s occupation of the area, are among the oldest surviving textiles from West Africa. Such textiles are typically made of cotton cultivated locally and indigo dye, likely imported from north Sahara. They provide important evidence for the longevity and widespread use of narrow strip weaving and indigo dying technologies unique to West Africa. This large blanket fragment shows the creative use of the indigo color, assembled from multiple narrow woven bands.",
+    "small": "/img/objects/obj_16_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_16",
     "lunr_id": 7
@@ -97,6 +105,7 @@ layout: none
     "_date": "19th or early 20th century",
     "credit_line": "The Detroit Institute of Arts, Detroit, MI, Founders Society Purchase, Eleanor Clay Ford Fund for African Art, 77.10",
     "label": "This biconical, or double-cone shaped bead, made in the late nineteenth or early twentieth century, shares the shape of biconical beads from the Medieval period. It is likely that the style continued to be produced in the region from eleventh century onward. The beads are not exactly comparable. The more bead was cast in silver and gilded with golding silver. The surface of the bead is embellished with wire filigree and granulation. Filigree and granulation are both techniques that uses intricate pieces of metal to create a decorative pattern. In the filigree technique, goldsmiths use thin pieces of metal and twist them into patterns, while granulation is a technique where small spheres are pieced together to create a pattern.",
+    "small": "/img/objects/obj_17_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_17",
     "lunr_id": 8
@@ -108,6 +117,7 @@ layout: none
     "_date": "12th/14th century",
     "credit_line": "Musée national du Mali, Bamako, Mali, 2002.17.16",
     "label": "This terracotta figure was excavated in the burial ground of Natamatao, alongside skeletons of horses and humans. It is part of a widespread local terracotta sculpture tradition, stretching from the twelfth to fourteenth centuries, even after the introduction of Islam to the region. The depiction of horses was a prevalent theme of terracotta figures during the time as horses were crucial livestock. A small breed of horse is native to the region, and Arabian horses were also imported from north of the Sahara in the medieval period. Located in an advantageous location close to the Niger river and full of fertile land, Natamatao was one of the sixty flourishing interdependent communities in the delta area. ",
+    "small": "/img/objects/obj_18_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_18",
     "lunr_id": 9
@@ -119,6 +129,7 @@ layout: none
     "_date": "13th/17th century",
     "credit_line": "Direction Nationale du Patrimoine culturel, Bamako, Mali",
     "label": null,
+    "small": "/img/objects/obj_19_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_19",
     "lunr_id": 10
@@ -130,6 +141,7 @@ layout: none
     "_date": "First half of the 20th century",
     "credit_line": "Field Museum of Natural History, Chicago, IL, 221842.2, .2",
     "label": "In Morocco, the descendants of enslaved people from Mali, Niger, Senegal and elsewhere in the Sahelian region of West Africa refer to themselves as Gnawa. The Gnawa are known for their spiritual healing practices and for celebratory musical performances, both of which incorporate iron cymbals (qraqeb), as well as a guitar-like instrument called the guinbri. The processes of making iron cymbals and using them in performances is deeply associated with mysticism through the blacksmiths who make the cymbals. Blacksmiths are associated with special skills that enable them to control fire and spirits. The repetitive sounds of the cymbals is intended to mimic the sound chains used to shackle enslaved Africans. ",
+    "small": "/img/objects/obj_2_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_2",
     "lunr_id": 11
@@ -141,6 +153,7 @@ layout: none
     "_date": "19th century",
     "credit_line": "The Walters Art Museum, Baltimore, MD",
     "label": "During the medieval period, the Arabic language and the Islamic faith spread together along trade routes across the Sahara and then gradually across the Western Sudan. Few West African manuscripts from the medieval period survive today, and the earliest date from the 16th century. However, this 19th century Qur’an written in the Hausa language reflects the linked movement of language, faith, and trade. The Qur’an has a square format and endpages embellished with interlacing calligraphic patterns in colored ink and gold. Rather than a leather binding characteristic of medieval period books, it was stored in an easily transportable leather pouch.",
+    "small": "/img/objects/obj_20_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_20",
     "lunr_id": 12
@@ -152,6 +165,7 @@ layout: none
     "_date": "Late 19th or early 20th century",
     "credit_line": "The Art Institute of Chicago, IL, African and Amerindian Purchase Fund, 2000.326",
     "label": "This large textile (255.2 cm long) is covered with Qur’anic verses in tight script. The red checkered motifs recall magic squares, arrangements of numbers that always amount to the same sum, no matter the direction they are added, and the attached amulets often encase small squares of folded paper with sacred writing. These are key elements of esoteric Islamic practices, and it is possible that the Qur’anic text was recited aloud as it was written. In Sufi Islam the repetition of verses from the Qur’an is a form of devotion. Across Senegal, Sufi practitioners apply esoteric knowledge of sacred texts to the therapeutic practices of divination, healing, and spiritual protection. This textile, from around the turn of the century, was likely prepared by a practitioner who lent or rented it to clients as needed.The elongated figure may represent a lizard, a spirit, or a stylized rendering of the name Muhammad.",
+    "small": "/img/objects/obj_21_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_21",
     "lunr_id": 13
@@ -163,6 +177,7 @@ layout: none
     "_date": "1556",
     "credit_line": "Melville J. Herskovits Library of African Studies, Northwestern University, Evanston, IL, ",
     "label": "Diplomat and scholar Leo Africanus, born in Fez, Morocco, published his Description of Africa in 1526. The book, composed in Italian, was the first description of Africa published in Europe with the aim of educating European and Christian audiences about the continent’s geography, people, and resources. Leo traveled widely throughout his life, including to Cairo, across the Sahara to Timbuktu, and to Rome. In Rome he was imprisoned and, in 1520, baptized by order of Pope Leo X. He spent the following years in Roman scholarly circles, learning Italian and teaching Arabic.",
+    "small": "/img/objects/obj_22_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_22",
     "lunr_id": 14
@@ -174,6 +189,7 @@ layout: none
     "_date": null,
     "credit_line": null,
     "label": null,
+    "small": "/img/objects/obj_23_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_23",
     "lunr_id": 15
@@ -185,6 +201,7 @@ layout: none
     "_date": "1375",
     "credit_line": "Bibliothèque nationale de France, Paris, France, Ms. Espagnol 30",
     "label": "The Jewish cartographer Abraham Cresques was commissioned to produce this map for Charles V, the king of France. It was completed in 1375. Mansa Musa, the emperor of Mali, is prominently depicted on the second panel seated on a throne and holding a golden orb in one handed. The caption reads: “This Moorish ruler is named Musse Melly [Mansa Musa], lord of the Negroes of Guinea. This king is the richest and most distinguished ruler of this whole region on account of the great quantity of gold that is found in his lands.” The Catalan Atlas demonstrates the significant European interest in West Africa and the trans-Saharan networks that connected the two at this time. It reveals that European saw themselves as part of an interconnected world that included a vital West Africa.",
+    "small": "/img/objects/obj_24_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_24",
     "lunr_id": 16
@@ -196,6 +213,7 @@ layout: none
     "_date": null,
     "credit_line": null,
     "label": "During his sojourn to in Cairo, Mansa Musa was received by the sultan al-Nasir al-Din Muhammad, who showered him with gifts including a skullcap with caliphal emblems. The cap undoubtedly resembled this luxurious example, which is inscribed \"Glory to our lord sultan al-Malik al-Nasir.\" ",
+    "small": "/img/objects/obj_25_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_25",
     "lunr_id": 17
@@ -207,6 +225,7 @@ layout: none
     "_date": "395–423",
     "credit_line": "Fondation nationale des musées, Rabat, Morocco, 2004.7.41",
     "label": "Trade across Saharan Africa began well before the eighth century, and the first Roman solidus was issued in 312. The Roman solidus coin weighed 4.5 grams and was used as a standard for weighing gold throughout the trans-Saharan trade wherever Roman coins were used. Roman outposts throughout North Africa helped facilitate the fledgling trans-Saharan trade and bring gold and other commodities into the Roman world.",
+    "small": "/img/objects/obj_26_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_26",
     "lunr_id": 18
@@ -218,6 +237,7 @@ layout: none
     "_date": "14th century",
     "credit_line": "Collection de Bank al-Maghrib, Banque Centrale du Royaume du Maroc, 533341",
     "label": "Derived from the standard of the Roman solidus (LINK to Roman solidus), the dinar was an Islamic currency with a common weight of 0.16 ounce. Introduced in the seventh century, dinars were minted at sites throughout the Mediterranean coast, often using West African gold. A dinar was of significant value, and was primarily used only for large expenditures. This dinar was minted at Sijilmasa, Morocco, which was one of the most productive mints due to its close proximity to the West African gold sources. The inscription on the dinar records the political leadership of Abu ‘Inan Faris, and establishes Sijilmasa as a major center of trade and production.",
+    "small": "/img/objects/obj_27_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_27",
     "lunr_id": 19
@@ -229,6 +249,7 @@ layout: none
     "_date": "1252–1303",
     "credit_line": "The American Numismatic Society, New York, NY, Acc. No. 1954.237.235",
     "label": "In 1252, the city-state of Florence adopted the gold standard and began minting its own currency. This adoption was supported by an influx of gold from West Africa via trans-Saharan trade routes. Florins were stamped with a fleur-de-lis on one side and an image of John the Baptist, the patron saint of the city of Florence, Italy on the other. A mintmark appears above John the Baptist’s right hand, indicating where the coin was produced. Florins could also be hammered out to form valuable gold leaf, which was used to embellish objects including religious paintings.",
+    "small": "/img/objects/obj_28_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_28",
     "lunr_id": 20
@@ -240,6 +261,7 @@ layout: none
     "_date": "15th century",
     "credit_line": "Loyola University Museum of Art, Chicago, IL, Martin D’Arcy, S.J., Collection, gift of Eileen O'Shaughnessy, 1985, 1985:03",
     "label": "In Western Europe, Christian artworks were often embellished with gold leaf in the medieval period. In this panel painting from Italy, Christ places a crown on the head of his mother, Mary, symbolizing her role as Queen of Heaven. Angels and other holy figures fill the heavenly space that is conveyed by the golden background. Much of the gold used in Italy came from West Africa through trans-Saharan trade routes. Beginning in the thirteenth century, Italian city-states, such as Florence and Venice, began minting gold coins largely made from West African gold. These coins, such as the florin also in this section (LINK to florin), were beaten into thin sheets of foil, which were then used as gold leaf. From one coin, craftsmen could make more than 100 leaves.",
+    "small": "/img/objects/obj_29_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_29",
     "lunr_id": 21
@@ -251,6 +273,7 @@ layout: none
     "_date": "Early 20th century",
     "credit_line": null,
     "label": "In this Tekna headdress, knotted and twisted synthetic hair is decorated with colorful beads. Ebony, silver, coral, glass, shells, and semiprecious stones are intricately stitched into the hairs. Each bead recalls the travel and exchange of these very same materials throughout the decades of the exhibition, exemplifying the legacy of the medieval period in more recent times.",
+    "small": "/img/objects/obj_3_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_3",
     "lunr_id": 22
@@ -262,6 +285,7 @@ layout: none
     "_date": "9th–10th century",
     "credit_line": "Brooklyn Museum, New York, NY, Gift of Beatrice Riese, 1995.51.a-b",
     "label": "The page of this Qur’an feature gold and silver script on indigo-colored parchment. The use of sumptuous and lavish materials in its pages is uncommon for Arabic manuscripts. The Blue Qur’an has been housed in the library of the Great Mosque of Kairouan in Tunisia since at least 1294. Today, however, about 100 of its 600 pages are kept in collections around the world, sixty seven of which are still in Tunisia. During the medieval period, a shared manuscript culture among Muslims, Christians, and Jews extended across North Africa, the Middle East, and Europe. Common elements in this manuscript tradition included elegant calligraphy; painted embellishments, whether figurative illustrations or geometric patterns; gold accents; and decorative leather bindings. Gold and leather, both prominently used in bookmaking, were imported from West Africa, and book culture likewise spread to West Africa as Islam spread across the Sahara Desert.",
+    "small": "/img/objects/obj_30_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_30",
     "lunr_id": 23
@@ -273,6 +297,7 @@ layout: none
     "_date": "Late 15th century",
     "credit_line": "The Library of the Jewish Theological Seminary of America, New York, NY, Ms. 8235",
     "label": "This Siddur, a Jewish prayer book, reflects a taste for delicate tracery penwork. Key pages are also embellished with gold leaf and watercolor. Jewish craftsmen made significant contributions to art and culture during the Middle Ages, creating works for Jewish, Muslim, and Christian clients. Gold was an important artistic material for all three faiths, much of it coming from West Africa.",
+    "small": "/img/objects/obj_31_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_31",
     "lunr_id": 24
@@ -284,6 +309,7 @@ layout: none
     "_date": "ca. 1275–1300",
     "credit_line": "The Metropolitan Museum of Art, New York, NY, gift of J. Pierpont Morgan, 1917.190.295",
     "label": "This statuette of the Virgin and Child, among the largest of its kind, is demonstrative of the peak of ivory carving in the Gothic period of France.It features separately joined pieces of ivory for the throne and fine details rendered in paint and gold. Ivory was among the commodities traded across the desert in the Medieval period. With a 16.5 centimeter diameter at its most wide, the statuette could only have been carved from the tusk of an African Savanna elephant. Thus, it speaks directly to the distance and importance of trans-Saharan trade for European Medieval art. The piece has both West African material in the ivory and European iconography. This juxtaposition sheds light on the importance of trans-Saharan trade for Europe in the Global Medieval period.",
+    "small": "/img/objects/obj_32_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_32",
     "lunr_id": 25
@@ -295,6 +321,7 @@ layout: none
     "_date": "12th century",
     "credit_line": "The Art Institute of Chicago, Samuel P. Avery Endowment, 1926.389",
     "label": "This casket was fashioned from African Savanna Elephant ivory in Sicily, a Mediterranean island off the coast of southern Italy. It includes gold leaf, likely the product of trans-Saharan trade. The use of gold, as well as the delicate ornamental motifs, suggest the casket once held something of substantial value. Written in Arabic, an inscription reads “May glory endure.” The Arabic-speaking Muslim population to which this casket is attributed maintained their communities even though the Normans had recently conquered Sicily in the twelfth century. Norman rule saw a unique visual culture flourish and the Muslim communities contributed substantially to it, partially, with Siculo-Arabic caskets like this.",
+    "small": "/img/objects/obj_33_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_33",
     "lunr_id": 26
@@ -306,6 +333,7 @@ layout: none
     "_date": "ca. 1480",
     "credit_line": "Loyola University Museum of Art, Chicago, IL, Martin D’Arcy, S.J., Collection, gift of D.F. Rowe, S.J., in memory of Mrs. Mary Flannery, 1976:01",
     "label": "Generous amounts of gold thread were used in this textile fragment from England depicting the Coronation of the Virgin. Gold thread, often made with West African gold, was commonly used to embroider luxury textiles. This fragment from an English textile from the late 1400s depicts the heavenly coronation of the Virgin Mary, a popular religious scene (LINK to triptych Coronation). Gold thread was also woven into church vestments and into cloth in looms. Records suggest that most embroidered goods were commissioned by wealthy patrons, but most of the objects that survive today were used in religious, mainly Catholic, contexts. Although European gold deposits were discovered in the Middle Ages, West African gold continued to be prized for its quality and purity.",
+    "small": "/img/objects/obj_34_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_34",
     "lunr_id": 27
@@ -317,6 +345,7 @@ layout: none
     "_date": "10th century–1st century BCE",
     "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
     "label": "This standing figure from the Nok Culture in North-Central Nigeria is one of the earliest known terracotta sculptures in excavated from a site in Africa. Dating back to the first century, it points to a rich material culture in the Central Sudan that existed before the Medieval period. The figure’s beaded necklace and belt suggests that beads were already deeply ingrained culturally, and tied to leadership and wealth. Excavations in the region also found beads made of colorful stones. Archeologist such Peter Breunig and Bernard Fagg imagine the later Ife culture bronze figures may have taken inspiration from Nok in their subject matter and style. The Jebba Bowman exemplify this.",
+    "small": "/img/objects/obj_35_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_35",
     "lunr_id": 28
@@ -328,6 +357,7 @@ layout: none
     "_date": "8th/early 11th century",
     "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
     "label": "This blue glass armlet was excavated from a royal grave at Igbo Ukwu. Its location suggests the prestige of beads and their place in rituals, such as burials. Thurstan Shaw, who led excavations at the site, found that the high-lime and high-aluminium contents of beads like those in this armlet resemble dark blue and reddish brown coated beads in Igbo Ukwu. Their discovery 389 Kilometers southeast of Ile-Ife it suggests an internal exchange of beads. Yet, of the 165,000 of stone and glass beads found at Igbo Ukwu, a lot of lead and elemental isotopes also link the beads to the Mediterranean, the Levant, Middle East, Arabia, and India. The beads offer an interesting look into both the local south-north trade and the importance of Igbo Ukwu in the larger trans-Saharan network; beads of similar material composition were also found at Gao and Tadmekka in Mali. These discoveries establishes that significant glass bead production was underway in the forest region at Igbo Olokun, and that these beads were part of a global circulation of glass beads.",
+    "small": "/img/objects/obj_36_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_36",
     "lunr_id": 29
@@ -339,6 +369,7 @@ layout: none
     "_date": "8th/early 11th century",
     "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
     "label": "Excavated from the site of a shrine storehouse at Igbo Ukwu, this pendant of a bird between two eggs has a textured surface that highlights Igbo Ukwu’s extraordinary metal-working techniques. Analysis of copperwork from Igbo Ukwu suggests that metal casters there supplemented locally sourced copper with copper from mines in Tunisian or Moroccan. Igbo Ukwu had local metal to use but most other regions did not which made copper very valuable. In 1324, Cairene author al-‘Umarī wrote that copper sold for two-thirds its weight in gold. But sub-Saharan trade still affected Igbo Ukwu. Local production of copper was severely affected by the increased presence of brass imported from across the Sahara by Arab traders from the eleventh and twelfth centuries (Craddock et. al., 426). The raised ropes and dots reference the beads found at Igbo Ukwu, which circulated internally and abroad. Attached at the copper-alloy pendant are yellow glass beads strung on copper wires. Yellow beads do not have the high-lime, high-aluminum content common between the blue beads of Igbo Ukwu and the production site of Igbo-Olkon.",
+    "small": "/img/objects/obj_37_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_37",
     "lunr_id": 30
@@ -350,6 +381,7 @@ layout: none
     "_date": "Late 13th–14th century",
     "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
     "label": "This large seated figure (about 54 cm tall) in naturalist style is hollow-cast in almost pure copper (with traces of arsenic, lead, and tin). It was found at Tada, a small village on the banks of the Niger River in Nigeria. In the late nineteenth and early twentieth century, the figure was still part of the ritual life of Tada. Every Friday it was taken to the Niger River to be ritually bathed with sand and water, accompanied by chants in Yoruba, a language associated with the city of Ife. Its casting style and the fact that it wears a wrapper with a sash tied on its left hip (which is characteristic of Ife culture), further associates the figure with Ile-Ife during the late thirteenth to fourteenth century. Ife was the capital of a powerful state 120 miles south of Tada. In the medieval period, Tada’s location would have been of strategic importance to Ife, connecting it with long-distance trade. As an indication, analysis of the raw copper from which the statue is made suggests that it might have originated in France, traveling along these very trade routes to Ife, where it was cast.",
+    "small": "/img/objects/obj_38_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_38",
     "lunr_id": 31
@@ -361,6 +393,7 @@ layout: none
     "_date": "14th/15th century",
     "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
     "label": "This figure of a man wearing woven or quilted armor and carrying a quiver on his back is about 100 centimeters tall. It was found on Jebba Island in the Niger River at a critical juncture for north–south and east–west trade routes. The figure also wears a large medallion, necklaces, armlets, and anklets strung with cowrie shells. These accessories project status and may also be a statement of wealth. Cowries from the Indian Ocean were used as currency in parts of medieval West Africa and might have been transported overland to Central Nigeria along east–west routes or across the Sahara and down the Niger River, before they could serve as an artistic reference for the creator of this figure.",
+    "small": "/img/objects/obj_39_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_39",
     "lunr_id": 32
@@ -372,6 +405,7 @@ layout: none
     "_date": "9th-10th century; 17th-18th century",
     "credit_line": "Ministère de la culture et de la communication, Rabat, Morocco",
     "label": "Many of these stucco fragments decorated architecture around the city. These fragments are the remains of a mosque, a citadel, an ore-processing site, and the residence where the gold ring was found. Houses and other buildings were decorated with painted plaster and wood veneer, sometimes inscribed with words from the Qur’an. The homes usually had wood roofs and plaster floors as well. Excavations reveal that the original Sijilmasa mosque was redone to be properly oriented towards Mecca in about 1148 AD.",
+    "small": "/img/objects/obj_4_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_4",
     "lunr_id": 33
@@ -383,6 +417,7 @@ layout: none
     "_date": null,
     "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
     "label": "Excavated at Lafogido, within the medieval city of Ile-Ife in Nigeria, this head of an elephant was discovered atop a globular pot. Made of terracotta and just over 18.5 cm tall, this elephant head portrays the splendid regalia of the ruling elite of Ile-Ife through its headdresses and necklaces, which are embellished with beads of different sizes. The association of the powerful elephant with the political leaders suggests a statement of authority. In addition, such an association represents wealth, since elephant tusks were valuable commodities in the interregional trade that followed the Niger River and connected with trans-Saharan routes of exchange.",
+    "small": "/img/objects/obj_40_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_40",
     "lunr_id": 34
@@ -394,6 +429,7 @@ layout: none
     "_date": "Late 14th/15th century",
     "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
     "label": "Copper was a sought-after commodity in trans-Saharan trade that was mined from sources in the Sahara and also in Europe. Gold was commonly traced for copper south of the Sahara, which is described in the mid-tenth century by ‘Ishāq Ibn al-Ḥusayn’: \"Their country (the Sudan) has much gold, but the people there prefer brass to gold. From the brass they make ornaments for their women.\" The origins of the metals alloyed to make these ingots is not clear. However, a preliminary isotopic analysis of the ingots and the copper-alloy objects cast in Durbi Takusheyi suggests possible sources in France, the Iberian Peninsula, and the Middle East. Similar ingots have been found in three other sites, bu tonly those recently excavated by Sam Nixon in Tamdult have the identical triangular shape, whereas the others found in Maden Ifajen and Natamatao are cylindrical. These ingots were later made into jewelry or regalia and sculpture, like the leglets, armlet, leg bracelets, and heavy arm rings also found in the burials. However, these long brass ingots were buried as grave goods and it is believed that they were exclusively made to symbolize commodity and indicate wealth. ",
+    "small": "/img/objects/obj_41_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_41",
     "lunr_id": 35
@@ -405,6 +441,7 @@ layout: none
     "_date": "Mid-Late 19th century",
     "credit_line": "The British Museum, London, England",
     "label": "This bowl was discovered in 1909 while dredging for gold along the banks of the Offin River in southern Ghana. Its formal similarity to the Durbi Takusheyi brass bowl proves that such bowls were imported as early as the fourteenth or fifteenth century. The bowl’s profile and the placement of its surface decoration are almost identical to Mamluk period Arabic-inscribed bowls, but details such as the use of “pseudo script”— an attempt by an artist unfamiliar with Arabic to capture the formal essence of Arabic calligraphy— and the representation of stylized crocodiles and mudfish, inhabitants of the Akan forest, in two of the eight medallions, show how a local artist has reinterpreted important visual elements.",
+    "small": "/img/objects/obj_42_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_42",
     "lunr_id": 36
@@ -416,6 +453,7 @@ layout: none
     "_date": "13th /15th century",
     "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
     "label": "These four pieces of solid gold jewelry were excavated among the valuable grave goods of a high-status individual buried at Durbi Takusheyi in north-central Nigeria. They were deposited with strung cowrie shells in the large Mamluk brass bowl (see next page.) The hoop earrings are made with of inner and outer petal-like forms with a pseudo-granulation texture. This technique is comparable to Amazigh earrings, collected near Algiers in the early twentieth century. The gold however is likely sourced from places that contributed to trans-Saharan trade such as Bambuk, Bure or the Upper Volta. The pendant, however has five soldered cabochon ornaments and is outlined with braided filigree, which is very similar in craftsmanship to the Rao Pectoral and the jewelry from the Salcombe Bay treasure. This pendant was most likely traded and traveled as a finished object over West Africa, and therefore had different origins from the earrings. These treasures were acquired through trade in multiple directions, and therefore provide evidence for a far reaching interaction. Studies of the gold jewelry indicate that they were likely made in Senegal or southern Mauritania, while the other cowrie shells originated in the Indian Ocean and would have traveled along the same routes of trade as the brass bowl.",
+    "small": "/img/objects/obj_43_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_43",
     "lunr_id": 37
@@ -427,6 +465,7 @@ layout: none
     "_date": "Late 14th/15th century",
     "credit_line": "National Commission for Museums and Monuments, Abuja, Nigeria",
     "label": "This Mamluk bowl made in Egypt or Syria has an Arabic inscription which was originally inlaid with silver and gold. It was found in the burial site at Durbi Takusheyi (Nigeria) and within it were place five pieces of gold jewelry and the burial also contained cowrie shells, and brass and silver armlets. In the Mamluk Sultanate, vessels like this were made by specialized metalworkers, the nahassin, for the society’s elite who used them as spectacular display pieces and diplomatic gifts. This bowl is evidence that Mamluk metalwork was carried across the Sahara and circulated in West Africa as early as the fourteenth century. The bowl is very similar to Mamluk bowls used on shrines in several towns in Ghana. The burial site in Durbi Takusheyi reflects the increase in international and Islamic influences in Hausaland beginning during the late fourteenth century. Raw materials or finished goods arrived here from Western Sudan as from the east.",
+    "small": "/img/objects/obj_44_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_44",
     "lunr_id": 38
@@ -438,6 +477,7 @@ layout: none
     "_date": "18th–late 19th century",
     "credit_line": "National Museum of African Art, Smithsonian Institution, Washington, DC\nGift of Cynthia E. Gubemick; Gift of Mr. and Mrs. Robert Bevill, Mr. and Mrs. Alan Bresler, Mr. and Mrs. Gilbert Shulman; Bequest of Eliot Elisofon\n",
     "label": "These scoops, spoons, boxes, and gold weight from the eighteenth and late nineteenth century are tools for weighing and exchanging gold. They show the movement of gold trade from the Sahara to the Atlantic coast starting around the late fifteenth century. While made to measure gold, they are not made of gold themselves. These copper alloy gold weights originate from Akan speaking regions of today’s Sudan where gold was weighed using the mithqal, a unit that equals 4.5 grams. Wangara merchants from the Sahara most likely introduced the Islamic world measurement. Unlike other West African societies, Akan culture used gold for internal transactions such as food, taxes, and marriage settlements. These objects serve the actual gold processing as well as symbolically display the value of gold in the Atlantic trade with their geometric designs and figurative representations that transcend daily use. Such designs perhaps allude to Islamic world of the Sahara.",
+    "small": "/img/objects/obj_45_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_45",
     "lunr_id": 39
@@ -449,6 +489,7 @@ layout: none
     "_date": null,
     "credit_line": null,
     "label": "The English used the motif on these coins, an small elephant-and-castle below a large bust of English King James the II, to signify that the coin was made from West African gold. More specifically, the motif indicates that The Royal Africa Company obtained this gold. The Royal Africa Company gained a monopoly over gold trade to in 1872 from the British crown. Although trade had shifted away from the Sahara at this time, this coin highlights gold and ivory’s continuing importance. The Royal Africa Company exported not just gold but primarily slaves. Leaving from Bristol, Liverpool and London, the company sailed from Cape Salle (present day Morocco) to the Cape of Good Hope (in South Africa) transporting around 5,000 slaves per year from 1680 to 1686.",
+    "small": "/img/objects/obj_46_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_46",
     "lunr_id": 40
@@ -460,6 +501,7 @@ layout: none
     "_date": "9th–10th century",
     "credit_line": "Fondation nationale des musées, Rabat, Morocco, NP2006-1",
     "label": "This gold ring was excavated at Sijilmasa, Morocco. Found in the lowest levels of excavations, which date to the ninth or tenth century, it is one of only a few gold objects from the Sahara region to have survived from the time period. It is a piece of lasting evidence of the gold trade in the Sahara. A goldsmith made the ring through fusing gold into flattening wire arranged in an undulating pattern. Dated to an extended period of growth of Sijilmasa by Amazigh (Berber) rulers, the craftsmanship of the ring is similar to that of Amazigh jewelry of the 19th and 20th century from the Sahara and Anti Atlas mountains, possibly indicating this ring was made by their medieval ancestors.",
+    "small": "/img/objects/obj_5_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_5",
     "lunr_id": 41
@@ -471,6 +513,7 @@ layout: none
     "_date": "11th century",
     "credit_line": "Musée archéologique de Rabat, Rabat, Morocco",
     "label": "This inscribed vase is from the 11th century and was found near the remains of a mosque in Sijilmasa, Morocco. It is one of the best preserved ceramic objects excavated from the site. It is a piece of evidence of the influence of medieval Islam on the Sahara on everyday life. The glazed vase has an inscription that reads “al-Baraka” (the blessing), with “Allah” (God) or “al-yawman” (prosperity). Many other unglazed ceramics and fragments, such as remains of jugs, lamps, storage containers, and bowls, have been excavated throughout the Sahara, including many from Egypt and other parts of the Middle East as well as China.",
+    "small": "/img/objects/obj_6_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_6",
     "lunr_id": 42
@@ -482,6 +525,7 @@ layout: none
     "_date": "10th–11th century",
     "credit_line": "Musée national du Mali, Bamako",
     "label": null,
+    "small": "/img/objects/obj_7_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_7",
     "lunr_id": 43
@@ -493,6 +537,7 @@ layout: none
     "_date": "10–12th century",
     "credit_line": "L’Institut des sciences humaines de Bamako, No. 17.1",
     "label": "This fragment of porcelain excavated at Tadmekka is a sherd of ceramic ware that expands the exhibition’s conception of the Trans Saharan trade scale. The light green piece of celadon-glazed porcelain was originally part of a shallow bowl made in the Song dynasty in Southeastern Jiangxi Province, China. Fragments of Qingbai ware have been found at medieval sites across the Sahara, Asia, and Egypt. The global dispersion of Qingbai ware fragments is a representation of the pervasive impact of long term exchange. Archaeologist Timothy Insoll, who excavated at Gao Ancien (Mali) and other West African sites, states, “Commerce meant interaction; no matter how strictly one might attempt to control this, trade meant the flow of ideas, and once again complexity is evident and must be allowed for.” The Qingbai fragment becomes one of the exhibition’s fragments that helps ground the imagination as a tool for navigating the Trans Saharan trade.",
+    "small": "/img/objects/obj_8_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_8",
     "lunr_id": 44
@@ -504,6 +549,7 @@ layout: none
     "_date": null,
     "credit_line": "L'Institut des science humaines, Bamako, Mali",
     "label": "Eleventh century Andalusian historian and geographer Abu ‘Ubayd al-Bakri references the gold currency found of the Saharan entrepôt of Tadmekka, “of all the towns in the world, [Tadmekka] is the one that resembles Mecca the most… Their dinars are called ‘bald’ because they are of pure gold without any stamp.” With little pre-existing accounts of West African coinage, this account had been considered fictional. Most currency production was attributed to north of the Sahara. The 2005 excavations at Tadmekka uncovered the very terracotta fragments with cup-like indentations that substantiates Al-Bakri’s account. The three small circular pieces immediately suggest their original function as molds. Subsequent examinations and research not only concluded that these forms relate to known traditions of coin production, but also detected small droplets of gold adhered to one of the indentations. Working with the archaeologist who recovered the mold fragments, material scientists from Northwestern University have tested a process for purifying and casting gold using the same material resources available at Tadmekka. Gold dust was melted and filtered through crushed glass to purify it. Copies of the mold fragments were then used by the scientists to cast replica blank dinars in bronze. Using the domestic ceramic fabric found at Tadmekka, the molds differ in their superficial vitrification from the high-temperature firing process.",
+    "small": "/img/objects/obj_9_small.webp",
     "collection": "objects",
     "permalink": "/objects/obj_9",
     "lunr_id": 45
