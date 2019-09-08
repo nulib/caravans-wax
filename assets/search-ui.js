@@ -9,8 +9,8 @@ function excerptedString(str) {
 }
 
 function getThumbnail(item, url) {
-  if ('thumbnail' in item) {
-    return `<img class='img-thumbnail' src='${url}${item.thumbnail}'/>&nbsp;&nbsp;&nbsp;`
+  if ('small' in item) {
+    return `<img class='img-thumbnail' src='${url}${item.small}'/>&nbsp;&nbsp;&nbsp;`
   }
   else {
     return '';
