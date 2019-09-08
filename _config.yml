@@ -92,6 +92,7 @@ search:
           - object_type
           - region_culture_time_period
           - credit_line
+          - small
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
