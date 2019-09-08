@@ -12,22 +12,20 @@ They moved across Saharan trade routes along with ceramics, copper, glass beads,
 
 The reach of trans-Saharan exchange is revealed in the fragments excavated from now uninhabited archaeological sites that were once vibrant communities. In this app, these archaeological “fragments in time” from three key sites—Gao and Tadmekka, Mali and Sijilmasa, Morocco—are presented along with works of art and other objects that allow us to imagine them as they may have been. They are the starting point for reimagining the medieval past and for seeing the present in a new light.
 
-<a href="/tour/saharan-echoes/" title="Saharan Echoes">
-  <button type="button" class="btn btn-secondary btn-lg btn-block">Saharan Echoes</button>
-</a>
+  <div class="card bg-light text-dark">
+  <a href="/tour/saharan-echoes/" title="Saharan Echoes">
+    <img class="card-img" src="/img/man_on_camel_card.jpg" alt="Saharan Echoes">
+  </a>
+    <div class="card-img-overlay">
+      <h5 class="card-title">Saharan Echoes</h5>
+    </div>
+  </div>
 <br>
-<a href="/saharan-echoes/" title="Saharan Frontiers">
-  <button type="button" class="btn btn-secondary btn-lg btn-block">Saharan Frontiers</button>
-</a>
-<br>
-<a href="/saharan-echoes/" title="Driving Desires">
-  <button type="button" class="btn btn-secondary btn-lg btn-block">Driving Desires</button>
-</a>
-<br>
-<a href="/saharan-echoes/" title="Shifting Away from the Sahara">
-  <button type="button" class="btn btn-secondary btn-lg btn-block">Shifting Away from the Sahara</button>
-</a>
-<br>
-<a href="/saharan-echoes/" title="Long Reach of the Sahara">
-  <button type="button" class="btn btn-secondary btn-lg btn-block">Long Reach of the Sahara</button>
-</a>
+  <div class="card bg-light text-dark">
+  <a href="/tour/saharan-frontiers/" title="Saharan Frontiers: Sijilmasa">
+    <img class="card-img" src="/img/saharan-frontiers-1.jpg" alt="Saharan Frontiers: Sijilmasa">
+  </a>
+    <div class="card-img-overlay">
+      <h5 class="card-title">Saharan Frontiers</h5>
+    </div>
+  </div>
