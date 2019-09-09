@@ -110,7 +110,7 @@ menu:
     sub:
       - label: 'Browse All Items'
         link: '/browse-all-items/'
-      - label: 'Browse by Section'
+      - label: 'Browse By Section'
         link: '/browse-by-sections/'
   - label: 'Search'
     link: '/search/'
