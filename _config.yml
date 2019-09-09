@@ -102,24 +102,16 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Tour'
-    link: '/tour/'
-  - label: 'Sections'
-    sub:
-      - label: 'Saharan Echoes'
-        link: '/sections/saharan-echoes/'
-      - label: 'Saharan Frontiers'
-        link: '/sections/saharan-frontiers/'
-      - label: 'Driving Desires'
-        link: '/sections/driving-desires/'
-      - label: 'Long Reach of the Sahara'
-        link: '/sections/long-reach-of-the-sahara/'
-      - label: 'Shifting Away from the Sahara'
-        link: '/sections/shifting-away-from-the-sahara/'
-  - label: 'Collection'
-    link: '/collection/'
   - label: 'About'
     link: '/about/'
+  - label: 'Tour'
+    link: '/tour/'
+  - label: 'Collection'
+    sub:
+      - label: 'Browse All Items'
+        link: '/browse-all-items/'
+      - label: 'Browse by Section'
+        link: '/browse-by-sections/'
   - label: 'Search'
     link: '/search/'
 

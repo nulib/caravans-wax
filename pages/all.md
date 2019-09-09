@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Browse the Collection
-permalink: /collection/
+title: Browse All Items
+permalink: /browse-all-items/
 ---
 
 {% include collection_gallery.html collection='objects' %}
