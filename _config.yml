@@ -135,9 +135,7 @@ footer:
     - label: 'Northwestern University Libraries'
       link: 'https://www.library.northwestern.edu/'
     - label: 'Credits'
-      link: '/credits'
-    - label: 'Contact'
-      link: '#'
+      link: '/about/#credits'
   #logos:
   #  - img: ''
 
