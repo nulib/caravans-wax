@@ -7,7 +7,7 @@ _date: '1375'
 region_culture_timeperiod: France
 medium: Illuminated parchment mounted on six wooden panels, each 25 3/8 × 9 13/16
   in.
-dimensions: 
+dimensions:
 credit_line: Bibliothèque nationale de France, Paris, France, Ms. Espagnol 30
 label: 'The Jewish cartographer Abraham Cresques was commissioned to produce this
   map for Charles V, the king of France. It was completed in 1375. Mansa Musa, the
@@ -20,7 +20,7 @@ label: 'The Jewish cartographer Abraham Cresques was commissioned to produce thi
   connected the two at this time. It reveals that European saw themselves as part
   of an interconnected world that included a vital West Africa.'
 path: "/img/objects/obj_24"
-full: "/img/objects/obj_24_full.webp"
+full: "/img/objects/obj_24/00.jpg"
 small: "/img/objects/obj_24_small.webp"
 order: '23'
 layout: caravans_item
