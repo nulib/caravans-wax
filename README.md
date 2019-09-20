@@ -1,5 +1,13 @@
 # Caravans of Gold Exhibit
 
+Install Jekyll v4.x https://jekyllrb.com/docs/
+`git clone https://github.com/nulib/caravans-wax.git`
+`cd caravans-wax`
+`bundle install`
+`bundle exec jekyll serve`
+Visit: http://localhost:4000
+
+
 ## Images
 
 - driving desires: 416 MB (original), 432 kb (desktop), 192 KB (pwa)
