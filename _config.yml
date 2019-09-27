@@ -107,11 +107,7 @@ menu:
   - label: 'Tour'
     link: '/tour/'
   - label: 'Collection'
-    sub:
-      - label: 'Browse All Items'
-        link: '/browse-all-items/'
-      - label: 'Browse By Section'
-        link: '/browse-by-sections/'
+    link: '/collection/'
   - label: 'Search'
     link: '/search/'
 
