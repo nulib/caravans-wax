@@ -60,6 +60,9 @@ header & nav bar
     color: $accent-light;
     font-size: 2rem;
     white-space: normal;
+    @media only screen and (max-width: 600px) {
+      font-size: 1.25rem;
+    }
   }
 
   .navbar-brand:hover {
@@ -196,27 +199,31 @@ content section
       }
     }
   }
+  /* mobile screens */
+  @media only screen and (max-width: 600px) {
+    h3 {
+      font-size: 1.25rem;
+    }
+    p {
+      font-size: 1rem;
+    }
+  }
 }
 
 #wax-footer {
   width: 100vw;
   padding-bottom: 5rem;
   padding-top: 3rem;
-  background-color: $neutral;
-  col {
-    flex-basis: 0;
-    flex-shrink: 0;
-    flex-grow: 1;
-    max-width: 100%;
-    justify-items: space-between;
-    min-width: 250px;
+  background-color: $white;
+  border-top: 5px solid black;
+  p {
+    color: $text-color;
   }
   .footer-title {
     font-weight: bold;
     font-family: $heading-font;
     padding-bottom: 1em;
     margin: 0;
-    color: #E6C120;
   }
   .footer-description {
     font-family: $heading-font;
@@ -226,10 +233,8 @@ content section
     color: #fff;
   }
   .footer-copyright {
-    margin: $margin 0 $margin 0;
     font-size: .9em;
     line-height: 1.2;
-    color: #fff;
   }
   .footer-links {
     font-family: $heading-font;
@@ -244,7 +249,7 @@ content section
       text-decoration: none;
     }
     img {
-      height: 35px
+      margin-top: 1.5rem;
     }
   }
 }

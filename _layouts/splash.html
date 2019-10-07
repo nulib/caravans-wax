@@ -10,7 +10,6 @@
   <link rel='canonical' href='{{ page.url | absolute_url }}'/>
   <link rel='icon' type='image/jpg' href="{{ site.logo | absolute_url }}">
   <link rel='stylesheet' href="{{ '/assets/styles.css' | absolute_url }}"/>
-  <link rel="stylesheet" href="{{ '/assets/grayscale.min.css' | absolute_url}}"/>
 
   <script type='text/javascript' src="{{ '/assets/jquery-3.2.1.min.js' | absolute_url }}"></script>
   <noscript>Please enable JavaScript in your browser.</noscript>
@@ -57,7 +56,7 @@
      <header class="masthead">
        <div class="container d-flex h-100 align-items-center">
          <div class="mx-auto text-center">
-           <h2 class="text-white mb-4 mx-auto" style="font-size:2rem;">Art, Culture, and Exchange across Medieval Sahara Africa</h2>
+           <h2 class="text-white mb-4 mx-auto">Art, culture, and exchange across medieval Sahara</h2>
            <a href="/tour/" class="btn btn-dark btn-lg js-scroll-trigger">Take a Tour</a>
          </div>
        </div>
@@ -67,14 +66,13 @@
        <div class="container">
          <div class="row">
            <div class="col-lg-8 mx-auto mb-5">
-             <h2 class="text-white mb-4">{{ site.description }}</h2>
+             <p class="text-white mb-4">{{ site.description }}</p>
              <a class="btn btn-dark btn-lg" href="/collection/">Browse the Collection</a>
          </div>
        </div>
      </section>
 
-     <img src="/img/caravans_hero.jpg" class="img-fluid" alt="">
-
+     <img srcset="/img/caravans_hero_mobile.jpg 400w, /img/caravans_hero.jpg 1440w" sizes="(max-width:600px) 400px, 1440px" src="/img/caravans_hero_mobile.jpg"         class="img-fluid" alt="Maritime Atlas of the Sahara">
 
     <div id='wax-main'>
       <div id='wax-content' class='wax-inline-container'>
@@ -83,8 +81,6 @@
     </div>
 
     {% include footer.html %}
-
-    <script src="/assets/grayscale.min.js"></script>
 
   </body>
 

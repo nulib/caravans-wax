@@ -1,0 +1,16 @@
+.about-section {
+  background: linear-gradient(to bottom, $black 0%,#{fade-out($black, .1)} 75%,#{fade-out($black, .2)} 100%);
+  p {
+    margin-bottom: 5rem;
+  }
+  /* mobile screens */
+  @media only screen and (max-width: 600px){
+    p {
+      font-size: 1rem;
+      line-height: 1.25rem;
+    }
+    a {
+      font-size: 0.75rem;
+    }
+  }
+}

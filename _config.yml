@@ -22,7 +22,7 @@ title:            'Caravans of Gold'
 description:      'Featuring artifacts from the first major exhibition addressing the scope of Saharan trade and the shared history of West Africa, the Middle East, North Africa, and Europe from the eighth to sixteenth centuries.'
 url:              ''
 baseurl:          ''
-copyright:        'ART HIST 395: Museums Seminar, Northwestern University, 2019'
+copyright:        'Created by Kathleen Berzock, Sarah Estrela, Chris Diaz, and the students of ART HIST 395: Museums Seminar, Northwestern University, Spring 2019'
 logo:             '/img/caravans_logo.jpg'
 
 # ---------------------------------------------------------------
@@ -117,14 +117,12 @@ menu:
 #
 
 footer:
-  links:
-    - label: 'The Block Museum of Art'
+  logos:
+    - img: 'https://www.blockmuseum.northwestern.edu/css/images/block-logo.svg'
       link: 'https://www.blockmuseum.northwestern.edu'
-    - label: 'Northwestern University Libraries'
+      alt: 'Northwestern Block Museum of Art'
+    - img: '/img/libraries_logo.jpg'
       link: 'https://www.library.northwestern.edu/'
-    - label: 'Credits'
-      link: '/about/#credits'
-  #logos:
-  #  - img: ''
+      alt: 'Northwestern Libraries'
 
 # FIN
