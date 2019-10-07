@@ -1,20 +1,16 @@
 .card .content-overlay {
   background: rgba(0,0,0,0.7);
   position: absolute;
-  height: 99%;
+  height: 100%;
   width: 100%;
   left: 0;
   top: 0;
   bottom: 0;
   right: 0;
-  opacity: 0;
+  opacity: 1;
   -webkit-transition: all 0.4s ease-in-out 0s;
   -moz-transition: all 0.4s ease-in-out 0s;
   transition: all 0.4s ease-in-out 0s;
-}
-
-.card:hover .content-overlay{
-  opacity: 1;
 }
 
 .content-details {
@@ -34,14 +30,22 @@
   transition: all 0.3s ease-in-out 0s;
 }
 
-.card:hover .content-details{
+.card .content-details{
   top: 50%;
   left: 50%;
   opacity: 1;
 }
 
-.content-details h3{
+.content-details h4 {
   color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+.content-details h4:hover {
+  color: #E6C120;
   font-weight: 500;
   letter-spacing: 0.15em;
   margin-bottom: 0.5em;
