@@ -4,4 +4,4 @@ title: Collection
 permalink: /collection/
 ---
 
-{% include collection_gallery.html collection='objects' %}
+{% include collection_gallery.html collection='fragments' %}
