@@ -60,6 +60,7 @@ header & nav bar
     color: $accent-light;
     font-size: 2rem;
     white-space: normal;
+    line-height: 1em;
     @media only screen and (max-width: 600px) {
       font-size: 1.25rem;
     }
