@@ -112,7 +112,7 @@ content section
 
   h1, h2, h3, h4, h5, h5 {
     margin-bottom: $less-margin;
-    margin-top: $more-margin;
+    margin-top: $less-margin;
     font-family: $heading-font;
     letter-spacing: 0.1rem;
   }
@@ -134,8 +134,8 @@ content section
   }
 
   h4 {
-    font-size: 1.25rem;
-    text-transform: uppercase;
+    font-size: 1.15rem;
+    font-weight: bold;
   }
 
   h5 {
@@ -346,6 +346,12 @@ item pages (iiif + metadata)
     .item-full-image {
       max-width: $max-width;
       height: $viewer-height;
+      @media only screen and (max-width: 600px) {
+        height:auto;
+      }
+    }
+    @media only screen and (max-width: 600px) {
+      height: auto;
     }
   }
 
