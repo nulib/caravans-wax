@@ -48,7 +48,7 @@ header & nav bar
 
 #wax-header {
   background-color: $bg-color;
-  border-bottom: 1px solid $text-color;
+  border-bottom: 2px solid $text-color;
   font-family: $heading-font;
   color: $text-color;
   z-index: 100000;
@@ -216,15 +216,18 @@ content section
   padding-bottom: 5rem;
   padding-top: 3rem;
   background-color: $white;
-  border-top: 5px solid black;
+  border-top: 2px solid black;
   p {
     color: $text-color;
+    font-size: 0.75rem;
   }
   .footer-title {
     font-weight: bold;
     font-family: $heading-font;
     padding-bottom: 1em;
     margin: 0;
+    font-size: 0.85rem;
+    color: #234190;
   }
   .footer-description {
     font-family: $heading-font;
