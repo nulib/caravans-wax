@@ -20,7 +20,9 @@
         {%- endcapture -%}
       {% endif %}
     {% endif %}
+    {% if value %}
       <dt>{{ item.label }}</dt>
       <dd>{{ value | strip }}</dd>
+    {% endif %}
   {% endfor %}
 </dl>
