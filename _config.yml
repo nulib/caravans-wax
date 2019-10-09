@@ -82,17 +82,18 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      objects:
+      fragments:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - object_name
-          - artist_maker
           - label
+          - artist_maker
+          - section
           - _date
           - object_type
           - region_culture_time_period
           - credit_line
-          - small
+          - description
+          - thumb_150
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
