@@ -184,12 +184,12 @@ content section
     }
 
     .inline-image-reference {
-      background-color: $neutral;
+      background-color: #ccc;
       margin-top: $more-margin;
       margin-bottom: $more-margin;
       display: inline-block;
       padding: 1em;
-      max-width: 90%;
+      width: 100%;
       img {
         max-width: 100%;
         max-height: 80vh;
@@ -296,14 +296,17 @@ content section
     margin: 0;
     background-attachment: fixed;
     background-size: cover;
+    @media only screen and (max-width: 600px) {
+      height: 50%;
+    }
   }
   .parallax-caption {
     margin: 0 auto;
     width: 100vw;
     background-color: $neutral;
     padding: $less-margin 0;
-    a {
-      color: $accent-light;
+    h3 {
+      color: #E6C120;
       font-weight: 700;
       text-decoration: none;
     }

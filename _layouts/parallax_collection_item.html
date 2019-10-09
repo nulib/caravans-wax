@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% for image in page.images %}
+  <div class='inline-image-reference'>
+    <img src='{{ image.url | absolute_url }}'/>
+    <p class='image-caption'>
+      Above: {{ image.label }}
+    </p>
+  </div>
+{% endfor %}
+
+{% if layout.meta.size %}
+  {% assign metadata = layout.meta %}
+{% elsif page.meta.size %}
+  {% assign metadata = page.meta %}
+{% endif %}
+{% if metadata.size %}
+  {% include item_metadata.html meta=metadata %}
+{% endif %}
