@@ -411,6 +411,8 @@ search box
     margin: 0;
     .result {
       padding: 1em;
+      border: 2px solid black;
+      margin-bottom: 1em;
       a {
         color: $text-color;
         text-decoration: none;
@@ -418,13 +420,15 @@ search box
         justify-content: flex-start;
         align-items: center;
         flex-wrap: nowrap;
-        img {
-          float: left;
-          width: 200px;
+        @media only screen and (max-width: 600px) {
+          display: block;
+          margin: 0 auto;
         }
         p {
+          font-size: 0.75rem;
           margin: 0 !important;
           padding: 0;
+          line-height: 1rem;
           .title{
             color: $accent-light;
           }
