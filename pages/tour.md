@@ -1,4 +1,5 @@
 ---
+title: 'Tour'
 layout: tour
 permalink: /tour/
 ---
