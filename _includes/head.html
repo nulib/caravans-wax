@@ -1,5 +1,6 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="white" />
   <title>
     {{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
   </title>
@@ -7,6 +8,7 @@
   <link rel='canonical' href='{{ page.url | absolute_url }}'/>
   <link rel='icon' type='image/jpg' href="{{ site.logo | absolute_url }}">
   <link rel='stylesheet' href="{{ '/assets/styles.css' | absolute_url }}"/>
+  <link rel="manifest" href="/manifest.json">
 
   <script type='text/javascript' src="{{ '/assets/jquery-3.2.1.min.js' | absolute_url }}"></script>
   <noscript>Please enable JavaScript in your browser.</noscript>
