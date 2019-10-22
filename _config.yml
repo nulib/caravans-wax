@@ -39,6 +39,11 @@ exclude:
   - vendor
   - spec
   - README.md
+  - LICENSE
+  - LICENSE.txt
+  - convert.sh
+  - convert-jpeg.sh
+  - wac_theme.gemspec
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
