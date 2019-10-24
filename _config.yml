@@ -23,7 +23,6 @@ description:      'Featuring artifacts from the first major exhibition addressin
 url:              ''
 baseurl:          ''
 copyright:        'Created by Kathleen Berzock, Sarah Estrela, Chris Diaz, and the students of ART HIST 395: Museums Seminar, Northwestern University, Spring 2019'
-logo:             '/img/caravans_logo.jpg'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
