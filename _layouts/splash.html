@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html lang='en-us'>
-
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{{ site.description }}">
-  <title>
-    {{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
-  </title>
-
-  <link rel='canonical' href='{{ page.url | absolute_url }}'/>
-  <link rel='icon' type='image/jpg' href="{{ site.logo | absolute_url }}">
-  <link rel='stylesheet' href="{{ '/assets/styles.css' | absolute_url }}"/>
-
-  <script type='text/javascript' src="{{ '/assets/jquery-3.4.1.min.js' | absolute_url }}"></script>
-  <noscript>Please enable JavaScript in your browser.</noscript>
-</head>
-
+  {% include head.html %}
   <body id="page-top">
     <time datetime='{{ 'now' | date: '%Y-%m-%d %H:%M' }}'></time>
 
