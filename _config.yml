@@ -42,7 +42,8 @@ exclude:
   - LICENSE.txt
   - convert.sh
   - convert-jpeg.sh
-  - wac_theme.gemspec
+  - wax_theme.gemspec
+  - s3_website.yml
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
