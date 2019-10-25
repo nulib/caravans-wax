@@ -16,15 +16,12 @@ layout: default
 
 {% if viewer %}
   <div class='item-view'>
-    <span class='pagination-link' id='prevlink'></span>
     {% if viewer == 'openseadragon' %}
       {% include osd_iiif_image_viewer.html manifest=page.manifest prevlink=prevlink nextlink=nextlink %}
     {% else %}
        {% include simple_image_viewer.html full_image=page.full small_image=page.small prevlink=prevlink nextlink=nextlink %}
     {% endif %}
-    <span class='pagination-link' id='nextlink'></span>
   </div>
-  {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
 {% endif %}
 
 {% comment %}
@@ -39,3 +36,19 @@ layout: default
 {% if metadata.size %}
   {% include item_metadata.html meta=metadata %}
 {% endif %}
+
+  <nav aria-label="Browse Exhibit Objects">
+    <ul class="pagination pagination-lg justify-content-center">
+      <li class="page-item">
+        <div id="previous" class="page-link" aria-label="Previous">
+          <span class="sr-only">Previous</span>
+        </div>
+      </li>
+      <li class="page-item">
+        <div id="next" class="page-link" aria-label="Next">
+          <span class="sr-only">Next</span>
+        </div>
+      </li>
+    </ul>
+  </nav>
+{% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}

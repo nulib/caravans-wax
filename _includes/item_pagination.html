@@ -17,7 +17,7 @@
 
 {% if prevlink and nextlink %}
   <script type='text/javascript'>
-    $('#prevlink').append(`<a href='{{ prevlink | absolute_url }}' display='none'>&#8249;</a>`);
-    $('#nextlink').append(`<a href='{{ nextlink | absolute_url }}' display='none'>&#8250;</a>`);
+    $('#previous').append(`<a href='{{ prevlink | absolute_url }}' display='none' aria-hidden="true">&#8249;</a>`);
+    $('#next').append(`<a href='{{ nextlink | absolute_url }}' display='none' aria-hidden="true">&#8250;</a>`);
   </script>
 {% endif %}
