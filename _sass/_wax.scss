@@ -295,7 +295,7 @@ content section
     max-height: 55vh;
     margin: 0;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: auto;
     @media only screen and (max-width: 600px) {
       height: 50%;
     }
