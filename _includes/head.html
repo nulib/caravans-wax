@@ -1,13 +1,18 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
   <title>
     {{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
   </title>
-
   <link rel='canonical' href='{{ page.url | absolute_url }}'/>
-  <link rel='icon' type='image/jpg' href="{{ site.logo | absolute_url }}">
   <link rel='stylesheet' href="{{ '/assets/styles.css' | absolute_url }}"/>
-
-  <script type='text/javascript' src="{{ '/assets/jquery-3.2.1.min.js' | absolute_url }}"></script>
+  <link rel="manifest" href="{{ '/manifest.json' | absolute_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#234190">
+  <meta name="msapplication-TileColor" content="#234190">
+  <meta name="theme-color" content="#234190">
+  <script type='text/javascript' src="{{ '/assets/jquery-3.4.1.min.js' | absolute_url }}"></script>
   <noscript>Please enable JavaScript in your browser.</noscript>
 </head>
