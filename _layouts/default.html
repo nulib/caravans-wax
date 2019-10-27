@@ -27,4 +27,14 @@
 
   <script type='text/javascript' async defer src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}'></script>
   <script type='text/javascript' async defer src='{{ "/assets/popper.min.js" | absolute_url }}'></script>
-</html>
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('http://localhost:4000/sw.js', {scope: '/'});
+    });
+  }
+</script>
+  
+
+  </html>
