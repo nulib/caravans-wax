@@ -20,56 +20,49 @@ workbox.core.setCacheNameDetails({
 
 workbox.routing.registerRoute(
   /\.(?:png|jpg|jpeg|svg|gif)$/,
-  new workbox.strategies.CacheFirst({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'my-image-cache',
   })
 );
 
 workbox.routing.registerRoute(
   new RegExp('\\.js$'),
-  new workbox.strategies.CacheFirst({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'my-js-cache',
   })
 );
 
 workbox.routing.registerRoute(
   new RegExp('\\.(css|scss)$'),
-  new workbox.strategies.CacheFirst({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'my-css-cache',
   })
 );
 
 workbox.routing.registerRoute(
   new RegExp('\\.(html|md)$'),
-  new workbox.strategies.CacheFirst({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'my-html-cache',
   })
 );
 
 workbox.routing.registerRoute(
-  new RegExp('\\.(eot|ttf|woff|json|tif|gemspec)$'),
-  new workbox.strategies.CacheFirst({
+  new RegExp('\\.(eot|ttf|woff|json|gemspec)$'),
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'my-html-cache',
-  })
-);
-
-workbox.routing.registerRoute(
-  '/img/Biconical Bead (Egypt or Syria).tif',
-  new workbox.strategies.staleWhileRevalidate({
-    cacheName: 'Biconical-cache',
   })
 );
 
 workbox.routing.registerRoute(
   '/img/fragments/26/26. Atlas of maritime charts.jpg',
-  new workbox.strategies.staleWhileRevalidate({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'Atlas-cache',
   })
 );
 
 workbox.routing.registerRoute(
   '/img/fragments/40/40. Double-egg pendant.jpg',
-  new workbox.strategies.staleWhileRevalidate({
+  new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'Doubleegg-cache',
   })
 );
