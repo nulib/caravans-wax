@@ -131,4 +131,5 @@ footer:
       link: 'https://www.library.northwestern.edu/'
       alt: 'Northwestern Libraries'
 
+root: '/'     
 # FIN
