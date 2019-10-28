@@ -17,11 +17,3 @@ _Caravans of Gold_ draws on recent archaeological discoveries, including rare fr
 <div class="embed-responsive embed-responsive-16by9">
   <iframe title="vimeo-player" src="https://player.vimeo.com/video/307108617" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<script>
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('http://localhost:4000/sw.js', {scope: '/'});
-    });
-  }
-</script>

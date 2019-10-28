@@ -20,7 +20,7 @@
 
 title:            'Caravans of Gold'
 description:      'The Block Museum at Northwestern University presents the first major exhibition on the scope of medieval Saharan trade from the eighth to sixteenth centuries.'
-url:              ''
+url:              'https://caravans.library.northwestern.edu'
 baseurl:          ''
 copyright:        'Created by Kathleen Berzock, Sarah Estrela, Chris Diaz, and the students of ART HIST 395: Museums Seminar, Northwestern University, Spring 2019'
 
@@ -131,5 +131,5 @@ footer:
       link: 'https://www.library.northwestern.edu/'
       alt: 'Northwestern Libraries'
 
-root: '/'     
+root: 'https://caravans.library.northwestern.edu'
 # FIN
