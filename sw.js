@@ -2,20 +2,22 @@ console.log("Hello from service-worker.js")
 
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js');
 
+// tells if workbox is loaded
 if (workbox) {
   console.log(`Yay! Workbox is loaded 🎉`);
 } else {
   console.log(`Boo! Workbox didn't load 😬`);
 }
 
+// allows for precaching
 workbox.precaching.precacheAndRoute([
   {
     "url": "404.html",
-    "revision": "ff632cabeb6a8550e2abfab4ccafcd31"
+    "revision": "0b23bd7c1c81198a90cb9e1e173570cb"
   },
   {
     "url": "about/index.html",
-    "revision": "569e96c7b6b20fd9d53d8a48bc408b73"
+    "revision": "ffab31fc0aaf3b0f1a57293acdbc3429"
   },
   {
     "url": "assets/reveal.js/css/theme/README.md",
@@ -39,223 +41,187 @@ workbox.precaching.precacheAndRoute([
   },
   {
     "url": "collection/index.html",
-    "revision": "e31a667b05e828af23534c4f2bf68254"
-  },
-  {
-    "url": "fragments/1/index.html",
-    "revision": "bd62c512bbac7b0e5b350eb04d0ac68a"
+    "revision": "7480be2b77026881c767b0329f05d9d0"
   },
   {
     "url": "fragments/10/index.html",
-    "revision": "b4ffec842e25597d4193a0bd8ef014aa"
+    "revision": "1278b0d24342c1facbdfb50dae111173"
   },
   {
     "url": "fragments/11/index.html",
-    "revision": "a0ead50e9c1279f309186b9ab370345a"
+    "revision": "98e96d988b31c9510333151de442f42e"
   },
   {
     "url": "fragments/12/index.html",
-    "revision": "dd0ae336bff2faa11b8e2926fbbeac4a"
+    "revision": "d2a7ac82be63f6cee336e4fffe8878c6"
   },
   {
     "url": "fragments/13/index.html",
-    "revision": "e7074e2999eb2f6dee3fbb24248c1298"
+    "revision": "2bff8b1c3d7cf457c307dec758902abe"
   },
   {
     "url": "fragments/14/index.html",
-    "revision": "364f61d1d852a0e8fc925c1cd33cc963"
+    "revision": "96683189fab17d4404b8aa863243932b"
   },
   {
     "url": "fragments/15/index.html",
-    "revision": "4517d12705c4da7dc374e5a70596a6b7"
+    "revision": "a3031a3a6b89931c37ccb7a9ead8da2e"
   },
   {
     "url": "fragments/16/index.html",
-    "revision": "8c4bd1119eb1884a39239fb1536cafe0"
+    "revision": "1afa141bd3d89ccf1e06a0121e8cb254"
   },
   {
     "url": "fragments/17/index.html",
-    "revision": "801ef184ead0fa7550314cf890a7f3a2"
+    "revision": "e41fe3c6e3883e79ef4d42b66168669e"
   },
   {
     "url": "fragments/18/index.html",
-    "revision": "001edac76c5a5cf452ecee095f978d29"
+    "revision": "a98c8be542ac18ff61e2d0c8f5830a4c"
   },
   {
     "url": "fragments/19/index.html",
-    "revision": "eff0b359367187328c9bbf0e400ee05c"
-  },
-  {
-    "url": "fragments/2/index.html",
-    "revision": "7c4ec3e92f43818c6916f12905cc4aa3"
+    "revision": "92ac10f842f693364b485011c7583c0d"
   },
   {
     "url": "fragments/20/index.html",
-    "revision": "0675cc0d39197495126c7b97a0530d23"
+    "revision": "eaf8bd9f533c9ac05358dba79444ac49"
   },
   {
     "url": "fragments/21/index.html",
-    "revision": "b72568bc212c0b8983dfc6ab62e1d4a3"
+    "revision": "6862c6bd72ee9b4ed6ad322267dd5b3d"
   },
   {
     "url": "fragments/22/index.html",
-    "revision": "954f6723f54388f9f9ad2a30a059d0cc"
+    "revision": "d8d7d60ab596142b46aff922be59bcca"
   },
   {
     "url": "fragments/23/index.html",
-    "revision": "bd2a4e49f624d69d20f40b56ec036d1e"
+    "revision": "da3b73c66643f69403c7bc46cc3c4f6f"
   },
   {
     "url": "fragments/24/index.html",
-    "revision": "e39c357ad9d8ee17d112277ddae2ad57"
+    "revision": "88b0a601cebd30bb3ae4389ae07f5261"
   },
   {
     "url": "fragments/25/index.html",
-    "revision": "eb1dfc7a9be60a8e79b839990f396350"
+    "revision": "3e4c386b65a6daaeeab7a2647b933aba"
   },
   {
     "url": "fragments/26/index.html",
-    "revision": "54512e6225799062000252ff30888f84"
+    "revision": "ea805e2049d85ac7040317a25884443a"
   },
   {
     "url": "fragments/27/index.html",
-    "revision": "85d677015da13334a0bf9bcb40fe714c"
+    "revision": "5f44b1517bd249418b7f60dbe23ee0cf"
   },
   {
     "url": "fragments/28/index.html",
-    "revision": "458516350d0cd78506cab90fc3f0c5f3"
+    "revision": "2b898290bbb894e5af991cb95541e2c2"
   },
   {
     "url": "fragments/29/index.html",
-    "revision": "ea26321eb0277474f3a4ef1cb975ec37"
-  },
-  {
-    "url": "fragments/3/index.html",
-    "revision": "9efff8f6fcff3aa5f47521634f9d4dda"
+    "revision": "7798982274f08d2575caeab9fde31f03"
   },
   {
     "url": "fragments/30/index.html",
-    "revision": "0f894e352da4db056a1a9e5a53f9ca51"
+    "revision": "3e2fe43f3e2e4b6b42fcecfcec13c932"
   },
   {
     "url": "fragments/31/index.html",
-    "revision": "3791e17565bb7a9882a7828785780fcf"
+    "revision": "00203e97ab05c08a8cfa4776f50f250c"
   },
   {
     "url": "fragments/32/index.html",
-    "revision": "baa61eae4560cbd9fa2900dd82653730"
+    "revision": "167f9f731d3c8cfad5b1350faca94dd7"
   },
   {
     "url": "fragments/33/index.html",
-    "revision": "c032728024828e321036f06069e8bb4e"
+    "revision": "8431c497336707b04d6a257f565a2c70"
   },
   {
     "url": "fragments/34/index.html",
-    "revision": "a8bd350998fc16f179229e59eb63f589"
+    "revision": "6c9a5fadc254e99bf209fa01264f38c9"
   },
   {
     "url": "fragments/35/index.html",
-    "revision": "41de8f3bc85ac39b9d7ef73e6f70ecf3"
+    "revision": "44ea54f5274ff9e71dd6715b1aa7aecc"
   },
   {
     "url": "fragments/36/index.html",
-    "revision": "383af9e315ed4b141e957fc5f3746a5b"
+    "revision": "9318608836f9096b438476ed033a36a1"
   },
   {
     "url": "fragments/37/index.html",
-    "revision": "cb378a46bdf33ee0b8787d6760f1c91e"
+    "revision": "b8705472d67d2674cbd174186728beac"
   },
   {
     "url": "fragments/38/index.html",
-    "revision": "753423b80a58e43fe5822610124ba7ad"
+    "revision": "3f3389b70c1f5917f48b5460c6885e92"
   },
   {
     "url": "fragments/39/index.html",
-    "revision": "2956122820590735bae588d072badde1"
-  },
-  {
-    "url": "fragments/4/index.html",
-    "revision": "d2eaace30a5f16772cde30871936a343"
+    "revision": "55db61e5ea6c640f71ce9110415aca0d"
   },
   {
     "url": "fragments/40/index.html",
-    "revision": "e233f241b6923ee362be6b5d5e7174b6"
+    "revision": "f918fb4df1fb8418e1f78ee6c6617cc0"
   },
   {
     "url": "fragments/41/index.html",
-    "revision": "dc32a5c6c630ad87be1cc691cb7813f6"
+    "revision": "e8e7c63504b70b349c39f4e77fc11941"
   },
   {
     "url": "fragments/42/index.html",
-    "revision": "abf192ae83119d9df2c40662e333ab4e"
+    "revision": "5842e5d532ad95466309f65924073896"
   },
   {
     "url": "fragments/43/index.html",
-    "revision": "9bf2679e78431d66b36621b8e131b21f"
+    "revision": "1a49051b22b98257febf6f77d9e2aca5"
   },
   {
     "url": "fragments/44/index.html",
-    "revision": "2dc831ee236fdbbdec29f99d6d8884ae"
+    "revision": "289bb9b326eede3764a3c8ca60353895"
   },
   {
     "url": "fragments/45/index.html",
-    "revision": "bd92cd4b9efdef5599b8ea9266153db5"
+    "revision": "630170d3176d8c07f9c303b8417fdee2"
   },
   {
     "url": "fragments/46/index.html",
-    "revision": "fa1edae8b6e0b57bda472c806ef3a17f"
+    "revision": "e2a37e275d824824f196ab337a641309"
   },
   {
     "url": "fragments/47/index.html",
-    "revision": "9e37fd9b404e7cf67ed0756db059a789"
+    "revision": "f78b8426cc71baadf738cf9242230bbc"
   },
   {
     "url": "fragments/48/index.html",
-    "revision": "7542abab1fb9ed34c3e37e649eb4b2ad"
+    "revision": "a68a186c3a93ee864d0b5519b205fc62"
   },
   {
     "url": "fragments/49/index.html",
-    "revision": "45672378ced7ea8d8ec7100a8191486e"
-  },
-  {
-    "url": "fragments/5/index.html",
-    "revision": "81d32e9f3fd05cf4434c0111b7edadaf"
+    "revision": "15b4159e78ec2a946c70343d0b031a5d"
   },
   {
     "url": "fragments/50/index.html",
-    "revision": "a69d2261522fe37d20d81c4190a7c85f"
+    "revision": "2ba9312172a11513400e23849cbe7fd6"
   },
   {
     "url": "fragments/51/index.html",
-    "revision": "0db5925974d8f0e89cb165a943967da5"
+    "revision": "f5f0c06e519b11cf1c71cb9fcd0cb17c"
   },
   {
     "url": "fragments/52/index.html",
-    "revision": "9fad57adebd1f46668f14c87813bf254"
-  },
-  {
-    "url": "fragments/6/index.html",
-    "revision": "0826aa9c525e3a50265ecc45414930bf"
-  },
-  {
-    "url": "fragments/7/index.html",
-    "revision": "0b6f88f42777f994fd81b73c23504122"
-  },
-  {
-    "url": "fragments/8/index.html",
-    "revision": "4d2b4a924f5b8c1cf7533a1d23a63d56"
-  },
-  {
-    "url": "fragments/9/index.html",
-    "revision": "3bd9994838a00d67a570675f2973d77b"
+    "revision": "5c37cac3e5d37843cf52180875d958c9"
   },
   {
     "url": "index.html",
-    "revision": "8b9d6fd367fb8864f52ec5b735cbe890"
+    "revision": "6cc35c67930d4e9941ff5ece933dd839"
   },
   {
     "url": "search/index.html",
-    "revision": "c16472bbb26a6808e6b1d99758722c3f"
+    "revision": "96f5b0c9588423aec5a8f9c101a2551d"
   },
   {
     "url": "tour/driving-desires/index.html",
@@ -263,7 +229,7 @@ workbox.precaching.precacheAndRoute([
   },
   {
     "url": "tour/index.html",
-    "revision": "b5f68c2cf56e7f3aa2e86cc32fa330a6"
+    "revision": "94f2c19cc5b926198fe726855269c6c3"
   },
   {
     "url": "tour/mansa-musas-hajj-to-mecca/index.html",
@@ -374,36 +340,72 @@ workbox.precaching.precacheAndRoute([
     "revision": "fff7e51737c04771cb7eef69cf31582f"
   },
   {
-    "url": "img/tour/atlas-of-maritime.jpg",
-    "revision": "b2e9246601be4ed5e21ff9cae43c55d1"
+    "url": "img/fragments/1/1_150x.jpg",
+    "revision": "88d9b59fc4817f5b92cdb64bcf352067"
   },
   {
-    "url": "img/tour/ife-tour.jpg",
-    "revision": "8669a62afca6be43ed7c0cb9100f68c0"
+    "url": "img/fragments/10/10_150x.jpg",
+    "revision": "db695d5cc4b28edaa0eea7f309b72bbf"
   },
   {
-    "url": "img/tour/igbo-tour.jpg",
-    "revision": "b0ad89103efdb4438fd59f1746c5d6c7"
+    "url": "img/fragments/11/11_150x.jpg",
+    "revision": "a9424800f1544887f6e160321927719f"
   },
   {
-    "url": "img/tour/man_on_camel_card.jpg",
-    "revision": "d0bb1597dc3911659698699deebd041a"
+    "url": "img/fragments/12/12_150x.jpg",
+    "revision": "d49b247e616bd7025a3c5376c1f7420a"
   },
   {
-    "url": "img/tour/saharan-frontiers-1.jpg",
-    "revision": "95ae3600d6b8b5bcbee758762e4311a2"
+    "url": "img/fragments/13/13_1_150x.jpg",
+    "revision": "b2b8485c30619b41ca1b57a92e308cd2"
   },
   {
-    "url": "img/tour/shifting-away-from-the-sahara.jpg",
-    "revision": "8663946c02e3e5d06fcb082f8c5d768b"
+    "url": "img/fragments/13/13_2_150x.jpg",
+    "revision": "16199e4d29f73d87430c6dd1bd083eb1"
   },
   {
-    "url": "img/tour/spread-of-ideas.jpg",
-    "revision": "44b7f86afa0a611a476f56b8f1d01bb3"
+    "url": "img/fragments/14/14_150x.jpg",
+    "revision": "df13f27db0d09d6f37b9357441731674"
   },
   {
-    "url": "img/tour/tadmekka-tour.jpg",
-    "revision": "a7f184be4f416f4603017571d59ca603"
+    "url": "img/fragments/15/15_150x.jpg",
+    "revision": "14dc91c108465dd3581e166db6e2bc18"
+  },
+  {
+    "url": "img/fragments/16/16_150x.jpg",
+    "revision": "a1cc0297ff09dc3af82f470a5cc079d0"
+  },
+  {
+    "url": "img/fragments/17/17_150x.jpg",
+    "revision": "08315c1ae9eba68ce9c8d0a3e0273ac4"
+  },
+  {
+    "url": "img/fragments/18/18_150x.jpg",
+    "revision": "308f42f705c95f5b01f13d98030cc41a"
+  },
+  {
+    "url": "img/fragments/19/19_150x.jpg",
+    "revision": "3e2d6058b6cb6eba0cadc1fb49a2dbe0"
+  },
+  {
+    "url": "img/fragments/2/2_150x.jpg",
+    "revision": "ff78704627da0fdb65a0c9835db32383"
+  },
+  {
+    "url": "img/fragments/20/20_150x.jpg",
+    "revision": "61647735e88b4bb3b12e014e84c0d91a"
+  },
+  {
+    "url": "img/fragments/21/21_150x.jpg",
+    "revision": "3d494ad78fe5c1a39a93490a31fb90cd"
+  },
+  {
+    "url": "img/fragments/22/22_150x.jpg",
+    "revision": "0f3d02523e95f919936bcb953ee99adc"
+  },
+  {
+    "url": "img/fragments/23/23_150x.jpg",
+    "revision": "ae516cfc2c56c802ee2a5e16980e5ff5"
   },
   {
     "url": "apple-touch-icon.png",
@@ -458,6 +460,17 @@ workbox.precaching.precacheAndRoute([
     "revision": "ad3da023ac095b4dea91c50255ef5227"
   }
 ])
+
+//sets queue for background-sync
+const queue = new workbox.backgroundSync.Queue('BGS-queue');
+
+self.addEventListener('fetch', (event) => {
+  const promiseChain = fetch(event.request.clone()).catch((err) => {
+    return queue.pushRequest({request: event.request});
+  });
+
+  event.waitUntil(promiseChain);
+});
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
