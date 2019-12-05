@@ -2,13 +2,26 @@ console.log("Hello from service-worker.js")
 
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js');
 
+// tells if workbox is loaded
 if (workbox) {
   console.log(`Yay! Workbox is loaded 🎉`);
 } else {
   console.log(`Boo! Workbox didn't load 😬`);
 }
 
+// allows for precaching
 workbox.precaching.precacheAndRoute([])
+
+//sets queue for background-sync
+const queue = new workbox.backgroundSync.Queue('BGS-queue');
+
+self.addEventListener('fetch', (event) => {
+  const promiseChain = fetch(event.request.clone()).catch((err) => {
+    return queue.pushRequest({request: event.request});
+  });
+
+  event.waitUntil(promiseChain);
+});
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
