@@ -134,6 +134,6 @@ footer:
 root: 'https://caravans.library.northwestern.edu'
 
 
-languages: ["en", "fr", "ar"] 
+languages: ["en", "fr"] 
 exclude_from_localization: ["javascript", "images", "css"]
 # FIN
