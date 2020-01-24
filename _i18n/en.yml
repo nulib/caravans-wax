@@ -2,5 +2,8 @@ global:
   tagline: English
   about: About
 langs:
-  fr: French
   en: English
+  fr: French
+pages:
+  home: Home
+  about: About
