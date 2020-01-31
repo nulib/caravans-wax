@@ -6,3 +6,4 @@ img/
 _data/
 .DS_Store
 s3_website.yml
+*.docx
