@@ -5,3 +5,4 @@ permalink: /collection/
 ---
 
 {% include collection_gallery.html collection='fragments' %}
+{% tf pages/collection.md %}

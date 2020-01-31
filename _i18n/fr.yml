@@ -1,0 +1,9 @@
+global:
+  tagline: French
+  about: Sur
+langs:
+  fr: French
+  en: English
+pages:
+  home: Home
+  about: About
