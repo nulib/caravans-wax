@@ -9,7 +9,7 @@ By using archaeological excavations in Mali, Morocco, and Nigeria and their asso
 
 ### Credits
 
-This mobile app was conceptualized during the museum seminar "Reshaping an Exhibition: Preparing *Caravans of Gold* for Presentation in Africa" taught by Dr. Kathleen Bickford Berzock at Northwestern University in Spring 2019. Sarah M. Estrela, Block Curatorial Graduate Fellow, assisted on the development of the app, which was built by Chris Diaz, Digital Publishing Services Librarian at Northwestern University Libraries. Undergraduate student contributors were Emily Andry, Lois Biggs, Meghan Clare Considine, Brian Rogers Cook, Zoe Detweiler, Brianna Heath, Nicholas Liou, Mina Milaz, Joely Simon, Cindy Qian, and Elizabeth Zhang.
+This mobile app was conceptualized during the museum seminar "Reshaping an Exhibition: Preparing *Caravans of Gold* for Presentation in Africa" taught by Dr. Kathleen Bickford Berzock at Northwestern University in Spring 2019. Sarah M. Estrela, Block Curatorial Graduate Fellow, assisted on the development of the app, which was built by Chris Diaz, Digital Publishing Services Librarian at Northwestern University Libraries. Undergraduate student contributors: Emily Andrey, Lois Biggs, Meghan Clare Considine, Brian Rogers Cook, Zoe Detweiler, Brianna Heath, Nicholas Liou, Mina Milaz, Joely Simon, Cindy Qian, Elizabeth Zhang, Trent Steelman, and Kun Lei.
 
 [^1]: Jennifer Wallace, _Digging the Dirt: The Archaeological Imagination_ (London: Duckworth and Co., 2004); Michael Shanks, _The Archaeological Imagination_ (Walnut Creek, CA: Left Coast Press, 2012).
 
