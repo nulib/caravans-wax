@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Caravans of Gold'
-description:      'The Block Museum at Northwestern University presents the first major exhibition on the scope of medieval Saharan trade from the eighth to sixteenth centuries.'
+description:      'A digital project, presented in Arabic, French, and English, exploring the global reach of medieval Saharan exchange from the eighth to sixteenth centuries.'
 url:              'https://caravans.library.northwestern.edu'
 baseurl:          ''
 copyright:        'Created by Kathleen Berzock, Sarah Estrela, Chris Diaz, and the students of ART HIST 395: Museums Seminar, Northwestern University, Spring 2019'
@@ -67,7 +67,7 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
-  fragments: # name of collection
+  works: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'fragment' # the layout for the pages to use
     metadata:
@@ -112,8 +112,8 @@ menu:
     link: '/about/'
   - label: 'Tour'
     link: '/tour/'
-  - label: 'Collection'
-    link: '/collection/'
+  - label: 'Key Works'
+    link: '/works/'
   - label: 'Search'
     link: '/search/'
 
@@ -132,4 +132,3 @@ footer:
       alt: 'Northwestern Libraries'
 
 root: 'https://caravans.library.northwestern.edu'
-# FIN
