@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Collection
-permalink: /collection/
+title: Key Works
+permalink: /works/
 ---
 
-{% include collection_gallery.html collection='fragments' %}
+{% include collection_gallery.html collection='works' %}

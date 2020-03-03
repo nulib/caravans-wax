@@ -74,7 +74,7 @@ This project was conceptualized during the museum seminar “Reshaping an Exhibi
 
 ### Contact
 
-Caravans of Gold has taken shape through partnership and exchange. If you would like to share how you are using these materials, or if you would like to inform us of any errors in translation or content, please contactblock-museum@northwestern.edu.
+Caravans of Gold has taken shape through partnership and exchange. If you would like to share how you are using these materials, or if you would like to inform us of any errors in translation or content, please contact [block-museum@northwestern.edu](mailto:block-museum@northwestern.edu).
 
 [^1]: Jennifer Wallace, _Digging the Dirt: The Archaeological Imagination_ (London: Duckworth and Co., 2004); Michael Shanks, _The Archaeological Imagination_ (Walnut Creek, CA: Left Coast Press, 2012).
 
