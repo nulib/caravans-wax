@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Caravans of Gold'
-description:      'A digital project, presented in Arabic, French, and English, exploring the global reach of medieval Saharan exchange from the eighth to sixteenth centuries.'
+title:            'Caravans of Gold, Fragments in Time: Art, culture, and exchange across medieval Sahara'
+description:      'A digital exhibit exploring the global reach of medieval Saharan exchange from the eighth to sixteenth centuries.'
 url:              'https://caravans.library.northwestern.edu'
 baseurl:          ''
 copyright:        'Created by Kathleen Berzock, Sarah Estrela, Chris Diaz, Melanie Garcia Sympson, and the students of ART HIST 395: Museums Seminar, Northwestern University, Spring 2019'
