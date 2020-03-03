@@ -6,9 +6,7 @@ hero:
   caption: Biconical bead, Egypt or Syria, 10th -11th century Gold
 ---
 
-### قوافل من ذهب، شذرات من التاريخ: فن، ثقافة، وتبادل عبر الصحراء الكبرى خلال القرون الوسطى
-
-### Journey to a medieval world with Africa at its center.
+### Introduction
 
 Travel with the Block Museum along routes crossing the Sahara Desert to a time when West African gold fueled expansive trade and drove the movement of people, culture, and religious beliefs. Caravans of Gold is the first major exhibition addressing the scope of Saharan trade and the shared history of West Africa, the Middle East, North Africa, and Europe from the eighth to sixteenth centuries. Weaving stories about interconnected histories, the exhibition showcases the objects and ideas that connected at the crossroads of the medieval Sahara and celebrates West Africa’s historic and underrecognized global significance.
 

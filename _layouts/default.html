@@ -4,6 +4,7 @@
 
   <body>
     <time datetime='{{ 'now' | date: '%Y-%m-%d %H:%M' }}'></time>
+    {% include testing-banner.html %}
     {% include header.html %}
 
     {% if page.banner %}

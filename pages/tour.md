@@ -2,7 +2,10 @@
 title: 'Tour'
 layout: tour
 permalink: /tour/
+image: '/img/tour/caravans-intro-map.jpg'
+caption: 'During the medieval period, major trade routes crossing the Sahara Desert linked cities and towns that functioned as trade centers. Routes headed south connected with the Niger River, a major byway to Africa’s forest region. Those going north connected to the vast trade networks of the Mediterranean Sea, traveling inland across Europe. Routes headed east met the Levantine routes and ultimately the Silk Roads of Central and East Asia.'
 ---
+
 In 1324, the king of the vast West African empire of Mali, Mansa Musa, made a pilgrimage to Mecca. Accounts of the period describe his journey, which reportedly included 8,000 courtiers, 12,000 slaves, and 100 loads of pure gold. By contemporary measures, Musa may have been the richest person in the history of the world.
 
 Mansa Musa’s story is among the most well-known of many that can be told about West Africa’s prominence in an interconnected medieval world. At this time West African gold was the engine that drove the movement of things, people, and ideas across Africa, Europe, and the Middle East.

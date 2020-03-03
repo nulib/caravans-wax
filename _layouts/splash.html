@@ -3,7 +3,7 @@
   {% include head.html %}
   <body id="page-top">
     <time datetime='{{ 'now' | date: '%Y-%m-%d %H:%M' }}'></time>
-
+    {% include testing-banner.html %}
     <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
      <div class='wax-inline-container'>
         <a class='navbar-brand text-center' href="{{ '/' | absolute_url }}" title='Home'>
@@ -43,7 +43,7 @@
      <header class="masthead">
        <div class="container d-flex h-100 align-items-center">
          <div class="mx-auto text-center">
-           <h2 class="text-white mb-4 mx-auto">Art, culture, and exchange across medieval Sahara</h2>
+           <h2 class="text-white mb-4 mx-auto">Journey to a medieval world with Africa at its center</h2>
            <a href="/tour/" class="btn btn-dark btn-lg js-scroll-trigger">Take a Tour</a>
          </div>
        </div>
@@ -54,7 +54,7 @@
          <div class="row">
            <div class="col-lg-8 mx-auto mb-5">
              <p class="text-white mb-4">{{ site.description }}</p>
-             <a class="btn btn-dark btn-lg" href="/collection/">Browse the Collection</a>
+             <a class="btn btn-dark btn-lg" href="/collection/">Browse Key Works</a>
          </div>
        </div>
      </section>
