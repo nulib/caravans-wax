@@ -1,1 +1,0 @@
-{% include collection_gallery.html collection='fragments' %}
