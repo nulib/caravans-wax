@@ -12,6 +12,11 @@
 
 	</head>
 	<body>
+		<header class="reveal-header">
+			<a class="reveal-header-button" href="{{ site.url }}"><em>Home</em></a>
+			<span class="reveal-header-delimiter">•</span>
+			<a class="reveal-header-button" href="/tour/"><em>Back</em></a>
+		</header>
 		<div class="reveal">
 			<div class="slides">
 
@@ -253,79 +258,5 @@
 				]
 			});
 		</script>
-
-		<header class="reveal-header">
-			<a class="reveal-header-button" href="/index.md"><em>Home</em></a>
-			<span class="reveal-header-delimiter">•</span>
-			<a class="reveal-header-button" href="/tour.html"><em>Tours</em></a>
-		</header>
-
-		<style>
-			.reveal-header {
-				display: block;
-				position: absolute;
-				top: 12px;
-				right: 16px;
-				z-index: 20;
-				color: #fff;
-				font-family: "Source Sans Pro", Helvetica, sans-serif;
-				font-size: 14px;
-				letter-spacing: 0.05em;
-			}
-
-			.reveal-header-button {
-				display: inline-block;
-				padding: 14px 10px;
-				color: rgba(255,255,255,0.7);
-				text-transform: uppercase;
-				text-decoration: none;
-				font-weight: 500;
-				box-sizing: border-box;
-				text-align: center;
-			}
-
-			.reveal-header-button em {
-				color: #fff;
-			}
-
-			.reveal-header-button:hover {
-				color: #fff;
-				background: rgba(0,0,0,0.2);
-			}
-
-			.reveal-header-button  + .reveal-header-button {
-				margin-left: 10px;
-			}
-
-			@media screen and (max-width: 500px) {
-				body {
-					display: flex;
-					flex-direction: column;
-				}
-
-				.reveal-header {
-					display: flex;
-					position: initial;
-					background: rgba(0,0,0,0.2);
-					align-items: center;
-					jusjpgy-content: flex-end;
-					font-size: 13px;
-					font-size: min(3.8vw, 14px);
-					align-items: center;
-					width: 100%;
-				}
-				.reveal-header-button {
-					flex-grow: 1;
-					margin: 0;
-					padding-left: 4px;
-					padding-right: 4px;
-					text-transform: none;
-				}
-				.reveal-header-delimiter {
-					display: none;
-				}
-			}
-		</style>
-
 	</body>
 </html>

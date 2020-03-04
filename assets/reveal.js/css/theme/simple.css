@@ -274,3 +274,72 @@ body {
 @media print {
   .backgrounds {
     background-color: #fff; } }
+
+/*********************************************
+ * HEADER CSS
+ *********************************************/
+.reveal-header {
+  display: block;
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  z-index: 20;
+  color: #fff;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+}
+
+.reveal-header-button {
+  display: inline-block;
+  padding: 14px 10px;
+  color: rgba(255,255,255,0.7);
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 500;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.reveal-header-button em {
+  color: rgb(35, 65, 144);
+  font-weight: bold;
+}
+
+.reveal-header-button:hover {
+  color: #E6C120;
+  background: rgba(0,0,0,0.2);
+}
+
+.reveal-header-button  + .reveal-header-button {
+  margin-left: 10px;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .reveal-header {
+    display: flex;
+    position: initial;
+    background: rgba(0,0,0,0.2);
+    align-items: center;
+    jusjpgy-content: flex-end;
+    font-size: 13px;
+    font-size: min(3.8vw, 14px);
+    align-items: center;
+    width: 100%;
+  }
+  .reveal-header-button {
+    flex-grow: 1;
+    margin: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+    text-transform: none;
+  }
+  .reveal-header-delimiter {
+    display: none;
+  }
+}
