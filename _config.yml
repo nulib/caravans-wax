@@ -118,6 +118,8 @@ menu:
     link: '/works/'
   - label: 'Search'
     link: '/search/'
+  - label: 'Notes'
+    link: '/notes/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
