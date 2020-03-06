@@ -71,9 +71,9 @@ kramdown:
 collections:
   works: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'fragment' # the layout for the pages to use
+    layout: 'key-work' # the layout for the pages to use
     metadata:
-      source: 'fragments_20191007.csv' # path to the metadata file within `_data`
+      source: 'caravans_metadata.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/caravans' # path to the directory of images within `_data`
 
@@ -93,7 +93,6 @@ search:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - label
-          - artist_maker
           - section
           - _date
           - object_type
