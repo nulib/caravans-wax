@@ -22,7 +22,7 @@
     {% endif %}
     {% if value %}
       <dt>{{ item.label }}</dt>
-      <dd>{{ value | strip }}</dd>
+      <dd>{{ value | strip | markdownify }}</dd>
     {% endif %}
   {% endfor %}
 </dl>
