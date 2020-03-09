@@ -6,12 +6,10 @@ layout: default
   <h3 class='page-title'>{{ page.title }}</h3>
 {% endunless %}
 
-<img class="img-fluid text-centered" src="{{ page.image}}">
-<div class='wax-inline-container font-weight-bold mb-3'>
-  {{ page.caption }}
-</div>
+  <img class="img-fluid text-centered" src="{{ page.image}}">
+  <p class="small">{{ page.caption }}</p>
 
-{{ content }}
+  {{ content }}
 
 <h5>Sections</h5>
 
