@@ -63,3 +63,15 @@ button.navbar-toggler {
 .small {
   font-weight: bold;
 }
+
+.btn-primary {
+  color: #fff;
+  background-color: #234190;
+  border-color: #234190;
+}
+
+.btn-primary:hover {
+  color: #234190;
+  background-color: #E6C120;
+  border-color: #E6C120;
+}

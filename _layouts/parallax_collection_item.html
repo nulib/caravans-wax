@@ -11,6 +11,11 @@ layout: default
 
 {% endfor %}
 
+<div class="jumbotron">
+  <p class="lead">{{ page.content }}</p>
+  <a class="btn btn-primary btn-lg" href="{{ page.link_url }}" role="button">{{ page.link_label }}</a>
+</div>
+
 {% if layout.meta.size %}
   {% assign metadata = layout.meta %}
 {% elsif page.meta.size %}
