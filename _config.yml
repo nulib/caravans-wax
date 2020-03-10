@@ -96,7 +96,7 @@ search:
           - section
           - _date
           - object_type
-          - region_culture_time_period
+          - region_culture_timeperiod
           - credit_line
           - description
           - thumb_150
