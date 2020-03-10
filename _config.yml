@@ -117,8 +117,8 @@ menu:
     link: '/works/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Notes'
-    link: '/notes/'
+  - label: 'References'
+    link: '/references/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
