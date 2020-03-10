@@ -6,7 +6,7 @@ layout: default
   The block below controls the image viewer
 {% endcomment %}
 
-<h2 alt="{{ page.label }}" class='item-label text-center'>{{ page.title }}</h2>
+<h2 alt="{{ page.label }}" class='item-label text-center'>{{ page.label | markdownify }}</h2>
 
 {% if page.image_viewer %}
   {% assign viewer = page.image_viewer %}
