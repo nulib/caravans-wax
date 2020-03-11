@@ -2,7 +2,6 @@
 title: 'Tour'
 layout: tour
 permalink: /tour/
-image: '/img/tour/caravans-intro-map.jpg'
 caption: 'During the medieval period, major trade routes crossing the Sahara Desert linked cities and towns that functioned as trade centers. Routes headed south connected with the Niger River, a major byway to Africa’s forest region. Those going north connected to the vast trade networks of the Mediterranean Sea, traveling inland across Europe. Routes headed east met the Levantine routes and ultimately the Silk Roads of Central and East Asia.'
 ---
 
