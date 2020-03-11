@@ -590,459 +590,459 @@ workbox.precaching.precacheAndRoute([
     "revision": "774340be3c8a707c6d55728ea8f1032e"
   },
   {
-    "url": "img/fragments/1/1_150x.jpg",
+    "url": "img/works/1/1_150x.jpg",
     "revision": "88d9b59fc4817f5b92cdb64bcf352067"
   },
   {
-    "url": "img/fragments/1/1_640x.jpg",
+    "url": "img/works/1/1_640x.jpg",
     "revision": "7c2894f90ff43eb4ea0abf6878386a37"
   },
   {
-    "url": "img/fragments/10/10_150x.jpg",
+    "url": "img/works/10/10_150x.jpg",
     "revision": "db695d5cc4b28edaa0eea7f309b72bbf"
   },
   {
-    "url": "img/fragments/10/10_640x.jpg",
+    "url": "img/works/10/10_640x.jpg",
     "revision": "c3d60f991a033b7daaf950da8db5d90f"
   },
   {
-    "url": "img/fragments/11/11_150x.jpg",
+    "url": "img/works/11/11_150x.jpg",
     "revision": "a9424800f1544887f6e160321927719f"
   },
   {
-    "url": "img/fragments/11/11_640x.jpg",
+    "url": "img/works/11/11_640x.jpg",
     "revision": "28388f68a8faafc490e4172dfcad8cb8"
   },
   {
-    "url": "img/fragments/12/12_150x.jpg",
+    "url": "img/works/12/12_150x.jpg",
     "revision": "d49b247e616bd7025a3c5376c1f7420a"
   },
   {
-    "url": "img/fragments/12/12_640x.jpg",
+    "url": "img/works/12/12_640x.jpg",
     "revision": "411f1175c84defe2e77fded3fe1afae2"
   },
   {
-    "url": "img/fragments/13/13_1_150x.jpg",
+    "url": "img/works/13/13_1_150x.jpg",
     "revision": "b2b8485c30619b41ca1b57a92e308cd2"
   },
   {
-    "url": "img/fragments/13/13_1_640x.jpg",
+    "url": "img/works/13/13_1_640x.jpg",
     "revision": "fea940fca7c88a5324900d65a00b1316"
   },
   {
-    "url": "img/fragments/13/13_2_150x.jpg",
+    "url": "img/works/13/13_2_150x.jpg",
     "revision": "16199e4d29f73d87430c6dd1bd083eb1"
   },
   {
-    "url": "img/fragments/13/13_2_640x.jpg",
+    "url": "img/works/13/13_2_640x.jpg",
     "revision": "1bc2d2cf67658a7297bd593342cea906"
   },
   {
-    "url": "img/fragments/14/14_150x.jpg",
+    "url": "img/works/14/14_150x.jpg",
     "revision": "df13f27db0d09d6f37b9357441731674"
   },
   {
-    "url": "img/fragments/14/14_640x.jpg",
+    "url": "img/works/14/14_640x.jpg",
     "revision": "e451f7784ce43e339fb2abcaca11374f"
   },
   {
-    "url": "img/fragments/15/15_150x.jpg",
+    "url": "img/works/15/15_150x.jpg",
     "revision": "14dc91c108465dd3581e166db6e2bc18"
   },
   {
-    "url": "img/fragments/15/15_640x.jpg",
+    "url": "img/works/15/15_640x.jpg",
     "revision": "7cae4612dae38cedbbb6c9d14f6201f7"
   },
   {
-    "url": "img/fragments/16/16_150x.jpg",
+    "url": "img/works/16/16_150x.jpg",
     "revision": "a1cc0297ff09dc3af82f470a5cc079d0"
   },
   {
-    "url": "img/fragments/16/16_640x.jpg",
+    "url": "img/works/16/16_640x.jpg",
     "revision": "e43a34b5bb5175480dc8780da3501fea"
   },
   {
-    "url": "img/fragments/17/17_150x.jpg",
+    "url": "img/works/17/17_150x.jpg",
     "revision": "08315c1ae9eba68ce9c8d0a3e0273ac4"
   },
   {
-    "url": "img/fragments/17/17_640x.jpg",
+    "url": "img/works/17/17_640x.jpg",
     "revision": "3985aec724ed3d34c84f334a55effaaa"
   },
   {
-    "url": "img/fragments/18/18_150x.jpg",
+    "url": "img/works/18/18_150x.jpg",
     "revision": "308f42f705c95f5b01f13d98030cc41a"
   },
   {
-    "url": "img/fragments/18/18_640x.jpg",
+    "url": "img/works/18/18_640x.jpg",
     "revision": "37a5ca96ff0c619f9871fa60d2ad637b"
   },
   {
-    "url": "img/fragments/19/19_150x.jpg",
+    "url": "img/works/19/19_150x.jpg",
     "revision": "3e2d6058b6cb6eba0cadc1fb49a2dbe0"
   },
   {
-    "url": "img/fragments/19/19_640x.jpg",
+    "url": "img/works/19/19_640x.jpg",
     "revision": "90edca2a5099c540b6b3a5c6cec55120"
   },
   {
-    "url": "img/fragments/2/2_150x.jpg",
+    "url": "img/works/2/2_150x.jpg",
     "revision": "ff78704627da0fdb65a0c9835db32383"
   },
   {
-    "url": "img/fragments/2/2_640x.jpg",
+    "url": "img/works/2/2_640x.jpg",
     "revision": "cc80101ca99747282a47a9c4f8cae562"
   },
   {
-    "url": "img/fragments/20/20_150x.jpg",
+    "url": "img/works/20/20_150x.jpg",
     "revision": "61647735e88b4bb3b12e014e84c0d91a"
   },
   {
-    "url": "img/fragments/20/20_640x.jpg",
+    "url": "img/works/20/20_640x.jpg",
     "revision": "0a58f6b00a94a2b2bc304e28e3d70d66"
   },
   {
-    "url": "img/fragments/21/21_150x.jpg",
+    "url": "img/works/21/21_150x.jpg",
     "revision": "3d494ad78fe5c1a39a93490a31fb90cd"
   },
   {
-    "url": "img/fragments/21/21_640x.jpg",
+    "url": "img/works/21/21_640x.jpg",
     "revision": "d7c71aeb5cb44ee78602ab7cb6c6c07e"
   },
   {
-    "url": "img/fragments/22/22_150x.jpg",
+    "url": "img/works/22/22_150x.jpg",
     "revision": "0f3d02523e95f919936bcb953ee99adc"
   },
   {
-    "url": "img/fragments/22/22_640x.jpg",
+    "url": "img/works/22/22_640x.jpg",
     "revision": "0465ae3e283527c3b7914ca216d75db5"
   },
   {
-    "url": "img/fragments/23/23_150x.jpg",
+    "url": "img/works/23/23_150x.jpg",
     "revision": "ae516cfc2c56c802ee2a5e16980e5ff5"
   },
   {
-    "url": "img/fragments/23/23_640x.jpg",
+    "url": "img/works/23/23_640x.jpg",
     "revision": "16c018460087f4d1a8c8797e2a6d1ac5"
   },
   {
-    "url": "img/fragments/24/24_150x.jpg",
+    "url": "img/works/24/24_150x.jpg",
     "revision": "abc0bccf5a78237eb52570834dd93026"
   },
   {
-    "url": "img/fragments/24/24_640x.jpg",
+    "url": "img/works/24/24_640x.jpg",
     "revision": "c9944c6681897b14e02f4442b01411c6"
   },
   {
-    "url": "img/fragments/25/25_150x.jpg",
+    "url": "img/works/25/25_150x.jpg",
     "revision": "583bbec7ae2ac967175a838f01c1d129"
   },
   {
-    "url": "img/fragments/25/25_640x.jpg",
+    "url": "img/works/25/25_640x.jpg",
     "revision": "3a1df4c97aac4b6407c26726f2c64d3e"
   },
   {
-    "url": "img/fragments/26/26_1_640x.jpg",
+    "url": "img/works/26/26_1_640x.jpg",
     "revision": "bc6c685b691a9c4da40427e6978410b6"
   },
   {
-    "url": "img/fragments/26/26_150x.jpg",
+    "url": "img/works/26/26_150x.jpg",
     "revision": "d5ce043dfab02aba986034e133486c05"
   },
   {
-    "url": "img/fragments/26/26_2_640x.jpg",
+    "url": "img/works/26/26_2_640x.jpg",
     "revision": "ca166536ff6c18cda9907e3306fbe58d"
   },
   {
-    "url": "img/fragments/26/26_3_640x.jpg",
+    "url": "img/works/26/26_3_640x.jpg",
     "revision": "aceface0459cd6a9b5867c2fd4c7c08c"
   },
   {
-    "url": "img/fragments/27/27_150x.jpg",
+    "url": "img/works/27/27_150x.jpg",
     "revision": "ca52060f7c82a52c09eee8e2bf5a689d"
   },
   {
-    "url": "img/fragments/27/27_640x.jpg",
+    "url": "img/works/27/27_640x.jpg",
     "revision": "405f7c62607ce8384026d88196895185"
   },
   {
-    "url": "img/fragments/28/28_150x.jpg",
+    "url": "img/works/28/28_150x.jpg",
     "revision": "6a69cdb776100cd8dbcb65e2f1ec68de"
   },
   {
-    "url": "img/fragments/28/28_640x.jpg",
+    "url": "img/works/28/28_640x.jpg",
     "revision": "7d59df6b17575bbea2f4b655bec92afa"
   },
   {
-    "url": "img/fragments/29/29_1_150x.jpg",
+    "url": "img/works/29/29_1_150x.jpg",
     "revision": "9c0437966d177e6749a98692380eed7c"
   },
   {
-    "url": "img/fragments/29/29_1_640x.jpg",
+    "url": "img/works/29/29_1_640x.jpg",
     "revision": "2500948fb985e86147db166d6945c223"
   },
   {
-    "url": "img/fragments/3/3_150x.jpg",
+    "url": "img/works/3/3_150x.jpg",
     "revision": "9d9fb929573bd3072c560f3effc7cd6b"
   },
   {
-    "url": "img/fragments/3/3_640x.jpg",
+    "url": "img/works/3/3_640x.jpg",
     "revision": "828e425af61211ba7e9b59f8deb0059e"
   },
   {
-    "url": "img/fragments/30/30_150x.jpg",
+    "url": "img/works/30/30_150x.jpg",
     "revision": "c86f9d34a63f11566c126d9fbf8c0e1f"
   },
   {
-    "url": "img/fragments/30/30_640x.jpg",
+    "url": "img/works/30/30_640x.jpg",
     "revision": "de1240f56e82ed2cc8cd4a5b731d6837"
   },
   {
-    "url": "img/fragments/31/31_150x.jpg",
+    "url": "img/works/31/31_150x.jpg",
     "revision": "4de8d6d57241089ee2257c079b69513c"
   },
   {
-    "url": "img/fragments/31/31_640x.jpg",
+    "url": "img/works/31/31_640x.jpg",
     "revision": "1c41ff4b29fdc3ab5e2f42c70ed1f078"
   },
   {
-    "url": "img/fragments/32/32_150x.jpg",
+    "url": "img/works/32/32_150x.jpg",
     "revision": "8c4ca2766ed66359839e110d9c7b9ef0"
   },
   {
-    "url": "img/fragments/32/32_640x.jpg",
+    "url": "img/works/32/32_640x.jpg",
     "revision": "93c63486f8fdabb38db2168f6c390789"
   },
   {
-    "url": "img/fragments/33/33_150x-0.jpg",
+    "url": "img/works/33/33_150x-0.jpg",
     "revision": "2e88ed506e677e52084bfbcca91a172d"
   },
   {
-    "url": "img/fragments/33/33_150x-1.jpg",
+    "url": "img/works/33/33_150x-1.jpg",
     "revision": "79664ff8e525c286fb623c6b4812d669"
   },
   {
-    "url": "img/fragments/33/33_640x-0.jpg",
+    "url": "img/works/33/33_640x-0.jpg",
     "revision": "e912f3d04631b4b795c354e12d748d03"
   },
   {
-    "url": "img/fragments/33/33_640x-1.jpg",
+    "url": "img/works/33/33_640x-1.jpg",
     "revision": "d9b64292dce07d910629ac0533f2bdc5"
   },
   {
-    "url": "img/fragments/34/34_150x.jpg",
+    "url": "img/works/34/34_150x.jpg",
     "revision": "e3bc81dbb260fd31651a867ccada5c24"
   },
   {
-    "url": "img/fragments/34/34_640x.jpg",
+    "url": "img/works/34/34_640x.jpg",
     "revision": "51dab803a3a36fd80c0e55b12bf11e9e"
   },
   {
-    "url": "img/fragments/35/35_150x.jpg",
+    "url": "img/works/35/35_150x.jpg",
     "revision": "9b2dd79c999251a8c8bd15afe356caba"
   },
   {
-    "url": "img/fragments/35/35_640x.jpg",
+    "url": "img/works/35/35_640x.jpg",
     "revision": "4250d50dcd2a217e4faa53fff351abe4"
   },
   {
-    "url": "img/fragments/36/36_150x.jpg",
+    "url": "img/works/36/36_150x.jpg",
     "revision": "09121a4e7ee93014fe774524a9dd1b71"
   },
   {
-    "url": "img/fragments/36/36_640x.jpg",
+    "url": "img/works/36/36_640x.jpg",
     "revision": "5dd36ce761c1032965a35a8bb924db60"
   },
   {
-    "url": "img/fragments/37/37_150x.jpg",
+    "url": "img/works/37/37_150x.jpg",
     "revision": "0b7a0738f4194b4a10537b1a3e17ca93"
   },
   {
-    "url": "img/fragments/37/37_640x.jpg",
+    "url": "img/works/37/37_640x.jpg",
     "revision": "2a3e26eef4423f2f1308852489b28a4a"
   },
   {
-    "url": "img/fragments/38/38_150x.jpg",
+    "url": "img/works/38/38_150x.jpg",
     "revision": "504f449a3c087557bc136bab55e68960"
   },
   {
-    "url": "img/fragments/38/38_640x.jpg",
+    "url": "img/works/38/38_640x.jpg",
     "revision": "b5aff14394e8e6a76b8f54a0812f1d95"
   },
   {
-    "url": "img/fragments/39/39_150x.jpg",
+    "url": "img/works/39/39_150x.jpg",
     "revision": "2e0b89d9236a136b597572749a8b9ba4"
   },
   {
-    "url": "img/fragments/39/39_640x.jpg",
+    "url": "img/works/39/39_640x.jpg",
     "revision": "595523ff5aec5817c9f031d22d87e403"
   },
   {
-    "url": "img/fragments/4/4_150x.jpg",
+    "url": "img/works/4/4_150x.jpg",
     "revision": "b9bc29f6aa158ebc1844169f9fe7962e"
   },
   {
-    "url": "img/fragments/4/4_640x.jpg",
+    "url": "img/works/4/4_640x.jpg",
     "revision": "6f9c4d0e8bff9ecc330060765cdb8936"
   },
   {
-    "url": "img/fragments/40/40_150x.jpg",
+    "url": "img/works/40/40_150x.jpg",
     "revision": "6c12ee69126294f6d4c58ec38d466a0f"
   },
   {
-    "url": "img/fragments/40/40_640x.jpg",
+    "url": "img/works/40/40_640x.jpg",
     "revision": "441aa6d1f869e4cea9248bf5f9859f07"
   },
   {
-    "url": "img/fragments/41/41_150x.jpg",
+    "url": "img/works/41/41_150x.jpg",
     "revision": "dc4ff099b7013884c93c1affd06150a9"
   },
   {
-    "url": "img/fragments/41/41_640x.jpg",
+    "url": "img/works/41/41_640x.jpg",
     "revision": "1e75631fca50ceadc2f3b98dfc3211f0"
   },
   {
-    "url": "img/fragments/42/42_150x.jpg",
+    "url": "img/works/42/42_150x.jpg",
     "revision": "42ff412ccb8cbc7f0347bfec722e3496"
   },
   {
-    "url": "img/fragments/42/42_640x.jpg",
+    "url": "img/works/42/42_640x.jpg",
     "revision": "bcf3151114a5a9a9465212dcce4d7279"
   },
   {
-    "url": "img/fragments/43/43_150x.jpg",
+    "url": "img/works/43/43_150x.jpg",
     "revision": "f9d08d3eb7f7ee9647851c492a52c19d"
   },
   {
-    "url": "img/fragments/43/43_640x.jpg",
+    "url": "img/works/43/43_640x.jpg",
     "revision": "5b5736511c9f62af8824f51aee19c64a"
   },
   {
-    "url": "img/fragments/44/44_150x.jpg",
+    "url": "img/works/44/44_150x.jpg",
     "revision": "daaa2067f9636c9ba7dafcc0cfb6e612"
   },
   {
-    "url": "img/fragments/44/44_640x.jpg",
+    "url": "img/works/44/44_640x.jpg",
     "revision": "924b38f586242d16e30913b185be68cd"
   },
   {
-    "url": "img/fragments/45/45_150x.jpg",
+    "url": "img/works/45/45_150x.jpg",
     "revision": "53192c4f96d90c497bb2d8ca9fa5d15c"
   },
   {
-    "url": "img/fragments/45/45_640x.jpg",
+    "url": "img/works/45/45_640x.jpg",
     "revision": "104a8e0105ba01982b3ada31c23284db"
   },
   {
-    "url": "img/fragments/46/46_150x.jpg",
+    "url": "img/works/46/46_150x.jpg",
     "revision": "413915ac0f8f7203b42e3ce918f10a34"
   },
   {
-    "url": "img/fragments/46/46_640x.jpg",
+    "url": "img/works/46/46_640x.jpg",
     "revision": "c134011c6ef2ff834eec1eb55449d8c5"
   },
   {
-    "url": "img/fragments/47/47_1_150x.jpg",
+    "url": "img/works/47/47_1_150x.jpg",
     "revision": "2621c7176fb52a3aadd207a5c49d2cf0"
   },
   {
-    "url": "img/fragments/47/47_1_640x.jpg",
+    "url": "img/works/47/47_1_640x.jpg",
     "revision": "a8e143327dd8befe9d9927410a4613cf"
   },
   {
-    "url": "img/fragments/47/47. A selection of beads 2.tif_150xp.jpg",
+    "url": "img/works/47/47. A selection of beads 2.tif_150xp.jpg",
     "revision": "66f4d0283d1742c3f3dfbe81137f090c"
   },
   {
-    "url": "img/fragments/47/47. A selection of beads 2.tif_640x.jpg",
+    "url": "img/works/47/47. A selection of beads 2.tif_640x.jpg",
     "revision": "bf5b676bb83535ca9014c8c0781e434d"
   },
   {
-    "url": "img/fragments/47/47. A selection of beads 3.tif_150xp.jpg",
+    "url": "img/works/47/47. A selection of beads 3.tif_150xp.jpg",
     "revision": "31b5c037ca7018406f486c6fcf692271"
   },
   {
-    "url": "img/fragments/47/47. A selection of beads 3.tif_640x.jpg",
+    "url": "img/works/47/47. A selection of beads 3.tif_640x.jpg",
     "revision": "f1c4ff18071bb2f3a0557d6bb72a9c5b"
   },
   {
-    "url": "img/fragments/48/48_150x.jpg",
+    "url": "img/works/48/48_150x.jpg",
     "revision": "1bd2177251a35f88c352b671e37afea2"
   },
   {
-    "url": "img/fragments/48/48_640x.jpg",
+    "url": "img/works/48/48_640x.jpg",
     "revision": "069a7bc36c19eb676e908f32dbadf11b"
   },
   {
-    "url": "img/fragments/49/49_150x.jpg",
+    "url": "img/works/49/49_150x.jpg",
     "revision": "562affedd7ba368d3f034295b635edc0"
   },
   {
-    "url": "img/fragments/49/49_640x.jpg",
+    "url": "img/works/49/49_640x.jpg",
     "revision": "15078f253d08ea4d897567546ac096e2"
   },
   {
-    "url": "img/fragments/5/5_150x.jpg",
+    "url": "img/works/5/5_150x.jpg",
     "revision": "9296d9146635257033a74b23f6ea95d5"
   },
   {
-    "url": "img/fragments/5/5_640x.jpg",
+    "url": "img/works/5/5_640x.jpg",
     "revision": "e296d3d410c7536491ea3a1d03b01c44"
   },
   {
-    "url": "img/fragments/50/50_150x.jpg",
+    "url": "img/works/50/50_150x.jpg",
     "revision": "a9c537fbe1bcbbca17d9e4e50ad8f90f"
   },
   {
-    "url": "img/fragments/50/50_640x.jpg",
+    "url": "img/works/50/50_640x.jpg",
     "revision": "f0bda4699604d0154a92308c92021d54"
   },
   {
-    "url": "img/fragments/51/51_150x.jpg",
+    "url": "img/works/51/51_150x.jpg",
     "revision": "cce14ade657e2632e33acd82c60c24d6"
   },
   {
-    "url": "img/fragments/51/51_640x.jpg",
+    "url": "img/works/51/51_640x.jpg",
     "revision": "71719f20a2e185b5b88faae25947115c"
   },
   {
-    "url": "img/fragments/52/52_150x.jpg",
+    "url": "img/works/52/52_150x.jpg",
     "revision": "2fed0b8df87e684a2c14a0d2f09e8a26"
   },
   {
-    "url": "img/fragments/52/52_640x.jpg",
+    "url": "img/works/52/52_640x.jpg",
     "revision": "373c04e5ea0ab727f5783e81437800c8"
   },
   {
-    "url": "img/fragments/6/6_150x.jpg",
+    "url": "img/works/6/6_150x.jpg",
     "revision": "d4773a78d72233f6571d865efd8a7736"
   },
   {
-    "url": "img/fragments/6/6_640x.jpg",
+    "url": "img/works/6/6_640x.jpg",
     "revision": "71798bd3a062aa045881441f59eecf64"
   },
   {
-    "url": "img/fragments/7/7_150x.jpg",
+    "url": "img/works/7/7_150x.jpg",
     "revision": "5d5e6c5e78e7b34e0733e506c3bc2747"
   },
   {
-    "url": "img/fragments/7/7_640x.jpg",
+    "url": "img/works/7/7_640x.jpg",
     "revision": "68ed2c05c6740ac0ac2ce2d8e364f790"
   },
   {
-    "url": "img/fragments/8/8_150x.jpg",
+    "url": "img/works/8/8_150x.jpg",
     "revision": "256bb26a634d9263154890243bcd708d"
   },
   {
-    "url": "img/fragments/8/8_640x.jpg",
+    "url": "img/works/8/8_640x.jpg",
     "revision": "8e3685c044332183b2ea6aea50b0fb2a"
   },
   {
-    "url": "img/fragments/9/9_150x.jpg",
+    "url": "img/works/9/9_150x.jpg",
     "revision": "f5d599e8382847f3d4d5847750d3aab7"
   },
   {
-    "url": "img/fragments/9/9_640x.jpg",
+    "url": "img/works/9/9_640x.jpg",
     "revision": "b9eac8a3417385ccd139878b8c5cf17d"
   },
   {
@@ -1243,14 +1243,14 @@ workbox.routing.registerRoute(
 );
 
 workbox.routing.registerRoute(
-  '/img/fragments/26/26. Atlas of maritime charts.jpg',
+  '/img/works/26/26. Atlas of maritime charts.jpg',
   new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'Atlas-cache',
   })
 );
 
 workbox.routing.registerRoute(
-  '/img/fragments/40/40. Double-egg pendant.jpg',
+  '/img/works/40/40. Double-egg pendant.jpg',
   new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'Doubleegg-cache',
   })

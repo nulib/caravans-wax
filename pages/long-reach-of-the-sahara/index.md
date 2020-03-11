@@ -12,7 +12,7 @@ Ife, in Central Nigeria, was the political and ritual center of a kingdom that s
 
 Durbi Takusheyi, in Northern Nigeria, is situated halfway between the Niger River and Lake Chad. It provides some of the earliest documentation for the Hausa kingdoms, which would grow to dominate the region between the sixteenth and the nineteenth century. Excavations at Durbi Takusheyi included burial sites with sumptuous grave goods that attest to global interactions.
 
-<img class="img-fluid text-centered" src="/img/fragments/37/37_640x.jpg">
+<img class="img-fluid text-centered" src="/img/works/37/37_640x.jpg">
 <p class="small">Standing figure, Nok culture, Nigeria, 1st millennium BCE. Terracotta, 68 cm high. National Commission for Museums and Monuments, Abuja, Nigeria, IFA 1 881–1885. Photograph by Stefan Rühl, Werbefotografie Rühl & Bormann, Darmstadt. Photograph © Goethe-Universität Frankfurt, Institut für Archäologische Wissenschaften, Archäologie und Archäobotanik Afrikas, Germany.</p>
 
 This standing figure from the Nok Culture in North-Central Nigeria is one of the oldest known terracotta sculptures to be excavated from a site in Africa.<sup><a href="/references/">31</a></sup>  Dating to the first century CE, it is one of over 1,000 such figures that have been excavated in the region, pointing to a rich material culture in the Central Sudan long before the medieval period. The figure is depicted wearing a beaded necklace and belt, providing evidence that beads were already deeply ingrained culturally and tied to leadership and wealth before medieval trans-Saharan trade increased the availability of glass beads in the region. These are likely semi-precious stone beads, which have been found in abundance at Nok sites.

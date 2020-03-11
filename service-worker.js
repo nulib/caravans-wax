@@ -67,14 +67,14 @@ workbox.routing.registerRoute(
 );
 
 workbox.routing.registerRoute(
-  '/img/fragments/26/26. Atlas of maritime charts.jpg',
+  '/img/works/26/26. Atlas of maritime charts.jpg',
   new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'Atlas-cache',
   })
 );
 
 workbox.routing.registerRoute(
-  '/img/fragments/40/40. Double-egg pendant.jpg',
+  '/img/works/40/40. Double-egg pendant.jpg',
   new workbox.strategies.StaleWhileRevalidate({
     cacheName: 'Doubleegg-cache',
   })
