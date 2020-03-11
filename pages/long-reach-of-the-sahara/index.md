@@ -20,5 +20,3 @@ This standing figure from the Nok Culture in North-Central Nigeria is one of the
 The corpus of sculptures from Nok, considered the earliest known terracotta sculptures from Africa south of the Sahara Desert, are among the ancient traditions that have been threatened by illegal looting in Western Africa. Protecting these and other examples of tangible and intangible cultural heritage is essential for passing this heritage on to future generations.
 
 See [Protecting and Preserving Cultural Heritage](/about/).
-
-For another object that speaks to the presence of exchange and long-distance trade before the eighth century, [click here](/works/27/).
