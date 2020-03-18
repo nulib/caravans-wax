@@ -1,8 +1,7 @@
 module.exports = {
   "globDirectory": "_site/",
   "globPatterns": [
-    "**/*.{html,png,js,css,scss,md,eot,ttf,woff,json,xml,ico,jpg,txt,svg}"
+    "**/*.{html,png,js,css,json,xml,ico,jpg,JPG,txt,svg}"
   ],
-  "swDest": "sw.js",
-  "swSrc": "service-worker.js"
+  "swDest": "sw.js"
 };
