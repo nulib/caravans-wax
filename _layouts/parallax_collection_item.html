@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+<h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ page.label }}</h2>
+
 {% for image in page.images %}
 
 <div class="item-view">
@@ -8,13 +11,21 @@ layout: default
       <img class='item-full-image' src='{{ image.url | absolute_url }}' alt='{{ image.label }}'/>
   </div>
 </div>
-
+<div class="parallax-caption mb-2">
+    <div class="wax-inline-container">
+      <caption>Above: {{ image.label }}</caption>
+    </div>
+</div>
 {% endfor %}
+
+{% if page.link_label %}
 
 <div class="jumbotron">
   <p class="lead">{{ page.content }}</p>
   <a class="btn btn-primary btn-lg" href="{{ page.link_url }}" role="button">{{ page.link_label }}</a>
 </div>
+
+{% endif %}
 
 {% if layout.meta.size %}
   {% assign metadata = layout.meta %}
