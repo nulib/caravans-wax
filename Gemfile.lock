@@ -108,7 +108,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0)
-  html-proofer (~> 3.10)
+  html-proofer
   nokogiri (>= 1.10.8)
   rake (>= 12.3.3)
   tzinfo-data
