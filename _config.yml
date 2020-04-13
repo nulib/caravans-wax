@@ -135,3 +135,7 @@ footer:
       alt: 'Northwestern Libraries'
 
 root: 'https://caravans.library.northwestern.edu'
+
+
+plugins:
+  - jekyll-multiple-languages-plugin

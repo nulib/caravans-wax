@@ -8,3 +8,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "nokogiri", ">= 1.10.8"
 gem "rake", ">= 12.3.3"
 gem 'html-proofer'
+gem 'jekyll-multiple-languages-plugin'
