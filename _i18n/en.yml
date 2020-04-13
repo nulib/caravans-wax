@@ -5,6 +5,14 @@ global:
 langs:
   en: English
   ar: عربى
-pages:
-  home: Home
-  about: About
+menu:
+  - label: 'About'
+    link: '/about/'
+  - label: 'Tour'
+    link: '/tour/'
+  - label: 'Key Works'
+    link: '/works/'
+  - label: 'Search'
+    link: '/search/'
+  - label: 'References'
+    link: '/references/'
