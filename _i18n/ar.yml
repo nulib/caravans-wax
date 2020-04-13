@@ -1,0 +1,10 @@
+global:
+  tagline: Arabic
+  about: Sur
+langs:
+  ar: Arabic
+  fr: French
+  en: English
+pages:
+  home: Home
+  about: About

@@ -136,6 +136,8 @@ footer:
 
 root: 'https://caravans.library.northwestern.edu'
 
+languages: ["en", "ar"]
+exclude_from_localization: ["javascript", "images", "css"]
 
 plugins:
   - jekyll-multiple-languages-plugin

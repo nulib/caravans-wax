@@ -87,3 +87,5 @@ The exhibition is accompanied by a scholarly publication co-published by the Blo
 38. *F. Willett, The Art of Ife: A Descriptive Catalogue and Database* (Scotland: Hunterian Museum and Art Gallery, 2004).
 
 39. Raymond A. Silverman, "Akan Kuduo: Form and Function," in *Akan Transformations: Problems in Ghanaian Art History*, ed. Doran H. Ross and Timothy F. Garrard (Los Angeles: Museum of Cultural History, University of California, 1983), 10--29.
+
+{%tf pages/references.md %}
