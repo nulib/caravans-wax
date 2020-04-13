@@ -1,10 +1,18 @@
 global:
-  tagline: Arabic
-  about: Sur
+  tagline: English
+  title: 'قوافل الذهب ، شظايا في الزمن'
+  subtitle: 'فن وثقافة وتبادل عبر صحراء أفريقيا الكبرى خلال العصور الوسطى'
 langs:
-  ar: Arabic
-  fr: French
   en: English
-pages:
-  home: Home
-  about: About
+  ar: عربى
+menu:
+  - label: 'حول' # About
+    link: '/about/'
+  - label: 'جولة' # Tour
+    link: '/tour/'
+  - label: 'الأعمال الرئيسية' # Key Works
+    link: '/works/'
+  - label: 'البحث' # Search
+    link: '/search/'
+  - label: 'المراجع' # References
+    link: '/references/'

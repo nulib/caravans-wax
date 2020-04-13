@@ -1,9 +1,10 @@
 global:
   tagline: English
-  about: About
+  title: 'Caravans of Gold, Fragments in Time'
+  subtitle: 'Art, Culture, and Exchange across Medieval Saharan Africa'
 langs:
   en: English
-  fr: French
+  ar: عربى
 pages:
   home: Home
   about: About

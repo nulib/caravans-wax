@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Caravans of Gold, Fragments in Time'
-subtitle:         'Art, Culture, and Exchange across Medieval Saharan Africa'
+# title:          see: .yml files in _i18n folder  'Caravans of Gold, Fragments in Time'
+# subtitle:       see: .yml files in _i18n folder  'Art, Culture, and Exchange across Medieval Saharan Africa'
 description:      'A digital exhibit exploring the global reach of medieval Saharan exchange from the eighth to sixteenth centuries.'
 url:              'https://caravans.library.northwestern.edu'
 baseurl:          ''
