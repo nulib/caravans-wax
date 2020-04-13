@@ -9,8 +9,8 @@
      <header class="masthead">
        <div class="container d-flex h-100 align-items-center">
          <div class="mx-auto text-center">
-           <h2 class="text-white mb-4 mx-auto">Journey to a medieval world with Africa at its center.</h2>
-           <a href="/tour/" class="btn btn-dark btn-lg js-scroll-trigger">Take a Tour</a>
+           <h2 class="text-white mb-4 mx-auto">{% t splash.tagline %}</h2>
+           <a href="/tour/" class="btn btn-dark btn-lg js-scroll-trigger">{% t splash.tour %}</a>
          </div>
        </div>
      </header>
@@ -19,13 +19,13 @@
        <div class="container">
          <div class="row">
            <div class="col-lg-8 mx-auto mb-5">
-             <p class="text-white mb-4">A digital project exploring the global reach of medieval Saharan exchange from the eighth to sixteenth centuries.</p>
-             <a class="btn btn-dark btn-lg" href="/works/">Browse Key Works</a>
+             <p class="text-white mb-4">{% t splash.description %}</p>
+             <a class="btn btn-dark btn-lg" href="/works/">{% t splash.browse %}</a>
          </div>
        </div>
      </section>
 
-     <img srcset="/img/caravans_hero_mobile.jpg 400w, /img/caravans_hero.jpg 1440w" sizes="(max-width:600px) 400px, 1440px" src="/img/caravans_hero_mobile.jpg" class="img-fluid" alt="Maritime Atlas of the Sahara">
+     <img srcset="/img/caravans_hero_mobile.jpg 400w, /img/caravans_hero.jpg 1440w" sizes="(max-width:600px) 400px, 1440px" src="/img/caravans_hero_mobile.jpg" class="img-fluid" alt="{% t splash.image_alt_tags.hero %}">
 
     <div id='wax-main'>
       <div id='wax-content' class='wax-inline-container'>

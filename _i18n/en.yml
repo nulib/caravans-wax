@@ -2,9 +2,6 @@ global:
   tagline: English
   title: 'Caravans of Gold, Fragments in Time'
   subtitle: 'Art, Culture, and Exchange across Medieval Saharan Africa'
-langs:
-  en: English
-  ar: عربى
 menu:
   - label: 'About'
     link: '/about/'
@@ -16,3 +13,15 @@ menu:
     link: '/search/'
   - label: 'References'
     link: '/references/'
+langs:
+  en: English
+  ar: عربى
+splash:
+  tagline: Journey to a medieval world with Africa at its center.
+  tour: Take a Tour
+  description: A digital project exploring the global reach of medieval Saharan exchange from the eighth to sixteenth centuries.
+  browse: Browse Key Works
+  image_alt_tags:
+    hero: Maritime Atlas of the Sahara
+footer:
+  copyright: 'Created by Kathleen Berzock, Sarah Estrela, Chris Diaz, Melanie Garcia Sympson, and the students of ART HIST 395: Museums Seminar, Northwestern University, Spring 2019'

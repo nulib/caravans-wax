@@ -2,9 +2,6 @@ global:
   tagline: English
   title: 'قوافل الذهب ، شظايا في الزمن'
   subtitle: 'فن وثقافة وتبادل عبر صحراء أفريقيا الكبرى خلال العصور الوسطى'
-langs:
-  en: English
-  ar: عربى
 menu:
   - label: 'حول' # About
     link: '/about/'
@@ -16,3 +13,15 @@ menu:
     link: '/search/'
   - label: 'المراجع' # References
     link: '/references/'
+langs:
+  en: English
+  ar: عربى
+splash:
+  tagline: رحلة إلى عالم القرون الوسطى في قلب أفريقيا.
+  tour: انطلق في جولة
+  description: مشروع رقمي مُقدم باللغات العربية والفرنسية والإنجليزية لاستكشاف الامتداد العالمي للصحراء الكبرى عبر العصور الوسطى بدايةً من القرن الثامن إلى القرن السادس عشر.
+  browse: تصفح الأعمال الرئيسية
+  image_alt_tags:
+    hero: Maritime Atlas of the Sahara
+footer:
+  copyright: 'من إعداد كاثلين بيرزوك، وسارة إستريلا، وكريس دياز، وميلاني جارسيا سيمبسون، وطلاب علم التاريخ والفن ART HIST: 395 محاضرة عن المتاحف، جامعة نورث وسترن، ربيع 2019'
