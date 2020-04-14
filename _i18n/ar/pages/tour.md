@@ -1,16 +1,14 @@
 ---
-title: 'Tour'
+title: 'جولة'
 layout: tour
 permalink: /tour/
-caption: 'During the medieval period, major trade routes crossing the Sahara Desert linked cities and towns that functioned as trade centers. Routes headed south connected with the Niger River, a major byway to Africa’s forest region. Those going north connected to the vast trade networks of the Mediterranean Sea, traveling inland across Europe. Routes headed east met the Levantine routes and ultimately the Silk Roads of Central and East Asia.'
+caption: 'خلال حقبة القرون الوسطى، ساهمت طرق التجارة الرئيسية التي تعبر الصحراء الكبرى في ربط المدن والبلدات التي تميزت كمراكز للتجارة. وقد اتجهت الطرق جنوبًا متصلةً بنهر النيجر، وهو الطريق الرئيسي إلى منطقة الغابات في أفريقيا. وارتبطت الطرق المتجهة شمالاً بشبكات التجارة الواسعة للبحر الأبيض المتوسط وزحفت إلى الداخل عبر أوروبا. كما التقت الطرق المتجهة شرقًا بطرق بلاد الشام منتهيةً بطرق الحرير في وسط وشرق آسيا.'
 ---
 
-In 1324, the king of the vast West African empire of Mali, Mansa Musa, made a pilgrimage to Mecca. Accounts of the period describe his journey, which reportedly included 8,000 courtiers, 12,000 slaves, and 100 loads of pure gold. By contemporary measures, Musa may have been the richest person in the history of the world.
+في عام 1324، قام ملك إمبراطورية مالي في غرب إفريقيا الشاسعة، مانسا موسى، بالحج إلى مكة. وتصف روايات تلك الفترة رحلته بأنها اشتملت على 8000 من الحاشية و 12000 من العبيد و 100 حمولة من الذهب الخالص. بالمقاييس المعاصرة، ربما يكون موسى أغنى شخص في تاريخ العالم.
 
-Mansa Musa’s story is among the most well-known of many that can be told about West Africa’s prominence in an interconnected medieval world. At this time West African gold was the engine that drove the movement of things, people, and ideas across Africa, Europe, and the Middle East.
+تُعد قصة مانسا موسى من بين القصص الأكثر شهرة في العديد من القصص التي يمكن سردها عن شهرة غرب إفريقيا في عالم القرون الوسطى المترابط. في ذلك الوقت، كان الذهب في غرب إفريقيا بمثابة المحرك الذي يقود حركة الأشياء والأشخاص والأفكار عبر إفريقيا وأوروبا والشرق الأوسط.
 
-Seen from the perspective of Africa, the medieval period opens with the spread of Islam in the eighth century and recedes with the arrival of Europeans along the continent’s Atlantic Coast at the end of the fifteenth century. During this era, the Sahara Desert was the center of a global network of exchange. Gold, salt, and enslaved people were this economy’s primary commodities.
+من منظور غرب أفريقيا، تبدأ فترة القرون الوسطى مع انتشار الإسلام في القرن الثامن وتنحسر مع وصول الأوروبيين على طول الساحل الأطلسي للقارة في نهاية القرن الخامس عشر. خلال هذه الحقبة، كانت الصحراء الكبرى بمثابة مركز شبكة عالمية للتبادل. وكان الذهب والملح والأشخاص المستعبدين من السلع الأساسية لهذا الاقتصاد. وانتقلت عبر مسارات التجارة الصحراوية إلى جانب بعض السلع بما في ذلك الخزف والنحاس والخرز الزجاجي والعاج والجلود والمنسوجات. غالبًا ما كانت هذه السلع متجهة إلى أسواق تبعد عن أماكنها الأصلية بمسافات مذهلة. ومع انتشار شبكات التبادل، انتشرت الممارسات الثقافية كذلك، مما عزز من اتساع انتشار الثقافة المرئية التي يتميز بها الإسلام.
 
-They moved across Saharan trade routes along with ceramics, copper, glass beads, ivory, leather, and textiles. These goods were often destined for markets at astonishing distances from their places of origin. As networks of exchange spread, so too did cultural practices, fostering the broad circulation of a distinctive visual culture related to Islam.
-
-The reach of trans-Saharan exchange is revealed in the fragments excavated from now uninhabited archaeological sites that were once vibrant communities. In this app, these archaeological “fragments in time” from three key sites—Gao and Tadmekka, Mali and Sijilmasa, Morocco—are presented along with works of art and other objects that allow us to imagine them as they may have been. They are the starting point for reimagining the medieval past and for seeing the present in a new light.
+يظهر مدى التبادل والمُقَايَضَة عبر الصحراء في القطع الأثرية المنقب عنها في المواقع الأثرية غير المأهولة حالياً والتي كانت في السابق مجتمعات نابضة بالحياة. في هذا التطبيق، يتم تقديم هذه "القطع الأثرية التاريخية" من ثلاثة مواقع رئيسية - غاو وتادمكة في جمهورية مالي وسجلماسة في المغرب - جنبًا إلى جنب مع الأعمال الفنية وغيرها من القطع التي تسمح لنا بتخيل صورتها الأولية. وهي تُمثل نقطة البداية لإعادة تصور الماضي في العصور الوسطى ورؤية الحاضر من منظور جديد.
