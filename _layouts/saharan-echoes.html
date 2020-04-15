@@ -4,8 +4,8 @@
 		{% include google-analytics.html %}
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-
-		<title>{% t tours.titles.saharan_echoes %} | {% t global.title %}</title>
+		{% assign title = site.translations[site.lang].tours.saharan_echoes[0]["text"] %}
+		<title>{{ title }} | {% t global.title %}</title>
 		{% if page.description %}
 		<meta name="description" content="{{ page.description }}">
 		{% endif %}

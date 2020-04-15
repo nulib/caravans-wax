@@ -30,9 +30,6 @@ footer:
 
 tours:
 
-  titles:
-    saharan_echoes: 'Saharan Echoes'
-
   saharan_echoes:
     -
       text: 'SAHARAN ECHOES'
@@ -94,3 +91,10 @@ tours:
       img_src: null
       img_alt: null
       caption: null
+
+  saharan_echoes:
+    -
+      text: 'SAHARAN ECHOES'
+      img_src: null
+      img_alt: null
+      caption: null          

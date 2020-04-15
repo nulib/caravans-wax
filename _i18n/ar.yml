@@ -29,8 +29,7 @@ footer:
 # Guided Tours
 
 tours:
-  titles:
-    saharan_echoes: 'أصداء الصحراء'
+
   saharan_echoes:
     -
       text: 'أصداء الصحراء'
