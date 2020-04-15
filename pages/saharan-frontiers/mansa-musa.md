@@ -1,5 +1,5 @@
 ---
-layout: saharan-frontiers/mansa-musa
+layout: presentation
+tour: sf_mansa_musa
 permalink: /tour/mansa-musas-hajj-to-mecca/
 ---
-{% tf pages/saharan-frontiers/mansa-musa.md %}

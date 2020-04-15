@@ -1,5 +1,5 @@
 ---
-layout: long-reach-of-the-sahara/ife
+layout: presentation
+tour: lrots_ife
 permalink: /tour/long-reach-of-the-sahara/ife/
 ---
-{% tf pages/long-reach-of-the-sahara/ife.md %}

@@ -1,5 +1,5 @@
 ---
-layout: long-reach-of-the-sahara/igbo
+layout: presentation
+tour: lrots_igbo
 permalink: /tour/long-reach-of-the-sahara/igbo/
 ---
-{% tf pages/long-reach-of-the-sahara/igbo.md %}

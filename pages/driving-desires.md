@@ -1,5 +1,5 @@
 ---
-layout: driving-desires
+layout: presentation
+tour: driving_desires
 permalink: /tour/driving-desires/
 ---
-{% tf pages/driving-desires.md %}
