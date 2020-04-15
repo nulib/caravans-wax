@@ -322,3 +322,81 @@ tours:
       img_srcset: null
       img_alt: null
       caption: null
+  sf_tadmekka:
+    -
+      text: 'TADMEKKA (flourished 10th&ndash;14th century)'
+    -
+      text: '*\[O\]f all the towns in the world \[it\] is the one that resembles Mecca the most ... It is a large town amid mountains and ravines and is better built than Ghana or Gao.*<sup><a href="/references/">11</a></sup>
+
+      &mdash;Abu 'Ubayd al-Bakri, ca. 1068'
+    -
+      text: 'The ruins of Essouk-Tadmekka (also called Tadmekka) lie in northeastern Mali. The town sprawls across nearly 125 acres, with the remains of stone structures that include commercial and residential compounds, caravanserais, mosques, and livestock enclosures. Surrounding these are cemeteries where tombstones bear Arabic inscriptions. Cliffs that overlook the town are carved with inscriptions in Arabic and Tifinagh (the written form of Amazigh) that attest to the site's occupation as early as the tenth century.'
+    -
+      text: 'The town is located at the desert's southern fringe, where in the medieval period camel caravans arrived from and departed for their respective Saharan journeys. Between 2004 and 2005, archaeologist Sam Nixon partnered with colleagues from Mali's Direction nationale de patrimoine culturel and Institut des Sciences Humaines to undertake the first excavations at the isolated site of Essouk-Tadmekka.<sup><a href="/references/">12</a></sup>'
+    -
+      text: 'Their findings confirm the descriptions of Tadmekka's occupation as a center of trans-Saharan trade that appear in the work of Al-Bakri and other medieval scholars writing in Arabic.'
+    -
+      img_src: '/img/tour/saharan-frontiers/tadmekka/essouk-tadmekka-fig-8_800.jpg'
+      img_alt: 'map of the site of Essouk-Tadmekka'
+      caption: 'Schematic map of the site of Essouk-Tadmekka in relation to the surrounding cliffs and the seasonal stream (<em>wadi</em>) that runs through the middle of the site. Identified are the principal zones of the town ruins and surrounding cemeteries. Based on EOM aerial photographs and adapted from Mauny 1961 and Moraes Farias 2003<sup><a href="/references/" class="note">13</a></sup>'
+    -
+      img_src: '/img/tour/saharan-frontiers/tadmekka/sand-dunes_800.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/tadmekka/sand-dunes_300.jpg 300w, /img/tour/saharan-frontiers/tadmekka/sand-dunes_800.jpg 800w'
+      img_alt: 'Sand Dunes'
+      caption: 'Looking down at the Essouk Valley, where the ruins of Tadmekka are located. Photograph by Sam Nixon, 2005'
+    -
+      img_alt: 'Fragments of glazed ceramics (including an oil lamp) excavated at Essouk-Tadmekka. Institut des sciences humaines'
+      img_srcset: '/img/tour/saharan-frontiers/tadmekka/glazed-ceramics-oil-lamp_600.jpg 600w, /img/tour/saharan-frontiers/tadmekka/glazed-ceramics-oil-lamp_300.jpg 300w'
+      img_src: '/img/tour/saharan-frontiers/tadmekka/glazed-ceramics-oil-lamp_600.jpg'
+      caption: 'Fragments of glazed ceramics (including an oil lamp) excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+    -
+      img_src: '/img/tour/saharan-frontiers/tadmekka/stone-beads_600.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/tadmekka/stone-beads_600.jpg 600w, /img/tour/saharan-frontiers/tadmekka/stone-beads_300.jpg 300w'
+      img_alt: 'Stone beads, semi-precious stones, and a cowrie shell excavated at Essouk-Tadmekka'
+      caption: 'Stone beads, semi-precious stones, and a cowrie shell excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+    -
+      img_alt: 'silk textile'
+      img_src: '/img/tour/saharan-frontiers/tadmekka/silk-fragment_600.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/tadmekka/silk-fragment_600.jpg 600w, /img/tour/saharan-frontiers/tadmekka/silk-fragment_300.jpg 300w'
+      caption: 'A fragment of silk textile excavated at Essouk-Tadmekka (3.75 x 2.25 cm). Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+    -
+      img_src: '/img/tour/saharan-frontiers/tadmekka/stone-torso_600.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/tadmekka/stone-torso_600.jpg 600w, /img/tour/saharan-frontiers/tadmekka/stone-torso_300.jpg 300w'
+      img_alt: 'a carved stone torso'
+      caption: 'A carved stone torso excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+    -
+      img_alt: 'Glass vessel fragments excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photographs by Clare Britt'
+      img_src: '/img/tour/saharan-frontiers/tadmekka/carved_stone.jpg'
+      caption: 'Glass vessel fragments excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photographs by Clare Britt'
+    -
+      img_alt: 'Glass fragments from excavations at Essouk-Tadmekka, Mali'
+      img_src: '/img/works/7/7_640x.jpg'
+      caption: 'Glass fragments from excavations at Essouk-Tadmekka, Mali. Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+    -
+      img_alt: 'Spouted vessel, possibly Egypt or western Asia, ca. 800--1099'
+      img_src: '/img/works/8/8_640x.jpg'
+      capion: 'Spouted vessel, possibly Egypt or western Asia, ca. 800/1099. Blown glass, height 6 cm, maximum width 9.9 cm; rim diameter 4.5 cm. Collection of the Corning Museum of Glass, Corning, NY, 63.1.5'
+    -
+      text: 'The slightly arcing shapes of these small tubes of green glass, excavated at Essouk-Tadmekka, Mali, suggest they were likely part of small spouted bottles. Made in Egypt or western Asia, such bottles were used throughout the medieval Mediterranean as containers for perfume or rose water. Material remnants of the long-distance trade of luxury glassware, fragments of glass vessels, such as this example from the Corning Museum, have also been found at other medieval sites north and south of the Sahara Desert.'
+    -
+      img_src: '/img/works/9/9_640x.jpg'
+      img_alt: 'Fragment of Qingbai porcelain'
+      caption: 'Fragment of Qingbai porcelain (1.48 x 1.74 cm) found at Essouk-Tadmekka, Mali. China, Northern Song dynasty, 10th--12th century. Institut des sciences humaines, Mali. Photograph by Clare Britt'
+    -
+      img_alt: 'Foliate bowl with stylized peony spray'
+      img_src: '/img/works/10/10_640x.jpg'
+      caption: 'Foliate bowl with stylized peony spray, China, Northern Song dynasty, 12th century. Porcelain with underglaze carved decoration, height 7.1 cm, diameter 20.1 cm. Art Institute of Chicago, bequest of Russell Tyson, 1964.847. Photograph courtesy of The Art Institute of Chicago/Art Resource, NY'
+    -
+      text: 'The commodities and manufactured goods that moved along trans-Saharan trade routes were often destined for markets at astonishing distances from their places of origin. A small fragment of celadon porcelain that was excavated at the site of Essouk-Tadmekka, Mali, is a type known as Qingbai ware.'
+    -
+      text: 'Produced in southeastern China, Qingbai pottery was widely exported between the tenth and twelfth century and was exchanged along routes moving from market to market in a process called relay trade. Fragments of Qingbai ware have been found at medieval sites from Central Asia to Egypt and across the Sahara.'
+    -
+      text: 'The shape of this fragment suggests that it once formed part of the rim of a bowl. The distinctive damask weave of [a small piece of silk](#/silk-fragment), also excavated at Essouk-Tadmekka, proves that it was likewise made by Chinese artisans, though the chain-stitch embroidery in red cotton that runs across it was likely added in Tadmekka as further embellishment to a luxury garment.'
+    -
+      img_alt: '11-unglazed-local-ceramic'
+      img_src: '/img/works/11/11_640x.jpg'
+      capion: 'Ceramic fragments from excavations at Essouk-Tadmekka, Mali. Institut des sciences humaines, Mali. Photograph by Kathleen Bickford Berzock, 2016'
+    -
+      text: 'Vast amounts of unglazed ceramic fragments&mdash;the remains of bottles, bowls, jars, storage containers, and other items essential to daily life&mdash;have been excavated at multiple sites in the Western Sudan region and even north of the Sahara at sites including Sijilmasa. Decorated with imprinted roulette patterns or slip-painted motifs, these vessels were used domestically for cooking and food storage. Such terracotta containers also transported commodities including grains and fish from Mali's fertile Inland Niger Delta across vast distances.'
+    -
+      text: 'To hear more about the research and excavation of the site of Tadmekka, [watch interviews with the archaeologist Sam Nixon](https://vimeo.com/364139621).' 
