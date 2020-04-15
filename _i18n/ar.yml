@@ -91,3 +91,129 @@ tours:
       img_src: null
       img_alt: null
       caption: null
+
+  sf_sijilmasa:
+    -
+      text: '	سجلماسة (ازدهرت خلال الفترة بين القرن الثامن والرابع عشر)'
+      img_src: null
+      img_alt: null
+      caption: null
+    -
+      text: 'يوجد في سجلماسة بقايا جيولوجية من الذهب والفضة. يتم العثور على الذهب مثل النباتات، ويقال أن الرياح هي التي تحمله بعيدًا.
+
+      — أحمد اليعقوبي، القرن التاسع'
+      img_src: null
+      img_alt: null
+      caption: null
+    -
+      text: 'تقع سجلماسة التي تأسست في القرن التاسع على طول الحافة الشمالية للصحراء الكبرى في جنوب شرق المغرب، بجوار مدينة الريصاني الحالية. تقع في واحة تافيلالت، وهي عبارة عن حوض من التربة الغرينية. وقد كانت مدينة سجلماسة حلقة وصل حيوية في تجارة الذهب الأفريقي. وقد قام مصنع صك النقود التابع لها بصك العملات الذهبية في أوائل القرن العاشر، وتشير الأدلة بقوة إلى أن ذهب غرب إفريقيا قد مر عبر هذه المنطقة بحلول القرن الرابع. ورغم التخلي عن الكثير من المناطق في مدينة سجلماسة أواخر القرن الرابع عشر، إلا أنه تم استخدام أجزاء من المدينة، مثل المسجد الكبير، حتى مطلع القرن العشرين.   '
+      img_src: null
+      img_alt: null
+      caption: null
+    -
+      text: 'بين عامي 1988 و1998 قام المشروع المغربي الأمريكي في سجلماسة (MAPS) بست بعثات أثرية في سجلماسة. وكشفت عمليات التنقيب عن بقايا قلعة، وموقع لمعالجة المعادن الخام، ومسجد، ومقر إقامة النخبة حيث تم العثور على خاتم صغير مزخرف بالذهب.  الخان (نُزُل على الطريق حيث يمكن للقوافل الراحة فيه طوال الليل)، سوق بن أكلا، كان يقع على بعد ثلاثة أميال غرب المدينة على ضفاف نهر ريريس. '
+      img_src: null
+      img_alt: null
+      caption: null
+    -
+      text: null
+      img_src: '/img/tour/saharan-frontiers/sijilmasa/map_800.png'
+      img_srcset: '/img/tour/saharan-frontiers/sijilmasa/map_300.png 300w, /img/tour/saharan-frontiers/sijilmasa/map_800.png 800w'
+      img_alt: 'Map of central Sijilmasa'
+      caption: 'مخطط لوسط مدينة سجلماسة، الواقع داخل واحة تافيلالت، من إنتاج المشروع المغربي الأمريكي في سجلماسة'
+    -
+      text: null
+      img_src: '/img/tour/saharan-frontiers/sijilmasa/gate_300.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/sijilmasa/gate_300.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/gate_600.jpg 600w'
+      img_alt: 'The Bab al-Rih (Gate of the Wind) or Bab Fez (Gate to Fez)'
+      caption: 'يقع باب الريح (بوابة الرياح) أو باب فاس (بوابة فاس) عند الحد الشمالي سجلماسة. تم استعادة الأروقة القديمة المُطلة على بوابات في الحقبة الأخيرة. تصوير كاتلين بيكفورد بيرزوك، 2017'
+    -
+      text: null
+      img_src: '/img/tour/saharan-frontiers/sijilmasa/rounded-object_800.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/sijilmasa/rounded-object_800.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/rounded-object_800.jpg 600w'
+      img_alt: 'Oil lamp excavated at Sijilmasa'
+      caption: 'مصباح زيت تم استخراجه في سجلماسة (بأبعاد 13 × 8.5 × 5 سم). وزارة الثقافة والاتصالات بالمملكة المغربية. تصوير فؤاد مهداوي'
+    -
+      text: null
+      img_src: '/img/tour/saharan-frontiers/sijilmasa/water-filter_600.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/sijilmasa/water-filter_300.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/water-filter_600.jpg 600w'
+      img_alt: 'Fragment of a water filter'
+      caption: 'جزء من مرشِحِ ماء تم استخراجه في سجلماسة (بأبعاد 9 × 6 × 3 سم). وزارة الثقافة والاتصالات بالمملكة المغربية. تصوير فؤاد مهداوي'
+    -
+      text: null
+      img_src: '/img/tour/saharan-frontiers/sijilmasa/colored-fragments_600.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/sijilmasa/colored-fragments_300.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/colored-fragments_600.jpg 600w'
+      img_alt: 'ceramic fragments'
+      caption: 'قطع أثرية خزفية بتقنية Cuerda seca تم استخراجها في سجلماسة (بأبعاد مختلفة). وزارة الثقافة والاتصالات بالمملكة المغربية. تصوير فؤاد مهداوي'
+    -
+      text: null
+      img_src: '/img/tour/saharan-frontiers/sijilmasa/glazed-ceramic_600.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/sijilmasa/glazed-ceramic_300.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/glazed-ceramic_600.jpg 600w'
+      img_alt: 'Glazed ceramic fragments'
+      caption: 'قطع أثرية خزفية مصقولة تم التنقيب عنها في سجلماسة (بأبعاد مختلفة). وزارة الثقافة والاتصالات بالمملكة المغربية. تصوير فؤاد مهداوي'
+    -
+      text: null
+      img_src: '/img/tour/saharan-frontiers/sijilmasa/carved-stucco-fragment_600.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/sijilmasa/carved-stucco-fragment_300.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/carved-stucco-fragment_600.jpg 600w'
+      img_alt: 'Carved stucco fragment'
+      caption: 'قطعة من الجص المنحوت تم التنقيب عنها في سجلماسة (47.5 × 28.5 سم). وزارة الثقافة والاتصالات بالمملكة المغربية. تصوير فؤاد مهداوي'
+    -
+      text: null
+      img_src: '/img/works/4/4_640x.jpg'
+      img_srcset: null
+      img_alt: 'Fragment of painted wall decoration'
+      caption: 'قطعة من زخارف جدارية مطلية، سجلماسة، المغرب، القرن التاسع / العاشر. قطعة من الجص مقاس 21 × 19 سم. وزارة الثقافة والاتصالات بالمملكة المغربية. تصوير فؤاد مهداوي'
+    -
+      text: 'كانت سجلماسة مركزًا كبيرًا وغنيًا في ذروتها. وصف المؤرخ الأندلسي والجغرافي أبو عبيد البكري (المتوفى 1094) المدينة بأنها عبارة عن "جدار به اثنتى عشر بوابة. وفي داخلها منازل جميلة يتمتع العديد منها بحدائق، ومبانٍ عامة رائعة ومسجد قوي البنيان وحمامات رديئة البناء.''  '
+      img_src: null
+      img_srcset: null
+      img_alt: null
+      caption: null
+    -
+      text: 'هذه القطعة من الجص المطلي تحمل جزءًا منقوشًا من القرآن يمكن قراءته بقوله تعالى "لا يكلف الله نفساً إلا وسعها. لها ما كسبت وعليها ما اكتسبت." وقد عُثر عليها في مقر إقامة النخبة في القرن التاسع أو العاشر. وبعد قرن أو قرنين فقط، تم بناء مسجد في نفس الموقع. '
+      img_src: null
+      img_srcset: null
+      img_alt: null
+      caption: null
+    -
+      text: null
+      img_src: '/img/works/5/5_300x.jpg'
+      img_srcset: null
+      img_alt: 'Ring'
+      caption: 'خاتم، تم التنقيب عنه في سجلماسة، المغرب، القرن التاسع / العاشر. ذهب بقطر 1.9 سم. المؤسسة الوطنية لمتاحف المملكة المغربية، الرباط، 2006-1. تصوير عبد الله فيلي وحفصة إل حسني'
+    -
+      text: 'هذا الخاتم الذهبي هو أحد القطع الذهبية القليلة التي نجت من بلدان أفريقيا جنوب الصحراء الكبرى في العصور الوسطى، وهو دليل مادي هام على ارتباط مدينة سجلماسة بالتجارة الصحراوية. وقد قام الصائغ بصناعة هذا الخاتم عن طريق لحام شرائط ذهبية رقيقة مسطحة في طراز إيقاعي مموج إلى أشرطة علوية وسفلية. عُثر على الخاتم في مقر إقامة النخبة ويعود إلى فترة '
+      img_src: null
+      img_srcset: null
+      img_alt: null
+      caption: null
+    -
+      text: 'ممتدة من تطوير المدينة من قبل الحكام الأمازيغ المحليين، بني مدرار. تقنية صناعة الذهب تشبه إلى حد كبير تقنية صناعة المجوهرات الأمازيغية في القرنين التاسع عشر والعشرين من الصحراء الكبرى وجبال الأطلس الصغير. '
+      img_src: null
+      img_srcset: null
+      img_alt: null
+      caption: null
+    -
+      text: null
+      img_src: '/img/works/6/6_300x.jpg'
+      img_srcset: null
+      img_alt: 'Vase inscribed with “al-Baraka,”'
+      caption: 'مزهرية منقوش عليها كلمة "البركة"، سجلماسة، المغرب، القرن الحادي عشر. خزف مصقول، بأبعاد 25.4 × 17.8 × 14 سم. المتحف الأثري بالرباط، المغرب. تصوير المشروع المغربي الأمريكي في سجلماسة، 1988'
+    -
+      text: 'تم التنقيب عن كميات كبيرة من القطع الخزفية المصقولة وغير المصقولة - بقايا الأوعية والأطباق، والأباريق، والمصابيح، وأواني التخزين، وغيرها من العناصر الأساسية للحياة اليومية - في مواقع شمال وجنوب الصحراء. هذه المزهرية المزخرفة والمنقوشة، التي تعود إلى القرن الحادي عشر، تعد واحدة من أفضل القطع الخزفية المحفوظة التي تم استخراجها '
+      img_src: null
+      img_srcset: null
+      img_alt: null
+      caption: null
+    -
+      text: 'من سجلماسة. عُثر عليها غرب بقايا مسجد سجلماسة الكبير، وتحمل نقشًا زخرفيًا مكتوبًا عليه كلمة "البركة" متبوعًا بلفظ الجلالة "الله" أو (الازدهار).'
+      img_src: null
+      img_srcset: null
+      img_alt: null
+      caption: null
+    -
+      text: 'لسماع المزيد حول عمليات البحث والتنقيب في موقع مدينة سجلماسة، شاهد[watch interviews with archaeologists Abdallah Fili and Ron Messier](https://vimeo.com/showcase/6379862).'
+      img_src: null
+      img_srcset: null
+      img_alt: null
+      caption: null
