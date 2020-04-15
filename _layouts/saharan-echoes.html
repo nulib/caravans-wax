@@ -35,7 +35,7 @@
 					{% else %}
 
 					<section>
-						<img class="stretch" alt="{{ item["img_alt"] }}" src="{{ item["img_src"] }}">
+						<img class="stretch" alt="{{ item["img_alt"] }}" srcset="{{ item["img_srcset"] }}" sizes="(max-width: 600px) 300px, 600px" src="{{ item["img_src"] }}">
 						<small>
 							{{ item["caption"] }}
 						</small>
