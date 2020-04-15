@@ -324,79 +324,165 @@ tours:
       caption: null
   sf_tadmekka:
     -
-      text: 'TADMEKKA (flourished 10th&ndash;14th century)'
+      text: '	تادمكة (ازدهرت خلال الفترة بين القرن العاشر والرابع عشر)'
     -
-      text: '*\[O\]f all the towns in the world \[it\] is the one that resembles Mecca the most ... It is a large town amid mountains and ravines and is better built than Ghana or Gao.*<sup><a href="/references/">11</a></sup>
+      text: 'من بين جميع مدن العالم، تعد تادمكة أكثر المدن التي تشبه مكة ... فهي مدينة كبيرة وسط الجبال والوديان وهي مشيدة بشكل أفضل من غانا أو غاو.
 
-      &mdash;Abu 'Ubayd al-Bakri, ca. 1068'
+      —أبو عبيد البكري، حوالي ١٠٦٨'
     -
-      text: 'The ruins of Essouk-Tadmekka (also called Tadmekka) lie in northeastern Mali. The town sprawls across nearly 125 acres, with the remains of stone structures that include commercial and residential compounds, caravanserais, mosques, and livestock enclosures. Surrounding these are cemeteries where tombstones bear Arabic inscriptions. Cliffs that overlook the town are carved with inscriptions in Arabic and Tifinagh (the written form of Amazigh) that attest to the site's occupation as early as the tenth century.'
+      text: 'تقع أنقاض السوق - تادمكة (وتُسمى أيضًا تادمكة) في شمال شرق دولة مالي. تمتد البلدة عبر ما يقرب من 125 فدانًا، مع بقايا الهياكل الحجرية التي تشمل المجمعات التجارية والسكنية، والخانات، والمساجد، وحظائر الحيوانات. ويحيط بها مقابر تحمل شواهد القبور نقوشاً باللغة العربية. يوجد على المنحدرات المطلة على البلدة بعض النقوش المحفورة باللغة العربية ومنقوشة بالتيفيناغ الأبجدية البربرية (الشكل المكتوب للغة الأمازيغية) التي تشهد على احتلال الموقع منذ أوائل القرن العاشر. '
     -
-      text: 'The town is located at the desert's southern fringe, where in the medieval period camel caravans arrived from and departed for their respective Saharan journeys. Between 2004 and 2005, archaeologist Sam Nixon partnered with colleagues from Mali's Direction nationale de patrimoine culturel and Institut des Sciences Humaines to undertake the first excavations at the isolated site of Essouk-Tadmekka.<sup><a href="/references/">12</a></sup>'
+      text: 'تقع البلدة على الحافة الجنوبية للصحراء، حيث وصلت قوافل الجمال في العصور الوسطى وغادرت في رحلاتها الصحراوية. بين عامي 2004 و2005، شارك عالم الآثار سام نيكسون في شراكة مع زملاء من مديرية مالي الوطنية للثقافة ومعهد العلوم الإنسانية لإجراء عمليات التنقيب  '
     -
-      text: 'Their findings confirm the descriptions of Tadmekka's occupation as a center of trans-Saharan trade that appear in the work of Al-Bakri and other medieval scholars writing in Arabic.'
+      text: 'الأولية في موقع السوق تادمكة المعزول.  وتؤكد النتائج التي توصلوا إليها وصف احتلال تادمكة كمركز للتجارة عبر الصحراء الكبرى التي تظهر في أعمال البكري وغيرهم من علماء العصور الوسطى الذين يكتبون باللغة العربية.'
     -
       img_src: '/img/tour/saharan-frontiers/tadmekka/essouk-tadmekka-fig-8_800.jpg'
       img_alt: 'map of the site of Essouk-Tadmekka'
-      caption: 'Schematic map of the site of Essouk-Tadmekka in relation to the surrounding cliffs and the seasonal stream (<em>wadi</em>) that runs through the middle of the site. Identified are the principal zones of the town ruins and surrounding cemeteries. Based on EOM aerial photographs and adapted from Mauny 1961 and Moraes Farias 2003<sup><a href="/references/" class="note">13</a></sup>'
+      caption: 'رسم تخطيطي لموقع السوق تادمكة فيما يتعلق بالمنحدرات المحيطة والتيارات الموسمية (وادي) المنتشرة عبر منتصف الموقع. وقد حُددت المناطق الرئيسية لأنقاض المدينة والمقابر المحيطة بها. استناداً إلى الصور الجوية ومراقبون من البعثة واقتباس من عالم الآثار "موني" 1961 والمؤرخ مورايس فارياس 2003 '
     -
       img_src: '/img/tour/saharan-frontiers/tadmekka/sand-dunes_800.jpg'
       img_srcset: '/img/tour/saharan-frontiers/tadmekka/sand-dunes_300.jpg 300w, /img/tour/saharan-frontiers/tadmekka/sand-dunes_800.jpg 800w'
       img_alt: 'Sand Dunes'
-      caption: 'Looking down at the Essouk Valley, where the ruins of Tadmekka are located. Photograph by Sam Nixon, 2005'
+      caption: 'تطل على وادي السوق، حيث توجد أنقاض تادمكة. تصوير سام نيكسون، 2005 '
     -
       img_alt: 'Fragments of glazed ceramics (including an oil lamp) excavated at Essouk-Tadmekka. Institut des sciences humaines'
       img_srcset: '/img/tour/saharan-frontiers/tadmekka/glazed-ceramics-oil-lamp_600.jpg 600w, /img/tour/saharan-frontiers/tadmekka/glazed-ceramics-oil-lamp_300.jpg 300w'
       img_src: '/img/tour/saharan-frontiers/tadmekka/glazed-ceramics-oil-lamp_600.jpg'
-      caption: 'Fragments of glazed ceramics (including an oil lamp) excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+      caption: 'قطع أثرية زخفية مصقولة (بما في ذلك مصباح زيت) تم التنقيب عنها في موقع السوق تادمكة. معهد العلوم الإنسانية، باماكو، مالي. تصوير كلير بريت '
     -
       img_src: '/img/tour/saharan-frontiers/tadmekka/stone-beads_600.jpg'
       img_srcset: '/img/tour/saharan-frontiers/tadmekka/stone-beads_600.jpg 600w, /img/tour/saharan-frontiers/tadmekka/stone-beads_300.jpg 300w'
       img_alt: 'Stone beads, semi-precious stones, and a cowrie shell excavated at Essouk-Tadmekka'
-      caption: 'Stone beads, semi-precious stones, and a cowrie shell excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+      caption: 'خرزات من الحجر والأحجار شبه الكريمة وقطع من أصداف الودع تم التنقيب عنها في موقع السوق تادمكة. معهد العلوم الإنسانية، باماكو، مالي. تصوير كلير بريت '
     -
       img_alt: 'silk textile'
       img_src: '/img/tour/saharan-frontiers/tadmekka/silk-fragment_600.jpg'
       img_srcset: '/img/tour/saharan-frontiers/tadmekka/silk-fragment_600.jpg 600w, /img/tour/saharan-frontiers/tadmekka/silk-fragment_300.jpg 300w'
-      caption: 'A fragment of silk textile excavated at Essouk-Tadmekka (3.75 x 2.25 cm). Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+      caption: 'قطعة من المنسوجات الحريرية تم التنقيب عنها في موقع السوق - تادمكة (بأبعاد 3.75 × 2.25 سم). معهد العلوم الإنسانية، باماكو، مالي. تصوير كلير بريت'
     -
       img_src: '/img/tour/saharan-frontiers/tadmekka/stone-torso_600.jpg'
       img_srcset: '/img/tour/saharan-frontiers/tadmekka/stone-torso_600.jpg 600w, /img/tour/saharan-frontiers/tadmekka/stone-torso_300.jpg 300w'
       img_alt: 'a carved stone torso'
-      caption: 'A carved stone torso excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+      caption: 'جذع حجري منحوت تم استخراجه من موقع السوق تادمكة. معهد العلوم الإنسانية، باماكو، مالي. تصوير كلير بريت'
     -
       img_alt: 'Glass vessel fragments excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photographs by Clare Britt'
       img_src: '/img/tour/saharan-frontiers/tadmekka/carved_stone.jpg'
-      caption: 'Glass vessel fragments excavated at Essouk-Tadmekka. Institut des sciences humaines, Bamako, Mali. Photographs by Clare Britt'
+      caption: 'قطع من وعاء زجاجي تم استخراجها من موقع السوق تادمكة. معهد العلوم الإنسانية، باماكو، مالي. تصوير كلير بريت '
     -
       img_alt: 'Glass fragments from excavations at Essouk-Tadmekka, Mali'
       img_src: '/img/works/7/7_640x.jpg'
-      caption: 'Glass fragments from excavations at Essouk-Tadmekka, Mali. Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt'
+      caption: 'على اليسار: قطع زجاجية مستخرجة من عمليات التنقيب في موقع السوق تادمكة، مالي. معهد العلوم الإنسانية، باماكو، مالي. تصوير كلير بريت '
     -
       img_alt: 'Spouted vessel, possibly Egypt or western Asia, ca. 800--1099'
       img_src: '/img/works/8/8_640x.jpg'
-      capion: 'Spouted vessel, possibly Egypt or western Asia, ca. 800/1099. Blown glass, height 6 cm, maximum width 9.9 cm; rim diameter 4.5 cm. Collection of the Corning Museum of Glass, Corning, NY, 63.1.5'
+      caption: 'على اليمين: وعاء منقط، ربما من مصر أو غرب آسيا،حوالي 800/1099. زجاج منفوخ، بارتفاع 6 سم، أقصى عرض 9.9 سم؛ قطر الحافة 4.5 سم. مجموعة متحف كورنينج للزجاج، كورنينج، نيويورك، 63.1.5'
     -
-      text: 'The slightly arcing shapes of these small tubes of green glass, excavated at Essouk-Tadmekka, Mali, suggest they were likely part of small spouted bottles. Made in Egypt or western Asia, such bottles were used throughout the medieval Mediterranean as containers for perfume or rose water. Material remnants of the long-distance trade of luxury glassware, fragments of glass vessels, such as this example from the Corning Museum, have also been found at other medieval sites north and south of the Sahara Desert.'
+      text: 'أشكال منحنية قليلاً من هذه الأنابيب الصغيرة الزجاجية الخضراء، تم استخراجها من موقع السوق تادمكة، مالي، على الأرجح أنها كانت جزءًا من زجاجات صغيرة. صُنعت هذه الزجاجات في مصر أو غرب آسيا، واستخدمت في بلدان البحر الأبيض المتوسط طوال فترة القرون الوسطى كحاويات وأوعية للعطور أو ماء الورد. عُثر أيضًا على بعض المخلفات المادية المتعلقة بتجارة المسافات الطويلة للأواني الزجاجية الفاخرة، وقطع من الأواني الزجاجية، مثل هذا النموذج من متحف كورنينج للزجاج، في مواقع أخرى من العصور الوسطى شمال وجنوب الصحراء الكبرى. '
     -
       img_src: '/img/works/9/9_640x.jpg'
       img_alt: 'Fragment of Qingbai porcelain'
-      caption: 'Fragment of Qingbai porcelain (1.48 x 1.74 cm) found at Essouk-Tadmekka, Mali. China, Northern Song dynasty, 10th--12th century. Institut des sciences humaines, Mali. Photograph by Clare Britt'
+      caption: ' عُثر على قطعة من خزف تشينغباي (1.48 × 1.74 سم) في موقع السوق تادمكة، مالي. الصين، سلالة سونغ الشمالية ، القرن العاشر / الثاني عشر. معهد العلوم الإنسانية، باماكو، مالي. تصوير كلير بريت '
     -
       img_alt: 'Foliate bowl with stylized peony spray'
       img_src: '/img/works/10/10_640x.jpg'
-      caption: 'Foliate bowl with stylized peony spray, China, Northern Song dynasty, 12th century. Porcelain with underglaze carved decoration, height 7.1 cm, diameter 20.1 cm. Art Institute of Chicago, bequest of Russell Tyson, 1964.847. Photograph courtesy of The Art Institute of Chicago/Art Resource, NY'
+      caption: 'Right: وعاء مطلي برذاذ وردي منمق، الصين، سلالة سونغ الشمالية، القرن الثاني عشر. بورسلين مزخرف بالزجاج المنحوت، بارتفاع 7.1 سم، وقطر 20.1 سم. معهد شيكاغو للفنون، وصية راسل تايسون، 1964.847. الصور مجاملة من معهد شيكاغو للفنون / الموارد الفنية، نيويورك'
     -
-      text: 'The commodities and manufactured goods that moved along trans-Saharan trade routes were often destined for markets at astonishing distances from their places of origin. A small fragment of celadon porcelain that was excavated at the site of Essouk-Tadmekka, Mali, is a type known as Qingbai ware.'
+      text: 'غالبًا ما كانت المستلزمات الأساسية والسلع المصنعة التي انتقلت على طول طرق التجارة متجهة إلى أسواق تبعد عن أماكنها الأصلية بمسافات مذهلة. قطعة صغيرة من بورسلين سيلادون تم استخراجها من موقع السوق تادمكة، مالي، وهو نوع معروف باسم أدوات تشينغباي. تم إنتاج  '
     -
-      text: 'Produced in southeastern China, Qingbai pottery was widely exported between the tenth and twelfth century and was exchanged along routes moving from market to market in a process called relay trade. Fragments of Qingbai ware have been found at medieval sites from Central Asia to Egypt and across the Sahara.'
+      text: 'أدوات تشينغباي في جنوب شرق الصين، وتم تصديرها على نطاق واسع بين القرنين العاشر والثاني عشر وتداولها على امتداد الطرق التي تنتقل من سوق إلى آخر في عملية تسمى التجارة بالترحيل. عُثر على قطع من أدوات تشينغباي في مواقع من القرون الوسطى من آسيا الوسطى إلى مصر وعبر الصحراء الكبرى.'
     -
-      text: 'The shape of this fragment suggests that it once formed part of the rim of a bowl. The distinctive damask weave of [a small piece of silk](#/silk-fragment), also excavated at Essouk-Tadmekka, proves that it was likewise made by Chinese artisans, though the chain-stitch embroidery in red cotton that runs across it was likely added in Tadmekka as further embellishment to a luxury garment.'
+      text: 'يشير شكل هذه القطعة إلى أنها كانت جزءًا من حافة وعاء. يبرهن النسيج الدمشقي المميز لقطعة صغيرة من الحرير، والتي استخرجت أيضًا من موقع السوق تادمكة، أنه صُنعت على نحو مماثل من قبل الحرفيين الصينيين، على الرغم من أنه تمت إضافة التطريز والزركشة بالخيوط المتسلسلة بالقطن الأحمر الذي يمر عبره في مدينة تادمكة كمزيد من الزخرفة على ثوب فاخر.'
     -
       img_alt: '11-unglazed-local-ceramic'
       img_src: '/img/works/11/11_640x.jpg'
-      capion: 'Ceramic fragments from excavations at Essouk-Tadmekka, Mali. Institut des sciences humaines, Mali. Photograph by Kathleen Bickford Berzock, 2016'
+      caption: 'قطع خزفية مستخرجة من عمليات التنقيب في موقع السوق تادمكة، مالي. معهد العلوم الإنسانية، باماكو، مالي. تصوير كاتلين بيكفورد بيرزوك، 2016'
     -
-      text: 'Vast amounts of unglazed ceramic fragments&mdash;the remains of bottles, bowls, jars, storage containers, and other items essential to daily life&mdash;have been excavated at multiple sites in the Western Sudan region and even north of the Sahara at sites including Sijilmasa. Decorated with imprinted roulette patterns or slip-painted motifs, these vessels were used domestically for cooking and food storage. Such terracotta containers also transported commodities including grains and fish from Mali's fertile Inland Niger Delta across vast distances.'
+      text: 'تم التنقيب عن كميات كبيرة من القطع الخزفية غير المصقولة - بقايا الزجاجات والأواني والبرطمانات وأوعية التخزين وغيرها من العناصر الأساسية للحياة اليومية - في مواقع متعددة في منطقة غرب السودان وحتى شمال الصحراء في بعض المواقع بما في ذلك مدينة سجلماسة. وقد تم تزيين هذه الأواني بأنماط ونقوش روليت مطبوعة أو زخارف مطلية، وقد استخدمت في المنازل للطبخ وتخزين الطعام. استخدمت أواني التراكوتا الطينية لنقل هذه السلع بما في ذلك الحبوب والأسماك من دلتا النيجر الداخلية الخصبة في مالي عبر مسافات شاسعة. '
     -
-      text: 'To hear more about the research and excavation of the site of Tadmekka, [watch interviews with the archaeologist Sam Nixon](https://vimeo.com/364139621).' 
+      text: 'لسماع المزيد حول عمليات البحث والتنقيب في موقع تادمكة، شاهد [watch interviews with the archaeologist Sam Nixon](https://vimeo.com/364139621).'
+  sf_gao:
+    -
+      text: '	غاو (ازدهرت خلال الفترة بين القرن الثامن والثالث عشر)'
+    -
+      text: 'مدينة غاو هي أعظم ميادين السودان وأهمها وأقواها. وتخضع جميع الممالك الأخرى لطاعة ملكها.
+
+							—أحمد اليعقوبي، القرن التاسع '
+    -
+      text: 'كانت مدينة غاو، التي تحظى بموقع استراتيجي بجوار نهر النيجر وبين الصحراء ومنطقة السافانا بغرب إفريقيا، مركزًا مهمًا للتجارة في العصور الوسطى. وقد لاحظ أبو عبيد البكري (المتوفى عام 1094) المؤرخ وعالم الجغرافيا المتخصص في القرون الوسطى أن الدين الإسلامي كان راسخاً في "الكاوكاو"، وهو الاسم العربي لمملكة غاو، في القرن الحادي عشر: "تتكون المدينة من بلدتين، إحداهما مقر إقامة الملك والأخرى يسكنها المسلمون." '
+    -
+      text: 'تم إجراء عمليات تنقيب في موقعين مرتبطين بمملكة غاو - غاو أنسين وغاني ساني - بواسطة عالم الآثار والأكاديمي البريطاني تيموثي إنسول وعالم الآثار مامادو سيسيه وفريق مشترك من المديرية الوطنية للتراث الثقافي ومتحف علم الأجناس في أوساكا، اليابان وغيرها.  كانت مدينة غاو أنسين هي العاصمة الملكية ومكان الإقامة. تقع مدينة غاو '
+    -
+      text: 'ساني، وهي مدينة ذات أغلبية مسلمة، على بعد خمسة أميال شرقًا. وقد عُثر على العديد من شواهد القبور مكتوبة بالنقوش العربية في مقبرة على مشارف مدينة غاو ساني. تكرر هذا النمط من المجتمعات المزدوجة في عواصم المناطق القبلية أو الممالك التي لم يكن الملك فيها مسلمًا في معظم أنحاء غرب أفريقيا، لاسيما على امتداد طرق تجارة القوافل.'
+    -
+      img_srcset: '/img/tour/saharan-frontiers/gao/cisse-map_800.png 800w, /img/tour/saharan-frontiers/gao/cisse-map_300.png 300w'
+      img_src: '/img/tour/saharan-frontiers/gao/cisse-map_800.png'
+      img_alt: 'cisse-map'
+      caption: 'موقع غاو أنسين وغاو ساني. مُقتبس من عالم الآثار سيسيه 2017 '
+    -
+      img_src: '/img/tour/saharan-frontiers/gao/looters-pits-at-gao-saney_800.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/gao/looters-pits-at-gao-saney_800.jpg, /img/tour/saharan-frontiers/gao/looters-pits-at-gao-saney_300.jpg'
+      img_alt: 'looters pits at gao saney'
+      caption: 'عمليات الحفر التي قام بها اللصوص في مدينة غاو ساني. تصوير مامادو سيسيه، 2016'
+    -
+      img_src: '/img/tour/saharan-frontiers/gao/copper-spoon_800.jpg'
+      img_srcset: '/img/tour/saharan-frontiers/gao/copper-spoon_800.jpg, /img/tour/saharan-frontiers/gao/copper-spoon_300.jpg'
+      img_alt: 'Copper spoon or ladle excavated at Gao Ancien'
+      caption: 'ملعقة أو مغرفة نحاسية مستخرجة في مدينة غاو أنسين (بأبعاد 5.5 × 4.5 × 1.3 سم). المديرية الوطنية للتراث الثقافي، مالي. تصوير سيدو كامارا'
+    -
+      img_srcset: '/img/tour/saharan-frontiers/gao/iron-scabbard_6 00.jpg, /img/tour/saharan-frontiers/gao/iron-scabbard_300.jpg'
+      img_src: '/img/tour/saharan-frontiers/gao/iron-scabbard_600.jpg'
+      img_alt: 'Fragment of an iron scabbard with copper embellishment'
+      caption: 'قطعة من غمد حديدي مزخرفة بالنحاس (بأبعاد 15 × 5 × 0.5 سم) تم التنقيب عليها في مدينة غاو أنسين، المديرية الوطنية للتراث الثقافي، مالي. تصوير سيدو كامارا'
+    -
+      img_srcset: '/img/tour/saharan-frontiers/gao/hardstone-beads_600.jpg, /img/tour/saharan-frontiers/gao/hardstone-beads_300.jpg'
+      img_alt: 'Hardstone beads from Gao Ancien and fragments of glass excavated at Gao Saney'
+      img_src: '/img/tour/saharan-frontiers/gao/hardstone-beads_600.jpg'
+      caption: 'خرزات حجرية صلبة مستخرجة في مدينة غاو أنسين (بأبعاد مختلفة). المديرية الوطنية للتراث الثقافي، مالي. تصوير سيدو كامارا'
+    -
+      img_srcset: '/img/tour/saharan-frontiers/gao/fragments-of-glass_600.jpg, /img/tour/saharan-frontiers/gao/fragments-of-glass_300.jpg'
+      img_src: '/img/tour/saharan-frontiers/gao/fragments-of-glass_600.jpg'
+      img_alt: 'Fragments of glass (various dimensions)'
+      caption: 'قطع زجاجية مستخرجة في غاو ساني (بأبعاد مختلفة). المديرية الوطنية للتراث الثقافي، مالي. تصوير سيدو كامارا'
+    -
+      img_src: '/img/works/12/12_640x.jpg'
+      img_alt: 'Crucible'
+      caption: 'بوتقة، مستخرجة من غاو ساني، مالي ، القرن الثامن / العاشر. تراكوتا، أقصى عرض 4.8 سم. المديرية الوطنية للتراث الثقافي، مالي. تصوير سيدو كامارا'
+    -
+      text: 'تم استخدام هذه البوتقة الصغيرة المستخرجة من موقع غاو ساني في صنع خرز الزجاج. تُقدم حبات الخرز الزجاجية، المصنوعة في العديد من الأماكن وتم تداولها عبر مسافات شاسعة، صورة مصغرة لدراسة الشبكات المعقدة التي اجتمعت في موقع غاو ساني. وما يقرب من ثلثي حبات الخرز  '
+    -
+      text: 'هو نتاج المهن منخفضة المستوى، والتي يعود تاريخها إلى القرن الثامن إلى القرن العاشر، وعُثر على العديد منها في الخنادق والأخاديد في حالة مكسورة أو مشوهة أو غير مكتملة. هناك أدلة دامغة مستمدة من هذه الخنادق تشير إلى أن غاو ساني كانت موقع إنتاج لإعادة تدوير وتشكيل الزجاج المستورد. على النقيض من ذلك، تم تشطيب معظم الخرز المستخرج من مدينة غاو أنسين.'
+    -
+      img_srcset: '/img/tour/saharan-frontiers/gao/assorted-glass-beads_2_600.jpg, /img/tour/saharan-frontiers/gao/assorted-glass-beads_2_300.jpg'
+      img_src: '/img/tour/saharan-frontiers/gao/assorted-glass-beads_2_600.jpg'
+      img_alt: 'Assorted finished glass beads'
+      caption: ' خرزات زجاجية مشطبة متنوعة من مدينة غاو أنسين، مالي. المديرية الوطنية للتراث الثقافي، مالي. تصوير سيدو كامارا'
+    -
+      img_srcset: '/img/tour/saharan-frontiers/gao/assorted-glass-beads_1_600.jpg, /img/tour/saharan-frontiers/gao/assorted-glass-beads_1_300.jpg'
+      img_src: '/img/tour/saharan-frontiers/gao/assorted-glass-beads_1_600.jpg'
+      img_alt: 'Assorted finished glass beads'
+      caption: ' خرز زجاجي مكسور أو مشوه أو غير مكتمل من مدينة جاو ساني، مالي. المديرية الوطنية للتراث الثقافي، مالي. تصوير سيدو كامارا'
+    -
+      text: 'وقد تم التنقيب عن عدة مئات من قطع الخرز الزجاجي والطيني والأحجار شبه الكريمة في مواقع غاو أنسين وغاو ساني. عن طريق إنتاجها واستخراجها من العديد من مواقع الإنتاج المختلفة وتبادلها عبر مسافات شاسعة، فإن هذه الأحجار الكريمة تقدم صورة مصغرة لدراسة تلك الشبكات المعقدة التي اجتمعت في مدينة غاو. وفي الوقت الذي كان يتم فيه إنتاج   '
+    -
+      text: 'خرز التراكوتا الفخاري محليًا على الأرجح، تم استيراد الخرز الزجاجي النهائي إلى مدينة غاو من مراكز صنع الخرز في شمال إفريقيا ومصر وأوروبا ومنطقة الغابات في غرب إفريقيا. يشير وجود البوتقات لصهر الزجاج والخرز المشوه في مدينة غاو ساني إلى أنه كان موقعًا ثانويًا لإنتاج الخرز الزجاجي حيث تم صهر الزجاج المكسور لصنع الخرز.'
+    -
+      text: 'ويعتبر الخرز الزجاجي في غاو من بين أكثر البقايا المنشودة بالنسبة للصوص الموقع. فالخرز الزجاجي الأثري العتيق يحظى بقيمة ثمينة في الأسواق المحلية والدولية. إن حماية هذا التراث الثقافي المهم من الأمور الجوهرية. يُقدّم هذا الخرز الزجاجي دراسة حالة مقنعة بالأدلة الدامغة للتجارة المحلية والإقليمية في اتجاهات متعددة في فترة القرون الوسطى.  '
+    -
+      text: 'To learn about the glass beads found at the site Igbo Olokun in Nigeria, [click here](/tour/long-reach-of-the-sahara/medieval-glass-beads/).'
+    -
+      img_src: '/img/works/14/14_640x.jpg'
+      img_alt: 'two fragments of glazed ceramics'
+      caption: ' تم استخراج قطعتين من الخزف المزجج وقطعة من المرمر المنحوت في غاو، بمالي. متحف مالي الوطني، باماكو. تصوير سيدو كامارا'
+    -
+      text: 'تم نقل الخزف المزجج المزخرف بعدد من الأشكال المميزة عبر الصحراء، وتم استخراج القطع الأثرية في مواقع متعددة. على اليسار، تم استخراج القطعة الكبيرة في اللمعان (في الوسط) والأدوات الفخارية ذات الطلاء المعدني (على اليمين) في مدينة غاو بمالي، وكذلك قطعة المرمر المنحوت (على اليسار)، والتي جاءت على الأرجح من أحد المصادر من مصر أو سوريا. كانت الأدوات الفخارية المطلية من بين أكثر ابتكارات صانعي '
+    -
+      img_srcset: '/img/tour/saharan-frontiers/gao/bowl_600.jpg, /img/tour/saharan-frontiers/gao/bowl_300.jpg'
+      img_alt: '"Bowl. Luster-painted fritware, diameter 20.0 cm'
+      img_src: '/img/tour/saharan-frontiers/gao/bowl_600.jpg'
+      caption: 'Right: وعاء، مصر، القرن الحادي عشر. عجينة حجر مضافا إليه زجاج مطحون ملون، قطره 20.0 سم. تصوير © متحف الآغا خان، تورونتو ، كندا، AKM684'
+    -
+      text: 'الفخار العرب براعةً، الذين خلطوا كبريتيد الفضة وأكاسيد النحاس لإعطاء لمعان معدني ساطع على سطح أواني فخارية مزججة ومصقولة وبعض الأطباق والأوعية النفعية الأخرى. كانت الأدوات المزخرفة، بما في ذلك هذا النموذج الذي يُبرز أرنبًا مفعماً بالحيوية والنشاط وسط أشجار العنب في الصورة على اليمين، شائعة في مصر وسوريا الكبرى خلال '
+    -
+      text: 'عصر الفاطميين (909-1171). وقد انتشرت هذه التقنية أيضًا إلى شمال إفريقيا والأندلس، بما في ذلك مدينتي مالقة وفالنسيا. إن هذا التقدير الواسع للأدوات الفخارية المطلية اللامعة لا يثير الدهشة نظرًا لتشابه الفخار مع بريق الذهب المتلألئ.'
+    -
+      text: 'لسماع المزيد حول عمليات البحث والتنقيب في موقع غاو [watch interviews with archaeologist Mamadou Cissé](https://vimeo.com/364139789).'
