@@ -29,6 +29,10 @@ footer:
 # Guided Tours
 
 tours:
+
+  titles:
+    saharan_echoes: 'Saharan Echoes'
+
   saharan_echoes:
     -
       text: 'SAHARAN ECHOES'
