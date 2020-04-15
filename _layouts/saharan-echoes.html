@@ -23,77 +23,26 @@
 		<div class="reveal">
 			<div class="slides">
 
-					<section >
-							<h1>{% t saharan_echoes.title %}</h1>
-					</section>
-
-					<section>
-						<img class="stretch" src="/img/tour/saharan-echoes/intro_800.jpg" alt="{% t saharan_echoes.2_caption %}">
-						<small>{% t saharan_echoes.2_caption %}</small>
-					</section>
+				{% for item in site.translations[site.lang].tours.saharan_echoes %}
+					{% if item["text"] %}
 
 					<section data-markdown >
 						<textarea data-template>
-							{% t saharan_echoes.3 %}
+							{{ item["text"] }}
 						</textarea>
 					</section>
 
-					<section data-markdown >
-						<textarea data-template>
-							{% t saharan_echoes.4 %}
-						</textarea>
-					</section>
+					{% else %}
 
 					<section>
-						<img class="stretch" alt="{% t saharan_echoes.5_alt %}" src="/img/works/1/1_640x.jpg">
+						<img class="stretch" alt="{{ item["img_alt"] }}" src="{{ item["img_src"] }}">
 						<small>
-							{% t saharan_echoes.5_caption %}
+							{{ item["caption"] }}
 						</small>
 					</section>
 
-					<section data-markdown >
-						<textarea data-template>
-							{% t saharan_echoes.6 %}
-						</textarea>
-					</section>
-
-					<section data-markdown >
-						<textarea data-template>
-							{% t saharan_echoes.7 %}
-						</textarea>
-					</section>
-
-					<section>
-						<img class="stretch" alt="{% t saharan_echoes.8_alt %}" src="/img/works/2/2_640x.jpg">
-						<small>
-							{% t saharan_echoes.8_caption %}
-						</small>
-					</section>
-
-					<section data-markdown >
-						<textarea data-template>
-							{% t saharan_echoes.9 %}
-						</textarea>
-					</section>
-
-					<section data-markdown >
-						<textarea data-template>
-							{% t saharan_echoes.10 %}
-						</textarea>
-					</section>
-
-					<section>
-						<img class="stretch" alt="{% t saharan_echoes.11_alt %}" src="/img/works/3/3_640x.jpg">
-						<small>
-							{% t saharan_echoes.11_caption %}
-						</small>
-					</section>
-
-					<section data-markdown >
-						<textarea data-template>
-							{% t saharan_echoes.12 %}
-						</textarea>
-					</section>
+					{% endif %}
+				{% endfor %}
 
 			</div>
 		</div>
