@@ -26,7 +26,109 @@ splash:
 footer:
   copyright: 'Created by Kathleen Berzock, Sarah Estrela, Chris Diaz, Melanie Garcia Sympson, and the students of ART HIST 395: Museums Seminar, Northwestern University, Spring 2019'
 
-# Guided Tours
+pages:
+  tour:
+    title: 'Tour'
+    caption: 'During the medieval period, major trade routes crossing the Sahara Desert linked cities and towns that functioned as trade centers. Routes headed south connected with the Niger River, a major byway to Africa’s forest region. Those going north connected to the vast trade networks of the Mediterranean Sea, traveling inland across Europe. Routes headed east met the Levantine routes and ultimately the Silk Roads of Central and East Asia.'
+    sections:
+      -
+        title: 'Saharan Echoes'
+        link: /tour/saharan-echoes/
+        img_srcset: '/img/tour/man_on_camel_card_300.jpg 300w, /img/tour/man_on_camel_card_800.jpg 800w'
+        img_src: '/img/tour/man_on_camel_card_800.jpg'
+        img_alt: 'Begin Saharan Echoes tour'
+      -
+        title: 'Saharan Frontiers'
+        link: /tour/saharan-frontiers/
+        img_srcset: '/img/tour/saharan-frontiers_300.jpg 300w, /img/tour/saharan-frontiers_800.jpg 800w'
+        img_src: /img/tour/saharan-frontiers_300.jpg
+        img_alt: 'View Saharan Frontiers tour options'
+      -
+        title: 'Driving Desires'
+        link: /tour/driving-desires/
+        img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
+        img_src: '/img/tour/atlas-of-maritime_300.jpg'
+        img_alt: 'Begin Driving Desires tour'
+      -
+        title: 'Long Reach of the Sahara'
+        link: /tour/long-reach-of-the-sahara/
+        img_srcset: '/img/tour/igbo-tour_300.jpg 300w, /img/tour/igbo-tour_800.jpg 800w'
+        img_src: '/img/tour/igbo-tour_300.jpg'
+        img_alt: 'View Long Reach of the Sahara tour options'
+      -
+        title: 'Shifting Away from the Sahara'
+        link: /tour/shifting-away-from-the-sahara/
+        img_srcset: '/img/tour/shifting-away-from-the-sahara_300.jpg 300w, /img/tour/shifting-away-from-the-sahara_800.jpg 800w'
+        img_src: '/img/tour/shifting-away-from-the-sahara_300.jpg'
+        img_alt: 'Begin Shifting Away from the Sahara tour'
+  saharan_frontiers:
+    title: 'Saharan Frontiers'
+    caption: 'Routes across the vast Sahara Desert (that comprises more than 3.5 million square miles) follow paths through a varied terrain, moving between oases—the underground sources of water that are critical to the survival of travelers. The main routes across the Sahara were established by the fifth century CE, and most continue to be used today. In this section the sites of Sijilmasa, Tadmekka, and Gao are presented as case studies that reveal the history of medieval West Africa.'
+    sections:
+      -
+        title: 'Sijilmasa'
+        link: /tour/saharan-frontiers/sijilmasa/
+        img_srcset: '/img/tour/saharan-frontiers_300.jpg 300w, /img/tour/saharan-frontiers_800.jpg 800w'
+        img_src: '/img/tour/saharan-frontiers_300.jpg'
+        img_alt: 'View the Sijilmasa tour'
+      -
+        title: 'Tadmekka'
+        link: /tour/saharan-frontiers/tadmekka/
+        img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
+        img_src: '/img/tour/atlas-of-maritime_300.jpg'
+        img_alt: 'View the Tadmekka tour'
+      -
+        title: 'Gao'
+        link: /tour/saharan-frontiers/gao/
+        img_srcset: '/img/tour/igbo-tour_300.jpg 300w, /img/tour/igbo-tour_800.jpg 800w" sizes="(max-width: 600px) 300px, 800px'
+        img_src: '/img/tour/igbo-tour_300.jpg'
+        img_alt: 'View the Gao tour'
+      -
+        title: 'Connecting Trade to the Niger River'
+        link: /tour/saharan-frontiers/niger-river/
+        img_srcset: '/img/tour/shifting-away-from-the-sahara_300.jpg 300w, /img/tour/shifting-away-from-the-sahara_800.jpg 800w'
+        img_src: '/img/tour/shifting-away-from-the-sahara_300.jpg'
+        img_alt: 'View the Connecting Trade to the Niger River tour'
+      -
+        title: 'The Movement of Language, People, and Ideas'
+        link: /tour/saharan-frontiers/spread-of-ideas/
+        img_srcset: '/img/tour/spread-of-ideas_300.jpg 300w, /img/tour/spread-of-ideas_800.jpg 800w'
+        img_src: '/img/tour/spread-of-ideas_300.jpg'
+        img_alt: 'View the The Movement of Language, People, and Ideas tour'
+      -
+        title: "Mansa Musa's Hajj to Mecca"
+        link: /tour/mansa-musas-hajj-to-mecca/
+        img_srcset: '/img/tour/spread-of-ideas_300.jpg 300w, /img/tour/spread-of-ideas_800.jpg 800w'
+        img_src: /img/tour/spread-of-ideas_300.jpg
+        img_alt: "View Mansa Musa's Hajj to Mecca tour"
+  long_reach_of_the_sahara:
+    title: 'The Long Reach of the Sahara'
+    caption: 'The Niger River was a major thoroughfare for trade from the Sahara into West Africa. Niger River trade connected to land routes through the West African forest and the region known as the Central Sudan. In this section the sites of Igbo Ukwu, Ife, and Durbi Takusheyi are presented as case studies that contribute to understanding the history of medieval West Africa.'
+    sections:
+      -
+        title: 'Igbo Ukwu'
+        link: /tour/long-reach-of-the-sahara/igbo/
+        img_srcset: '/img/tour/man_on_camel_card_300.jpg 300w, /img/tour/man_on_camel_card_800.jpg 800w'
+        img_src: '/img/tour/man_on_camel_card_800.jpg'
+        img_alt: 'View the Igbo Ukwu tour'
+      -
+        title: 'Ife and Its Orbit'
+        link: /tour/long-reach-of-the-sahara/ife/
+        img_srcset: '/img/tour/saharan-frontiers_300.jpg 300w, /img/tour/saharan-frontiers_800.jpg 800w'
+        img_src: '/img/tour/saharan-frontiers_300.jpg'
+        img_alt: 'View the Ife and Its Orbit tour tour'
+      -
+        title: 'Central Sudan/Durbi Takusheyi'
+        link: /tour/long-reach-of-the-sahara/central-sudan/
+        img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
+        img_src: '/img/tour/atlas-of-maritime_300.jpg'
+        img_alt: 'View the Central Sudan/Durbi Takusheyi tour'
+      -
+        title: 'Medieval Glass Beads'
+        link: /tour/long-reach-of-the-sahara/medieval-glass-beads/
+        img_srcset: '/img/tour/igbo-tour_300.jpg 300w, /img/tour/igbo-tour_800.jpg 800w'
+        img_src: '/img/tour/igbo-tour_300.jpg'
+        img_alt: 'Medieval Glass Beads tour'
 
 tours:
 

@@ -1,9 +1,3 @@
----
-title: 'The Long Reach of the Sahara'
-layout: long-reach-of-the-sahara
-permalink: /tour/long-reach-of-the-sahara/
-caption: 'The Niger River was a major thoroughfare for trade from the Sahara into West Africa. Niger River trade connected to land routes through the West African forest and the region known as the Central Sudan. In this section the sites of Igbo Ukwu, Ife, and Durbi Takusheyi are presented as case studies that contribute to understanding the history of medieval West Africa.  '
----
 Beyond the Sahara, trade routes reached into West Africa’s rainforest, the Central Sudan, and Europe. In the mid-fourteenth century, the traveler and diplomat Ibn Battuta referenced the reach of the Niger River all the way to the city of Ife in West Africa’s forest region, stating, “Then the Niger River descends from Dia to Timbuktu and then to Gao ... then to Ife. Ife is one of the largest countries of the Sudan, and their sultan is one of the greatest sultans.”<sup><a href="/references/">30</a></sup>  Archaeological excavations at medieval sites in Nigeria provide material evidence of this reach. The sites of Igbo Ukwu (eighth to twelfth century), Ile-Ife (thirteenth to fourteenth century), and Durbi Takusheyi (fourteenth to fifteenth century) reveal the prominence of copper, ivory, and glass beads among the goods that circulated through long and short distance trade in multiple directions during the medieval period.
 
 Igbo Ukwu lies east of the Niger River in Nigeria’s forest region. Copper-alloy sculptures and more than 165,000 glass and carnelian beads excavated at the site suggest self-supporting metal casting and glass production industries that connected with active local and interregional trade networks and supplemented the raw materials for craft production.
