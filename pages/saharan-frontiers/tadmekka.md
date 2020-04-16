@@ -1,5 +1,5 @@
 ---
 layout: presentation
-tour: sf_tadmekka
+tour: saharan_frontiers_tadmekka
 permalink: /tour/saharan-frontiers/tadmekka/
 ---

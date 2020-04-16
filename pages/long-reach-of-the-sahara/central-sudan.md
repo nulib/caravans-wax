@@ -1,5 +1,5 @@
 ---
 layout: presentation
-tour: lrots_central_sudan
+tour: long_reach_of_the_sahara_central_sudan
 permalink: /tour/long-reach-of-the-sahara/central-sudan/
 ---
