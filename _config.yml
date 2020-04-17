@@ -78,7 +78,6 @@ defaults:
       path: "_works"
       type: works
     values:
-      layout: work
       collection: works
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
