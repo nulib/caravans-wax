@@ -44,7 +44,7 @@ layout: default
   <dd>{{ description }}</dd>
 </dl>
 
-{% assign links = site[page.collection] | sort: 'order' | map: 'url' %}
+{% assign links = site[page.collection] | sort: 'pid' | map: 'url' %}
 {% for link in links %}
   {% if link == page.url %}
     {% if forloop.first %}
