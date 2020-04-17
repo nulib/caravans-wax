@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{% comment %}
+  Create page variables from work metadata to fill in this template
+{% endcomment %}
+
+{% assign label = site.translations[site.lang].works[page.pid]["label"] %}
+{% assign section = site.translations[site.lang].works[page.pid]["section"] %}
+{% assign date = site.translations[site.lang].works[page.pid]["_date"] %}
+{% assign region_culture_timeperiod = site.translations[site.lang].works[page.pid]["region_culture_timeperiod"] %}
+{% assign medium = site.translations[site.lang].works[page.pid]["medium"] %}
+{% assign dimensions = site.translations[site.lang].works[page.pid]["dimensions"] %}
+{% assign credit_line = site.translations[site.lang].works[page.pid]["credit_line"] %}
+{% assign description = site.translations[site.lang].works[page.pid]["description"] %}
+{% assign order = site.translations[site.lang].works[page.pid]["order"] %}
+{% assign full = site.translations[site.lang].works[page.pid]["full"] %}
+
+<h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
+
+<div class='item-view'>
+   <div class='image-viewer'>
+     <a href='{{ img_full | absolute_url }}'>
+       <img class='item-full-image' src='{{ full | absolute_url }}' alt='{{ label | slugify }}'/>
+     </a>
+   </div>
+</div>
+
+<dl class='metadata-block'>
+  <dt>Object Name</dt>
+  <dd>{{ label }}</dd>
+  <dt>Culture / Site</dt>
+  <dd>{{ region_culture_timeperiod }}</dd>
+  <dt>Date</dt>
+  <dd>{{ date }}</dd>
+  <dt>Dimensions</dt>
+  <dd>{{ dimensions }}</dd>
+  <dt>Credit Line</dt>
+  <dd>{{ credit_line }}</dd>
+  <dt>Section</dt>
+  <dd>{{ section }}</dd>
+  <dt>Description</dt>
+  <dd>{{ description }}</dd>
+</dl>
