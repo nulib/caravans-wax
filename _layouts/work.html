@@ -6,62 +6,110 @@ layout: default
   Create page variables from work metadata to fill in this template
 {% endcomment %}
 
-{% assign label = site.translations[site.lang].works[page.pid]["label"] %}
-{% assign section = site.translations[site.lang].works[page.pid]["section"] %}
-{% assign date = site.translations[site.lang].works[page.pid]["_date"] %}
-{% assign region_culture_timeperiod = site.translations[site.lang].works[page.pid]["region_culture_timeperiod"] %}
-{% assign medium = site.translations[site.lang].works[page.pid]["medium"] %}
-{% assign dimensions = site.translations[site.lang].works[page.pid]["dimensions"] %}
-{% assign credit_line = site.translations[site.lang].works[page.pid]["credit_line"] %}
-{% assign description = site.translations[site.lang].works[page.pid]["description"] %}
+{% if site.lang == 'en' %}
 
-<h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
+  {% assign label = site.translations[site.lang].works[page.pid]["label"] %}
+  {% assign section = site.translations[site.lang].works[page.pid]["section"] %}
+  {% assign date = site.translations[site.lang].works[page.pid]["_date"] %}
+  {% assign region_culture_timeperiod = site.translations[site.lang].works[page.pid]["region_culture_timeperiod"] %}
+  {% assign medium = site.translations[site.lang].works[page.pid]["medium"] %}
+  {% assign dimensions = site.translations[site.lang].works[page.pid]["dimensions"] %}
+  {% assign credit_line = site.translations[site.lang].works[page.pid]["credit_line"] %}
+  {% assign description = site.translations[site.lang].works[page.pid]["description"] %}
 
-<div class='item-view'>
-   <div class='image-viewer'>
-     <a href='{{ page.full }}'>
-       <img class='item-full-image' src='{{ page.full | absolute_url }}' alt='{{ label | slugify }}'/>
-     </a>
-   </div>
-</div>
+  <h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
 
-<dl class='metadata-block'>
-  <dt>Object Name</dt>
-  <dd>{{ label }}</dd>
-  <dt>Culture / Site</dt>
-  <dd>{{ region_culture_timeperiod }}</dd>
-  <dt>Date</dt>
-  <dd>{{ date }}</dd>
-  <dt>Dimensions</dt>
-  <dd>{{ dimensions }}</dd>
-  <dt>Credit Line</dt>
-  <dd>{{ credit_line }}</dd>
-  <dt>Section</dt>
-  <dd>{{ section }}</dd>
-  <dt>Description</dt>
-  <dd>{{ description }}</dd>
-</dl>
+  <div class='item-view'>
+     <div class='image-viewer'>
+       <a href='{{ page.full }}'>
+         <img class='item-full-image' src='{{ page.full | absolute_url }}' alt='{{ label | slugify }}'/>
+       </a>
+     </div>
+  </div>
 
-{% assign links = site[page.collection] | sort: 'pid' | map: 'url' %}
-{% for link in links %}
-  {% if link == page.url %}
-    {% if forloop.first %}
-      {% assign prevlink = links | last %}
-      {% assign nextlink = links[forloop.index] %}
-    {% elsif forloop.last %}
-      {% assign prevlink = prev %}
-      {% assign nextlink = links | first %}
-    {% else %}
-      {% assign prevlink = prev %}
-      {% assign nextlink = links[forloop.index] %}
+  <dl class='metadata-block'>
+    <dt>Object Name</dt>
+    <dd>{{ label }}</dd>
+    <dt>Culture / Site</dt>
+    <dd>{{ region_culture_timeperiod }}</dd>
+    <dt>Date</dt>
+    <dd>{{ date }}</dd>
+    <dt>Dimensions</dt>
+    <dd>{{ dimensions }}</dd>
+    <dt>Credit Line</dt>
+    <dd>{{ credit_line }}</dd>
+    <dt>Section</dt>
+    <dd>{{ section }}</dd>
+    <dt>Description</dt>
+    <dd>{{ description }}</dd>
+  </dl>
+
+  {% assign links = site[page.collection] | sort: 'pid' | map: 'url' %}
+  {% for link in links %}
+    {% if link == page.url %}
+      {% if forloop.first %}
+        {% assign prevlink = links | last %}
+        {% assign nextlink = links[forloop.index] %}
+      {% elsif forloop.last %}
+        {% assign prevlink = prev %}
+        {% assign nextlink = links | first %}
+      {% else %}
+        {% assign prevlink = prev %}
+        {% assign nextlink = links[forloop.index] %}
+      {% endif %}
     {% endif %}
-  {% endif %}
-  {% assign prev = link %}
-{% endfor %}
+    {% assign prev = link %}
+  {% endfor %}
 
-{% if prevlink and nextlink %}
-  <script type='text/javascript'>
-    $('#previous').append(`<a href='{{ prevlink | absolute_url }}' display='none' aria-hidden="true">&#8249;</a>`);
-    $('#next').append(`<a href='{{ nextlink | absolute_url }}' display='none' aria-hidden="true">&#8250;</a>`);
-  </script>
+  {% if prevlink and nextlink %}
+    <script type='text/javascript'>
+      $('#previous').append(`<a href='{{ prevlink | absolute_url }}' display='none' aria-hidden="true">&#8249;</a>`);
+      $('#next').append(`<a href='{{ nextlink | absolute_url }}' display='none' aria-hidden="true">&#8250;</a>`);
+    </script>
+  {% endif %}
+
+  {% else %}
+
+  {% assign label = site.translations[site.lang].works[page.pid]["label"] %}
+  {% assign caption = site.translations[site.lang].works[page.pid]["caption"] %}
+
+  <h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
+
+  <div class='item-view'>
+     <div class='image-viewer'>
+       <a href='{{ page.full }}'>
+         <img class='item-full-image' src='{{ page.full | absolute_url }}' alt='{{ label | slugify }}'/>
+       </a>
+     </div>
+  </div>
+
+  <dl class='metadata-block'>
+    <dt>Description</dt>
+    <dd>{{ caption }}</dd>
+  </dl>
+
+  {% assign links = site[page.collection] | sort: 'pid' | map: 'url' %}
+  {% for link in links %}
+    {% if link == page.url %}
+      {% if forloop.first %}
+        {% assign prevlink = links | last %}
+        {% assign nextlink = links[forloop.index] %}
+      {% elsif forloop.last %}
+        {% assign prevlink = prev %}
+        {% assign nextlink = links | first %}
+      {% else %}
+        {% assign prevlink = prev %}
+        {% assign nextlink = links[forloop.index] %}
+      {% endif %}
+    {% endif %}
+    {% assign prev = link %}
+  {% endfor %}
+
+  {% if prevlink and nextlink %}
+    <script type='text/javascript'>
+      $('#previous').append(`<a href='{{ prevlink | absolute_url }}' display='none' aria-hidden="true">&#8249;</a>`);
+      $('#next').append(`<a href='{{ nextlink | absolute_url }}' display='none' aria-hidden="true">&#8250;</a>`);
+    </script>
+  {% endif %}
+
 {% endif %}
