@@ -854,3 +854,708 @@ tours:
       img_alt: 'Courtyard'
       img_srcset: '/img/tour/shifting-away-from-the-sahara/shifting-away_600.jpg 600w, /img/tour/shifting-away-from-the-sahara/shifting-away_300.jpg 300w'
       caption: 'صورة فناء إما في الضريح الملكي أو في قصر ملك أشانتي، حيث يمكن رؤية الإبريق الأشانتي (ريتشارد إيوير الثاني)، حوالي 1887. الأرشيف الوطني للمملكة المتحدة، المرجع. CO1069 / 31(7). المصور غير معروف'
+
+works:
+  1:
+    pid: '1'
+    label: 'سرج الجمل (طارق أو تمزق)'
+    section: Saharan Echoes
+    _date: Date unknown (probably 20th century)
+    region_culture_timeperiod: 'الطوارق، الصحراء الجزائرية'
+    medium: 'الجلود، والجلد الخام غير المدبوغ، والخشب، والرَقّ أو الجلد الرقيق المستخدم للكتابة، والصوف، والحرير، والمعدن المطلي بالقصدير، والمعدن المطلي بالنحاس، والحديد، وسبائك النحاس، وجلد الفهد'
+    dimensions: 75 x 71 x 46 cm
+    credit_line: 'Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA, gift of the Estate of Dr. Lloyd Cabot Briggs, 1975, 975-32-50/11927. Photograph &copy; President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology '
+    description: 'Until the widespread domestication of the camel in the early centuries of the Common Era, historians believe, trans-Saharan trade and exchange was quite rare. Camels are ideal for Saharan movement: they rarely sweat, even in hot desert climates, and can conserve fluids for long periods of time. With camels to ride and to carry loads, the Tuareg and other Imazighen peoples of the Sahara once controlled the caravan routes that stretched across the desert. Their economy was based on herding and supplemented by the trade of salt. Tuareg nobility depended on artisans to produce wood, metal, and leather goods like this saddle. This example is too ornate to have been used for lengthy travel. It was made by covering a wooden core with dyed and tooled leather and then decorating the pommel and other parts with metal embellishments filled with geometric patterns. '
+    thumb_150: '/img/works/1/1_150x.jpg'
+    thumb_75: '/img/works/1/1_75x.jpg'
+    full: '/img/works/1/1_640x.jpg'
+  2:
+    pid: '2'
+    label: 'رسم الكمبري.  مستنسخة من جورج هجيرسينج هوست، تقارير عن المغرب وفاس (Efterretninger om Marokos og Fes: Samlede der i Landene fra ao. 1760 til 1768).'
+    section: Saharan Echoes
+    _date: '1779'
+    region_culture_timeperiod: 'كوبنهاجن، الدنمارك'
+    medium: 'غير معروف'
+    dimensions: Unknown
+    credit_line: "Melville J. Herskovits Library of African Studies, Northwestern University, Evanston, Melville J. Herskovits Library of African Studies, Northwestern University, Evanston, IL, DT308.H83 1779. Photograph by Clare Britt"
+    description: From at least the nineteenth century, the word _gnawa_ has been used in Morocco to refer to the descendants of enslaved people from the Western Sudan. The term is now associated with black Moroccans who entertain in public squares and on concert stages. The _guinbri_ is the most prestigious of all Gnawa musical instruments. This drawing of a _guinbri_ is from the account of Danish businessman and diplomat Georg Høst of his travels in Morocco. Published in 1779, it is the first known mention of a _guinbri_ in European literature. The instrument may derive from one that the fourteenth-century Muslim traveler Ibn Battuta described as being played at the court of the Mali Empire and that he called the _gunburi_.
+    thumb_150: '/img/works/2/2_150x.jpg'
+    thumb_75: '/img/works/2/2_75x.jpg'
+    full: '/img/works/2/2_640x.jpg'
+  3:
+    pid: '3'
+    label: 'زينة الرأس'
+    section: Saharan Echoes
+    _date: mid-20th century
+    region_culture_timeperiod: 'تكنة، العيون، الصحراء الغربية'
+    medium: 'شعر نايلون وبولي بروبيلين، عنبر، مرجان، صدف، فضة، عقيق وخرز زجاجي'
+    dimensions: 12.5 x 18 x 2.6 cm
+    credit_line: Art Institute of Chicago, Alsdorf Foundation-James and Marilynn Alsdorf Acquisition Fund, 2009.574. Photograph courtesy of The Art Institute of Chicago/Art Resource, NY
+    description: 'The Tekna live in the northwestern part of the Sahara and are descended from local Imazighen and Arabs who immigrated to the region between the fifteenth and seventeenth century. This Tekna headdress is made of braided and knotted synthetic hair, though in the past the hairs of a horse’s tail would have been used. Horses as well as the glass, silver, coral, shell, and hardstone beads that are used to the headdress harken back to the medieval circulation of these valued materials, exemplifying how the legacy of the past continues to impact the present.'
+    thumb_150: '/img/works/3/3_150x.jpg'
+    thumb_75: '/img/works/3/3_75x.jpg'
+    full: '/img/works/3/3_640x.jpg'
+  4:
+    pid: '4'
+    label: 'قطعة من زخارف جدارية مطلية'
+    section: Saharan Frontiers/Sijilmasa
+    _date: 9th/10th century
+    region_culture_timeperiod: 'تم التنقيب عنها في سجلماسة'
+    medium: 'قطعة من الجص'
+    dimensions: 21 x 19 cm
+    credit_line: Ministère de la culture et de la communication du Royaume du Maroc. Photograph by Fouad Mahdaoui
+    description: 'Sijilmasa was a sizeable and wealthy urban center in its heyday. The Andalusian historian and geographer Abu ‘Ubayd al-Bakri (d. 1094) described the city as “a wall with twelve gates. Within are beautiful houses, many having gardens, magnificent public buildings, a mosque that is solidly built, and baths that are poorly built.” This fragment of painted plaster bears a portion of an inscription from the Qur’an that would have read in full, “On no soul doth God place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns.” It was found at the site of an elite residence of the ninth or tenth century. Just a century or two later, a mosque was built on the same location.'
+    thumb_150: '/img/works/4/4_150x.jpg'
+    thumb_75: '/img/works/4/4_75x.jpg'
+    full: '/img/works/4/4_640x.jpg'
+  5:
+    pid: '5'
+    label: 'خاتم'
+    section: Saharan Frontiers/Sijilmasa
+    _date: 9th/10th century
+    region_culture_timeperiod: 'تم التنقيب عنه في سجلماسة'
+    medium: 'ذهب'
+    dimensions: Diameter 1.9 cm
+    credit_line: Fondation nationale des musées, Rabat, Morocco, NP2006-1. Photograph by Abdallah Fili and Hafsa El Hassani
+    description: 'This gold ring is one of only a few gold objects to have survived from medieval Saharan Africa, and it is important material evidence of Sijilmasa’s link to Saharan trade. A goldsmith made the ring by soldering thin flattened strips of gold in an undulating pattern to upper and lower bands. The ring was found in an elite residence and dates to an extended period of development of the city by local Amazigh rulers, the Bani Midrar. The gold-working technique resembles that of nineteenth- and twentieth-century Amazigh jewelry from the Sahara and Anti-Atlas Mountains.'
+    thumb_150: '/img/works/5/5_150x.jpg'
+    thumb_75: '/img/works/5/5_75x.jpg'
+    full: '/img/works/5/5_640x.jpg'
+  6:
+    pid: '6'
+    label: 'مزهرية منقوش عليها كلمة "البركة"'
+    section: Saharan Frontiers/Sijilmasa
+    _date: 11th century
+    region_culture_timeperiod: 'تم التنقيب عنها في سجلماسة'
+    medium: 'خزف مصقول'
+    dimensions: 25.4 x 17.8 x 14 cm
+    credit_line: Musée archéologique de Rabat, Morocco. Photograph by the Moroccan-American Project at Sijilmasa, 1988
+    description: 'Vast amounts of glazed and unglazed ceramic fragments—the remains of bowls, jugs, lamps, storage containers, and other items essential to daily life—have been excavated at sites north and south of the Sahara. This glazed and inscribed vase, from the eleventh century, is one of the best preserved ceramic objects excavated from Sijilmasa. Found west of the remains of Sijilmasa’s grand mosque, the vase bears a decorative inscription reading “al-Baraka” (the blessing) followed by  “Allah” (God) or “al-yawman” (prosperity).'
+    thumb_150: '/img/works/6/6_150x.jpg'
+    thumb_75: '/img/works/6/6_75x.jpg'
+    full: '/img/works/6/6_640x.jpg'
+  7:
+    pid: '7'
+    label: 'قطع من الأواني المنقطة'
+    section: Saharan Frontiers/Tadmekka
+    _date: '10th/14th century'
+    region_culture_timeperiod: 'مستخرجة من تادمكة، مالي'
+    medium: 'زجاج'
+    dimensions: Various dimensions
+    credit_line: 'Institut des sciences humaines, Bamako, Mali. Photograph by Clare Britt '
+    description: "The slightly arcing shapes of these small tubes of green glass, excavated at Essouk-Tadmekka, Mali, suggest they were likely part of small spouted bottles. Made in Egypt or western Asia, such bottles were used throughout the medieval Mediterranean
+    as containers for perfume or rose water. Material remnants of the long-distance trade of luxury glassware, fragments of glass vessels, have also been found at other medieval sites north and south of the Sahara Desert. "
+    thumb_150: '/img/works/7/7_150x.jpg'
+    thumb_75: '/img/works/7/7_75x.jpg'
+    full: '/img/works/7/7_640x.jpg'
+  8:
+    pid: '8'
+    label: 'إناء منقط'
+    section: Saharan Frontiers/Tadmekka
+    _date: ca. 800/1099
+    region_culture_timeperiod: 'ربما من مصر أو غرب آسيا'
+    medium: 'زجاج منفوخ'
+    dimensions: Height 6 cm, maximum width 9.9 cm; rim diameter 4.5 cm
+    credit_line: Collection of the Corning Museum of Glass, Corning, NY, 63.1.5
+    description: 'The slightly arcing shapes of small tubes of green glass, excavated at Essouk-Tadmekka, Mali, suggest they were likely part of small spouted bottles like this example. Made in Egypt or western Asia, such bottles were used throughout the medieval Mediterranean as containers for perfume or rose water. Material remnants of the long-distance trade of luxury glassware, fragments of glass vessels, have also been found at other medieval sites north and south of the Sahara Desert. '
+    thumb_150: '/img/works/8/8_150x.jpg'
+    thumb_75: '/img/works/8/8_75x.jpg'
+    full: '/img/works/8/8_640x.jpg'
+  9:
+    pid: '9'
+    label: 'قطعة من خزف تشينغباي'
+    section: Saharan Frontiers/Tadmekka
+    _date: 10/12th century
+    region_culture_timeperiod: 'الصين، سلالة سونغ الشمالية؛ تم استخراجها في تادمكة'
+    medium: 'بورسلين'
+    dimensions: 1.48 x 1.74 cm
+    credit_line: Institut des sciences humaines, Bamako, Mali, No. 17.1. Photograph by
+      Clare Britt
+    description: The commodities and manufactured goods that moved along trans-Saharan trade routes were often destined for markets at astonishing distances from their places of origin. This small fragment of celadon porcelain that was excavated at the site of Essouk-Tadmekka, Mali, is a type known as Qingbai ware. Produced in
+    southeastern China, Qingbai pottery was widely exported between the tenth and twelfth century and was exchanged along routes moving from market to market in a process called relay trade. Fragments of Qingbai ware have been found at medieval sites
+    from Central Asia to Egypt and across the Sahara. The shape of this fragment suggests that it once formed part of the rim of a bowl.
+    thumb_150: '/img/works/9/9_150x.jpg'
+    thumb_75: '/img/works/9/9_75x.jpg'
+    full: '/img/works/9/9_640x.jpg'
+  10:
+    pid: '10'
+    label: 'وعاء مطلي برذاذ وردي منمق'
+    section: Saharan Frontiers/Tadmekka
+    _date: 12th century
+    region_culture_timeperiod: 'الصين، سلالة سونغ الشمالية؛ تم استخراجه في تادمكة'
+    medium: 'بورسلين مزخرف بالزجاج المنحوت'
+    dimensions: Height 7.1 cm, diameter 20.1 cm
+    credit_line: Art Institute of Chicago, bequest of Russell Tyson, 1964.847. Photograph courtesy of The Art Institute of Chicago/Art Resource, NY
+    description: 'The commodities and manufactured goods that moved along trans-Saharan trade routes were often destined for markets at astonishing distances from their places of origin. Produced in southeastern China, Qingbai pottery was widely exported between the tenth and twelfth century and was exchanged along routes moving from market to market in a process called relay trade. Fragments of Qingbai ware have been found at medieval sites from Central Asia to Egypt and across the Sahara. '
+    thumb_150: '/img/works/10/10_150x.jpg'
+    thumb_75: '/img/works/10/10_75x.jpg'
+    full: '/img/works/10/10_640x.jpg'
+  11:
+    pid: '11'
+    label: 'قطع من وعاء تراكوتا'
+    section: Saharan Frontiers/Tadmekka
+    _date: '10th/14th century'
+    region_culture_timeperiod: 'مستخرجة من تادمكة، مالي'
+    medium: 'خزف'
+    dimensions: Various dimensions
+    credit_line: 'Institut des sciences humaines, Bamako, Mali. Photograph by Kathleen Bickford Berzock, 2016'
+    description: 'Vast amounts of unglazed ceramic fragments—the remains of bottles, bowls, jars, storage containers, and other items essential to daily life—have been excavated at multiple sites in the Western Sudan region and even north of the Sahara at sites including Sijilmasa. Decorated with imprinted roulette patterns or slip-painted motifs, these vessels were used domestically for cooking and food storage. Such terracotta containers also transported commodities including grains and fish from Mali’s fertile Inland Niger Delta across vast distances.'
+    thumb_150: '/img/works/11/11_150x.jpg'
+    thumb_75: '/img/works/11/11_75x.jpg'
+    full: '/img/works/11/11_640x.jpg'
+  12:
+    pid: '12'
+    label: بوتقة
+    section: Saharan Frontiers/Gao
+    _date: 8th/10th century
+    region_culture_timeperiod: 'مستخرجة من غاو ساني، مالي'
+    medium: 'تراكوتا'
+    dimensions: Maximum width 4.8 cm
+    credit_line: Direction nationale du patrimoine culturel, Bamako, Mali. Photograph
+      by Seydou Camara
+    description: 'This small crucible recovered from the site of Gao Saney was used in glass bead making. Glass beads, which were produced at many locales and exchanged across vast distances, provide a microcosm for considering the complex networks that met at Gao Saney. Approximately two-thirds of the beads are from the lower occupation levels, dated to the eighth to tenth century, and many of those were found in trenches in broken, malformed, or unfinished condition. The evidence from these trenches is especially compelling, suggesting that Gao Saney was a production site for recycling and remaking imported glass. At Gao Ancien, in contrast, most excavated beads had been finished. '
+    thumb_150: '/img/works/12/12_150x.jpg'
+    thumb_75: '/img/works/12/12_75x.jpg'
+    full: '/img/works/12/12_640x.jpg'
+  14:
+    pid: '14'
+    label: 'قطعتين من الخزف المزجج وقطعة من المرمر المنحوت'
+    section: Saharan Frontiers/Gao
+    _date: 10th/11th century
+    region_culture_timeperiod: 'مستخرجة من غاو، مالي'
+    medium: 'خزف، مرمر'
+    dimensions: Various dimensions
+    credit_line: Musée national du Mali, Bamako. Photograph by Seydou Camara
+    description:
+      'Decorative glazed ceramics in a number of distinctive styles were transported across the Sahara, and fragments have been recovered at multiple sites. The large fragment of lusterware (center) and of splashware (right) were excavated at Gao in Mali, as was the piece of carved alabaster (left), which likely came from a source in Egypt or Syria. Lusterware was among the most ingenious innovations of Arab potters, who mixed silver sulfides and copper oxides to create a shiny, metallic sheen on the surface of glazed earthenware bowls, plates, and other utilitarian vessels. The decorative ware was popular in Egypt and greater Syria during the Fatimid period (909–1171). The technique also spread to North Africa and Andalusia, including the cities of Malaga and Valencia. Wide appreciation of lusterware is unsurprising given the pottery’s similarities to the shimmering sparkle of gold.'
+    thumb_150: '/img/works/14/14_150x.jpg'
+    thumb_75: '/img/works/14/14_75x.jpg'
+    full: '/img/works/14/14_640x.jpg'
+  15:
+    pid: '15'
+    label: 'صورة ركوع'
+    section: Saharan Frontiers/Connecting Trade to the Niger River
+    _date: 12th/14th century
+    region_culture_timeperiod: 'مستخرجة من ناتاماتاو، منطقة موبتي، مالي'
+    medium: 'تراكوتا'
+    dimensions: 46 x 22.4 x 21.5 cm
+    credit_line: Musée national du Mali, Bamako, 90.25.10. Photograph by Seydou Camara
+    description: 'This terracotta figure of a seated man was found at Natamatao, Mali, alongside skeletons of horses and humans. It was part of a widespread local terracotta sculpture tradition that stretched from the tenth to the fifteenth century. The Niger River’s fertile inland delta supported a thriving urbanism in the Middle Ages that included more than sixty interdependent communities. At Natamatao, excavations unearthed materials associated with trans-Saharan trade, notably a bundle of imported copper ingots. Bracelets and pendants, like those depicted this figure, might well have been made of brass, a copper alloy.'
+    thumb_150: '/img/works/15/15_150x.jpg'
+    thumb_75: '/img/works/15/15_75x.jpg'
+    full: '/img/works/15/15_640x.jpg'
+  16:
+    pid: '16'
+    label: 'حصان'
+    section: Saharan Frontiers/Connecting Trade to the Niger River
+    _date: 12th/14th century
+    region_culture_timeperiod: 'مستخرجة من ناتاماتاو، منطقة موبتي، مالي'
+    medium: 'تراكوتا'
+    dimensions: 37.7 x 23.5 x 45 cm
+    credit_line: Musée national du Mali, Bamako, 2002.17.16. Photograph by Seydou Camara
+    description: 'This terracotta figure of a horse was found at Natamatao, Mali, alongside skeletons of horses and humans. It was part of a widespread local terracotta sculpture tradition that stretched from the tenth to the fifteenth century. The Niger River’s fertile inland delta supported a thriving urbanism in the Middle Ages that included more than sixty interdependent communities. At Natamatao, excavations unearthed materials associated with trans-Saharan trade, notably a bundle of imported copper ingots. The depiction of horses likewise points to commerce, as they were traded across the Sahara.'
+    thumb_150: '/img/works/16/16_150x.jpg'
+    thumb_75: '/img/works/16/16_75x.jpg'
+    full: '/img/works/16/16_640x.jpg'
+  17:
+    pid: '17'
+    label: 'جزء من بطانية منسوجة'
+    section: Saharan Frontiers/Connecting Trade to the Niger River
+    _date: 15th century
+    region_culture_timeperiod: 'تم استخراجها lمن كهف باندياجارا إسكاربمنت، تيلم، مالي'
+    medium: 'منسوجات من القطن والصوف'
+    dimensions: 60 x 84 cm
+    credit_line: Musée national du Mali, Bamako, Y-74-22. Photograph by Seydou Camara
+    description: 'The woven textiles found among burial remains in the caves of the Bandiagara Cliffs east of Mali’s Inland Niger Delta are among the oldest surviving textiles from West Africa, with dates beginning in the eleventh century. As such, they provide important evidence for the longevity of weaving and dyeing technologies in the region. Large blanket fragments incorporate patterns shared by the Amazigh and Fulani peoples of the Sahara. The blanket itself is assembled from multiple woven bands, establishing the antiquity of a weaving technology unique to West Africa.'
+    thumb_150: '/img/works/17/17_150x.jpg'
+    thumb_75: '/img/works/17/17_75x.jpg'
+    full: '/img/works/17/17_640x.jpg'
+  18:
+    pid: '18'
+    label: 'خرزة مخروطية ثنائية الاتجاه'
+    section: Saharan Frontiers/Connecting Trade to the Niger River
+    _date: 19th/20th century
+    region_culture_timeperiod: 'فولاني، السنغال'
+    medium: 'فضة مطلية بالذهب'
+    dimensions: 10.2 x 6 cm
+    credit_line: Detroit Institute of Arts, Detroit, MI, Founders Society Purchase, Eleanor Clay Ford Fund for African Art, 77.10
+    description: This biconical, or double-cone-shaped, bead made in the late nineteenth or early twentieth century shares the shape of biconical beads from the medieval period. It is likely that the style continued to be produced in the region from the eleventh century onward; however, the beads are not exactly comparable. This later bead was cast in silver and then covered with a thin layer of gold over its surface, a technique called gilding. The surface of the bead is embellished with wire filigree, thin metal strips applied in a pattern, and granulation, small spheres of gold.
+    thumb_150: '/img/works/18/18_150x.jpg'
+    thumb_75: '/img/works/18/18_75x.jpg'
+    full: '/img/works/18/18_640x.jpg'
+  19:
+    pid: '19'
+    label: 'نُصب حجري'
+    section: Saharan Frontiers/Connecting Trade to the Niger River
+    _date: 12th century
+    region_culture_timeperiod: 'مقبرة ساني، غاو، مالي'
+    medium: 'رخام'
+    dimensions: 87 x 45 cm
+    credit_line: Musée national du Mali, Bamako, R88-19-279. © Marie-Lan Nguyen/Wikimedia Commons. Shared under CC-BY 4.0 license
+    description: 'Arabic literacy traveled across the Sahara along with books, inscribed objects, and religious practices, as an offshoot of trans-Saharan trade. The twelfth-century marble grave monument  from the cemetery that lies near the archaeological site of Gao Saney, Mali, is inscribed with a poem inspired by a Qur’anic verse that reads in part, “... alone, He has no partner, and Muhammed is His servant and His messenger. He lived and died faithful to this religion and will live again if it is God’s will—May God have mercy on whomever asks for mercy for him.” It is likely one of a pair of stones; the other would have borne the name, title, and dates of a member of Gao’s ruling class. The stone is one of five surviving monuments made in Alméria, Spain, and transported across the Sahara Desert for clients in Gao.'
+    thumb_150: '/img/works/19/19_150x.jpg'
+    thumb_75: '/img/works/19/19_75x.jpg'
+    full: '/img/works/19/19_640x.jpg'
+  20:
+    pid: '20'
+    label: 'أعيدت صياغة حجر الرحى على أنه شاهد قبر'
+    section: Saharan Frontiers/The Movement of Language, People, and Ideas
+    _date: 13th/17th century
+    region_culture_timeperiod: 'مقبرة تفديت، جيبوك، مالي'
+    medium: 'حجر'
+    dimensions: 46.5 x 24 x 7.5 cm
+    credit_line: Direction nationale du patrimoine culturel, Bamako, Mali, 2002. Photograph by Seydou Camara
+    description: Originally a grindstone, the bottom half of an apparatus for processing grain, this stone was inscribed with Arabic script by a local artisan at some time between the thirteenth and seventeenth century and repurposed as a grave monument at the same cemetery. Its accompanying top stone, used for processing grain in tandem with the grindstone, was likewise inscribed with Arabic script.
+    thumb_150: '/img/works/20/20_150x.jpg'
+    thumb_75: '/img/works/20/20_75x.jpg'
+    full: '/img/works/20/20_640x.jpg'
+  21:
+    pid: '21'
+    label: "القاضي عياض، (كتاب الشفاَ بتعريف حقوق المصطفى)"
+    section: Saharan Frontiers/The Movement of Language, People, and Ideas
+    _date: Unknown date
+    region_culture_timeperiod: شمال إفريقيا
+    medium: 'حبر ملون وأوراق ذهبية'
+    dimensions: 30.5 x 58 cm
+    credit_line: 'Institut des hautes études et de recherches islamiques Ahmed Baba, Timbuktu,165. Photograph by Seydou Camara'
+    description: 'During the medieval period, the Arabic language and the Islamic faith spread together along trade routes across the Sahara and then gradually across Africa’s Western Sudan region. Few West African manuscripts from the medieval period survive today, and the earliest known date from the sixteenth century. However, the legacy of the movement of Arabic into West Africa is found in books like this _Life of the Prophet_ text, which reflects the linked movement of language, faith, and trade. The scholar Al-qadi wrote a biography of the Prophet Mohammad with devotional instructions in the twelfth century. This manuscript is likely a later copy produced in North Africa and imported across the Sahara at an unknown time. It is one of about forty thousand manuscripts in the collection of Mali’s Institut des hautes études et de recherches islamiques Ahmed Baba, most acquired from private family libraries in centers of Islamic learning across Mali.'
+    thumb_150: '/img/works/21/21_150x.jpg'
+    thumb_75: '/img/works/21/21_75x.jpg'
+    full: '/img/works/21/21_640x.jpg'
+  22:
+    pid: '22'
+    label: 'نسيج يحتوي على تعويذات'
+    section: Saharan Frontiers/The Movement of Language, People, and Ideas
+    _date: Late 19th or early 20th century
+    region_culture_timeperiod: ربما السنغال
+    medium: 'ألواح منسوجة من القطن (4) متصلة وملونة، مع تمائم وتعاويذ من جلد حيوانات محشو ولُبّادَة مربوطة بسيور من جلد معقود'
+    dimensions: 255.2 x 178.8 cm
+    credit_line: Art Institute of Chicago, African and Amerindian Purchase Endowment,
+      2000.326. Photograph courtesy of The Art Institute of Chicago/Art Resource, NY
+    description: 'This large textile is covered with Qur’anic verses in Arabic script. The elongated figure may represent a lizard, a spirit, or a stylized rendering of the name Muhammad, while the red checkered motifs recall magic squares, arrangements of numbers that always amount to the same sum, no matter the direction they are added. The attached amulets likely encase small squares of folded paper with sacred writing. Across Senegal, Sufi practitioners apply esoteric knowledge of the Qur’an and other sacred texts to the therapeutic practices of divination, healing, and spiritual protection. The textile may have been lent or rented to clients as needed by the practitioner who created it.'
+    thumb_150: '/img/works/22/22_150x.jpg'
+    thumb_75: '/img/works/22/22_75x.jpg'
+    full: '/img/works/22/22_640x.jpg'
+  23:
+    pid: '23'
+    label: 'ليون الأفريقي، كتاب (وصف أفريقيا)'
+    section: Saharan Frontiers/The Movement of Language, People, and Ideas
+    _date: '1556'
+    region_culture_timeperiod: أنتويرب
+    medium: 'غير معروف'
+    dimensions: Unknown
+    credit_line: Melville J. Herskovits Library of African Studies, Northwestern University, Evanston, IL, 916 L576.2. Photograph by Clare Britt
+    description: '_Description of Africa_, written by the diplomat and scholar Al-Hassan Ibn Muhammad al-Wazzan, also known as Leo Africanus, was first published in 1526. Born in Fez, Morocco, al-Wazzan was captured while on board a ship in the Mediterranean Sea and imprisoned in Rome for nine years by order of the pope. He based his account partly on his own experiences traveling to locations including Cairo and across the Sahara to Timbuktu, which was then part of the Songhai Empire. The book, which was composed in Italian, was the first description of Africa published in Europe for a largely European and Christian readership hungry to know more about the continent’s geography, people, and resources. This Latin translation was published in 1556.'
+    thumb_150: '/img/works/23/23_150x.jpg'
+    thumb_75: '/img/works/23/23_75x.jpg'
+    full: '/img/works/23/23_640x.jpg'
+  24:
+    pid: '24'
+    label: غطاء من الحرير المنقوش المُقلم
+    section: Saharan Frontiers/Mansa Musa's Hajj to Mecca
+    _date: Mamluk period, 14th century
+    region_culture_timeperiod: مصر أو سوريا
+    medium: 'قماش لامباس فاخر، حرير وذهبي'
+    dimensions: 14 x 15.5 x 10.5 cm
+    credit_line: The Cleveland Museum of Art, Cleveland, OH, purchase from the J.H. Wade Fund, 1985.5. Photograph courtesy of The Cleveland Museum of Art
+    description: 'During his sojourn in Cairo, Mansa Musa was received by the sultan al-Nasir al-Din Muhammad, who showered him with gifts including a skullcap with caliphal emblems. The cap undoubtedly resembled this luxurious example from the same time period, which is inscribed “Glory to our lord sultan al-Malik al-Nasir.”'
+    thumb_150: '/img/works/24/24_150x.jpg'
+    thumb_75: '/img/works/24/24_75x.jpg'
+    full: '/img/works/24/24_640x.jpg'
+-
+    pid: '25'
+    label: 'خاتم التوقيع'
+    section: Saharan Frontiers/Mansa Musa's Hajj to Mecca
+    _date: 15th/16th century
+    region_culture_timeperiod: 'إيران'
+    medium: Silver
+    dimensions: 3.18 cm x 2.54 cm
+    credit_line: Los Angeles County Museum of Art, Los Angeles, CA, The Nasli M. Heeramaneck Collection, gift of Joan Palevsky, M.73.5.336
+    description: 'The historian and geographer Abu ‘Ubayd al-Bakri (d. 1094) provided information about Saharan caravan trade to a readership hungry to learn about faraway trading partners. In his _Book of Routes and Realms_, published in 1063, al-Bakri describes royal succession in Kawkaw, the medieval name for Gao: “When a king ascends the throne, he is handed a signet ring, a sword, and a copy of the Qur’an, which, as they assert, were sent to them by the Commander of the Faithful. Their king is a Muslim, for they entrust their kingship only to Muslims.” A sword and jewelry were among the diplomatic gifts received by Mansa Musa.'
+    thumb_150: '/img/works/25/25_150x.jpg'
+    thumb_75: '/img/works/25/25_75x.jpg'
+    full: '/img/works/25/25_640x.jpg'
+-
+    pid: '26'
+    label: 'أبراهام كريسكيز (؟). أطلس الخرائط البحرية (الأطلس الكتالوني)'
+    section: Driving Desires
+    _date: '1375'
+    region_culture_timeperiod: 'فرنسا'
+    medium: 'مخطوطة مضيئة مثبتة على ست ألواح خشبية'
+    dimensions: Each panel 64.5 x 25 cm
+    credit_line: Bibliothèque nationale de France, Paris, France, Ms. Espagnol 30
+    description: 'This lavish map was possibly commissioned by the King of Aragon for Charles V, the king of France, and may have been produced by the Jewish cartographer Abraham Cresques. It was completed in 1375. The Crown of Aragon, a confederation of powerful territories that included parts of the Iberian Peninsula and islands in the Mediterranean, was well situated to be a commercial powerhouse. The Catalan Atlas demonstrates the significant European interest in global commerce and the prominence of West Africa in these networks of exchange. Mansa Musa, the emperor of Mali, is prominently depicted on the second panel seated on a throne and holding a golden orb in one hand. The caption reads: “This Moorish ruler is named Musse Melly [Mansa Musa], lord of Guinea. This king is the richest and most distinguished ruler of this whole region on account of the great quantity of gold that is found in his lands.”'
+
+    link_label: View Map Manuscript
+    link_url: https://gallica.bnf.fr/ark:/12148/btv1b52509636n
+    layout: fragment_parallax
+
+    thumb_150: '/img/works/26/26_150x.jpg'
+    thumb_75: '/img/works/26/26_75x.jpg'
+    full: '/img/tour/atlas-of-maritime.jpg'
+    images:
+      - label:  'Example section 1'
+        url: '/img/works/26/26_1_640x.jpg'
+      - label:  'Example section 2'
+        url: '/img/works/26/26_2_640x.jpg'
+      - label:  'Example section 3'
+        url: '/img/works/26/26_3_640x.jpg'
+  27:
+    pid: '27'
+    label: 'عملات هونوريوس الذهبية'
+    section: Driving Desires
+    _date: 395/400
+    region_culture_timeperiod: 'ميلان، إيطاليا'
+    medium: 'ذهب'
+    dimensions: Diameter 1.23 cm
+    credit_line: Musée archéologique de Rabat, Morocco, 24.3. Photograph by Fouad Mahdaoui
+    description: The origins of trans-Saharan gold trade likely date to the fourth century CE. Roman outposts in North Africa were well positioned to undertake this trade and to disseminate gold and other commodities into the wider Roman world. The first gold solidus coin, featuring a portrait of the emperor Honorius in profile, was issued by the Roman Empire in 312 and weighed 4.5 grams.  The measure and its increments became standard units for weighing gold wherever Roman coins were used, and they continued to be used by Islamic states in North Africa and the Middle East during the Middle Ages. It is possible that this system was also transferred via trans-Saharan trade to West Africa, where it was used in the nineteenth-century gold weights in the Akan region of Ghana.
+    thumb_150: '/img/works/27/27_150x.jpg'
+    thumb_75: '/img/works/27/27_75x.jpg'
+    full: '/img/works/27/27_640x.jpg'
+  28:
+    pid: '28'
+    label: "دينار أبو عنان فارس (حكم من 1348-1358)"
+    section: Driving Desires
+    _date: 14th century
+    region_culture_timeperiod: 'تم التنقيب عنه في سجلماسة، المغرب'
+    medium: 'ذهب'
+    dimensions: Diameter 1 cm
+    credit_line: Collection de Bank al-Maghrib, Bank centrale du Royaume de Maroc, 533341. Photograph by Fouad Mahdaoui
+    description: "Derived from the standard of the Roman solidus, the dinar was an Islamic currency with a common weight of 4.5 grams. Introduced in the seventh century, dinars were minted at sites throughout the Mediterranean, often using West African gold. A dinar was of significant value and was primarily used only for large expenditures. This dinar was minted at Sijilmasa, Morocco, which was one of the most productive mints due to its close proximity to the West African gold sources. The inscription on the dinar records the political leadership of Abu ‘Inan Faris and establishes Sijilmasa as a major center of trade and production."
+    thumb_150: '/img/works/28/28_150x.jpg'
+    thumb_75: '/img/works/28/28_75x.jpg'
+    full: '/img/works/28/28_640x.jpg'
+  29:
+    pid: '29'
+    label: 'عملة الفلورين، مع وضع شعار فلورنسا (وجه العملة) ويوحنا المعمدان (الوجه الآخر)'
+    section: Driving Desires
+    _date: 1252/1303
+    region_culture_timeperiod: 'مصكوك في فلورنسا، إيطاليا'
+    medium: 'ذهب'
+    dimensions: Diameter 1.23 cm
+    credit_line: 'American Numismatic Society, New York, 1954.237.214. Photograph courtesy of the American Numismatic Society '
+    description: 'In 1252 the city-state of Florence in Italy adopted the gold standard and began minting its own currency. This adoption was supported by an influx of gold from West Africa via trans-Saharan trade routes. Florins were stamped with a fleur-de-lis on one side and an image of John the Baptist, the patron saint of the city of Florence, on the other. A mint mark appears above John the Baptist’s right hand, indicating where the coin was produced. Florins could also be hammered out to form valuable gold leaf, which was used to embellish objects including religious paintings.'
+    layout: fragment_parallax
+    thumb_150: '/img/works/29/29_1_150x.jpg'
+    thumb_75: '/img/works/29/29_1_75x.jpg'
+    full: '/img/works/29/29_1_640x.jpg'
+    images:
+      - label:  'Obverse'
+        url: '/img/works/29/29_2_640x.jpg'
+      - label:  'Reverse'
+        url: '/img/works/29/29_1_640x.jpg'
+  30:
+    pid: '30'
+    label: '<i>تتويج العذراء</i>'
+    section: Driving Desires
+    _date: 15th century
+    region_culture_timeperiod: 'إيطاليا'
+    medium: 'زخرفة وذهب على لوحة'
+    dimensions: 76.2 x 55.9 cm
+    credit_line: Loyola University Museum of Art, Chicago, IL, the Martin D’Arcy, S.J., Collection, gift of Eileen O'Shaughnessy, 1985, 1985:03. Photograph by Clare Britt
+    description: Medieval Christian artworks were often embellished with gold leaf. In this panel painting from Italy, Christ places a crown on the head of his mother Mary, symbolizing her role as Queen of Heaven. Angels and other holy figures fill the heavenly space that is conveyed by the golden background. Much of the gold used in Italy came from West Africa through trans-Saharan trade routes. Beginning in the thirteenth century, Italian city-states such as Florence and Venice began minting gold coins largely made from West African gold. These coins were beaten into thin sheets of foil, which were then used as gold leaf. From one coin, craftsmen could make more than one hundred leaves.
+    thumb_150: '/img/works/30/30_150x.jpg'
+    thumb_75: '/img/works/30/30_75x.jpg'
+    full: '/img/works/30/30_640x.jpg'
+  31:
+    pid: '31'
+    label: 'خرزة مخروطية ثنائية الاتجاه'
+    section: Driving Desires
+    _date: 10th/11th century
+    region_culture_timeperiod: 'مصر أو سوريا'
+    medium: 'ذهب، مخرّم، وحبيبات، وسلك "حبل"'
+    dimensions: Length 7.2 cm
+    credit_line: Photograph &copy; The Aga Khan Museum, Toronto, AKM610
+    description: "The wealthy and powerful Fatimid Caliphate (909–1171), which ruled across North Africa, Egypt, and Syria, was active in Mediterranean, Indian Ocean, and trans-Saharan trade networks. Its rulers vied with the Umayyads of Spain for access to West African gold and for control of major trading cities like Sijilmasa. This large and elaborate Fatimid bead is composed of two filigree cones joined along a central seam, a shape that originates from antiquity. Filigree is a complex technique that is based on the soldering of fine-gauge wires to a base sheet, where goldsmiths twist thin sheets of metal and create a visually compelling decoration. Biconical beads became dispersed widely across the Mediterranean and the Sahara in the medieval period. Small terracotta beads from Gao, Mali, feature the same double-cone shape, showing evidence of this form’s movement."
+    thumb_150: '/img/works/31/31_150x.jpg'
+    thumb_75: '/img/works/31/31_75x.jpg'
+    full: '/img/works/31/31_640x.jpg'
+  32:
+    pid: '32'
+    label: 'ورقة من "المصحف الأزرق"، الجزء الثاني، سورة البقرة: الآيات 148-150'
+    section: Driving Desires
+    _date: 9th/10th century
+    region_culture_timeperiod: 'العراق أو إيران أو تونس'
+    medium: 'ذهب وفضة على ورق أزرق اللون'
+    dimensions: 28.5 x 35.3 cm
+    credit_line: Photograph &copy; The Aga Khan Museum, Toronto, AKM248
+    description: "The page of this sumptuous Qur’an features gold and silver script on indigo-colored parchment. The Blue Qur’an was housed in the library of the Great Mosque of Kairouan in Tunisia from at least 1294. Today more than one hundred of its 600 pages are dispersed in collections around the world and more than sixty
+    are still in Tunisia. Although scholars disagree on the precise origins of this sumptuous book, the use of gold and silver script on parchment colored a deep blue nevertheless signals competition with the expensive purple-dyed manuscripts (from the murex sea snail) also circulating in courts around the Mediterranean basin. During the medieval period, a shared manuscript culture among Muslims, Christians, and Jews extended across North Africa, the Middle East, and Europe. Common elements in this manuscript tradition included elegant calligraphy, colorful embellishments including gold, and decorative leather bindings. Gold and leather, both prominently used in bookmaking, were imported from West Africa. Book culture likewise spread to West Africa as Islam spread across the Sahara Desert."
+    thumb_150: '/img/works/32/32_150x.jpg'
+    thumb_75: '/img/works/32/32_75x.jpg'
+    full: '/img/works/32/32_640x.jpg'
+  33:
+    pid: '33'
+    label: 'أخلاق الآباء (Pirkei Avot)، السيدور (كتاب الصلاة)'
+    section: Driving Desires
+    _date: Late 15th century
+    region_culture_timeperiod: 'لشبونة'
+    medium: 'حبر، ألوان مائية غير شفافة، وذهب على مخطوطة'
+    dimensions: Unknown
+    credit_line: The Library of the Jewish Theological Seminary of America, New York, NY, Ms. 8235. Photograph courtesy of The Library of the Jewish Theological Seminary of America
+    description: 'This siddur, a Jewish prayer book, reflects a taste for delicate tracery penwork. Key pages are also embellished with gold leaf and watercolor. Gold&mdash;much of it coming from West Africa&mdash;was an important artistic material across the three of the major Mediterranean faiths of the medieval period: Judaism, Christianity, and Islam. Jewish artisans, who often worked with gold, made significant contributions to art and culture during the Middle Ages, creating works for Jewish, Muslim, and Christian clients.'
+    thumb_150: '/img/works/33/33_150x-0.jpg'
+    thumb_75: '/img/works/33/33_75x-0.jpg'
+    full: '/img/works/33/33_640x-0.jpg'
+  34:
+    pid: '34'
+    label: 'العذراء والطفل'
+    section: Driving Desires
+    _date: ca. 1275/1300
+    region_culture_timeperiod: 'فرنسا'
+    medium: 'عاج مطلي'
+    dimensions: 36.8 x 16.5 x 12.7 cm
+    credit_line: 'The Metropolitan Museum of Art, New York, gift of J. Pierpont Morgan, 1917, 17.190.295. Image &copy; The Metropolitan Museum of Art. Image source: Art Resource, NY'
+    description: "Ivory tusks were among the luxury commodities traded across the Sahara Desert alongside gold. Two elephant subspecies are found in West Africa: the Savanna elephant, which is the largest of all elephant species, and the forest elephant. The tusks of both elephants were circulated through medieval trans-Saharan trade. Large-scale Virgin and Child statuettes represent the apex of ivory carving in the medieval period in France, and this sculpture is among the largest. Measuring 16.5 cm in diameter at its widest point, the solid statuette could only have been  made from the tusk of a Savanna elephant. The artist has maximized the size of the figures of the Virgin and Child obtained from the large tusk and augmented it further by adding separate ivory pieces to make the throne. This statuette was finished with fine details in paint and gold. "
+    thumb_150: '/img/works/34/34_150x.jpg'
+    thumb_75: '/img/works/34/34_75x.jpg'
+    full: '/img/works/34/34_640x.jpg'
+  35:
+    pid: '35'
+    label: 'تابوت'
+    section: Driving Desires
+    _date: 12th century
+    region_culture_timeperiod: 'صقلية'
+    medium: 'عاج، نحاس، وزخارف، وورق ذهبي'
+    dimensions: 9.5 x 15.9 x 9.7 cm
+    credit_line: Art Institute of Chicago, Samuel P. Avery Endowment, 1926.389. Photograph courtesy of The Art Institute of Chicago/Art Resource, NY
+    description: 'This ivory box, or casket, was made on the island of Sicily, off the southern tip of Italy, not long after the Norman conquest. The Arabic-speaking Muslim population of Sicily was not entirely displaced by the Normans, and these communities—and their commercial connections—contributed significantly to a unique visual culture that flourished under Norman rule. The box is embellished with gold leaf and copper fittings, valuable materials that circulated along with ivory across networks that were central to trans-Saharan trade. An inscription in Arabic reads “May glory endure.”'
+    thumb_150: '/img/works/35/35_150x.jpg'
+    thumb_75: '/img/works/35/35_75x.jpg'
+    full: '/img/works/35/35_640x.jpg'
+  36:
+    pid: '36'
+    label: '<i>تتويج العذراء</i>'
+    section: Driving Desires
+    _date: ca. 1480
+    region_culture_timeperiod: 'إنجليزي'
+    medium: 'خيط ذهبي وحريري على كتان'
+    dimensions: 29.5 x 32.4 cm
+    credit_line: 'Loyola University Museum of Art, Chicago, IL, the Martin D’Arcy, S.J., Collection, gift of D.F. Rowe, S.J., in memory of Mrs. Mary Flannery, 1976:01. Photograph by Clare Britt'
+    description: This densely embroidered textile fragment depicting the Coronation of the Virgin, a popular Christian story of the period, was likely once part of a vestment, or ceremonial robe. While documents of the period suggest that luxurious embroidered garments were worn by the elite, the majority of surviving embroideries were made for use in the church.  Generous amounts of gold thread are incorporated into the scene. Despite the discovery of gold deposits in Europe in the later Middle Ages, West African gold continued to be highly prized for its quality and purity. A mid-seventeenth-century shipwreck offers compelling evidence for the export of West African gold to England. The ship sank off the coast of Devon, England, carrying scraps of gold jewelry, ingots, and more than 400 gold coins, most of them minted in Morocco between the eleventh and seventeenth century.
+    thumb_150: '/img/works/36/36_150x.jpg'
+    thumb_75: '/img/works/36/36_75x.jpg'
+    full: '/img/works/36/36_640x.jpg'
+  37:
+    pid: '37'
+    label: 'تمثال كبير'
+    section: The Long Reach of the Sahara
+    _date: 1st millennium BCE
+    region_culture_timeperiod: 'حضارة النوق، نيجيريا'
+    medium: 'تراكوتا'
+    dimensions: 68 cm high
+    credit_line: 'National Commission for Museums and Monuments, Abuja, Nigeria, IFA 1 881–1885. Photograph by Stefan Rühl, Werbefotografie Rühl & Bormann, Darmstadt. Photograph © Goethe-Universität Frankfurt, Institut für Archäologische Wissenschaften, Archäologie und Archäobotanik Afrikas, Germany'
+    description: "This standing figure from the Nok Culture in North-Central Nigeria is one of the oldest known terracotta sculptures to be excavated from a site in Africa.
+    \ Dating to the first century CE, it is one of over 1,000 such figures that have
+    been excavated in the region, pointing to a rich material culture in the Central
+    Sudan long before the medieval period. The figure is depicted wearing a beaded necklace
+    and belt, providing evidence that beads were already deeply ingrained culturally
+    and tied to leadership and wealth before medieval trans-Saharan trade increased
+    the availability of glass beads in the region. These are likely semi-precious stone
+    beads, which have been found in abundance at Nok sites. \nThe corpus of sculptures
+    from Nok, considered the earliest known terracotta sculptures from Africa south
+    of the Sahara Desert, are among the ancient traditions that have been threatened
+    by illegal looting in Western Africa. Protecting these and other examples of tangible
+    and intangible cultural heritage is essential for passing this heritage on to future
+    generations. "
+    thumb_150: '/img/works/37/37_150x.jpg'
+    thumb_75: '/img/works/37/37_75x.jpg'
+    full: '/img/works/37/37_640x.jpg'
+  38:
+    pid: '38'
+    label: 'أساور'
+    section: The Long Reach of the Sahara/Igbo Ukwu
+    _date: 9th/10th century
+    region_culture_timeperiod: 'إغبو أوكو، مستخرج من إغبو ريتشارد (ضريح)'
+    medium: 'خرز وأسلاك نحاسية'
+    dimensions: Height 14.9 cm
+    credit_line: National Commission for Museums and Monuments, Abuja, Nigeria, IR.416
+      and IR.417. Photograph by Uche James Iroha
+    description: "This blue glass armlet was excavated from a royal grave at Igbo Ukwu. Thurstan Shaw, who led excavations at the site, found that many beads from the site are distinguished by high lime and high aluminum content. The discovery of a bead workshop producing high-lime and high-aluminum beads 389 kilometers southeast at a site called Igbo Olokun, within the city of Ife, supports the hypothesis that these unique beads were made and exchanged locally.  Yet, of the 165,000 stone and glass beads found at Igbo Ukwu, many are also traceable to the Mediterranean, the Levant, the Middle East, Arabia, and India. Beads at the site offer an interesting look into the polity’s connections to local and long-distance trade networks, including those crossing the Sahara."
+    thumb_150: '/img/works/38/38_150x.jpg'
+    thumb_75: '/img/works/38/38_75x.jpg'
+    full: '/img/works/38/38_640x.jpg'
+  39:
+    pid: '39'
+    label: 'حصان وفارس منحوت'
+    section: The Long Reach of the Sahara/Igbo Ukwu
+    _date: 8th/early 11th century
+    region_culture_timeperiod: 'إغبو أوكو، مستخرج من إغبو ريتشارد (ضريح)'
+    medium: 'برونز'
+    dimensions: 14 x 5 cm
+    credit_line: National Commission for Museums and Monuments, Abuja, Nigeria, IR.350
+    description: 'This ornament, which would have crowned a staff or pole, is the earliest known representation of a horse and rider from Africa’s central forest region. How the object was made is an open question. Horses cannot survive in the forest for long due to fly-borne disease. It is possible that horses were imported, at great expense, along routes of exchange with the Western Sudan and North Africa. Another possibility is that another object representing a horse and rider was imported, inspiring an artist to make this ornament. The rider is depicted wearing beaded regalia as well as facial scarifications associated today with elite titleholders.'
+    thumb_150: '/img/works/39/39_150x.jpg'
+    thumb_75: '/img/works/39/39_75x.jpg'
+    full: '/img/works/39/39_640x.jpg'
+  40:
+    pid: '40'
+    label: 'قلادة مزدوجة البيض'
+    section: The Long Reach of the Sahara/Igbo Ukwu
+    _date: 9th/10th century
+    region_culture_timeperiod: 'إغبو أوكو، مستخرج من إغبو أشعياء (مستودع ضريح)'
+    medium: 'برونز مرصع، أسلاك نحاسية وخرز زجاجي'
+    dimensions: 1 x 6 x 5.5 in
+    credit_line: National Commission for Museums and Monuments, Abuja, Nigeria, IS.367.
+      Photograph &copy; Dirk Bakker/Bridgeman Images
+    description: 'This pendant of a bird perched atop two large eggs was excavated at the site of a shrine storehouse at Igbo Olokun. Its textured surface highlights the artistry and technological skill of the city’s bronze-casting workshops. The raised ropes and dots that embellish the pendant evoke the abundant number of beads, also found at Igbo Ukwu, that circulated along local and long-distance trade routes. Many of the copper alloy objects found at the site were designed to be decorated with glass beads; this pendant of a bird and two eggs was found alongside yellow beads and copper wires that attached through loops cast along the object’s side.'
+    thumb_150: '/img/works/40/40_150x.jpg'
+    thumb_75: '/img/works/40/40_75x.jpg'
+    full: '/img/works/40/40_640x.jpg'
+  41:
+    pid: '41'
+    label: صورة شخصية جالسة
+    section: The Long Reach of the Sahara/Ife and Its Orbit
+    _date: Late 13th/14th century
+    region_culture_timeperiod: 'ربما من إيل-إيفي، تم تجميعها في تادا، نيجيريا'
+    medium: 'نحاس عليه آثار من الزرنيخ والرصاص والقصدير'
+    dimensions: Height 54 cm
+    credit_line: 'National Commission for Museums and Monuments, Abuja, Nigeria, 79.R18. Photograph by Museum for African Art and The Fundación Marcelino Botín/ Karin L. Wilis'
+    description: 'The style and the extraordinarily thin casting of this naturalistic figure point to its likely creation at Ife, the royal capital of a powerful kingdom. In the early twentieth century, the figure was part of the ritual life of Tada, a small village on the banks of the Niger River 120 miles north of Ife. Every Friday it was taken to the Niger River to be ritually bathed with sand and water, accompanied by chants in Yoruba, a language associated with the city of Ife. During the medieval period, Tada’s location would have been of strategic importance to Ife, connecting it with long-distance trade. Analysis of the raw copper from which the statue is made suggests that it might have originated in France and traveled along these very trade routes to Ife, where it was cast.'
+    thumb_150: '/img/works/41/41_150x.jpg'
+    thumb_75: '/img/works/41/41_75x.jpg'
+    full: '/img/works/41/41_640x.jpg'
+  42:
+    pid: '42'
+    label: 'بومان'
+    section: The Long Reach of the Sahara/Ife and Its Orbit
+    _date: 14th/15th century
+    region_culture_timeperiod: 'جزيرة جيبا، نيجيريا'
+    medium: 'سبائك النحاس'
+    dimensions: Height 95 cm
+    credit_line: 'National Commission for Museums and Monuments, Abuja, Nigeria, 79.R19. Photograph Museum for African Art and The Fundación Marcelino Botín/Karin L. Wilis'
+    description: 'This figure of a man wearing woven or quilted armor and carrying a quiver on his back was found on Jebba Island in the Niger River at a critical juncture for north-south and east-west trade routes. The figure also wears a large medallion, necklaces, armlets, and anklets strung with cowrie shells. Cowries from the Indian Ocean were used as currency in parts of medieval West Africa and might have been transported overland to Central Nigeria along east-west routes or across the Sahara and down the Niger River before they could serve as an artistic reference for the creator of this figure.'
+    thumb_150: '/img/works/42/42_150x.jpg'
+    thumb_75: '/img/works/42/42_75x.jpg'
+    full: '/img/works/42/42_640x.jpg'
+  43:
+    pid: '43'
+    label: 'رأس فيل ورأس فرس النهر'
+    section: The Long Reach of the Sahara/Ife and Its Orbit
+    _date: 12th/15th century
+    region_culture_timeperiod: 'تم استخراجها من لافوجيدو، إيل-إيفي، نيجيريا'
+    medium: 'تراكوتا'
+    dimensions: 18.5 cm (elephant), 15 cm (hippopotamus)
+    credit_line: National Commission for Museums and Monuments, Abuja, Nigeria, 63/24a and 72/18a. Photograph by Uche James Iroha
+    description: These stylized terracotta heads of an elephant and a hippopotamus are portrayed in the splendid regalia of the ruling elite of Ife, including headdresses and necklaces embellished with beads of different sizes. The association of these powerful animals with political leaders is almost certainly a statement of authority. Elephant and hippopotamus tusks were valuable commodities in the interregional trade that followed the Niger River and connected with trans-Saharan routes of exchange.
+    thumb_150: '/img/works/43/43_150x.jpg'
+    thumb_75: '/img/works/43/43_75x.jpg'
+    full: '/img/works/43/43_640x.jpg'
+  44:
+    pid: '44'
+    label: 'قضبان'
+    section: The Long Reach of the Sahara/The Central Sudan and Durbi Takusheyi
+    _date: 14th century
+    region_culture_timeperiod: 'تم استخراجها من دوربي تاكيوتشي، نيجيريا'
+    medium: 'نحاس'
+    dimensions: Unknown
+    credit_line: National Commission for Museums and Monuments, Abuja. Photograph by Volker Iserhardt
+    description: 'These long brass ingots were buried within an elite grave at Durbi Takusheyi along with other copper-alloy objects made locally and imported from North of the Sahara. Copper was a sought-after commodity in trans-Saharan trade that was mined from sources in the Sahara and in Europe. The exchange of copper transported southward across the Sahara for gold is described in the mid-tenth century by ‘Ishāq Ibn al-Ḥusayn’: “Their country (the Sudan) has much gold, but the people there prefer brass to gold.”  The origins of the metals alloyed to make these ingots is not clear. However, a preliminary isotopic analysis of the ingots and the copper-alloy objects cast in Durbi Takusheyi suggests possible sources in France, the Iberian Peninsula, and the Middle East. Thin rod-shaped copper ingots dated between the eleventh and thirteenth century were found at Ma’den Ifajen, Mauritania, and at Natamatao, Mali. Recent excavations at Tamdult, Morocco, by a Moroccan/UK team (Institut National des Sciences de l’Archéologie et du Patrimoine/British Museum) have recorded fragments of molds that would have produced ingots with a similar form to those excavated at Durbi Takusheyi.'
+    thumb_150: '/img/works/44/44_150x.jpg'
+    thumb_75: '/img/works/44/44_75x.jpg'
+    full: '/img/works/44/44_640x.jpg'
+  45:
+    pid: '45'
+    label: 'إناء مملوكي (على اليسار) ودلوان (على اليمين) '
+    section: The Long Reach of the Sahara/The Central Sudan and Durbi Takusheyi
+    _date: late 14th/15th century
+    region_culture_timeperiod: 'وعاء: عصر المماليك (1250-1517)، مصنوعة في مصر أو سوريا. دلو (على اليمن بالخلف) من المحتمل أنه صُنع في مصر؛ دلو (على اليمين بالأمام) مصنوع في دوربي تاكيوتشي؛ تم التنقيب عنه في كومة تراب 7، دوربي تاكيوتشي'
+    medium: 'نحاس'
+    dimensions: 'Bowl: 15.7 x 41.1 cm; Bucket (right back): 15 x 16 cm; Bucket (right front): 15.5 x 18 cm'
+    credit_line: 'National Commission for Museums and Monuments, Abuja, Nigeria. Photograph by René Müller'
+    description: This Mamluk bowl, which was made in Egypt or Syria, was recovered from a burial at Durbi Takusheyi, Nigeria. The decorative patterns and Arabic inscription that encircle the bowl were originally inlaid with silver and gold, and placed within it were five pieces of gold jewelry, possibly imported from the Western Sudan region, as well as cowrie shells, and brass and silver armlets. In the Mamluk Sultanate, vessels like this were made by specialized metalworkers, the nahassin, for the society's elite who used them as spectacular display pieces and diplomatic gifts. Several Mamluk-period brass bowls have also been preserved at shrines in northern Ghana, to the west of Durbi Takusheyi. These objects are evidence of active trade in luxury wares across the Sahara from the Mamluk Sultantate (1250-1517).
+    thumb_150: '/img/works/45/45_150x.jpg'
+    thumb_75: '/img/works/45/45_75x.jpg'
+    full: '/img/works/45/45_640x.jpg'
+  46:
+    pid: '46'
+    label: 'مجوهرات'
+    section: The Long Reach of the Sahara/The Central Sudan and Durbi Takusheyi
+    _date: 13th/15th century
+    region_culture_timeperiod: 'تم استخراجها من كومة تراب 7، دوربي تاكيوتشي، نيجيريا'
+    medium: 'ذهب'
+    dimensions: Largest maximum width 1.25 in
+    credit_line: 'National Commission for Museums and Monuments, Abuja, Nigeria. Photograph by René Müller'
+    description: 'These five pieces of solid gold jewelry were found in a large Mamluk brass bowl from Egypt or Syria, buried beside an individual of high status who also wore ivory, silver, and copper-alloy bracelets, a carnelian necklace, and a richly woven beaded belt. The gold-working techniques manifested in the gold jewelry at Durbi Takusheyi point to trade connections across West Africa. The circular pendant, with its five dome-shaped cabochons, is reminiscent of techniques used to make a pendant known as the Rao Pectoral from Senegal, while the earrings recall tenth-century Amazigh silverwork.'
+    thumb_150: '/img/works/46/46_150x.jpg'
+    thumb_75: '/img/works/46/46_75x.jpg'
+    full: '/img/works/46/46_640x.jpg'
+  47:
+    pid: '47'
+    label: 'مجموعة مختارة من الخرزات الأسطوانية والأنبوبية المشطبة'
+    section: The Long Reach of the Sahara/Medieval Glass Bead Production and Trade
+    _date: 10th/15th century
+    region_culture_timeperiod: 'تم استخراجه من إغبو أولوكون، نيجيريا'
+    medium: 'زجاج'
+    dimensions: Various dimensions
+    credit_line: National Commission for Museums and Monuments, Abuja, Nigeria. Photograph by Clare Britt
+    description: 'The glass bead assemblage from Igbo Olokun and the other glass-related materials discovered there have provided a unique avenue to understanding different aspects of glass bead production in medieval West Africa. These include the degree of sophistication and expertise of glass bead makers, the scale of production, and the transformations it brought to the society locally, regionally, and transregionally. Examination of the glass bead assemblage from Igbo Olokun has shown that beads were made using the drawing technique in which molten glass is pulled into tubes. '
+    thumb_150: '/img/works/47/47_1_150x.jpg'
+    thumb_75: '/img/works/47/47_1_75x.jpg'
+    full: '/img/works/47/47_1_640x.jpg'
+  48:
+    pid: '48'
+    label: 'وعاء (كودو)'
+    section: Shifting Away from the Sahara
+    _date: 16th/18th (?) century
+    region_culture_timeperiod: 'أشانتي، نهر أوفن، غانا'
+    medium: 'نحاس'
+    dimensions: 15 x 32 cm
+    credit_line: British Museum, London, Af1955,05.225. Image &copy; The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial- ShareAlike 4.0 International (CC BY-NC-SA 4.0) license
+    description: 'This bowl was discovered in 1909 during dredging for gold along the banks of the Offin River in southern Ghana. Its formal similarity to Mamluk brass bowls and basins of the fourteenth and fifteenth centuries that were imported across the Sahara Desert in the late medieval period provides compelling evidence that the making of Akan kuduo was inspired by the north-east African imports.  The bowl’s profile and the placement of its surface decoration are almost identical to Mamluk period Arabic-inscribed bowls; however, details such as the use of a pseudo script—an attempt by an artist unfamiliar with Arabic to capture the formal essence of Arabic calligraphy—and the representation of stylized crocodiles and mudfish, inhabitants of the Akan forest, in two of the eight medallions show how a local artist may have reinterpreted important visual elements.'
+    thumb_150: '/img/works/48/48_150x.jpg'
+    thumb_75: '/img/works/48/48_75x.jpg'
+    full: '/img/works/48/48_640x.jpg'
+  49:
+    pid: '49'
+    label: 'مقياس، ومغرفة، وصناديق، وأوزان لقياس الذهب'
+    section: Shifting Away from the Sahara
+    _date: 18th&mdash;late 19th century
+    region_culture_timeperiod: 'أكان، غانا وكوت ديفوار'
+    medium: 'سبائك النحاس'
+    dimensions: Smallest 0.6 x 12.1 x 0.2 cm; largest 2.5 x 14.9 x 7.3 cm
+    credit_line: 'National Museum of African Art, Smithsonian Institution, Washington, DC, gifts of Cynthia E. Gubemick; Mr.and Mrs. Robert Bevill, Mr. and Mrs. Alan Bresler, Mr. and Mrs. Gilbert Shulman, Robert B. Dean, and Benjamin Weiss, 70-20-54, 70-20-81, 75-22-1, 75-22-575, 76-51-7, 80-28-18. Photograph by Franko Khoury, National Museum of African Art, Smithsonian Institution'
+    description: 'As European merchants shifted their attention to Africa’s Atlantic coast in the late 15th century, the direction of the gold trade also shifted. In response, new states arose in Africa’s Akan-speaking regions, and aspects of the Saharan gold trade were transferred to this new market. For instance, the Akan system for weighing gold was based on the mithqal, a unit of weight equal to 4.5 grams (0.16 ounce). The Akan gold economy gave rise to an array of striking new objects for measuring gold: scoops, spoons, boxes, and especially copper-alloy weights in a great variety of forms, some of which also reference the geometric designs of the Muslim Saharan world.'
+    thumb_150: '/img/works/49/49_150x.jpg'
+    thumb_75: '/img/works/49/49_75x.jpg'
+    full: '/img/works/49/49_640x.jpg'
+  50:
+    pid: '50'
+    label: 'على اليسار: 5 عملات من غينيا تخص جيمس الثاني، على اليمين: 1 عملة من غينيا تخص جيمس الثاني'
+    section: Shifting Away from the Sahara
+    _date: 1685; 1688
+    region_culture_timeperiod: 'مصكوكة في لندن'
+    medium: 'ذهب'
+    dimensions: Diameter (left) 3.5 cm; diameter (right) 2.5 cm
+    credit_line: Photograph courtesy of the American Numismatic Society, New York, 0000.999.596
+    description: 'The Dutch and English vied for lucrative trade along Africa’s West Coast in the mid-seventeenth century. During this period the English produced guinea coins marked with an elephant-and-castle motif below a bust of the English king, James II. The motif was stamped only onto coins made from West African gold acquired by the newly established Royal Africa Company, which was granted a monopoly on this trade by the British crown in 1672. This iconography illustrates the continuing importance of gold and ivory as commodities, even as trade shifted away from Saharan routes.'
+    thumb_150: '/img/works/50/50_150x.jpg'
+    thumb_75: '/img/works/50/50_75x.jpg'
+    full: '/img/works/50/50_640x.jpg'
+  51:
+    pid: '51'
+    label: 'قطع من المجوهرات والسبائك'
+    section: Shifting Away from the Sahara
+    _date: Unknown
+    region_culture_timeperiod: 'صُنعت في شمال إفريقيا في موقع سالكومب كانون، ديفون، إنجلترا'
+    medium: 'ذهب'
+    dimensions: Smallest 2 x 1.2 cm; largest 3 x 2.1 cm
+    credit_line: 'The British Museum, London, England, 1999,1207.449, .450, .460, .461, .465, .470, and .474. Photograph &copy; The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial- ShareAlike 4.0 International (CC BY-NC-SA 4.0) license '
+    description: 'In 1992 a shipwreck was discovered off the coast of Devon, England. The ship had sunk in the mid-seventeenth century on its way from North Africa to England. Its cargo included more than 400 gold coins, most of them minted in Morocco in the sixteenth and seventeenth centuries, as well as gold ingots and jewelry. Mostly worn and broken, these gold objects were on their way to be melted down and repurposed. Today these rare items provide compelling evidence of the export of African gold to Europe. '
+    thumb_150: '/img/works/51/51_150x.jpg'
+    thumb_75: '/img/works/51/51_75x.jpg'
+    full: '/img/works/51/51_640x.jpg'
+  52:
+    pid: '52'
+    label: 'إبريق من أشانتي (ريتشارد إيوير الثاني)'
+    section: Shifting Away from the Sahara
+    _date: 1390/99
+    region_culture_timeperiod: 'صُنع في إنجلترا، وعُثر عليه في قصر مانهيا، منطقة أشانتي، غانا'
+    medium: 'سبائك النحاس'
+    dimensions: 62.3 x 33 cm
+    credit_line: The British Museum, London, England, 1896,0727.1. Photograph &copy; The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license
+    description: 'This ewer, which was made in England in the fourteenth century, was taken by the British from Kumase, the capital of the Asante Kingdom, during the Anglo-Asante War of 1896. It is embellished with heraldic motifs and Lombardic inscriptions. The royal arms of England on the front of the jug reference the reigns of both Edward III and Richard II, but the badges on the lid depicting a stag indicate that it was produced during Richard’s reign, specifically between 1390 and 1400. The ewer might have traveled across Saharan trade routes soon after it was made, or it might have been imported to Asante at a later time through trade along the Atlantic coast.'
+    thumb_150: '/img/works/52/52_150x.jpg'
+    thumb_75: '/img/works/52/52_75x.jpg'
+    full: '/img/works/52/52_640x.jpg'
