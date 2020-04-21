@@ -1,12 +1,6 @@
----
-layout: page
-title: References
-permalink: /references/
----
+#### منشورات المعرض
 
-#### Exhibition Publication
-
-The exhibition is accompanied by a scholarly publication co-published by the Block Museum and Princeton University Press. The book _[Caravans of Gold, Fragments in Time: Art, Culture, and Exchange across Medieval Saharan Africa](https://www.blockmuseum.northwestern.edu/publications/caravans-of-gold,-fragments-in-time.html)_ draws on the latest archaeological discoveries and art historical research to construct a compelling look at medieval trans-Saharan exchange and its legacy. Contributors from diverse disciplines present case studies that form a rich portrayal of a distant time.
+يكون المعرض مصحوباً بنشرة بحثية علمية يتم نشرها بالاشتراك مع متحف بلوك ودار نشر جامعة برينستون. الكتاب قوافل من ذهب، شذرات من التاريخ: فن ثقافة وتبادل عبر صحراء أفريقيا الكبرى خلال العصور الوسطى يستند إلى أحدث الاكتشافات الأثرية والأبحاث التاريخية الفنية لإلقاء نظرة دامغة على التبادل عبر الصحراء في العصور الوسطى وإرثها. يُقدم المساهمون من مختلف التخصصات دراسات حالة تُشكّل صورة غنية عن حقبة زمنية بعيدة.
 
 #### الأعمال المستشهد بها
 
