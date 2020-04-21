@@ -1,4 +1,5 @@
 ---
+title: titles.tour
 layout: tour
 permalink: /tour/
 hero_src: '/img/tour/caravans-intro-map_600.jpg'

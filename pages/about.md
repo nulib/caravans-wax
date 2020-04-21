@@ -1,9 +1,7 @@
 ---
 layout: page
-
 namespace: about
-
-title: About
+title: titles.about
 permalink: /about/
 ---
 <div align="right">

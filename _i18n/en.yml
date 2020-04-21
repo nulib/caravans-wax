@@ -2,6 +2,12 @@ global:
   tagline: English
   title: 'Caravans of Gold, Fragments in Time'
   subtitle: 'Art, Culture, and Exchange across Medieval Saharan Africa'
+titles:
+  references: 'References'
+  about: 'About'
+  search: 'Search Key Works'
+  key_works: 'Key Works'
+  tour: 'Tour'
 menu:
   - label: 'About'
     link: '/about/'
