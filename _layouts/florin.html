@@ -4,8 +4,6 @@ layout: default
 
 {% assign title = site.translations[site.lang].works[page.pid]["label"] %}
 
-
-
 <h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ title }}</h2>
 
 {% for image in page.images %}
@@ -21,11 +19,6 @@ layout: default
     </div>
 </div>
 {% endfor %}
-
-<div class="jumbotron">
-  <p class="lead">{{ page.content }}</p>
-  <a class="btn btn-primary btn-lg" href="{{ page.link_url }}" role="button">{{ page.link_label }}</a>
-</div>
 
 {% if site.lang == 'en' %}
 
