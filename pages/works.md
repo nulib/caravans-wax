@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Key Works
+title: titles.key_works
 permalink: /works/
 ---
 
 {% include collection_gallery.html collection='works' %}
-{% tf pages/works.md %}
