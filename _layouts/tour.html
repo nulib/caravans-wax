@@ -13,7 +13,7 @@ layout: default
 
   {% for section in site.translations[site.lang].pages.tour.sections %}
     <div class="card">
-      <a href="{{ section.link }}" title="{{ section.title }}">
+      <a href="{{ site.baseurl }}{{ section.link }}" title="{{ section.title }}">
         <div class="content-overlay"></div>
         <img class="card-img" srcset="{{ section.img_srcset }}" sizes="(max-width: 600px) 300px, 800px" src="{{ section.img_src }}" alt="{{ img_alt }}">
         <div class="content-details">
