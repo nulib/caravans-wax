@@ -1,6 +1,3 @@
----
-title: حول
----
 يقدم هذا التطبيق نسخة رقمية مكثفة من معرض قوافل من ذهب، شذرات من التاريخ: فن وثقافة وتبادل عبر صحراء أفريقيا الكبرى خلال العصور الوسطى ويُسلط الضوء على بعض الأمور المهمة التي تمتاز بها. تم تنظيم هذا المعرض من قبل متحف بلوك للفنون في جامعة نورث ويسترن، حيث ظهر لأول مرة (26 يناير - 21 يوليو 2019) قبل السفر إلى متحف الآغا خان في تورونتو، بكندا (21 سبتمبر 2019 - 23 فبراير 2020) والمتحف الوطني للفن الأفريقي التابع لمعهد سميثسونيان (11 أبريل - 29 نوفمبر 2020).
 
 تنادي قوافل من ذهب بما أطلق عليه علماء الآثار اسم "الخيال الأثري" — متمثلاً في استرجاع الماضي من خلال الآثار الباقية على قيد الحياة — لتقديم إعادة صياغة بالغة الأهمية لحقبة العصور الوسطى (من القرن الثامن إلى القرن السادس عشر).  يستند هذا المعرض إلى مصادر تشمل أجزاء مادية من مواقع أثرية حول الصحراء الكبرى ومنطقة الغابات الموجودة في غرب أفريقيا وقطع كاملة لهذه الحقبة والتي تساعدنا على فهم ماهية هذه الأجزاء ونصوص مكتوبة في الأساس باللغة العربية تصف غرب إفريقيا في العصور الوسطى من وجهة نظر العلماء والدبلوماسيين والجغرافيين والمؤرخين الذين غالبًا ما يكتبون من معلومات مستمدة من جهة ثانية وثالثة؛ والممارسات الفنية والثقافية الأحدث التي لها روابط يُمكن تعقبها بالماضي في العصور الوسطى. تجمع هذه المصادر معًا فهمًا جديدًا لفترة العصور الوسطى وتُركز على دور إفريقيا خلالها.
@@ -19,49 +16,50 @@ Please visit the _Caravans of Gold_ [companion website](https://caravansofgold.o
 
 ### الجهات المُقرِضة للمعرض
 
-__كندا__
-- متحف الآغا خان، تورونتو
-- متحف اونتاريو الملكي، تورونتو
+__Canada__
+- The Aga Khan Museum, Toronto
+- Royal Ontario Museum, Toronto
 
-__إنجلترا__
-- المتحف البريطاني، لندن
+__England__
+- The British Museum, London
 
-__مالي__
-- المديرية الوطنية للتراث الثقافي، ومعهد باماكو
--	معهد أحمد بابا للتعليم العالي والبحوث الإسلامية، تمبوكتو-
--	معهد العلوم الإنسانية، باماكو
-- متحف مالي الوطني، باماكو
+__Mali__
+- Direction nationale du patrimoine culturel, Bamako
+- Institut des hautes études et de recherches islamiques Ahmed Baba, Timbuktu
+- Institut des sciences humaines, Bamako
+- Musée national du Mali, Bamako
 
 __المغرب__
 - بنك المغرب، الرباط
 - المؤسسة الوطنية للمتاحف بالرباط
 - وزارة الثقافة والاتصالات، الرباط
 
-__نيجيريا__
-- اللجنة الوطنية للمتاحف والآثار، أبوجا
+__Nigeria__
+- National Commission for Museums and Monuments, Abuja
 
-__الولايات المتحدة__
-- قبة أدلر السماوية، شيكاغو، إلينوى
-- جمعية علم المسكوكات الأمريكية، نيويورك
-- معهد الفنون في شيكاغو، إلينوى
-- متحف بروكلين، بروكلين ، نيويورك
-- مكتبة تشارلز ديرينج ماكورميك للمجموعات الخاصة،•	مكتبات جامعة نورث ويسترن، إيفانستون، إلينوي
-- متحف كليفلاند للفنون، كليفلاند، أوهايو
-- متحف كورنينج للزجاج، كورنينج، نيويورك
-- معهد ديترويت للفنون، ديترويت، ميشيغان
-- المتحف الميداني للتاريخ الطبيعي، شيكاغو، إلينوي
-- متاحف هارفارد للفنون، كامبريدج، ماساتشوستس
-- الجمعية الإسبانية الأمريكية، نيويورك
-- المدرسة اللاهوتية اليهودية، نيويورك
-- متحف لوغان للأنثروبولوجيا، كلية بلويت، بلويت، ويسكونسن
-- متحف مقاطعة لوس أنجلوس للفنون، لوس أنجلوس، كاليفورنيا
-- متحف جامعة لويولا للفنون، شيكاغو، إلينوي
-- مكتبة ميلفيل ج. هيرسكوفيتس للدراسات الأفريقية، مكتبات جامعة نورث ويسترن، إيفانستون، إلينوي
-- متحف المتروبوليتان للفنون، نيويورك
-- المتحف الوطني للفن الأفريقي، معهد سميثسونيان، واشنطن العاصمة
-- متحف بيبودي لعلم الآثار وعلم الأجناس، جامعة هارفارد، كامبريدج، ماساتشوسيتس
-- متحف توليدو للفنون، توليدو، أوهايو
-- متحف والترز للفنون، بلتيمور، ميريلاند
+__United States__
+- Adler Planetarium, Chicago, IL
+- American Numismatic Society, New York, NY
+- Art Institute of Chicago, Chicago, IL
+- Brooklyn Museum, Brooklyn, NY
+- Charles Deering McCormick Library of Special Collections,
+- Northwestern University Libraries, Evanston, IL
+- Cleveland Museum of Art, Cleveland, OH
+- Corning Museum of Glass, Corning, NY
+- Detroit Institute of Arts, Detroit, MI
+- The Field Museum, Chicago, IL
+- Harvard Art Museums, Cambridge, MA
+- Hispanic Society of America, New York, NY
+- Jewish Theological Seminary, New York, NY
+- Logan Museum of Anthropology, Beloit College, Beloit, WI
+- Los Angeles County Museum of Art, Los Angeles, CA
+- Loyola University Museum of Art, Chicago, IL
+- Melville J. Herskovits Library of African Studies, Northwestern University Libraries, Evanston, IL
+- The Metropolitan Museum of Art, New York, NY
+- National Museum of African Art, Smithsonian Institution, Washington, DC
+- Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA
+- Toledo Museum of Art, Toledo, OH
+- The Walters Art Museum, Baltimore, MD
 
 ### المشرفون على العمل
 

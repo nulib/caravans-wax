@@ -43,8 +43,7 @@ __United States__
 - American Numismatic Society, New York, NY
 - Art Institute of Chicago, Chicago, IL
 - Brooklyn Museum, Brooklyn, NY
-- Charles Deering McCormick Library of Special Collections,
-- Northwestern University Libraries, Evanston, IL
+- Charles Deering McCormick Library of Special Collections, Northwestern University Libraries, Evanston, IL
 - Cleveland Museum of Art, Cleveland, OH
 - Corning Museum of Glass, Corning, NY
 - Detroit Institute of Arts, Detroit, MI
@@ -55,8 +54,7 @@ __United States__
 - Logan Museum of Anthropology, Beloit College, Beloit, WI
 - Los Angeles County Museum of Art, Los Angeles, CA
 - Loyola University Museum of Art, Chicago, IL
-- Melville J. Herskovits Library of African Studies,
-- Northwestern University Libraries, Evanston, IL
+- Melville J. Herskovits Library of African Studies, Northwestern University Libraries, Evanston, IL
 - The Metropolitan Museum of Art, New York, NY
 - National Museum of African Art, Smithsonian Institution, Washington, DC
 - Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA
