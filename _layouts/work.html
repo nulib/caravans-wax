@@ -72,6 +72,7 @@ layout: default
 
   {% assign label = site.translations[site.lang].works[page.pid]["label"] %}
   {% assign caption = site.translations[site.lang].works[page.pid]["caption"] %}
+  {% assign description = site.translations[site.lang].works[page.pid]["description"] %}
 
   <h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
 
@@ -84,8 +85,10 @@ layout: default
   </div>
 
   <dl class='metadata-block'>
-    <dt>Description</dt>
+    <dt>Object</dt>
     <dd>{{ caption }}</dd>
+    <dt>Description</dt>
+    <dd>{{ description }}</dd>
   </dl>
 
   {% assign links = site[page.collection] | sort: 'pid' | map: 'url' %}
