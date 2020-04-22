@@ -38,31 +38,31 @@ pages:
     caption: 'خلال حقبة القرون الوسطى، ساهمت طرق التجارة الرئيسية التي تعبر الصحراء الكبرى في ربط المدن والبلدات التي تميزت كمراكز للتجارة. وقد اتجهت الطرق جنوبًا متصلةً بنهر النيجر، وهو الطريق الرئيسي إلى منطقة الغابات في أفريقيا. وارتبطت الطرق المتجهة شمالاً بشبكات التجارة الواسعة للبحر الأبيض المتوسط وزحفت إلى الداخل عبر أوروبا. كما التقت الطرق المتجهة شرقًا بطرق بلاد الشام منتهيةً بطرق الحرير في وسط وشرق آسيا.'
     sections:
       -
-        title: 'Saharan Echoes'
+        title: 'أصداء الصحراء'
         link: /tour/saharan-echoes/
         img_srcset: '/img/tour/man_on_camel_card_300.jpg 300w, /img/tour/man_on_camel_card_800.jpg 800w'
         img_src: '/img/tour/man_on_camel_card_800.jpg'
         img_alt: 'Begin Saharan Echoes tour'
       -
-        title: 'Saharan Frontiers'
+        title: 'حدود الصحراء'
         link: /tour/saharan-frontiers/
         img_srcset: '/img/tour/saharan-frontiers_300.jpg 300w, /img/tour/saharan-frontiers_800.jpg 800w'
         img_src: /img/tour/saharan-frontiers_300.jpg
         img_alt: 'View Saharan Frontiers tour options'
       -
-        title: 'Driving Desires'
+        title: 'الرغبة الدافعة'
         link: /tour/driving-desires/
         img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
         img_src: '/img/tour/atlas-of-maritime_300.jpg'
         img_alt: 'Begin Driving Desires tour'
       -
-        title: 'Long Reach of the Sahara'
+        title: 'الامتداد الطويل للصحراء الكبرى'
         link: /tour/long-reach-of-the-sahara/
         img_srcset: '/img/tour/igbo-tour_300.jpg 300w, /img/tour/igbo-tour_800.jpg 800w'
         img_src: '/img/tour/igbo-tour_300.jpg'
         img_alt: 'View Long Reach of the Sahara tour options'
       -
-        title: 'Shifting Away from the Sahara'
+        title: 'مجافاة الصحراء'
         link: /tour/shifting-away-from-the-sahara/
         img_srcset: '/img/tour/shifting-away-from-the-sahara_300.jpg 300w, /img/tour/shifting-away-from-the-sahara_800.jpg 800w'
         img_src: '/img/tour/shifting-away-from-the-sahara_300.jpg'
@@ -72,37 +72,37 @@ pages:
     caption: 'تتبع الطرق عبر الصحراء الكبرى (التي تضم أكثر من 3.5 مليون ميل مربع) مسارات من خلال تضاريس متنوعة، وتتنقل بين الواحات - وهي مصادر المياه الجوفية بالغة الأهمية لبقاء المسافرين على قيد الحياة. تم إنشاء الطرق الرئيسية عبر الصحراء بحلول القرن الخامس الميلادي، ولا يزال معظمها يُستخدم هذه الأيام. في هذا القسم، يتم تقديم مواقع سجلماسة وتادمكة وغاو كدراسات حالة تكشف عن تاريخ غرب إفريقيا في العصور الوسطى.'
     sections:
       -
-        title: 'Sijilmasa'
+        title: 'سجلماسة'
         link: /tour/saharan-frontiers/sijilmasa/
         img_srcset: '/img/tour/saharan-frontiers_300.jpg 300w, /img/tour/saharan-frontiers_800.jpg 800w'
         img_src: '/img/tour/saharan-frontiers_300.jpg'
         img_alt: 'View the Sijilmasa tour'
       -
-        title: 'Tadmekka'
+        title: 'تادمكة'
         link: /tour/saharan-frontiers/tadmekka/
         img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
         img_src: '/img/tour/atlas-of-maritime_300.jpg'
         img_alt: 'View the Tadmekka tour'
       -
-        title: 'Gao'
+        title: 'غاو'
         link: /tour/saharan-frontiers/gao/
         img_srcset: '/img/tour/igbo-tour_300.jpg 300w, /img/tour/igbo-tour_800.jpg 800w" sizes="(max-width: 600px) 300px, 800px'
         img_src: '/img/tour/igbo-tour_300.jpg'
         img_alt: 'View the Gao tour'
       -
-        title: 'Connecting Trade to the Niger River'
+        title: 'ربط التجارة بنهر النيجر'
         link: /tour/saharan-frontiers/niger-river/
         img_srcset: '/img/tour/shifting-away-from-the-sahara_300.jpg 300w, /img/tour/shifting-away-from-the-sahara_800.jpg 800w'
         img_src: '/img/tour/shifting-away-from-the-sahara_300.jpg'
         img_alt: 'View the Connecting Trade to the Niger River tour'
       -
-        title: 'The Movement of Language, People, and Ideas'
+        title: 'انتقال اللغة والناس والأفكار'
         link: /tour/saharan-frontiers/spread-of-ideas/
         img_srcset: '/img/tour/spread-of-ideas_300.jpg 300w, /img/tour/spread-of-ideas_800.jpg 800w'
         img_src: '/img/tour/spread-of-ideas_300.jpg'
         img_alt: 'View the The Movement of Language, People, and Ideas tour'
       -
-        title: "Mansa Musa's Hajj to Mecca"
+        title: "حج الحاكم مانسا موسى إلى مكة "
         link: /tour/mansa-musas-hajj-to-mecca/
         img_srcset: '/img/tour/spread-of-ideas_300.jpg 300w, /img/tour/spread-of-ideas_800.jpg 800w'
         img_src: /img/tour/spread-of-ideas_300.jpg
@@ -113,25 +113,25 @@ pages:
     كان نهر النيجر طريقًا رئيسيًا للتجارة من الصحراء الكبرى إلى غرب إفريقيا. ترتبط تجارة نهر النيجر بالطرق البرية عبر غابة غرب أفريقيا والمنطقة المعروفة باسم وسط السودان. في هذا القسم، يتم تقديم مواقع إيغبو أوكوو، إيفي، دوربي تاكيوتشي كدراسات حالة تساهم في فهم تاريخ غرب إفريقيا في العصور الوسطى.'
     sections:
       -
-        title: 'Igbo Ukwu'
+        title: 'إيغبو أوكو '
         link: /tour/long-reach-of-the-sahara/igbo/
         img_srcset: '/img/tour/man_on_camel_card_300.jpg 300w, /img/tour/man_on_camel_card_800.jpg 800w'
         img_src: '/img/tour/man_on_camel_card_800.jpg'
         img_alt: 'View the Igbo Ukwu tour'
       -
-        title: 'Ife and Its Orbit'
+        title: 'إيفي ومدارها'
         link: /tour/long-reach-of-the-sahara/ife/
         img_srcset: '/img/tour/saharan-frontiers_300.jpg 300w, /img/tour/saharan-frontiers_800.jpg 800w'
         img_src: '/img/tour/saharan-frontiers_300.jpg'
         img_alt: 'View the Ife and Its Orbit tour tour'
       -
-        title: 'Central Sudan/Durbi Takusheyi'
+        title: 'وسط السودان / دوربي تاكيوتشي'
         link: /tour/long-reach-of-the-sahara/central-sudan/
         img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
         img_src: '/img/tour/atlas-of-maritime_300.jpg'
         img_alt: 'View the Central Sudan/Durbi Takusheyi tour'
       -
-        title: 'Medieval Glass Beads'
+        title: 'خرز زجاجي في العصور الوسطى'
         link: /tour/long-reach-of-the-sahara/medieval-glass-beads/
         img_srcset: '/img/tour/igbo-tour_300.jpg 300w, /img/tour/igbo-tour_800.jpg 800w'
         img_src: '/img/tour/igbo-tour_300.jpg'
