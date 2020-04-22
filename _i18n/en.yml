@@ -146,7 +146,7 @@ tours:
       img_alt: 'man on camel'
       caption: 'A man rides his camel to market in the Agadez region of central Niger. Photograph by Cynthia Becker, 2009'
     -
-      text: 'Echoes of the past can be found in the modern visual culture of the Sahara and West Africa. While archaeological finds, medieval Arabic texts, and oral narratives are important resources for understanding Africa’s past, they tell us little about daily life in the Sahara Desert during the medieval period. In the absence of critical historical sources, it is helpful to turn to more recent material and cultural practices of Saharan Imazighen peoples—many of which have enduring connections to the past—to provide a path for imagining the past.<sup><a href=\"/references/\">3</a></sup>'
+      text: 'Echoes of the past can be found in the modern visual culture of the Sahara and West Africa. While archaeological finds, medieval Arabic texts, and oral narratives are important resources for understanding Africa’s past, they tell us little about daily life in the Sahara Desert during the medieval period. In the absence of critical historical sources, it is helpful to turn to more recent material and cultural practices of Saharan Imazighen peoples—many of which have enduring connections to the past—to provide a path for imagining the past.<a href="/references/"><sup>3</sup></a>'
     -
       text: 'This section traces the origins of cultural practices, forms, and decorative patterns on jewelry, leatherwork, and textiles from the Sahara and its hinterlands to the medieval period.'
     -
@@ -154,9 +154,9 @@ tours:
       img_alt: 'Tuareg camel saddle (tarik or tamzak)'
       caption: 'Camel saddle (<i>tarik or tamzak</i>), Tuareg, Algerian Sahara, date unknown (probably 20th century). Leather, rawhide, wood, parchment or vellum, wool, silk, tin-plated metal, brass-plated metal, iron, copper alloy, and cheetah skin, 75 x 71 x 46 cm. Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA, gift of the Estate of Dr. Lloyd Cabot Briggs, 1975, 975-32-50/11927. Photograph © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology'
     -
-      text: 'Until the widespread domestication of the camel in the early centuries of the Common Era, historians believe, trans-Saharan trade and exchange was quite rare. Camels are ideal for Saharan movement: they rarely sweat, even in hot desert climates, and can conserve fluids for long periods of time.<sup><a href=\"/references/\">4</a></sup> With camels to ride and to carry loads, the Tuareg and other Imazighen peoples of the Sahara once controlled the caravan routes that stretched across the desert.'
+      text: 'Until the widespread domestication of the camel in the early centuries of the Common Era, historians believe, trans-Saharan trade and exchange was quite rare. Camels are ideal for Saharan movement: they rarely sweat, even in hot desert climates, and can conserve fluids for long periods of time. <sup><a href="/references/">4</a></sup> With camels to ride and to carry loads, the Tuareg and other Imazighen peoples of the Sahara once controlled the caravan routes that stretched across the desert.'
     -
-      text: 'Their economy was based on herding and supplemented by the trade of salt. Tuareg nobility depended on artisans to produce wood, metal, and leather goods like this saddle.<sup><a href=\"/references/\">5</a></sup> This example is too ornate to have been used for lengthy travel. It was made by covering a wooden core with dyed and tooled leather and then decorating the pommel and other parts with metal embellishments filled with geometric patterns.'
+      text: 'Their economy was based on herding and supplemented by the trade of salt. Tuareg nobility depended on artisans to produce wood, metal, and leather goods like this saddle. <sup><a href="/references/">5</a></sup> This example is too ornate to have been used for lengthy travel. It was made by covering a wooden core with dyed and tooled leather and then decorating the pommel and other parts with metal embellishments filled with geometric patterns.'
     -
       img_src: '/img/works/2/2_640x.jpg'
       img_alt: 'Drawing of a guinbri'
@@ -164,7 +164,7 @@ tours:
     -
       text: 'From at least the nineteenth century, the word *gnawa* has been used in Morocco to refer to the descendants of enslaved people from the Western Sudan. The term is now associated with black Moroccans who entertain in public squares and on concert stages. The guinbri is the most prestigious of all Gnawa musical instruments. This drawing of a guinbri is from the account of Danish businessman and diplomat Georg Høst of his travels in Morocco.'
     -
-      text: 'Published in 1779, it is the first known mention of a guinbri in European literature. The instrument may derive from one that the fourteenth-century Muslim traveler Ibn Battuta described as being played at the court of the Mali Empire and that he called the gunburi.<sup><a href=\"/references/\">6</a></sup>'
+      text: 'Published in 1779, it is the first known mention of a guinbri in European literature. The instrument may derive from one that the fourteenth-century Muslim traveler Ibn Battuta described as being played at the court of the Mali Empire and that he called the gunburi. <sup><a href="/references/">6</a></sup>'
     -
       img_src: '/img/works/3/3_640x.jpg'
       img_alt: 'Head ornament'
@@ -174,15 +174,13 @@ tours:
 
   saharan_frontiers_sijilmasa:
     -
-      text: 'SIJILMASA (flourished 8th&ndash;14th century)'
+      text: '# SIJILMASA (flourished 8th&ndash;14th century)'
     -
-      text: '*Around Sijilmasa there are deposits of gold and silver. The gold is found like plants, and it is said that the wind blows it away.*<sup><a href=\"/references/\">8</a></sup>
-
-      &mdash;Ahmad al-Ya‘qubi, 9th century'
+      text: '*Around Sijilmasa there are deposits of gold and silver. The gold is found like plants, and it is said that the wind blows it away.* <sup><a href="/references/">8</a></sup><br>&mdash;Ahmad al-Ya‘qubi, 9th century'
     -
       text: 'Founded in the ninth century, Sijilmasa sits along the northern edge of the Sahara Desert in southeastern Morocco, adjacent to present-day Rissani. It lies in the Tafilalt Oasis, a basin of alluvial soils. Sijilmasa was a vital link in the African gold trade. Its mint struck gold coins as early as the tenth century, and evidence strongly suggests that West African gold passed through the area by the fourth century. While much of Sijilmasa was abandoned in the late fourteenth century, parts of the city, such as the great mosque, were used until the turn of the twentieth century.'
     -
-      text: 'Between 1988 and 1998 the Moroccan-American Project at Sijilmasa (MAPS) undertook six archaeological missions at Sijilmasa. Their excavations have revealed the remains of a citadel, an ore-processing site, a mosque, and an elite residence where a small gold filigree ring was found.<sup><a href=\"/references/\">9</a></sup>  A caravanserai (a roadside inn where caravans could rest overnight), Souk Ben Akla, was located three miles west of the city on the banks of the Rheris River.'
+      text: 'Between 1988 and 1998 the Moroccan-American Project at Sijilmasa (MAPS) undertook six archaeological missions at Sijilmasa. Their excavations have revealed the remains of a citadel, an ore-processing site, a mosque, and an elite residence where a small gold filigree ring was found.<sup><a href="/references/">9</a></sup>  A caravanserai (a roadside inn where caravans could rest overnight), Souk Ben Akla, was located three miles west of the city on the banks of the Rheris River.'
     -
       img_src: '/img/tour/saharan-frontiers/sijilmasa/map_800.png'
       img_srcset: '/img/tour/saharan-frontiers/sijilmasa/map_300.png 300w, /img/tour/saharan-frontiers/sijilmasa/map_800.png 800w'
@@ -228,7 +226,7 @@ tours:
       img_alt: 'Fragment of painted wall decoration'
       caption: 'Fragment of painted wall decoration, Sijilmasa, Morocco, 9th/10th century. Plaster, 21 x 19 cm. Ministère de la culture et de la communication du Royaume du Maroc. Photograph by Fouad Mahdaoui'
     -
-      text: 'Sijilmasa was a sizeable and wealthy urban center in its heyday. The Andalusian historian and geographer Abu ‘Ubayd al-Bakri (d. 1094) described the city as “a wall with twelve gates. Within are beautiful houses, many having gardens, magnificent public buildings, a mosque that is solidly built, and baths that are poorly built.”<sup><a href=\"/references/\">10</a></sup>'
+      text: 'Sijilmasa was a sizeable and wealthy urban center in its heyday. The Andalusian historian and geographer Abu ‘Ubayd al-Bakri (d. 1094) described the city as “a wall with twelve gates. Within are beautiful houses, many having gardens, magnificent public buildings, a mosque that is solidly built, and baths that are poorly built.”<sup><a href="/references/">10</a></sup>'
     -
       text: 'This fragment of painted plaster bears a portion of an inscription from the Qur’an that would have read in full, “On no soul doth God place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns.” It was found at the site of an elite residence of the ninth or tenth century. Just a century or two later, a mosque was built on the same location.'
     -
@@ -252,13 +250,13 @@ tours:
 
   saharan_frontiers_tadmekka:
     -
-      text: 'TADMEKKA (flourished 10th&ndash;14th century)'
+      text: '# TADMEKKA (flourished 10th&ndash;14th century)'
     -
-      text: "<em>[O]f all the towns in the world [it] is the one that resembles Mecca the most ... It is a large town amid mountains and ravines and is better built than Ghana or Gao.</em><sup><a href=\"/references/\">11</a></sup> <br> &mdash;Abu 'Ubayd al-Bakri, ca. 1068"
+      text: '<em>[O]f all the towns in the world [it] is the one that resembles Mecca the most ... It is a large town amid mountains and ravines and is better built than Ghana or Gao.</em><sup><a href="/references/">11</a></sup> <br> &mdash;Abu &apos;Ubayd al-Bakri, ca. 1068'
     -
       text: "The ruins of Essouk-Tadmekka (also called Tadmekka) lie in northeastern Mali. The town sprawls across nearly 125 acres, with the remains of stone structures that include commercial and residential compounds, caravanserais, mosques, and livestock enclosures. Surrounding these are cemeteries where tombstones bear Arabic inscriptions. Cliffs that overlook the town are carved with inscriptions in Arabic and Tifinagh (the written form of Amazigh) that attest to the site's occupation as early as the tenth century."
     -
-      text: "The town is located at the desert's southern fringe, where in the medieval period camel caravans arrived from and departed for their respective Saharan journeys. Between 2004 and 2005, archaeologist Sam Nixon partnered with colleagues from Mali's Direction nationale de patrimoine culturel and Institut des Sciences Humaines to undertake the first excavations at the isolated site of Essouk-Tadmekka.<sup><a href=\"/references/\">12</a></sup>"
+      text: 'The town is located at the desert&apos;s southern fringe, where in the medieval period camel caravans arrived from and departed for their respective Saharan journeys. Between 2004 and 2005, archaeologist Sam Nixon partnered with colleagues from Mali&apos;s Direction nationale de patrimoine culturel and Institut des Sciences Humaines to undertake the first excavations at the isolated site of Essouk-Tadmekka.<sup><a href="/references/">12</a></sup>'
     -
       text: "Their findings confirm the descriptions of Tadmekka's occupation as a center of trans-Saharan trade that appear in the work of Al-Bakri and other medieval scholars writing in Arabic."
     -
@@ -317,7 +315,7 @@ tours:
     -
       text: 'Produced in southeastern China, Qingbai pottery was widely exported between the tenth and twelfth century and was exchanged along routes moving from market to market in a process called relay trade. Fragments of Qingbai ware have been found at medieval sites from Central Asia to Egypt and across the Sahara.'
     -
-      text: 'The shape of this fragment suggests that it once formed part of the rim of a bowl. The distinctive damask weave of [a small piece of silk](#/silk-fragment), also excavated at Essouk-Tadmekka, proves that it was likewise made by Chinese artisans, though the chain-stitch embroidery in red cotton that runs across it was likely added in Tadmekka as further embellishment to a luxury garment.'
+      text: 'The shape of this fragment suggests that it once formed part of the rim of a bowl. The distinctive damask weave of a small piece of silk, also excavated at Essouk-Tadmekka, proves that it was likewise made by Chinese artisans, though the chain-stitch embroidery in red cotton that runs across it was likely added in Tadmekka as further embellishment to a luxury garment.'
     -
       img_alt: '11-unglazed-local-ceramic'
       img_src: '/img/works/11/11_640x.jpg'
@@ -328,20 +326,20 @@ tours:
       text: 'To hear more about the research and excavation of the site of Tadmekka, [watch interviews with the archaeologist Sam Nixon](https://vimeo.com/364139621).'
   saharan_frontiers_gao:
     -
-      text: 'GAO (flourished 8th&ndash;13th century)'
+      text: '# GAO (flourished 8th&ndash;13th century)'
     -
-      text: "*Gao is the greatest of the realms of the Sudan, the most important and most powerful. All other kingdoms obey its king.*<sup><a href=\"/references/\">14</a></sup>&nbsp;&mdash;Ahmad al-Ya&apos;qubi, ninth century"
+      text: '*Gao is the greatest of the realms of the Sudan, the most important and most powerful. All other kingdoms obey its king.*<sup><a href="/references/">14</a></sup>&nbsp;&mdash;Ahmad al-Ya&apos;qubi, ninth century'
     -
-      text: "Strategically positioned beside the Niger River and between the Sahara and the fertile West African Savanna, the city of Gao was an important center for trade in the medieval period. The medieval geographer and historian Abu &apos;Ubayd al-Bakri (d. 1094) observed that Islam was well-established in Kawkaw, the Arabic name for the kingdom of Gao, in the eleventh century: \"the town consists of two towns, one being the residence of the king and the other inhabited by the Muslims.\"<sup><a href=\"/references/\">15</a></sup>"
+      text: 'Strategically positioned beside the Niger River and between the Sahara and the fertile West African Savanna, the city of Gao was an important center for trade in the medieval period. The medieval geographer and historian Abu &apos;Ubayd al-Bakri (d. 1094) observed that Islam was well-established in Kawkaw, the Arabic name for the kingdom of Gao, in the eleventh century: \"the town consists of two towns, one being the residence of the king and the other inhabited by the Muslims.\"<sup><a href="/references/">15</a></sup>'
     -
-      text: "Excavations at two sites associated with Gao&mdash;Gao-Ancien and Gao Saney&mdash;have been conducted by Timothy Insoll, Mamadou Cissé, and a joint team from the Direction nationale du patrimoine culturel and the Museum of Ethnology in Osaka, Japan, among others.<sup><a href=\"/references/\">16</a></sup>"
+      text: 'Excavations at two sites associated with Gao&mdash;Gao-Ancien and Gao Saney&mdash;have been conducted by Timothy Insoll, Mamadou Cissé, and a joint team from the Direction nationale du patrimoine culturel and the Museum of Ethnology in Osaka, Japan, among others.<sup><a href="/references/">16</a></sup>'
     -
       text: 'Gao Ancien was the royal capital and residence; Gao Saney, a predominantly Muslim town, lay five miles east. Several tombstones with Arabic inscriptions have been found in a cemetery on the outskirts of Gao Saney. This pattern of twin communities in capitals of chiefdoms or kingdoms where the king was not Muslim was replicated throughout much of West Africa, especially along routes of the caravan trade.'
     -
       img_srcset: '/img/tour/saharan-frontiers/gao/cisse-map_800.png 800w, /img/tour/saharan-frontiers/gao/cisse-map_300.png 300w'
       img_src: '/img/tour/saharan-frontiers/gao/cisse-map_800.png'
       img_alt: 'cisse-map'
-      caption: "Location of Gao Ancien and Gao Saney. Adapted from Cissé 2017<sup><a href=\"/references/\">17</a></sup>"
+      caption: 'Location of Gao Ancien and Gao Saney. Adapted from Cissé 2017<sup><a href="/references/">17</a></sup>'
     -
       img_src: '/img/tour/saharan-frontiers/gao/looters-pits-at-gao-saney_800.jpg'
       img_srcset: '/img/tour/saharan-frontiers/gao/looters-pits-at-gao-saney_800.jpg, /img/tour/saharan-frontiers/gao/looters-pits-at-gao-saney_300.jpg'
@@ -438,7 +436,7 @@ tours:
       img_alt: 'Horse. Terracotta, 37.7 x 23.5 x 45 cm.'
       caption: 'Horse, Natamatao, Mopti region, Mali, 12th/14th century. Terracotta, 37.7 x 23.5 x 45 cm. Musée national du Mali, Bamako, 2002.17.16. Photograph by Seydou Camara'
     -
-      text: "These terracotta figures of a seated man and horse were found at Natamatao, Mali, alongside skeletons of horses and humans. They are part of a widespread local terracotta sculpture tradition that stretched from the tenth to the fifteenth century.<sup><a href=\"/references/\">18</a></sup> The Niger River's fertile inland delta supported a thriving urbanism in the Middle Ages that included more than sixty interdependent communities."
+      text: 'These terracotta figures of a seated man and horse were found at Natamatao, Mali, alongside skeletons of horses and humans. They are part of a widespread local terracotta sculpture tradition that stretched from the tenth to the fifteenth century.<sup><a href="/references/">18</a></sup> The Niger River&apos;s fertile inland delta supported a thriving urbanism in the Middle Ages that included more than sixty interdependent communities.'
     -
       text: 'At Natamatao, excavations unearthed materials associated with trans-Saharan trade, notably a bundle of imported copper ingots. Bracelets and pendants, like those depicted on the kneeling figure, might well have been made of brass, a copper alloy. The depiction of horses likewise points to commerce, as they were traded across the Sahara.'
     -
@@ -454,7 +452,7 @@ tours:
       img_alt: 'Biconical bead'
       caption: 'Biconical bead, Fulani, Senegal, 19th/20th century. Gilded silver, 10.2 x 6 cm. Detroit Institute of Arts, Founders Society Purchase, Eleanor Clay Ford Fund for African Art, 77.10. Photograph courtesy of the Detroit Institute of Arts'
     -
-      text: 'This biconical, or double-cone-shaped, bead made in the late nineteenth or early twentieth century shares the shape of biconical beads from the medieval period. It is likely that the style continued to be produced in the region from the eleventh century onward; however, the beads are not exactly comparable. This later bead was cast in silver and then covered with a thin layer of gold over its surface, a technique called gilding. The surface of the bead is embellished with wire filigree, thin metal strips applied in a pattern, and granulation, small spheres of gold.<sup><a href=\"/references/\">19</a></sup>'
+      text: 'This biconical, or double-cone-shaped, bead made in the late nineteenth or early twentieth century shares the shape of biconical beads from the medieval period. It is likely that the style continued to be produced in the region from the eleventh century onward; however, the beads are not exactly comparable. This later bead was cast in silver and then covered with a thin layer of gold over its surface, a technique called gilding. The surface of the bead is embellished with wire filigree, thin metal strips applied in a pattern, and granulation, small spheres of gold.<sup><a href="/references/">19</a></sup>'
   saharan_frontiers_spread_of_ideas:
     -
       text: '# THE MOVEMENT OF LANGUAGE, PEOPLE, AND IDEAS'
@@ -493,7 +491,7 @@ tours:
       img_alt: 'Talismanic textile. Cotton, plain woven panels (4) joined and painted, with amulets of animal hide and felt attached by knotted leather strips'
       caption: 'Talismanic textile, probably Senegal, late 19th or early 20th century. Cotton, plain woven panels (4) joined and painted, with amulets of animal hide and felt attached by knotted leather strips, 255.2 x 178.8 cm. Art Institute of Chicago, African and Amerindian Purchase Endowment, 2000.326. Photograph courtesy of The Art Institute of Chicago/Art Resource, NY'
     -
-      text: 'This large textile is covered with Qur&apos;anic verses in Arabic script. The elongated figure may represent a lizard, a spirit, or a stylized rendering of the name Muhammad, while the red checkered motifs recall magic squares, arrangements of numbers that always amount to the same sum, no matter the direction they are added.<sup><a href=\"/references/\">20</a></sup>'
+      text: 'This large textile is covered with Qur&apos;anic verses in Arabic script. The elongated figure may represent a lizard, a spirit, or a stylized rendering of the name Muhammad, while the red checkered motifs recall magic squares, arrangements of numbers that always amount to the same sum, no matter the direction they are added.<sup><a href="/references/">20</a></sup>'
     -
       text: 'The attached amulets likely encase small squares of folded paper with sacred writing. Across Senegal, Sufi practitioners apply esoteric knowledge of the Qur&apos;an and other sacred texts to the therapeutic practices of divination, healing, and spiritual protection. The textile may have been lent or rented to clients as needed by the practitioner who created it.'
     -
@@ -520,7 +518,7 @@ tours:
     -
       text: 'Al-‘Umari describes the sumptuous diplomatic gifts that Musa received during his stay in Cairo:'
     -
-      text: '"The sultan sent to him several complete suits of honor for himself, his courtiers, and all those who had come with him, and saddles and bridled horses for himself and his chief courtiers. His robe of honor consisted of an Alexandrian open-fronted cloak embellished with . . . cloth containing much gold thread and miniver fur, bordered with beaver fur and embroidered with metallic thread, along with golden fastenings, a silken skull-cap with caliphal emblems, a gold inlaid belt, a damascened sword, a kerchief [embroidered] with pure gold, standards, and two horses saddled and bridled and equipped with decorated mule-type saddles."<sup><a href=\"/references/\">21'
+      text: '"The sultan sent to him several complete suits of honor for himself, his courtiers, and all those who had come with him, and saddles and bridled horses for himself and his chief courtiers. His robe of honor consisted of an Alexandrian open-fronted cloak embellished with . . . cloth containing much gold thread and miniver fur, bordered with beaver fur and embroidered with metallic thread, along with golden fastenings, a silken skull-cap with caliphal emblems, a gold inlaid belt, a damascened sword, a kerchief [embroidered] with pure gold, standards, and two horses saddled and bridled and equipped with decorated mule-type saddles."<sup><a href="/references/">21'
     -
       text: 'To see a medieval map that charts trade networks and features Mansa Musa, [click here](/works/26/).'
     -
@@ -553,7 +551,7 @@ tours:
     -
       text: 'Gold and salt were at the heart of medieval trans-Saharan exchange; together these commodities supported a global economy that defined the Middle Ages.'
     -
-      text: 'The traveler and diplomat Ibn Battuta, who wrote an account of his journey across the Sahara Desert in the mid-fourteenth century recounted, "The inhabitants of the Western Sudan use salt for currency as gold and silver are used. They cut it into pieces and use it for their transactions."<sup><a href=\"/references/\">22</a></sup> The journey across the Sahara Desert was arduous and at times treacherous. A camel caravan&apos;s pace is about three miles per hour, and caravans could travel more than 2,500 miles on a trans-Saharan trek. Overcoming the risks that such travel posed&mdash;thirst, hunger, even death&mdash;required strong motivation.'
+      text: 'The traveler and diplomat Ibn Battuta, who wrote an account of his journey across the Sahara Desert in the mid-fourteenth century recounted, "The inhabitants of the Western Sudan use salt for currency as gold and silver are used. They cut it into pieces and use it for their transactions."<sup><a href="/references/">22</a></sup> The journey across the Sahara Desert was arduous and at times treacherous. A camel caravan&apos;s pace is about three miles per hour, and caravans could travel more than 2,500 miles on a trans-Saharan trek. Overcoming the risks that such travel posed&mdash;thirst, hunger, even death&mdash;required strong motivation.'
     -
       text: 'For merchants traveling southward across the Sahara, the main attraction was West African gold, which was widely admired for its purity and symbolic value. The special qualities of gold&mdash;its rarity, its sparkle and reflectiveness, its malleability, and its resistance to tarnish as well as the difficulty of extracting it from the earth&mdash;all contributed to its value. Empires across North Africa, the Middle East, and Europe minted gold into coins and used it to make and to embellish luxury objects.'
     -
@@ -575,7 +573,7 @@ tours:
     -
       text: 'This lavish map was possibly commissioned by the King of Aragon for Charles V, the king of France, and may have been produced by the Jewish cartographer Abraham Cresques. It was completed in 1375. The Crown of Aragon, a confederation of powerful territories that included parts of the Iberian Peninsula and islands in the Mediterranean, was well situated to be a commercial powerhouse. The *Catalan Atlas* demonstrates the significant European interest in global commerce and the prominence of West Africa in these networks of exchange.'
     -
-      text: 'Mansa Musa, the emperor of Mali, is prominently depicted on the second panel seated on a throne and holding a golden orb in one hand. The caption reads: "This Moorish ruler is named Musse Melly \[Mansa Musa\], lord of Guinea. This king is the richest and most distinguished ruler of this whole region on account of the great quantity of gold that is found in his lands."<sup><a href=\"/references/\">23</a></sup>'
+      text: 'Mansa Musa, the emperor of Mali, is prominently depicted on the second panel seated on a throne and holding a golden orb in one hand. The caption reads: "This Moorish ruler is named Musse Melly \[Mansa Musa\], lord of Guinea. This king is the richest and most distinguished ruler of this whole region on account of the great quantity of gold that is found in his lands."<sup><a href="/references/">23</a></sup>'
     -
       img_src: '/img/works/27/27_640x.jpg'
       img_alt: 'Solidus of Honorius'
@@ -583,7 +581,7 @@ tours:
     -
       text: 'The origins of trans-Saharan gold trade likely date to the fourth century CE. Roman outposts in North Africa were well positioned to undertake this trade and to disseminate gold and other commodities into the wider Roman world. The first gold solidus coin, featuring a portrait of the emperor Honorius in profile, was issued by the Roman Empire in 312 and weighed 4.5 grams.'
     -
-      text: 'The measure and its increments became standard units for weighing gold wherever Roman coins were used, and they continued to be used by Islamic states in North Africa and the Middle East during the Middle Ages. It is possible that this system was also transferred via trans-Saharan trade to West Africa, where it was used in the nineteenth-century gold weights in the Akan region of Ghana.<sup><a href=\"/references/\">24</a></sup>'
+      text: 'The measure and its increments became standard units for weighing gold wherever Roman coins were used, and they continued to be used by Islamic states in North Africa and the Middle East during the Middle Ages. It is possible that this system was also transferred via trans-Saharan trade to West Africa, where it was used in the nineteenth-century gold weights in the Akan region of Ghana.<sup><a href="/references/">24</a></sup>'
     -
       img_src: '/img/tour/driving-desires/map-of-dinar-sites.jpg'
       img_alt: 'Map of dinar mint sites'
@@ -591,7 +589,7 @@ tours:
     -
       text: 'Dinars were struck from West African gold throughout the medieval period. This map shows the locations of mints during the Almoravid Dynasty (ca. 1040&ndash;1147). Founded by Sanhaja Imazighen, who originated in the region of present-day southern Mauritania, at its apex the dynasty controlled parts of the Niger River, the Sahara Desert, and the Mediterranean Sea.'
     -
-      text: 'Almoravid mints produced more gold currency than any other empire in the western Islamic lands. Their coinage was highly valued because it was made from West African gold, which was known for being purer than gold from any other known source. The mint at Sijilmasa, which was closest to the West African gold fields, was one of the most productive.<sup><a href=\"/references/\">25</a></sup>'
+      text: 'Almoravid mints produced more gold currency than any other empire in the western Islamic lands. Their coinage was highly valued because it was made from West African gold, which was known for being purer than gold from any other known source. The mint at Sijilmasa, which was closest to the West African gold fields, was one of the most productive.<sup><a href="/references/">25</a></sup>'
     -
       img_src: '/img/works/28/28_640x.jpg'
       img_alt: 'Dinar of Abu Inan Faris'
@@ -615,7 +613,7 @@ tours:
     -
       text: 'Medieval Christian artworks were often embellished with gold leaf. In this panel painting from Italy, Christ places a crown on the head of his mother Mary, symbolizing her role as Queen of Heaven. Angels and other holy figures fill the heavenly space that is conveyed by the golden background. Much of the gold used in Italy came from West Africa through trans-Saharan trade routes.'
     -
-      text: 'Beginning in the thirteenth century, Italian city-states such as Florence and Venice began minting gold coins largely made from West African gold. These coins were beaten into thin sheets of foil, which were then used as gold leaf. From one coin, craftsmen could make more than one hundred leaves.<sup><a href=\"/references/\">26</a></sup>'
+      text: 'Beginning in the thirteenth century, Italian city-states such as Florence and Venice began minting gold coins largely made from West African gold. These coins were beaten into thin sheets of foil, which were then used as gold leaf. From one coin, craftsmen could make more than one hundred leaves.<sup><a href="/references/">26</a></sup>'
     -
       img_src: '/img/works/31/31_640x.jpg'
       img_alt: "Biconical bead. Gold, with filigree, granulation, and 'rope' wire"
@@ -631,7 +629,7 @@ tours:
     -
       text: 'The page of this sumptuous Qur&apos;an features gold and silver script on indigo-colored parchment. The Blue Qur&apos;an was housed in the library of the Great Mosque of Kairouan in Tunisia from at least 1294. Today more than one hundred of its 600 pages are dispersed in collections around the world and more than sixty are still in Tunisia.'
     -
-      text: 'Although scholars disagree on the precise origins of this sumptuous book, the use of gold and silver script on parchment colored a deep blue nevertheless signals competition with the expensive purple-dyed manuscripts (from the murex sea snail) also circulating in courts around the Mediterranean basin.<sup><a href=\"/references/\">27</a></sup>'
+      text: 'Although scholars disagree on the precise origins of this sumptuous book, the use of gold and silver script on parchment colored a deep blue nevertheless signals competition with the expensive purple-dyed manuscripts (from the murex sea snail) also circulating in courts around the Mediterranean basin.<sup><a href="/references/">27</a></sup>'
     -
       text: 'During the medieval period, a shared manuscript culture among Muslims, Christians, and Jews extended across North Africa, the Middle East, and Europe. Common elements in this manuscript tradition included elegant calligraphy, colorful embellishments including gold, and decorative leather bindings. Gold and leather, both prominently used in bookmaking, were imported from West Africa. Book culture likewise spread to West Africa as Islam spread across the Sahara Desert.'
     -
@@ -645,7 +643,7 @@ tours:
       img_alt: 'Virgin and Child'
       caption: '<em>Virgin and Child</em>, France, ca. 1275/1300. Ivory with paint, 36.8 x 16.5 x 12.7 cm. The Metropolitan Museum of Art, New York, gift of J. Pierpont Morgan, 1917, 17.190.295. Image © The Metropolitan Museum of Art. Image source: Art Resource, NY'
     -
-      text: 'Ivory tusks were among the luxury commodities traded across the Sahara Desert alongside gold. Two elephant subspecies are found in West Africa: the Savanna elephant, which is the largest of all elephant species, and the forest elephant. The tusks of both elephants were circulated through medieval trans-Saharan trade.<sup><a href=\"/references/\">28</a></sup>'
+      text: 'Ivory tusks were among the luxury commodities traded across the Sahara Desert alongside gold. Two elephant subspecies are found in West Africa: the Savanna elephant, which is the largest of all elephant species, and the forest elephant. The tusks of both elephants were circulated through medieval trans-Saharan trade.<sup><a href="/references/">28</a></sup>'
     -
       text: 'Large-scale *Virgin and Child* statuettes represent the apex of ivory carving in the medieval period in France, and this sculpture is among the largest. Measuring 16.5 cm in diameter at its widest point, the solid statuette could only have been made from the tusk of a Savanna elephant. The artist has maximized the size of the figures of the Virgin and Child obtained from the large tusk and augmented it further by adding separate ivory pieces to make the throne. This statuette was finished with fine details in paint and gold.'
     -
@@ -659,7 +657,7 @@ tours:
       img_alt: 'Coronation of the Virgin'
       caption: "<em>Coronation of the Virgin</em>, English, ca. 1480. Gold and silk thread on linen, 29.5 x 32.4 cm. Loyola University Museum of Art, Chicago, IL, the Martin D'Arcy, S.J., Collection, gift of D.F. Rowe, S.J., in memory of Mrs. Mary Flannery, 1976:01. Photograph by Clare Britt"
     -
-      text: 'This densely embroidered textile fragment depicting the Coronation of the Virgin, a popular Christian story of the period, was likely once part of a vestment, or ceremonial robe. While documents of the period suggest that luxurious embroidered garments were worn by the elite, the majority of surviving embroideries were made for use in the church.<sup><a href=\"/references/\">29</a></sup>'
+      text: 'This densely embroidered textile fragment depicting the Coronation of the Virgin, a popular Christian story of the period, was likely once part of a vestment, or ceremonial robe. While documents of the period suggest that luxurious embroidered garments were worn by the elite, the majority of surviving embroideries were made for use in the church.<sup><a href="/references/">29</a></sup>'
     -
       text: 'Generous amounts of gold thread are incorporated into the scene. Despite the discovery of gold deposits in Europe in the later Middle Ages, West African gold continued to be highly prized for its quality and purity. A mid-seventeenth-century shipwreck offers compelling evidence for the export of West African gold to England. The ship sank off the coast of Devon, England, carrying scraps of gold jewelry, ingots, and more than 400 gold coins, most of them minted in Morocco between the eleventh and seventeenth century.'
     -
@@ -667,6 +665,8 @@ tours:
     -
       text: 'For more on the contemporary salt trade, [watch an interview between Addi Ouadderrou and salt merchant Lahbib Rahmiwi in Morocco](https://vimeo.com/364139755).&nbsp;For more on the trade of West African ivory and its use in medieval Europe, [watch interviews with art historian Sarah Guérin](https://vimeo.com/364139579).'
   long_reach_of_the_sahara_igbo:
+    -
+      text: '# IGBO UKWU (8th–early 12th century)'
     -
       text: "The town of Igbo Ukwu lies west of the Niger River in Nigeria's forest region. Excavations conducted there unearthed a remarkable group of over 600 prestige objects including extraordinary cast copper-alloy sculptures and more than 165,000 glass and carnelian beads."
     -
@@ -678,7 +678,7 @@ tours:
       img_alt: 'Armlets'
       caption: 'Armlets, 9th/10th century, excavated at Igbo Richard, Igbo Ukwu, eastern Nigeria. Beads and copper wire, height 14.9 cm. National Commission for Museums and Monuments, Abuja, Nigeria, IR.416 and IR.417. Photograph by Uche James Iroha'
     -
-      text: 'These blue glass armlets were excavated from a royal grave at Igbo Ukwu. Thurstan Shaw, who led excavations at the site, found that many beads from the site are distinguished by high lime and high aluminum content. The discovery of a bead workshop producing high-lime and high-aluminum beads 389 kilometers southeast at a site called Igbo Olokun, within the city of Ife, supports the hypothesis that these unique beads were made and exchanged locally.<sup><a href=\"/references/\">32</a></sup>'
+      text: 'These blue glass armlets were excavated from a royal grave at Igbo Ukwu. Thurstan Shaw, who led excavations at the site, found that many beads from the site are distinguished by high lime and high aluminum content. The discovery of a bead workshop producing high-lime and high-aluminum beads 389 kilometers southeast at a site called Igbo Olokun, within the city of Ife, supports the hypothesis that these unique beads were made and exchanged locally.<sup><a href="/references/">32</a></sup>'
     -
       text: "Yet, of the 165,000 stone and glass beads found at Igbo Ukwu, many are also traceable to the Mediterranean, the Levant, the Middle East, Arabia, and India. Beads at the site offer an interesting look into the polity's connections to local and long-distance trade networks, including those crossing the Sahara."
     -
@@ -736,7 +736,7 @@ tours:
     -
       text: 'East of the Niger River’s arc, the Central Sudan extends to Lake Chad and its vast basin, which has supported settled habitation since the first millennium BCE. As with the Western Sudan, populations in the Central Sudan engaged in trans-Saharan trade during the medieval period. Routes that passed through the region linked Egypt with the Niger River, supporting an economy that was bolstered by trade in multiple directions.'
     -
-      text: 'Durbi Takusheyi is situated halfway between the Niger River and Lake Chad, in the heart of the Central Sudan. It provides some of the earliest documentation for the Hausa kingdoms, which would grow to dominate the region between the 16th and the 19th century. Excavations at Durbi Takusheyi included burials with sumptuous grave goods that attest to global interactions.<sup><a href=\"/references/\">33</a></sup>'
+      text: 'Durbi Takusheyi is situated halfway between the Niger River and Lake Chad, in the heart of the Central Sudan. It provides some of the earliest documentation for the Hausa kingdoms, which would grow to dominate the region between the 16th and the 19th century. Excavations at Durbi Takusheyi included burials with sumptuous grave goods that attest to global interactions.<sup><a href="/references/">33</a></sup>'
     -
       img_src: '/img/tour/long-reach-of-the-sahara/central-sudan/burial_600.png'
       img_alt: 'Contents of graves (human remains and fragments of art works) at the site of Durbi Takusheyi'
@@ -746,11 +746,11 @@ tours:
       img_alt: 'Rods excavated from 14th-century tombs at Durbi Takusheyi'
       caption: 'Rods excavated from 14th-century tombs at Durbi Takusheyi, Nigeria. National Commission for Museums and Monuments, Abuja. Photograph by Volker Iserhardt'
     -
-      text: 'These long brass ingots were buried within an elite grave at Durbi Takusheyi along with other copper alloy objects made locally and imported from North of the Sahara. Copper was a sought after commodity in trans-Saharan trade that was mined from sources in the Sahara and in Europe. The exchange of copper transported southward across the Sahara for gold is described in the mid-tenth century by ‘Ishaq Ibn al-Husayn’: “Their country (the Sudan) has much gold, but the people there prefer brass to gold.”<sup><a href=\"/references/\">34</a></sup>'
+      text: 'These long brass ingots were buried within an elite grave at Durbi Takusheyi along with other copper alloy objects made locally and imported from North of the Sahara. Copper was a sought after commodity in trans-Saharan trade that was mined from sources in the Sahara and in Europe. The exchange of copper transported southward across the Sahara for gold is described in the mid-tenth century by ‘Ishaq Ibn al-Husayn’: “Their country (the Sudan) has much gold, but the people there prefer brass to gold.”<sup><a href="/references/">34</a></sup>'
     -
-      text: 'The origins of the metals alloyed to make these ingots is not clear. However, a preliminary isotopic analysis of the ingots and the copper-alloy objects cast in Durbi Takusheyi suggests possible sources in France, the Iberian Peninsula, and the Middle East.<sup><a href=\"/references/\">35</a></sup> Thin rod-shaped copper ingots dated between the 11th and 13th century were found at Ma’den Ifajen, Mauretania and at Natamatao, Mali.<sup><a href=\"/references/\">36</a></sup>'
+      text: 'The origins of the metals alloyed to make these ingots is not clear. However, a preliminary isotopic analysis of the ingots and the copper-alloy objects cast in Durbi Takusheyi suggests possible sources in France, the Iberian Peninsula, and the Middle East.<sup><a href="/references/">35</a></sup> Thin rod-shaped copper ingots dated between the 11th and 13th century were found at Ma’den Ifajen, Mauretania and at Natamatao, Mali.<sup><a href="/references/">36</a></sup>'
     -
-      text: 'Recent excavations at Tamdult, Morocco, by a Moroccan/UK team (Institut National des Sciences de l’Archéologie et du Patrimoine/British Museum) have recorded fragments of moulds that would have produced ingots with a similar form to those excavated at Durbi Takusheyi.<sup><a href=\"/references/\">37</a></sup>'
+      text: 'Recent excavations at Tamdult, Morocco, by a Moroccan/UK team (Institut National des Sciences de l’Archéologie et du Patrimoine/British Museum) have recorded fragments of moulds that would have produced ingots with a similar form to those excavated at Durbi Takusheyi.<sup><a href="/references/">37</a></sup>'
     -
       img_src: '/img/works/45/45_640x.jpg'
       img_alt: 'Heads of an elephant and of a hippopotamus'
@@ -781,7 +781,7 @@ tours:
       img_srcset: '/img/tour/long-reach-of-the-sahara/medieval-glass-production-and-trade/igbo-olokun-in-ile-ife_800.png 800w, /img/tour/long-reach-of-the-sahara/medieval-glass-production-and-trade/igbo-olokun-in-ile-ife_300.png 300w'
       img_src: '/img/tour/long-reach-of-the-sahara/medieval-glass-production-and-trade/igbo-olokun-in-ile-ife_800.png'
       img_alt: 'Locations of Igbo Olokun in Ile-Ife'
-      caption: 'Locations of Igbo Olokun in Ile-Ife. Adapted from Willett 2004. <sup><a href=\"/references/\">38</a></sup>'
+      caption: 'Locations of Igbo Olokun in Ile-Ife. Adapted from Willett 2004. <sup><a href="/references/">38</a></sup>'
     -
       img_src: '/img/tour/long-reach-of-the-sahara/medieval-glass-production-and-trade/medieval-beads-1_600.jpg'
       img_alt: 'Bead production waste excavated at Igbo Olokun'
@@ -809,7 +809,7 @@ tours:
       img_alt: 'Bowl (kuduo), Asante, Offin River'
       caption: 'Bowl (<em>kuduo</em>), Asante, Offin River, Ghana, 16th/18th(?) century. Brass, 15 x 32 cm. British Museum, London, Af1955,05.225. Image © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial- ShareAlike 4.0 International (CC BY-NC-SA 4.0) license'
     -
-      text: 'This bowl was discovered in 1909 during dredging for gold along the banks of the Offin River in southern Ghana. Its formal similarity to Mamluk brass bowls and basins of the fourteenth and fifteenth centuries that were imported across the Sahara Desert in the late medieval period provides compelling evidence that the making of Akan kuduo was inspired by the north-east African imports.<sup><a href=\"/references/\">39</a></sup>'
+      text: 'This bowl was discovered in 1909 during dredging for gold along the banks of the Offin River in southern Ghana. Its formal similarity to Mamluk brass bowls and basins of the fourteenth and fifteenth centuries that were imported across the Sahara Desert in the late medieval period provides compelling evidence that the making of Akan kuduo was inspired by the north-east African imports.<sup><a href="/references/">39</a></sup>'
     -
       text: "The bowl's profile and the placement of its surface decoration are almost identical to Mamluk period Arabic-inscribed bowls; however, details such as the use of a pseudo script&mdash;an attempt by an artist unfamiliar with Arabic to capture the formal essence of Arabic calligraphy&mdash;and the representation of stylized crocodiles and mudfish, inhabitants of the Akan forest, in two of the eight medallions show how a local artist may have reinterpreted important visual elements."
     -
@@ -1285,7 +1285,7 @@ works:
     credit_line: National Commission for Museums and Monuments, Abuja, Nigeria. Photograph by Clare Britt
     description: 'The glass bead assemblage from Igbo Olokun and the other glass-related materials discovered there have provided a unique avenue to understanding different aspects of glass bead production in medieval West Africa. These include the degree of sophistication and expertise of glass bead makers, the scale of production, and the transformations it brought to the society locally, regionally, and transregionally. Examination of the glass bead assemblage from Igbo Olokun has shown that beads were made using the drawing technique in which molten glass is pulled into tubes. '
   48:
-    label: Bowl (_kuduo_)
+    label: Bowl (<i>kuduo</i>)
     section: Shifting Away from the Sahara
     _date: 16th/18th (?) century
     region_culture_timeperiod: Asante, Offin River, Ghana
