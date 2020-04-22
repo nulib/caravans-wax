@@ -4,8 +4,8 @@ namespace: about
 title: titles.about
 permalink: /about/
 ---
+<!-- Adds links to other languages on the post
 <div align="right">
-    <!-- Adds links to other languages on the post -->
     {% for lang in site.languages %}
     {% unless site.lang == lang %}
         <a href="{% tl {{ page.namespace }} {{ lang }} %}" >{% t langs.{{ lang }} %}</a>
@@ -19,5 +19,6 @@ permalink: /about/
     {% endunless %}
     {% endfor %}
 </div>
+-->
 
 {% tf pages/about.md %}
