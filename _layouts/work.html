@@ -60,12 +60,12 @@ layout: default
      </div>
   </div>
 
-  <dl class='metadata-block'>
-    <dt>Object</dt>
-    <dd>{{ caption }}</dd>
-    <dt>Description</dt>
-    <dd>{{ description }}</dd>
-  </dl>
+  <div class="card mb-3">
+  <div class="card-body">
+    <p class="card-title font-weight-bold">{{ caption }}</p>
+    <p class="card-text">{{ description }}</p>
+  </div>
+</div>
 
 {% endif %}
 
