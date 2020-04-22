@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search Key Works
+title: titles.search
 permalink: /search/
 ---
 

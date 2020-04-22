@@ -17,13 +17,9 @@
 # ---------------------------------------------------------------
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
-
-title:            'Caravans of Gold, Fragments in Time'
-subtitle:         'Art, Culture, and Exchange across Medieval Saharan Africa'
-description:      'A digital exhibit exploring the global reach of medieval Saharan exchange from the eighth to sixteenth centuries.'
+# see: .yml files in _i18n folder for in-place text, such as title, description, copyright, etc.
 url:              'https://caravans.library.northwestern.edu'
 baseurl:          ''
-copyright:        'Created by Kathleen Berzock, Sarah Estrela, Chris Diaz, Melanie Garcia Sympson, and the students of ART HIST 395: Museums Seminar, Northwestern University, Spring 2019'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -71,12 +67,18 @@ kramdown:
 collections:
   works: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'key-work' # the layout for the pages to use
+    permalink: /:collection/:path/
     metadata:
       source: 'caravans_metadata.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/caravans' # path to the directory of images within `_data`
 
+defaults:
+  - scope:
+      path: "_works"
+      type: works
+    values:
+      collection: works
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
 # --------------------------------------------------------------
@@ -135,3 +137,9 @@ footer:
       alt: 'Northwestern Libraries'
 
 root: 'https://caravans.library.northwestern.edu'
+
+languages: ["en", "ar"]
+exclude_from_localization: ["javascript", "images", "css"]
+
+plugins:
+  - jekyll-multiple-languages-plugin

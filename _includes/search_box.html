@@ -11,6 +11,8 @@
 {%- endcapture -%}
 {% assign fields = fields | split: '|||' | uniq %}
 
+{% assign url = site.url %}
+
 <div class='search-block'>
   <div class='input-group'>
     <label for="search" style="text-indent:-9999px;">Search for exhibit objects</label>
@@ -23,8 +25,8 @@
 <script type='text/javascript' src="{{ '/assets/search-ui.js' | absolute_url }}"></script>
 <script type='text/javascript'>
   var fields    = {{ fields | jsonify }};
-  var indexFile = "{{ index }}";
-  var url       = "{{ '' | absolute_url }}";
+  var indexFile = "{{ index | absolute_url }}";
+  var url       = "{{ url }}{{ site.baseurl }}/";
 
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);

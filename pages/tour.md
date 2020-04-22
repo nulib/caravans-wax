@@ -1,16 +1,10 @@
 ---
-title: 'Tour'
+title: titles.tour
 layout: tour
 permalink: /tour/
-caption: 'During the medieval period, major trade routes crossing the Sahara Desert linked cities and towns that functioned as trade centers. Routes headed south connected with the Niger River, a major byway to Africa’s forest region. Those going north connected to the vast trade networks of the Mediterranean Sea, traveling inland across Europe. Routes headed east met the Levantine routes and ultimately the Silk Roads of Central and East Asia.'
+hero_src: '/img/tour/caravans-intro-map_600.jpg'
+hero_srcset: '/img/tour/caravans-intro-map_300.jpg 300w, /img/tour/caravans-intro-map_600.jpg 600w'
+hero_alt: 'Map of Saharan trade routes'
 ---
 
-In 1324, the king of the vast West African empire of Mali, Mansa Musa, made a pilgrimage to Mecca. Accounts of the period describe his journey, which reportedly included 8,000 courtiers, 12,000 slaves, and 100 loads of pure gold. By contemporary measures, Musa may have been the richest person in the history of the world.
-
-Mansa Musa’s story is among the most well-known of many that can be told about West Africa’s prominence in an interconnected medieval world. At this time West African gold was the engine that drove the movement of things, people, and ideas across Africa, Europe, and the Middle East.
-
-Seen from the perspective of Africa, the medieval period opens with the spread of Islam in the eighth century and recedes with the arrival of Europeans along the continent’s Atlantic Coast at the end of the fifteenth century. During this era, the Sahara Desert was the center of a global network of exchange. Gold, salt, and enslaved people were this economy’s primary commodities.
-
-They moved across Saharan trade routes along with ceramics, copper, glass beads, ivory, leather, and textiles. These goods were often destined for markets at astonishing distances from their places of origin. As networks of exchange spread, so too did cultural practices, fostering the broad circulation of a distinctive visual culture related to Islam.
-
-The reach of trans-Saharan exchange is revealed in the fragments excavated from now uninhabited archaeological sites that were once vibrant communities. In this app, these archaeological “fragments in time” from three key sites—Gao and Tadmekka, Mali and Sijilmasa, Morocco—are presented along with works of art and other objects that allow us to imagine them as they may have been. They are the starting point for reimagining the medieval past and for seeing the present in a new light.
+{% tf pages/tour.md %}

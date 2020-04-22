@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ site.description }}">
   <title>
-    {{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
+    {% t global.title %}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
   </title>
   <link rel='canonical' href='{{ page.url | absolute_url }}'/>
   <link rel='stylesheet' href="{{ '/assets/styles.css' | absolute_url }}"/>
@@ -18,7 +18,7 @@
   <meta name="twitter:site" content="@NUblockmuseum" />
   <meta property="og:url" content="{{ site.url }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="{{ site.title }}:{{ site.subtitle }}" />
+  <meta property="og:title" content="{% t global.title %}:{{ site.subtitle }}" />
   <meta property="og:description" content="{{ site.description }}" />
   <meta property="og:image" content="{{site.url}}/img/bead-hero.jpg" />
   <script type='text/javascript' src="{{ '/assets/jquery-3.4.1.min.js' | absolute_url }}"></script>

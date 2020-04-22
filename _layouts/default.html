@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='en-us'>
+<html lang='{{ site.lang }}'>
   {% include head.html %}
 
   <body>
@@ -28,7 +28,7 @@
 
   <script type='text/javascript' async defer src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}'></script>
   <script type='text/javascript' async defer src='{{ "/assets/popper.min.js" | absolute_url }}'></script>
-
+  <!--
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
@@ -36,4 +36,5 @@
       });
     }
   </script>
+-->
 </html>

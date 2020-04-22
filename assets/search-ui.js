@@ -37,7 +37,6 @@ function displayResult(item, fields, url) {
 function startSearchUI(fields, indexFile, url) {
   $.getJSON(indexFile, function(store) {
     var index  = new elasticlunr.Index;
-
     index.saveDocument(false);
     index.setRef('lunr_id');
 

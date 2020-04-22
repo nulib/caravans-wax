@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Key Works
+title: titles.key_works
 permalink: /works/
 ---
 
