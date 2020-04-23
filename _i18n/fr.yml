@@ -1,40 +1,41 @@
 global:
-  title: 'Caravans of Gold, Fragments in Time'
-  subtitle: 'Art, Culture, and Exchange across Medieval Saharan Africa'
+  title: 'Les caravanes de l’or, fragments d’époque'
+  subtitle: 'Art, culture et commerce dans l’Afrique saharienne médiévale'
 titles:
   references: 'References'
-  about: 'About'
-  search: 'Search Key Works'
-  key_works: 'Key Works'
-  tour: 'Tour'
+  about: 'À propos'
+  search: 'Recherche Mots clés'
+  key_works: 'Mots clés'
+  tour: 'Visite'
 menu:
-  - label: 'About'
+  - label: 'À propos'
     link: '/about/'
-  - label: 'Tour'
+  - label: 'Visite'
     link: '/tour/'
-  - label: 'Key Works'
+  - label: 'Mots clés'
     link: '/works/'
-  - label: 'Search'
+  - label: 'Recherche'
     link: '/search/'
-  - label: 'References'
+  - label: 'Références'
     link: '/references/'
 langs:
   en: English
   ar: عربى
+  fr: French
 splash:
-  tagline: Journey to a medieval world with Africa at its center.
-  tour: Take a Tour
-  description: A digital project exploring the global reach of medieval Saharan exchange from the eighth to sixteenth centuries.
-  browse: Browse Key Works
+  tagline: 'Voyage pour l’Afrique au cœur du monde médiéval.'
+  tour: 'Visite guidée'
+  description: 'Un projet numérique présenté en arabe, en français et en anglais, pour explorer la portée mondiale du commerce saharien du huitième au seizième siècle.'
+  browse: 'Rechercher des mots clés'
   image_alt_tags:
     hero: Maritime Atlas of the Sahara
 footer:
-  copyright: 'Created by Kathleen Berzock, Sarah Estrela, Chris Diaz, Melanie Garcia Sympson, and the students of ART HIST 395: Museums Seminar, Northwestern University, Spring 2019'
+  copyright: 'Créé par Kathleen Berzock, Sarah Estrela, Chris Diaz, Melanie Garcia Sympson et les étudiants de ART HIST 395 : Séminaire muséal, Université Northwestern, printemps 2019'
 
 pages:
   tour:
-    title: 'Tour'
-    caption: 'During the medieval period, major trade routes crossing the Sahara Desert linked cities and towns that functioned as trade centers. Routes headed south connected with the Niger River, a major byway to Africa’s forest region. Those going north connected to the vast trade networks of the Mediterranean Sea, traveling inland across Europe. Routes headed east met the Levantine routes and ultimately the Silk Roads of Central and East Asia.'
+    title: 'Visite'
+    caption: 'À l’époque médiévale, de grands axes commerciaux traversaient le désert du Sahara. Ces routes reliaient les villes et cités qui fonctionnaient comme des centres de commerce. Les routes allant vers le sud rejoignaient le fleuve Niger, une voie secondaire importante menant à la zone forestière d’Afrique. Les routes en direction du nord communiquaient avec les vastes réseaux de commerce de la mer Méditerranée, jusqu’à l’intérieur des terres européennes. Les routes menant à l’est rejoignaient les routes du Levant, puis les routes de la soie de l’Asie centrale et orientale.'
     sections:
       -
         title: 'Saharan Echoes'
@@ -67,8 +68,8 @@ pages:
         img_src: '/img/tour/shifting-away-from-the-sahara_300.jpg'
         img_alt: 'Begin Shifting Away from the Sahara tour'
   saharan_frontiers:
-    title: 'Saharan Frontiers'
-    caption: 'Routes across the vast Sahara Desert (that comprises more than 3.5 million square miles) follow paths through a varied terrain, moving between oases—the underground sources of water that are critical to the survival of travelers. The main routes across the Sahara were established by the fifth century CE, and most continue to be used today. In this section the sites of Sijilmasa, Tadmekka, and Gao are presented as case studies that reveal the history of medieval West Africa.'
+    title: 'LES FRONTIÈRES SAHARIENNES'
+    caption: 'Les routes du vaste désert du Sahara (qui couvre plus de 9 millions de kilomètres carré) empruntent des itinéraires à la topographie variée, et traversent des oasis, sources d’eau souterraines essentielles à la survie des voyageurs. Les routes principales qui traversent le Sahara ont été établies jusqu’au cinquième siècle et continuent d’être utilisées aujourd’hui. Dans cette section, les sites de Sijilmassa, Tadmekka et Gao sont présentés en tant qu’études de cas qui révèlent l’histoire de l’Afrique de l’Ouest médiévale.  '
     sections:
       -
         title: 'Sijilmasa'
@@ -89,13 +90,13 @@ pages:
         img_src: '/img/tour/igbo-tour_300.jpg'
         img_alt: 'View the Gao tour'
       -
-        title: 'Connecting Trade to the Niger River'
+        title: 'Le commerce lié au fleuve Niger'
         link: /tour/saharan-frontiers/niger-river/
         img_srcset: '/img/tour/shifting-away-from-the-sahara_300.jpg 300w, /img/tour/shifting-away-from-the-sahara_800.jpg 800w'
         img_src: '/img/tour/shifting-away-from-the-sahara_300.jpg'
         img_alt: 'View the Connecting Trade to the Niger River tour'
       -
-        title: 'The Movement of Language, People, and Ideas'
+        title: 'La circulation des langues, des personnes et des idées'
         link: /tour/saharan-frontiers/spread-of-ideas/
         img_srcset: '/img/tour/spread-of-ideas_300.jpg 300w, /img/tour/spread-of-ideas_800.jpg 800w'
         img_src: '/img/tour/spread-of-ideas_300.jpg'
@@ -107,8 +108,8 @@ pages:
         img_src: /img/tour/spread-of-ideas_300.jpg
         img_alt: "View Mansa Musa's Hajj to Mecca tour"
   long_reach_of_the_sahara:
-    title: 'The Long Reach of the Sahara'
-    caption: 'The Niger River was a major thoroughfare for trade from the Sahara into West Africa. Niger River trade connected to land routes through the West African forest and the region known as the Central Sudan. In this section the sites of Igbo Ukwu, Ife, and Durbi Takusheyi are presented as case studies that contribute to understanding the history of medieval West Africa.'
+    title: 'LA VASTE PORTÉE DU SAHARA '
+    caption: 'Le fleuve Niger représenta une artère importante pour le commerce allant du Sahara à l’Afrique de l’Ouest. Le commerce du fleuve Niger rejoignait des routes terrestres par la forêt ouest-africaine et par la région du Soudan central. Dans cette section, les sites Igbo-Ukwu, Ife et Durbi Takusheyi sont présentés sous forme d’études de cas qui nous aident à comprendre l’histoire de l’Afrique de l’Ouest africaine.'
     sections:
       -
         title: 'Igbo Ukwu'
@@ -117,19 +118,19 @@ pages:
         img_src: '/img/tour/man_on_camel_card_800.jpg'
         img_alt: 'View the Igbo Ukwu tour'
       -
-        title: 'Ife and Its Orbit'
+        title: 'Ife et ses alentours'
         link: /tour/long-reach-of-the-sahara/ife/
         img_srcset: '/img/tour/saharan-frontiers_300.jpg 300w, /img/tour/saharan-frontiers_800.jpg 800w'
         img_src: '/img/tour/saharan-frontiers_300.jpg'
         img_alt: 'View the Ife and Its Orbit tour tour'
       -
-        title: 'Central Sudan/Durbi Takusheyi'
+        title: 'Soudan central/Durbi Takusheyi'
         link: /tour/long-reach-of-the-sahara/central-sudan/
         img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
         img_src: '/img/tour/atlas-of-maritime_300.jpg'
         img_alt: 'View the Central Sudan/Durbi Takusheyi tour'
       -
-        title: 'Medieval Glass Beads'
+        title: 'Perles de verre médiévales'
         link: /tour/long-reach-of-the-sahara/medieval-glass-beads/
         img_srcset: '/img/tour/igbo-tour_300.jpg 300w, /img/tour/igbo-tour_800.jpg 800w'
         img_src: '/img/tour/igbo-tour_300.jpg'
