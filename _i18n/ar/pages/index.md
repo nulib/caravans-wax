@@ -1,8 +1,8 @@
-### Introduction
+### مقدمة
 
-Travel with the Block Museum along routes crossing the Sahara Desert to a time when West African gold fueled expansive trade and drove the movement of people, culture, and religious beliefs. _Caravans of Gold_ is the first major exhibition addressing the scope of Saharan trade and the shared history of West Africa, the Middle East, North Africa, and Europe from the eighth to sixteenth centuries. Weaving stories about interconnected histories, the exhibition showcases the objects and ideas that connected at the crossroads of the medieval Sahara and celebrates West Africa’s historic and underrecognized global significance.
+سافر مع "متحف بلوك للفنون" في رحلة للوراء تأخذك على امتداد دروب عبر الصحراء الكبرى إلى زمن كان فيه الذهب في منطقة غرب إفريقيا مصدرًا رئيسيًا يغذي التوسع التجاري ويقود حركة الناس وثقافتهم ومعتقداتهم الدينية. وسيكون هذا من خلال معرض "قوافل الذهب"، والذي يعد أول معرض رئيسي يتناول نطاق التجارة في الصحراء والتاريخ المشترك لكل من غرب إفريقيا والشرق الأوسط وشمال إفريقيا وأوروبا في الفترة من القرن الثامن إلى القرن السادس عشر. وبينما ينسج المعرض قصصًا عن أحداث تاريخية مترابطة فيما بينها، فإنه يسلط أيضًا الضوء على الأشياء والأفكار التي تلاقت عند مفترق طرق الصحراء الكبرى في العصور الوسطى، ويحتفي بالأهمية التاريخية والعالمية التي لم تؤخذ بالجدية الكافية لمنطقة غرب إفريقيا.
 
-_Caravans of Gold_ draws on recent archaeological discoveries, including rare fragments from major medieval African trading centers like Sijilmasa, Gao, and Tadmekka. These “fragments in time” are seen alongside works of art that invite us to imagine them as they once were. They are the starting point for a new understanding of the medieval past and for seeing the present in a new light.
+هذا ويركز معرض "قوافل الذهب" على اكتشافات أثرية أخيرة، بما في ذلك أجزاء نادرة من مراكز تجارية إفريقية كبرى في العصور الوسطى مثل مدن سجلماسة وغاو وتادمكة. ويُنظر إلى هذه "الأجزاء من الزمن" إلى جانب أعمال فنية على نحو يدعونا إلى تخيلها كما كانت في الماضي. فهي تمثل نقطة الانطلاق نحو تصور جديد للماضي في العصور الوسطى فضلاً عن رؤية الحاضر من منظور مختلف.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe title="vimeo-player" src="https://player.vimeo.com/video/307108617" frameborder="0" allowfullscreen></iframe>

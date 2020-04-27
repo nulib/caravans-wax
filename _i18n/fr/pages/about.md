@@ -12,8 +12,7 @@ The exhibition is accompanied by a scholarly publication co-published by the Blo
 
 ### _Caravans of Gold_ Companion Website
 
-Please visit the _Caravans of Gold_ [companion website](https://caravansofgold.org/) for additional information about the original exhibition, including a complete checklist of exhibited objects, images and information about the objects, press coverage, interviews with experts, and resources to support teaching.
-
+Rendez-vous sur [le site internet associé](https://caravansofgold.org/) à l’exposition _Caravans of Gold (Caravanes d’Or)_ pour plus d’informations sur l’exposition initiale. Vous y trouverez une liste exhaustive des objets exposés, des images et des détails sur les objets, des informations sur la couverture médiatique de l’exposition, des interviews avec des experts et des ressources d’apprentissage.
 
 ### Institutions prêteuses
 

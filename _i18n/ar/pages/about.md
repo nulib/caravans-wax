@@ -10,9 +10,9 @@
 
 يكون المعرض مصحوباً بنشرة بحثية علمية يتم نشرها بالاشتراك مع متحف بلوك ودار نشر جامعة برينستون. الكتاب قوافل من ذهب، شذرات من التاريخ: فن ثقافة وتبادل عبر صحراء أفريقيا الكبرى خلال العصور الوسطى يستند إلى أحدث الاكتشافات الأثرية والأبحاث التاريخية الفنية لإلقاء نظرة دامغة على التبادل عبر الصحراء في العصور الوسطى وإرثها. يُقدم المساهمون من مختلف التخصصات دراسات حالة تُشكّل صورة غنية عن حقبة زمنية بعيدة.
 
-### _Caravans of Gold_ Companion Website
+### الموقع الإلكتروني المصاحب لمعرض "قوافل الذهب"
 
-Please visit the _Caravans of Gold_ [companion website](https://caravansofgold.org/) for additional information about the original exhibition, including a complete checklist of exhibited objects, images and information about the objects, press coverage, interviews with experts, and resources to support teaching.
+يُرجى زيارة الموقع الإلكتروني المصاحب لمعرض "قوافل الذهب" للحصول على معلومات إضافية حول المعرض الأصلي، والتي تشمل قائمة مرجعية كاملة بالمعروضات، إلى جانب صور ومعلومات حول القطع المعروضة والتغطية الصحفية والمقابلات مع الخبراء وكذلك موارد لدعم التعليم.
 
 ### الجهات المُقرِضة للمعرض
 
