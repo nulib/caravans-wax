@@ -1,5 +1,4 @@
 global:
-  tagline: English
   title: 'قوافل الذهب ، شظايا في الزمن'
   subtitle: 'فن وثقافة وتبادل عبر صحراء أفريقيا الكبرى خلال العصور الوسطى'
 titles:
@@ -22,6 +21,7 @@ menu:
 langs:
   en: English
   ar: عربى
+  fr: French
 splash:
   tagline: رحلة إلى عالم القرون الوسطى في قلب أفريقيا.
   tour: انطلق في جولة

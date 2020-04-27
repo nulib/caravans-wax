@@ -1,5 +1,4 @@
 global:
-  tagline: English
   title: 'Caravans of Gold, Fragments in Time'
   subtitle: 'Art, Culture, and Exchange across Medieval Saharan Africa'
 titles:
@@ -22,6 +21,7 @@ menu:
 langs:
   en: English
   ar: عربى
+  fr: French
 splash:
   tagline: Journey to a medieval world with Africa at its center.
   tour: Take a Tour
