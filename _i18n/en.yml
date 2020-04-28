@@ -202,11 +202,6 @@ tours:
       img_alt: 'Fragment of a water filter'
       caption: 'Fragment of a water filter excavated at Sijilmasa (9 x 6 x 3 cm). Ministère de la culture et de la communication du Royaume du Maroc.  Photograph by Fouad Mahdaoui'
     -
-      img_src: '/img/tour/saharan-frontiers/sijilmasa/water-filter_600.jpg'
-      img_srcset: '/img/tour/saharan-frontiers/sijilmasa/water-filter_300.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/water-filter_600.jpg 600w'
-      img_alt: 'Fragment of a water filter'
-      caption: 'Fragment of a water filter excavated at Sijilmasa (9 x 6 x 3 cm). Ministère de la culture et de la communication du Royaume du Maroc.  Photograph by Fouad Mahdaoui'
-    -
       img_src: '/img/tour/saharan-frontiers/sijilmasa/colored-fragments_600.jpg'
       img_srcset: '/img/tour/saharan-frontiers/sijilmasa/colored-fragments_300.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/colored-fragments_600.jpg 600w'
       img_alt: 'ceramic fragments'
