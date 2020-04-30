@@ -15,11 +15,19 @@
 
 	</head>
 	<body>
+		{% if site.lang == 'ar' %}
+		<nav dir="rtl" class="reveal-header">
+			<a class="reveal-header-button" href="{{ site.baseurl }}"><em>الصفحة الرئيسية</em></a>
+			<span class="reveal-header-delimiter">•</span>
+			<a class="reveal-header-button" href="{{ site.baseurl }}/tour/#sections"><em>عودة</em></a>
+		</nav>
+		{% else %}
 		<nav class="reveal-header">
 			<a class="reveal-header-button" href="{{ site.baseurl }}"><em>Home</em></a>
 			<span class="reveal-header-delimiter">•</span>
 			<a class="reveal-header-button" href="{{ site.baseurl }}/tour/#sections"><em>Back</em></a>
 		</nav>
+		{% endif %}
 		<div class="reveal">
 			<div class="slides">
 				{% for item in site.translations[site.lang].tours[page.tour] %}
