@@ -6,7 +6,30 @@ layout: default
   Create page variables from work metadata to fill in this template
 {% endcomment %}
 
-{% if site.lang == 'en' %}
+{% if site.lang == 'ar' %}
+
+{% assign label = site.translations[site.lang].works[page.pid]["label"] %}
+{% assign caption = site.translations[site.lang].works[page.pid]["caption"] %}
+{% assign description = site.translations[site.lang].works[page.pid]["description"] %}
+
+<h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
+
+<div class='item-view'>
+   <div class='image-viewer'>
+     <a href='{{ page.full }}'>
+       <img class='item-full-image' src='{{ page.full | absolute_url }}' alt='{{ label | slugify }}'/>
+     </a>
+   </div>
+</div>
+
+<div class="card mb-3">
+<div class="card-body">
+  <p class="card-title font-weight-bold">{{ caption }}</p>
+  <p class="card-text">{{ description }}</p>
+</div>
+</div>
+
+  {% else %}
 
   {% assign label = site.translations[site.lang].works[page.pid]["label"] %}
   {% assign section = site.translations[site.lang].works[page.pid]["section"] %}
@@ -28,7 +51,7 @@ layout: default
   </div>
 
   <dl class='metadata-block'>
-    <dt>Object Name</dt>
+    <dt>{% t work_labels.object_name %}</dt>
     <dd>{{ label }}</dd>
     <dt>Culture / Site</dt>
     <dd>{{ region_culture_timeperiod }}</dd>
@@ -36,36 +59,13 @@ layout: default
     <dd>{{ date }}</dd>
     <dt>Dimensions</dt>
     <dd>{{ dimensions }}</dd>
-    <dt>Credit Line</dt>
+    <dt>{% t work_labels.credit_line %}</dt>
     <dd>{{ credit_line }}</dd>
     <dt>Section</dt>
     <dd>{{ section }}</dd>
-    <dt>Description</dt>
+    <dt>{% t work_labels.description %}</dt>
     <dd>{{ description }}</dd>
   </dl>
-
-  {% else %}
-
-  {% assign label = site.translations[site.lang].works[page.pid]["label"] %}
-  {% assign caption = site.translations[site.lang].works[page.pid]["caption"] %}
-  {% assign description = site.translations[site.lang].works[page.pid]["description"] %}
-
-  <h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
-
-  <div class='item-view'>
-     <div class='image-viewer'>
-       <a href='{{ page.full }}'>
-         <img class='item-full-image' src='{{ page.full | absolute_url }}' alt='{{ label | slugify }}'/>
-       </a>
-     </div>
-  </div>
-
-  <div class="card mb-3">
-  <div class="card-body">
-    <p class="card-title font-weight-bold">{{ caption }}</p>
-    <p class="card-text">{{ description }}</p>
-  </div>
-</div>
 
 {% endif %}
 
