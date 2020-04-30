@@ -10,7 +10,9 @@
 
 يُرجى زيارة الموقع الإلكتروني المصاحب لمعرض "قوافل الذهب" للحصول على معلومات إضافية حول المعرض الأصلي، والتي تشمل قائمة مرجعية كاملة بالمعروضات، إلى جانب صور ومعلومات حول القطع المعروضة والتغطية الصحفية والمقابلات مع الخبراء وكذلك موارد لدعم التعليم.
 
-https://caravansofgold.org/
+<a href="https://caravansofgold.org/" target="_blank">
+  <img class="img-fluid" src="/img/cropped-banner2-1-1.png" title="Companion Website" alt="Companion Website">
+</a>
 
 ### منشورات المعرض
 
