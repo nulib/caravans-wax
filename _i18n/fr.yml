@@ -852,6 +852,7 @@ work_labels:
   object_name: "Nom d'objet"
   credit_line: 'Ligne de crédit'
   description: 'La description'
+  medium: 'Moyen'
 
 works:
   1:
@@ -1261,13 +1262,13 @@ works:
     description: 'Ces cinq bijoux en or massif ont été retrouvés dans un grand bol mamelouk provenant d’Égypte ou de Syrie, enterrés aux côtés d’un individu au statut social élevé qui portait également des bracelets en ivoire, en argent et en alliage de cuivre, un collier en cornaline et une ceinture brodée abondamment ornée de perles. Les techniques de travail de l’or utilisées pour confectionner les bijoux de Durbi Takusheyi confirment les liens commerciaux d’Afrique de l’Ouest. Le pendentif circulaire, composé de cinq cabochons en forme de dôme, rappelle des techniques utilisées pour fabriquer un pendentif nommé le Pectoral de Rao, au Sénégal, alors que les boucles d’oreille rappellent l’argenterie Amazigh du dixième siècle.'
   47:
     label: 'Sélection de perles cylindriques, tubulaires et de perles plates entières'
-    section: The Long Reach of the Sahara/Medieval Glass Bead Production and Trade
-    _date: 10th/15th century
+    section: La vaste portée du Sahara / Perles de verre médiévales
+    _date: 'Xe/XVe siècle'
     region_culture_timeperiod: 'Découvertes à Igbo Olokun, Nigéria'
     medium: Verre
-    dimensions: Various dimensions
-    credit_line: National Commission for Museums and Monuments, Abuja, Nigeria. Photograph by Clare Britt
-    description: 'The glass bead assemblage from Igbo Olokun and the other glass-related materials discovered there have provided a unique avenue to understanding different aspects of glass bead production in medieval West Africa. These include the degree of sophistication and expertise of glass bead makers, the scale of production, and the transformations it brought to the society locally, regionally, and transregionally. Examination of the glass bead assemblage from Igbo Olokun has shown that beads were made using the drawing technique in which molten glass is pulled into tubes. '
+    dimensions: 'Plusieurs tailles'
+    credit_line: 'National Commission for Museums and Monuments, Abuja, Nigéria. Photographie de Clare Britt'
+    description: 'À l’époque médiévale, les perles de verre étaient déjà produites dans la région méditerranéenne, en Europe et dans une ville d’Afrique de l’Ouest, à Ife dans la région forestière du Nigéria. L’archéologue Abidemi Babatunde Babalola a mené des fouilles à Igbo Olokun, un site de la cité médiévale de Ife, depuis 2010. En 2011 et en 2012, l’équipe de Babalola retrouva plus de 12 000 perles de verre. Les perles produites à Igbo Olokun contiennent beaucoup d’aluminium et de calcaire, signe distinctif de ce type de perles. Les fouilles à Igbo Olokun indiquent que des millions de perles ont été produites sur place et exportées le long des routes commerciales. De telles perles ont été retrouvées dans des centres majeurs du commerce saharien, notamment à Igbo Ukwu au Nigéria et à Gao et à Tadmekka au Mali.'
   48:
     label: 'Bol (<i>kuduo</i>)'
     section: Shifting Away from the Sahara
