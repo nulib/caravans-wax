@@ -848,6 +848,11 @@ tours:
       img_srcset: '/img/tour/shifting-away-from-the-sahara/shifting-away_600.jpg 600w, /img/tour/shifting-away-from-the-sahara/shifting-away_300.jpg 300w'
       caption: 'Cour du mausolée royal ou du palace du Roi Ashanti, où l’on aperçoit la Cruche Ashanti (Cruche de Richard II), 1887. Archives nationales du Royaume-Uni, ref. CO1069/31(7). Photographe inconnu'
 
+work_labels:
+  object_name: "Nom d'objet"
+  credit_line: 'Ligne de crédit'
+  description: 'La description'
+
 works:
   1:
     label: 'Selle de chameau (<i>tarik ou tamzak</i>)'
@@ -884,7 +889,7 @@ works:
     medium: Plâtre
     dimensions: 21 x 19 cm
     credit_line: 'Ministère de la culture et de la communication du Royaume du Maroc. Photographie de Fouad Mahdaoui'
-    description: 'À son apogée, Sijilmassa était un riche centre urbain de taille conséquente. L’historien et géographe andalou Abu ‘Ubayd al-Bakri (décédé en 1094) décrivit la ville comme « un mur au douze portes. À l’intérieur se trouvent de belles maisons, nombre d’entre elles possédant un jardin, de magnifiques bâtiments publics, une mosquée aux bases solides, et des bains aux pauvres fondations. »  Sur ce fragment de plâtre peint est inscrite une citation du Coran, qui, en entier, signifie : « Allah n'impose à aucune âme une charge supérieure à sa capacité. Elle sera récompensée du bien qu'elle aura fait, punie du mal qu'elle aura fait. » Il a été découvert à l’emplacement d’une résidence de prestige datant du neuvième ou dixième siècle. Un ou deux siècles plus tard, une mosquée fut construite au même emplacement. '
+    description: 'À son apogée, Sijilmassa était un riche centre urbain de taille conséquente. L’historien et géographe andalou Abu ‘Ubayd al-Bakri (décédé en 1094) décrivit la ville comme "un mur au douze portes. À l’intérieur se trouvent de belles maisons, nombre d’entre elles possédant un jardin, de magnifiques bâtiments publics, une mosquée aux bases solides, et des bains aux pauvres fondations." Sur ce fragment de plâtre peint est inscrite une citation du Coran, qui, en entier, signifie: "Allah n&apos;impose à aucune âme une charge supérieure à sa capacité. Elle sera récompensée du bien qu&apos;elle aura fait, punie du mal qu&apos;elle aura fait." Il a été découvert à l’emplacement d’une résidence de prestige datant du neuvième ou dixième siècle. Un ou deux siècles plus tard, une mosquée fut construite au même emplacement.'
   5:
     label: Bague
     section: Saharan Frontiers/Sijilmasa
@@ -938,7 +943,7 @@ works:
     medium: Porcelaine avec décor incisé sous glaçure
     dimensions: 'Height 7.1 cm, diameter 20.1 cm'
     credit_line: 'Art Institute of Chicago, legs de Russell Tyson, 1964.847. Photographie provenant de l’Art Institute of Chicago/Art Resource, New York'
-    description: 'Les marchandises et produits manufacturés circulant sur les routes du commerce transsaharien étaient le plus souvent destinés à des marchés particulièrement éloignés de leurs lieux d’origine. Le petit fragment de céladon découvert sur le site d’Essouk-Tadmekka au Mali, fait partie de la vaisselle Qingbai. La vaisselle Qingbai, produite au sud-est de la Chine, fut largement exportée entre le dixième et le douzième siècle et était échangée le long des routes, transportée de marché en marché selon un processus appelé « le commerce de relai ». Des fragments de vaisselle Qingbai ont été découverts sur des sites médiévaux allant de l’Asie centrale à l’Égypte, en passant par le Sahara.'
+    description: 'Les marchandises et produits manufacturés circulant sur les routes du commerce transsaharien étaient le plus souvent destinés à des marchés particulièrement éloignés de leurs lieux d’origine. Le petit fragment de céladon découvert sur le site d’Essouk-Tadmekka au Mali, fait partie de la vaisselle Qingbai. La vaisselle Qingbai, produite au sud-est de la Chine, fut largement exportée entre le dixième et le douzième siècle et était échangée le long des routes, transportée de marché en marché selon un processus appelé "le commerce de relai". Des fragments de vaisselle Qingbai ont été découverts sur des sites médiévaux allant de l’Asie centrale à l’Égypte, en passant par le Sahara.'
   11:
     label: Fragments de vaisselle en terre cuite
     section: Saharan Frontiers/Tadmekka
@@ -1297,7 +1302,7 @@ works:
     region_culture_timeperiod: 'Produits en Afrique du Nord, retrouvés sur le site de Salcombe Cannon, Devon, Angleterre'
     medium: Or
     dimensions: 'plus petit fragment : 2 x 1,2 cm; plus grand fragment : 3 x 2,1 cm'
-    credit_line: 'Photographie © The Trustees of the British Museum. Partagée sous une licence internationale Creative Commons 4.0 (CC BY-NC-SA 4.0) de type Attribution-Pas d'Utilisation Commerciale-Partage dans les mêmes conditions. '
+    credit_line: 'Photographie © The Trustees of the British Museum. Partagée sous une licence internationale Creative Commons 4.0 (CC BY-NC-SA 4.0) de type Attribution-Pas d&apos;Utilisation Commerciale-Partage dans les mêmes conditions. '
     description: 'En 1992, une épave de navire fut découverte au large de la côte du Devon, en Angleterre. Le navire coula pendant son voyage depuis l’Afrique du Nord jusqu’en Angleterre, au milieu du dix-septième siècle. Il transportait plus de 400 pièces d’or, dont la plupart avaient été frappées au Maroc aux seizième et dix-septième siècles, ainsi que des lingots et des bijoux en or. Majoritairement usés et brisés, ces objets en or étaient destinés à être refondus et transformés. Aujourd’hui, ces objets rares sont une preuve importante de l’exportation de l’or africain en Europe.'
   52:
     label: 'Cruche Ashanti (Cruche de Richard II)'

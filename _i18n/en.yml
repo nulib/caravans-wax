@@ -843,6 +843,11 @@ tours:
       img_srcset: '/img/tour/shifting-away-from-the-sahara/shifting-away_600.jpg 600w, /img/tour/shifting-away-from-the-sahara/shifting-away_300.jpg 300w'
       caption: 'Courtyard in either the royal mausoleum or in the palace of the King of Asante, where The Asante Jug (Richard II Ewer) can be seen, ca. 1887. The National Archives of the UK, ref. CO1069/31(7). Photographer unknown'
 
+work_labels:
+  object_name: 'Object Name'
+  credit_line: 'Credit Line'
+  description: 'Description'
+
 works:
   1:
     label: 'Camel saddle (<i>tarik or tamzak</i>)'
