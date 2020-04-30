@@ -12,7 +12,7 @@ layout: default
 {% assign caption = site.translations[site.lang].works[page.pid]["caption"] %}
 {% assign description = site.translations[site.lang].works[page.pid]["description"] %}
 
-<h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
+<h2 class='item-label text-right' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
 
 <div class='item-view'>
    <div class='image-viewer'>
@@ -22,8 +22,8 @@ layout: default
    </div>
 </div>
 
-<div class="card mb-3">
-<div class="card-body">
+<div dir="rtl" class="card mb-3">
+<div class="card-body text-right">
   <p class="card-title font-weight-bold">{{ caption }}</p>
   <p class="card-text">{{ description }}</p>
 </div>

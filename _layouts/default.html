@@ -17,11 +17,23 @@
       {% include hero_image.html %}
     {% endif %}
 
+    {% if site.lang == 'ar' %}
+
+    <div dir="rtl" id='wax-main'>
+      <div id='wax-content' class='wax-inline-container text-right'>
+        {{ content }}
+      </div>
+    </div>
+
+    {% else %}
+
     <div id='wax-main'>
       <div id='wax-content' class='wax-inline-container'>
         {{ content }}
       </div>
     </div>
+
+    {% endif %}
 
     {% include footer.html %}
   </body>

@@ -48,12 +48,15 @@
 
 		<script src="/assets/reveal.js/js/reveal.js"></script>
 
+		{% if site.lang == 'ar' %}
+
 		<script>
 			// More info about config & dependencies:
 			// - https://github.com/hakimel/reveal.js#configuration
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
 				transition: 'none',
+				rtl: true,
 				dependencies: [
 					{ src: '/assets/reveal.js/plugin/markdown/marked.js' },
 					{ src: '/assets/reveal.js/plugin/markdown/markdown.js' },
@@ -62,5 +65,25 @@
 				]
 			});
 		</script>
+
+		{% else %}
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				transition: 'none',
+				rtl: false,
+				dependencies: [
+					{ src: '/assets/reveal.js/plugin/markdown/marked.js' },
+					{ src: '/assets/reveal.js/plugin/markdown/markdown.js' },
+					{ src: '/assets/reveal.js/plugin/notes/notes.js', async: true },
+					{ src: '/assets/reveal.js/plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+
+		{% endif %}
 	</body>
 </html>
