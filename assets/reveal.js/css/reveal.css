@@ -1247,7 +1247,9 @@ body {
 .reveal.rtl .slides h3,
 .reveal.rtl .slides h4,
 .reveal.rtl .slides h5,
-.reveal.rtl .slides h6 {
+.reveal.rtl .slides h6,
+.reveal.rtl .slides p,
+.reveal.rtl .slides small {
   direction: rtl;
   font-family: sans-serif; }
 
