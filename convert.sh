@@ -9,3 +9,5 @@ do
 		rm "$file"
 	fi
 done
+
+convert -strip -interlace Plane -sampling-factor 4:2:0 -define jpeg:dct-method=float -quality 70% bead-hero.jpg bead-hero-2.jpg
