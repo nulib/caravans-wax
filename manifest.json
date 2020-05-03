@@ -1,26 +1,5 @@
-{
-  "short_name": "Caravans",
-  "name": "Caravans of Gold",
-  "icons": [
-    {
-      "src": "/caravans-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/caravans-256x256.png",
-      "type": "image/png",
-      "sizes": "256x256"
-    },
-    {
-      "src": "/caravans-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": "/",
-  "background_color": "#234190",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "#234190"
-}
+---
+layout: none
+---
+
+{% tf manifest.json %}
