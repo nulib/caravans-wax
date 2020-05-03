@@ -42,7 +42,7 @@
 					{% else %}
 
 					<section>
-						<img class="stretch" alt="{{ item["img_alt"] }}" srcset="{{ item["img_srcset"] }}" sizes="(max-width: 600px) 300px, 600px" data-src="{{ item["img_src"] }}">
+						<img class="stretch" alt="{{ item["img_alt"] }}" {% if item["img_srcset"] %} srcset="{{ item["img_srcset"] }}"{% endif %} data-src="{{ item["img_src"] }}">
 						<small>
 							{{ item["caption"] }}
 						</small>
