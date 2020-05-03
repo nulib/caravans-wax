@@ -1,6 +1,7 @@
 ---
 layout: page
 title: titles.key_works
+jquery: true
 permalink: /works/
 ---
 

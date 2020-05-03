@@ -22,6 +22,8 @@
   <meta property="og:title" content="{% t global.title %}:{{ site.subtitle }}" />
   <meta property="og:description" content="{{ site.description }}" />
   <meta property="og:image" content="{{site.url}}/img/bead-hero.jpg" />
+  {% if page.jquery == true %}
   <script type='text/javascript' src="{{ '/assets/jquery-3.4.1.min.js' | absolute_url }}"></script>
+  {% endif %}
   <noscript>Please enable JavaScript in your browser.</noscript>
 </head>

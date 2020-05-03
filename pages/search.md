@@ -1,6 +1,7 @@
 ---
 layout: page
 title: titles.search
+jquery: true
 permalink: /search/
 ---
 

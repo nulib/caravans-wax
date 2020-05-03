@@ -2,6 +2,7 @@
 layout: page
 namespace: about
 title: titles.about
+jquery: false
 permalink: /about/
 ---
 <!-- Adds links to other languages on the post
