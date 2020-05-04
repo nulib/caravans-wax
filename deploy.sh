@@ -1,3 +1,6 @@
+#!/bin/bash
 bundle exec jekyll build
-purgecss --css _site/assets/styles.css --content _site/index.html,_site/**/*.html --output assets
+cd ./_site
+purgecss --css assets/styles.css --content index.html,**/*.html --output assets
+cd ..
 s3_website push
