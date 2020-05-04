@@ -1,4 +1,5 @@
 ---
+page_title: true
 title: titles.tour
 layout: tour
 permalink: /tour/

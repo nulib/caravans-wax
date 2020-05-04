@@ -2,11 +2,11 @@ global:
   title: 'Les caravanes de l’or, fragments d’époque'
   subtitle: 'Art, culture et commerce dans l’Afrique saharienne médiévale'
 titles:
-  references: 'References'
-  about: 'À propos'
-  search: 'Recherche Mots clés'
-  key_works: 'Mots clés'
-  tour: 'Visite'
+  references: "References"
+  about: "À propos"
+  search: "Recherche Mots clés"
+  key_works: "Mots clés"
+  tour: "Visite"
 menu:
   - label: 'À propos'
     link: '/about/'
