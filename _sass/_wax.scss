@@ -441,6 +441,8 @@ search box
   }
 }
 
+
+
 .wax-gallery-container {
   .facet-buttons {
     .facet {
@@ -521,6 +523,23 @@ search box
           vertical-align: center;
         }
 
+        // .info {
+        //   text-decoration: none;
+        //   font-family: $heading-font !important;
+        //   color: $bg-color !important;
+        //   background-color: transparent;
+        //   opacity: 0;
+        //   filter: alpha(opacity=0);
+        //   -webkit-transform: scale(0);
+        //   -ms-transform: scale(0);
+        //   transform: scale(0);
+        //   font-weight: normal;
+        //   overflow: hidden;
+        //   display: table-cell;
+        //   vertical-align: middle;
+        //   padding: 0 $margin 0 $margin;
+        // }
+
         .overlay {
           width: 100%;
           position: absolute;
@@ -537,4 +556,17 @@ search box
       }
     }
   }
+}
+
+
+.dataTables_wrapper {
+  width: 100% !important;
+  margin: $super-margin 0 $super-margin 0;
+}
+
+.sq-thumb-sm{
+  object-fit: cover;
+  object-position: 50% 20%;
+  width: 80px;
+  height: 80px;
 }
