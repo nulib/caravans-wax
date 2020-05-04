@@ -14,7 +14,7 @@ layout: default
   <div class="card">
     <a href="{{ site.baseurl }}{{ section.link }}" title="{{ section.title }}">
       <div class="content-overlay"></div>
-      <img class="card-img" srcset="{{ section.img_srcset }}" src="{{ section.img_src }}" alt="{{ img_alt }}">
+      <img class="card-img lazyload" srcset="{{ section.img_srcset }}" data-src="{{ section.img_src }}" alt="{{ img_alt }}">
       <div class="content-details">
         <h5>{{ section.title }}</h5>
       </div>

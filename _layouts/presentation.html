@@ -42,7 +42,7 @@
 					{% else %}
 
 					<section>
-						<img class="stretch" alt="{{ item["img_alt"] }}" {% if item["img_srcset"] %} srcset="{{ item["img_srcset"] }}"{% endif %} data-src="{{ item["img_src"] }}">
+						<img class="stretch lazyload" alt="{{ item["img_alt"] }}" {% if item["img_srcset"] %} srcset="{{ item["img_srcset"] }}"{% endif %} data-src="{{ item["img_src"] }}">
 						<small>
 							{{ item["caption"] }}
 						</small>
@@ -55,6 +55,7 @@
 		</div>
 
 		<script src="/assets/reveal.js/js/reveal.js"></script>
+		<script type='text/javascript' src='{{ "/assets/lazysizes.min.js" | absolute_url }}' async></script>
 
 		{% if site.lang == 'ar' %}
 

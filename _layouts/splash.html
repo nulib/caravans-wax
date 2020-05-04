@@ -27,7 +27,7 @@
        </div>
      </section>
 
-     <img srcset="/img/caravans_hero_mobile.jpg 400w, /img/caravans_hero.jpg 1440w" src="/img/caravans_hero_mobile.jpg" class="img-fluid" alt="{% t splash.image_alt_tags.hero %}">
+     <img srcset="/img/caravans_hero_mobile.jpg 400w, /img/caravans_hero.jpg 1440w" data-src="/img/caravans_hero_mobile.jpg" class="img-fluid" alt="{% t splash.image_alt_tags.hero %}">
 
      <div dir="rtl" id='wax-main'>
        <div id='wax-content' class='wax-inline-container text-right'>
@@ -56,7 +56,7 @@
        </div>
      </section>
 
-     <img srcset="/img/caravans_hero_mobile.jpg 400w, /img/caravans_hero.jpg 1440w" sizes="(max-width:600px) 400px, 1440px" src="/img/caravans_hero_mobile.jpg" class="img-fluid" alt="{% t splash.image_alt_tags.hero %}">
+     <img srcset="/img/caravans_hero_mobile.jpg 400w, /img/caravans_hero.jpg 1440w" sizes="(max-width:600px) 400px, 1440px" data-src="/img/caravans_hero_mobile.jpg" class="img-fluid lazyload" alt="{% t splash.image_alt_tags.hero %}">
 
      <div id='wax-main'>
        <div id='wax-content' class='wax-inline-container'>
@@ -67,11 +67,10 @@
      {% endif %}
 
     {% include footer.html %}
-
+    <script type='text/javascript' src='{{ "/assets/lazysizes.min.js" | absolute_url }}' async></script>
+    <script type='text/javascript' src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}' async></script>
+    <script type='text/javascript' src='{{ "/assets/popper.min.js" | absolute_url }}' async></script>
   </body>
-  <script type='text/javascript' src="{{ '/assets/jquery-3.4.1.min.js' | absolute_url }}"></script>
-  <script type='text/javascript' async defer src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}'></script>
-  <script type='text/javascript' async defer src='{{ "/assets/popper.min.js" | absolute_url }}'></script>
   <!--
   <script>
     if ('serviceWorker' in navigator) {
