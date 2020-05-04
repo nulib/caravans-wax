@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{% t splash.description %}">
   <title>
-    {% if page.title == true %}{% t page.title %} | {% endif %}{% t global.title %}    
+    {% if page.title == true %}{% t page.title %} | {% endif %}{% t global.title %}
   </title>
   <link rel='canonical' href='{{ page.url | absolute_url }}'/>
   <link rel='stylesheet' href="{{ '/assets/styles.css' | absolute_url }}"/>
@@ -15,8 +15,11 @@
   <meta http-equiv="content-language" content="{{ site.lang }}">
   <meta name="msapplication-TileColor" content="#234190">
   <meta name="theme-color" content="#234190">
-  <meta name="twitter:card" content="summary"></meta>
-  <meta name="twitter:site" content="@NUblockmuseum" />
+  <meta name="twitter:site"    content="@NUblockmuseum">
+  <meta name="twitter:title"   content="{% t global.title %}">
+  <meta name="twitter:description" content="{% t splash.description %}">
+  <meta name="twitter:image" content="{{ '/img/bead-hero-mobile.jpg' | absolute_url }}">
+  <meta name="twitter:card"  content="summary">
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{% t global.title %}:{{ site.subtitle }}" />
