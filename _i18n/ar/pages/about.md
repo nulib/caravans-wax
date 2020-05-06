@@ -24,14 +24,14 @@
 
 ### الجهات المُقرِضة للمعرض
 
-__Canada__
+__كندا__
 - The Aga Khan Museum, Toronto
 - Royal Ontario Museum, Toronto
 
-__England__
+__إنجلترا__
 - The British Museum, London
 
-__Mali__
+__مالي__
 - Direction nationale du patrimoine culturel, Bamako
 - Institut des hautes études et de recherches islamiques Ahmed Baba, Timbuktu
 - Institut des sciences humaines, Bamako
@@ -42,10 +42,10 @@ __المغرب__
 - المؤسسة الوطنية للمتاحف بالرباط
 - وزارة الثقافة والاتصالات، الرباط
 
-__Nigeria__
+__نيجيريا__
 - National Commission for Museums and Monuments, Abuja
 
-__United States__
+__الولايات المتحدة الأمريكية__
 - Adler Planetarium, Chicago, IL
 - American Numismatic Society, New York, NY
 - Art Institute of Chicago, Chicago, IL
