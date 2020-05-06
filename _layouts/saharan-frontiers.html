@@ -8,6 +8,25 @@ layout: default
 
 {{ content }}
 
+{% if site.lang == 'ar' %}
+
+<h5 id="sections" class="text-right" dir="rtl">أقسام</h5>
+
+{% for section in site.translations[site.lang].pages.saharan_frontiers.sections %}
+  <div class="card">
+    <a href="{{ site.baseurl }}{{ section.link }}" title="{{ section.title }}">
+      <div class="content-overlay"></div>
+      <img class="card-img lazyload" srcset="{{ section.img_srcset }}" data-src="{{ section.img_src }}" alt="{{ img_alt }}">
+      <div class="content-details" dir="rtl">
+        <h5>{{ section.title }}</h5>
+      </div>
+    </a>
+  </div>
+  <br>
+{% endfor %}
+
+{% else %}
+
 <h5 id="sections">Sections</h5>
 
 {% for section in site.translations[site.lang].pages.saharan_frontiers.sections %}
@@ -22,3 +41,5 @@ layout: default
   </div>
   <br>
 {% endfor %}
+
+{% endif %}
