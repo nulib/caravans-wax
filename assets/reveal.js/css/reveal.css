@@ -1251,7 +1251,8 @@ body {
 .reveal.rtl .slides p,
 .reveal.rtl .slides small {
   direction: rtl;
-  font-family: sans-serif; }
+  font-family: sans-serif;
+  text-align: right; }
 
 .reveal.rtl pre,
 .reveal.rtl code {
