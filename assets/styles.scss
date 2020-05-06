@@ -10,8 +10,8 @@ $logo: url("{{ '/assets/logo.png' | absolute_url }}");
 
 /* text */
 
-$body-font:       Sans-Serif;
-$heading-font:    Sans-Serif;
+$body-font:       'Roboto Sans', 'Droid Sans', 'Arial', sans-serif;
+$heading-font:    'Roboto Sans', 'Droid Sans', 'Arial', sans-serif;
 
 
 /* Image Size */
