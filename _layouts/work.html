@@ -50,6 +50,13 @@ layout: default
      </div>
   </div>
 
+  {% if page.link_url %}
+  <div class="jumbotron">
+    <p class="lead">{{ content }}</p>
+    <a class="btn btn-primary btn-lg" href="{{ page.link_url }}" role="button">{{ page.link_label }}</a>
+  </div>
+  {% endif %}
+
   <dl class='metadata-block'>
     <dt>{% t work_labels.object_name %}</dt>
     <dd>{{ label }}</dd>
