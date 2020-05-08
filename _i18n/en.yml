@@ -552,9 +552,14 @@ tours:
     -
       text: 'West African gold provided rulers and merchants with the means to acquire goods from afar. Rock salt, mined in the heart of the Sahara, was among the most important of these. Salt, which is essential to human life, is scarce in West Africa. Along with these primary commodities other luxury goods also circulated, including ivory, copper, glass vessels, and glass beads.'
     -
-      img_src: '/img/works/26/26_640x.jpg'
+      img_src: '/img/tour/driving-desires/atlas_300.jpg'
+      img_srcset: '/img/tour/driving-desires/atlas_300.jpg 300w, /img/tour/driving-desires/atlas_600.jpg, 600w'
       img_alt: 'Atlas maritime charts'
       caption: 'Abraham Cresques (?). <em>Atlas of Maritime Charts (The Catalan Atlas)</em>, 1375. Illuminated parchment mounted on six wooden panels, each 64.5 x 25 cm. Bibliothèque nationale de France, Paris, Ms. Espagnol 30'
+    -
+      img_src: '/img/works/26/26_640x.jpg'
+      img_alt: 'Detail from panel three'
+      caption: 'Abraham Cresques (?). Detail from panel three of the <em>Atlas of Maritime Charts (The Catalan Atlas)</em>, 1375. Illuminated parchment mounted on six wooden panels, each 64.5 x 25 cm. Bibliothèque nationale de France, Paris, Ms. Espagnol 30'
     -
       text: 'This lavish map was possibly commissioned by the King of Aragon for Charles V, the king of France, and may have been produced by the Jewish cartographer Abraham Cresques. It was completed in 1375. The Crown of Aragon, a confederation of powerful territories that included parts of the Iberian Peninsula and islands in the Mediterranean, was well situated to be a commercial powerhouse. The *Catalan Atlas* demonstrates the significant European interest in global commerce and the prominence of West Africa in these networks of exchange.'
     -
@@ -1067,6 +1072,9 @@ works:
     dimensions: 'Each panel 64.5 x 25 cm'
     credit_line: 'Bibliothèque nationale de France, Paris, France, Ms. Espagnol 30'
     description: 'This lavish map was possibly commissioned by the King of Aragon for Charles V, the king of France, and may have been produced by the Jewish cartographer Abraham Cresques. It was completed in 1375. The Crown of Aragon, a confederation of powerful territories that included parts of the Iberian Peninsula and islands in the Mediterranean, was well situated to be a commercial powerhouse. The Catalan Atlas demonstrates the significant European interest in global commerce and the prominence of West Africa in these networks of exchange. Mansa Musa, the emperor of Mali, is prominently depicted on the second panel seated on a throne and holding a golden orb in one hand. The caption reads: “This Moorish ruler is named Musse Melly [Mansa Musa], lord of Guinea. This king is the richest and most distinguished ruler of this whole region on account of the great quantity of gold that is found in his lands.”'
+    link_label: 'View Map Manuscript'
+    link_url: https://gallica.bnf.fr/ark:/12148/btv1b52509636n
+    link_caption: 'The National Library of France hosts a high definition scan of the <em>Catalan Atlas</em> manuscript.'
   27:
     label: Solidus of Honorius
     section: Driving Desires

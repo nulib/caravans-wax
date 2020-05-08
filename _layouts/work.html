@@ -11,6 +11,9 @@ layout: default
 {% assign label = site.translations[site.lang].works[page.pid]["label"] %}
 {% assign caption = site.translations[site.lang].works[page.pid]["caption"] %}
 {% assign description = site.translations[site.lang].works[page.pid]["description"] %}
+{% assign link_url = site.translations[site.lang].works[page.pid]["link_url"] %}
+{% assign link_label = site.translations[site.lang].works[page.pid]["link_label"] %}
+{% assign link_caption = site.translations[site.lang].works[page.pid]["link_caption"] %}
 
 <h2 class='item-label text-right' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
 
@@ -21,6 +24,13 @@ layout: default
      </a>
    </div>
 </div>
+
+{% if link_url %}
+<div dir="rtl" class="jumbotron text-right">
+  <p class="lead">{{ link_caption }}</p>
+  <a class="btn btn-primary btn-lg" href="{{ link_url }}" role="button">{{ link_label }}</a>
+</div>
+{% endif %}
 
 <div dir="rtl" class="card mb-3">
 <div class="card-body text-right">
@@ -39,6 +49,9 @@ layout: default
   {% assign dimensions = site.translations[site.lang].works[page.pid]["dimensions"] %}
   {% assign credit_line = site.translations[site.lang].works[page.pid]["credit_line"] %}
   {% assign description = site.translations[site.lang].works[page.pid]["description"] %}
+  {% assign link_url = site.translations[site.lang].works[page.pid]["link_url"] %}
+  {% assign link_label = site.translations[site.lang].works[page.pid]["link_label"] %}
+  {% assign link_caption = site.translations[site.lang].works[page.pid]["link_caption"] %}
 
   <h2 class='item-label text-center' style='font-size:1.5rem!important;font-weight:700!important'>{{ label }}</h2>
 
@@ -50,10 +63,10 @@ layout: default
      </div>
   </div>
 
-  {% if page.link_url %}
+  {% if link_url %}
   <div class="jumbotron">
-    <p class="lead">{{ content }}</p>
-    <a class="btn btn-primary btn-lg" href="{{ page.link_url }}" role="button">{{ page.link_label }}</a>
+    <p class="lead">{{ link_caption }}</p>
+    <a class="btn btn-primary btn-lg" href="{{ link_url }}" role="button">{{ link_label }}</a>
   </div>
   {% endif %}
 

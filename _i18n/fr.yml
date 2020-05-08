@@ -554,9 +554,14 @@ tours:
     -
       text: 'L’or ouest-africain offrait aux dirigeants et aux marchands la possibilité d’acquérir des biens de toute part. Le sel gemme, extrait au cœur du Sahara, était l’un des biens les plus importants. Le sel, essentiel à la vie humaine, est peu présent en Afrique de l’Ouest. En plus de ces denrées primaires, d’autres biens de luxe circulaient, comme l’ivoire, le cuivre, la vaisselle en verre et les perles de verre.'
     -
-      img_src: '/img/works/26/26_640x.jpg'
+      img_src: '/img/tour/driving-desires/atlas_300.jpg'
+      img_srcset: '/img/tour/driving-desires/atlas_300.jpg 300w, /img/tour/driving-desires/atlas_600.jpg, 600w'
       img_alt: 'Atlas maritime charts'
       caption: 'Abraham Cresques (?). <i>Atlas de cartes marines (Atlas catalan)</i>, 1375. Parchemin enluminé monté sur six panneaux de bois, chacun d’une dimension de 64,5 x 25 cm. Bibliothèque nationale de France, Paris, Ms. Espagnol 30'
+    -
+      img_src: '/img/works/26/26_640x.jpg'
+      img_alt: 'Detail from panel three'
+      caption: 'Abraham Cresques (?). Detail from panel three of the <i>Atlas de cartes marines (Atlas catalan)</i>, 1375. Parchemin enluminé monté sur six panneaux de bois, chacun d’une dimension de 64,5 x 25 cm. Bibliothèque nationale de France, Paris, Ms. Espagnol 30'
     -
       text: 'Cette somptueuse carte avait probablement été commandée par le roi d’Aragon pour Charles V, roi de France, et produite par le cartographe juif Abraham Cresques. Elle fut achevée en 1375. La couronne d’Aragon, confédération de territoires puissants incluant une partie de la péninsule ibérique et des îles de la Méditerranée, avait un emplacement idéal pour devenir une puissance commerciale. *L’Atlas catalan* prouve l’intérêt significatif des européens pour le commerce international, et la proéminence de l’Afrique de l’Ouest dans ces réseaux d’échange.'
     -
@@ -1066,6 +1071,9 @@ works:
     dimensions: Each panel 64.5 x 25 cm
     credit_line: 'Bibliothèque nationale de France, Paris, Ms. Espagnol 30'
     description: 'Cette somptueuse carte avait probablement été commandée par le roi d’Aragon pour Charles V, roi de France, et produite par le cartographe juif Abraham Cresques. Elle fut achevée en 1375. La couronne d’Aragon, confédération de territoires puissants incluant une partie de la péninsule ibérique et des îles de la Méditerranée, avait un emplacement idéal pour devenir une puissance commerciale. L’Atlas catalan prouve l’intérêt significatif des européens pour le commerce international, et la proéminence de l’Afrique de l’Ouest dans ces réseaux d’échange. Mansa Moussa, empereur du Mali, est représenté au premier plan sur le deuxième panneau, assis sur un trône et tenant un globe d’or dans une main. La légende indique: "Ce dirigeant maure se nomme Musse Melly [Mansa Moussa], seigneur de Guinée. Ce roi est le dirigeant le plus riche et le plus éminent de la région entière, en raison de l’importante quantité d’or extraite sur ses terres."'
+    link_label: 'View Map Manuscript'
+    link_url: https://gallica.bnf.fr/ark:/12148/btv1b52509636n
+    link_caption: 'The National Library of France hosts a high definition scan of the <em>Catalan Atlas</em> manuscript.'
   27:
     label: 'Honorius Solidus'
     section: Driving Desires
