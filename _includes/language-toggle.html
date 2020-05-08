@@ -1,0 +1,26 @@
+{% if site.lang == 'ar' %}
+<div id="languageToggle" class="container-fluid">
+  <div dir="rtl" id="languageToggle" class="wax-inline-container text-right">
+    <span style="font-weight:bold">حدد لغة أخرى</span>
+    <a class="badge badge-secondary" href="{{ site.url }}{{ page.url }}">English</a>
+    <a class="badge badge-secondary" href="{{ site.url }}/fr{{ page.url }}">Français</a>
+  </div>
+</div>
+{% elsif site.lang == 'fr' %}
+<div id="languageToggle" class="container-fluid">
+  <div id="languageToggle" class="wax-inline-container">
+    <span style="font-weight:bold">Sélectionner une autre langue:</span>
+    <a class="badge badge-secondary" href="{{ site.url }}{{ page.url }}">English</a>
+    <a class="badge badge-secondary" href="{{ site.url }}/ar{{ page.url }}">عربى</a>
+  </div>
+</div>
+{% else %}
+
+<div id="languageToggle" class="container-fluid">
+  <div class="wax-inline-container">
+    <span style="font-weight:bold">Select another language:</span>
+    <a class="badge badge-secondary" href="{{ site.url }}/ar{{ page.url }}">عربى</a>
+    <a class="badge badge-secondary" href="{{ site.url }}/fr{{ page.url }}">Français</a>
+  </div>
+</div>
+{% endif %}

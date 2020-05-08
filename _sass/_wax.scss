@@ -48,11 +48,9 @@ header & nav bar
 
 #wax-header {
   background-color: $bg-color;
-  border-bottom: 2px solid $text-color;
   font-family: $heading-font;
   color: $text-color;
   z-index: 100000;
-  padding: $margin;
   letter-spacing: 0.075rem;
 
   .navbar-brand {
@@ -215,9 +213,7 @@ content section
 #wax-footer {
   width: 100vw;
   padding-bottom: 5rem;
-  padding-top: 3rem;
   background-color: $white;
-  border-top: 2px solid black;
   p {
     color: $text-color;
     font-size: 0.75rem;
