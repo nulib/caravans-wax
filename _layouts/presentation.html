@@ -28,6 +28,8 @@
 			<a class="reveal-header-button" href="{{ site.baseurl }}/tour/#sections"><em>Back</em></a>
 		</nav>
 		{% endif %}
+
+		{% if site.lang == 'ar' %}
 		<div class="reveal">
 			<div class="slides" dir="rtl">
 				{% for item in site.translations[site.lang].tours[page.tour] %}
@@ -53,6 +55,33 @@
 
 			</div>
 		</div>
+		{% else %}
+		<div class="reveal">
+			<div class="slides">
+				{% for item in site.translations[site.lang].tours[page.tour] %}
+					{% if item["text"] %}
+
+					<section data-markdown >
+						<textarea data-template>
+							{{ item["text"] }}
+						</textarea>
+					</section>
+
+					{% else %}
+
+					<section>
+						<img class="stretch lazyload" alt="{{ item["img_alt"] }}" {% if item["img_srcset"] %} srcset="{{ item["img_srcset"] }}"{% endif %} data-src="{{ item["img_src"] }}">
+						<small>
+							{{ item["caption"] }}
+						</small>
+					</section>
+
+					{% endif %}
+				{% endfor %}
+
+			</div>
+		</div>
+		{% endif %}
 
 		<script src="/assets/reveal.js/js/reveal.js"></script>
 		<script type='text/javascript' src='{{ "/assets/lazysizes.min.js" | absolute_url }}' async></script>
