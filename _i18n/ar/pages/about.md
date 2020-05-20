@@ -1,6 +1,6 @@
-يقدم هذا التطبيق نسخة رقمية مكثفة من معرض قوافل من ذهب، شذرات من التاريخ: فن وثقافة وتبادل عبر صحراء أفريقيا الكبرى خلال العصور الوسطى ويُسلط الضوء على بعض الأمور المهمة التي تمتاز بها. تم تنظيم هذا المعرض من قبل متحف بلوك للفنون في جامعة نورث ويسترن، حيث ظهر لأول مرة (26 يناير - 21 يوليو 2019) قبل السفر إلى متحف الآغا خان في تورونتو، بكندا (21 سبتمبر 2019 - 23 فبراير 2020) والمتحف الوطني للفن الأفريقي التابع لمعهد سميثسونيان (11 أبريل - 29 نوفمبر 2020).
+يقدم هذا التطبيق نسخة رقمية مكثفة من معرض قوافل من ذهب، شذرات من التاريخ: فن وثقافة وتبادل عبر صحراء إفريقيا الكبرى خلال العصور الوسطى ويُسلط الضوء على بعض الأمور المهمة التي تمتاز بها. تم تنظيم هذا المعرض من قبل متحف The Block Museum of Art في جامعة نورث ويسترن، حيث ظهر لأول مرة (26 يناير - 21 يوليو 2019) قبل السفر إلى متحف Aga Khan Museum في تورونتو، بكندا (21 سبتمبر 2019 - 23 فبراير 2020) ومتحف Smithsonian Institute’s National Museum of African Art (11 أبريل - 29 نوفمبر 2020). 
 
-تنادي قوافل من ذهب بما أطلق عليه علماء الآثار اسم "الخيال الأثري" — متمثلاً في استرجاع الماضي من خلال الآثار الباقية على قيد الحياة — لتقديم إعادة صياغة بالغة الأهمية لحقبة العصور الوسطى (من القرن الثامن إلى القرن السادس عشر).  يستند هذا المعرض إلى مصادر تشمل أجزاء مادية من مواقع أثرية حول الصحراء الكبرى ومنطقة الغابات الموجودة في غرب أفريقيا وقطع كاملة لهذه الحقبة والتي تساعدنا على فهم ماهية هذه الأجزاء ونصوص مكتوبة في الأساس باللغة العربية تصف غرب إفريقيا في العصور الوسطى من وجهة نظر العلماء والدبلوماسيين والجغرافيين والمؤرخين الذين غالبًا ما يكتبون من معلومات مستمدة من جهة ثانية وثالثة؛ والممارسات الفنية والثقافية الأحدث التي لها روابط يُمكن تعقبها بالماضي في العصور الوسطى. تجمع هذه المصادر معًا فهمًا جديدًا لفترة العصور الوسطى وتُركز على دور إفريقيا خلالها.
+تنادي قوافل من ذهب بما أطلق عليه علماء الآثار اسم "الخيال الأثري" — متمثلًا في استرجاع الماضي من خلال الآثار الباقية على قيد الحياة — لتقديم إعادة صياغة بالغة الأهمية لحقبة العصور الوسطى (من القرن الثامن إلى القرن السادس عشر).1 يستند هذا المعرض إلى مصادر تشمل أجزاء مادية من مواقع أثرية حول الصحراء الكبرى ومنطقة الغابات الموجودة في غرب إفريقيا وقطع كاملة لهذه الحقبة والتي تساعدنا على فهم ماهية هذه الأجزاء ونصوص مكتوبة في الأساس باللغة العربية تصف غرب إفريقيا في العصور الوسطى من وجهة نظر العلماء والدبلوماسيين والجغرافيين والمؤرخين الذين غالبًا ما يكتبون من معلومات مستمدة من جهة ثانية وثالثة؛ والممارسات الفنية والثقافية الأحدث التي لها روابط يُمكن تعقبها بالماضي في العصور الوسطى. تجمع هذه المصادر معًا فهمًا جديدًا لفترة العصور الوسطى وتُركز على دور إفريقيا خلالها. 
 
 ### حماية التراث الثقافي والمحافظة عليه
 
@@ -25,58 +25,58 @@
 ### الجهات المُقرِضة للمعرض
 
 __كندا__
-- The Aga Khan Museum, Toronto
-- Royal Ontario Museum, Toronto
+- متحف The Aga Khan الآغا خان، تورونتو
+- متحفRoyal Ontario ، تورونتو
 
 __إنجلترا__
-- The British Museum, London
+- متحف The British Museum ، لندن
 
 __مالي__
-- Direction nationale du patrimoine culturel, Bamako
-- Institut des hautes études et de recherches islamiques Ahmed Baba, Timbuktu
-- Institut des sciences humaines, Bamako
-- Musée national du Mali, Bamako
+-	Direction nationale du patrimoine culturel، ومعهد باماكو
+-	Institut des hautes études et de recherches islamiques Ahmed Baba, ، تمبوكتو
+-	معهد العلوم الإنسانية، باماكو
+-	Musée national du Mali، باماكو
 
 __المغرب__
 - بنك المغرب، الرباط
-- المؤسسة الوطنية للمتاحف بالرباط
-- وزارة الثقافة والاتصالات، الرباط
+-	Fondation nationale des musées بالرباط
+-	Ministère de la culture et de la communication، الرباط
 
 __نيجيريا__
-- National Commission for Museums and Monuments, Abuja
+-	اللجنة الوطنية للمتاحف والآثار، أبوجا
 
 __الولايات المتحدة الأمريكية__
-- Adler Planetarium, Chicago, IL
-- American Numismatic Society, New York, NY
-- Art Institute of Chicago, Chicago, IL
-- Brooklyn Museum, Brooklyn, NY
-- Charles Deering McCormick Library of Special Collections,
-- Northwestern University Libraries, Evanston, IL
-- Cleveland Museum of Art, Cleveland, OH
-- Corning Museum of Glass, Corning, NY
-- Detroit Institute of Arts, Detroit, MI
-- The Field Museum, Chicago, IL
-- Harvard Art Museums, Cambridge, MA
-- Hispanic Society of America, New York, NY
-- Jewish Theological Seminary, New York, NY
-- Logan Museum of Anthropology, Beloit College, Beloit, WI
-- Los Angeles County Museum of Art, Los Angeles, CA
-- Loyola University Museum of Art, Chicago, IL
-- Melville J. Herskovits Library of African Studies, Northwestern University Libraries, Evanston, IL
-- The Metropolitan Museum of Art, New York, NY
-- National Museum of African Art, Smithsonian Institution, Washington, DC
-- Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA
-- Toledo Museum of Art, Toledo, OH
-- The Walters Art Museum, Baltimore, MD
+-	Adler Planetarium ، شيكاغو، إلينوى
+-	American Numismatic Society ، نيويورك
+-	Art Institute of Chicago ، إلينوى
+-	Brooklyn Museum، بروكلين، نيويورك
+-	Charles Deering McCormick Library of Special Collections, Northwestern University Libraries, Evanston, IL
+-	Cleveland Museum of Art، كليفلاند، أوهايو
+-	Corning Museum of Glass، كورنينج، نيويورك
+-	Detroit Institute of Arts ، ديترويت، ميشيغان
+-	The Field Museum، شيكاغو، إلينوي
+-	Harvard Art Museums، كامبريدج، ماساتشوستس
+-	Hispanic Society of America ، نيويورك
+-	Jewish Theological Seminary ، نيويورك
+-	Logan Museum of Anthropology، كلية بلويت، بلويت، ويسكونسن
+-	Los Angeles County Museum of Art، لوس أنجلوس، كاليفورنيا
+-	Loyola University Museum of Art، شيكاغو، إلينوي
+-	Melville J. Herskovits Library of African Studies, Northwestern University Libraries ، إيفانستون، إلينوي
+-	The Metropolitan Museum of Art، نيويورك
+-	National Museum of African Art, Smithsonian Institution، معهد سميثسونيان، واشنطن العاصمة
+-	Peabody Museum of Archaeology and Ethnology، جامعة هارفارد، كامبريدج، ماساتشوسيتس
+-	Toledo Museum of Art، توليدو، أوهايو
+-	The Walters Art Museum، بلتيمور، ميريلاند
+
+### منشورات المعرض
+
+يكون المعرض مصحوبًا بنشرة بحثية علمية يتم نشرها بالاشتراك مع Block Museum ودار نشر جامعة برينستون. الكتاب قوافل من ذهب، شذرات من التاريخ: فن ثقافة وتبادل عبر صحراء إفريقيا الكبرى خلال العصور الوسطى يستند إلى أحدث الاكتشافات الأثرية والأبحاث التاريخية الفنية لإلقاء نظرة دامغة على التبادل عبر الصحراء في العصور الوسطى وإرثها. يُقدم المساهمون من مختلف التخصصات دراسات حالة تُشكّل صورة غنية عن حقبة زمنية بعيدة.
+
 
 ### المشرفون على العمل
 
-تم وضع مفهوم تطبيق الهاتف المحمول هذا خلال ندوة المتحف "إعادة تشكيل معرض: إعداد قوافل من ذهب لتقديمها في أفريقيا" والتي ألقتها الدكتورة كاتلين بيكفورد بيرزوك في جامعة نورث ويسترن في ربيع 2019. وقد ساعدت سارة إم. إستريلا، عضو زمالة الدراسات العليا في متحف بلوك، في تطوير هذا التطبيق، الذي أنشأه كريس دياز، أمين مكتبة خدمات النشر الرقمي في مكتبات جامعة نورث ويسترن. وكان من الطلاب الجامعيين المساهمين في ذلك إميلي أندري ولويس بيجز وميغان كلير كونسيداين وبريان روجرز كوك وزوي ديتويلر وبريانا هيث ونيكولاس ليو ومينا ميلاز وجويلي سيمون وسيندي كيو إيان وإليزابيث زانج.
+تم وضع مفهوم تطبيق الهاتف المحمول هذا خلال ندوة المتحف "إعادة تشكيل معرض: إعداد قوافل من ذهب لتقديمها في إفريقيا" والتي ألقتها الدكتورة كاتلين بيكفورد بيرزوك في جامعة نورث ويسترن في ربيع 2019. وقد ساعدت سارة إم. إستريلا، عضو زمالة الدراسات العليا في Block Museum، في تطوير هذا التطبيق، الذي أنشأه كريس دياز، أمين مكتبة خدمات النشر الرقمي في مكتبات جامعة نورث ويسترن. وكان من الطلاب الجامعيين المساهمين في ذلك إميلي أندري ولويس بيجز وميغان كلير كونسيداين وبريان روجرز كوك وزوي ديتويلر وبريانا هيث ونيكولاس ليو ومينا ميلاز وجويلي سيمون وسيندي كيو إيان وإليزابيث زانج.
 
 ### الاتصال
 
 تبلورت قوافل من ذهب من خلال الشراكات والتبادلات. إذا كنت ترغب في مشاركة كيفية استخدامك لهذه المواد، أو كنت ترغب في إبلاغنا بأي أخطاء في الترجمة أو المحتوى، فيرجى الاتصال بنا على block-museum@northwestern.edu.
-
-[^1]: Jennifer Wallace, _Digging the Dirt: The Archaeological Imagination_ (London: Duckworth and Co., 2004); Michael Shanks, _The Archaeological Imagination_ (Walnut Creek, CA: Left Coast Press, 2012).
-
-[^2]: For more on cultural heritage preservation and protection efforts in Mali, Morocco, and Nigeria, see Mamadi Dembélé, Ahmed Ettahiri, Youssef Khiara, and Yousuf Abdallah Usman, “Fragments at Risk: The Protection of Cultural Heritage in Mali, Morocco, and Nigeria,” in _Caravans of Gold, Fragments in Time: Art, Culture, and Exchange Across Medieval Saharan Africa_, ed. Kathleen Bickford Berzock (Princeton: Princeton University Press, 2019), 75–87.
