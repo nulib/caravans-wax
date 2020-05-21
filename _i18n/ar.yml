@@ -1,6 +1,6 @@
 global:
   title: 'قوافل الذهب ، شظايا في الزمن'
-  subtitle: 'فن وثقافة وتبادل عبر صحراء أفريقيإفريقيا الكبرى خلال العصور الوسطى'
+  subtitle: 'فن وثقافة وتبادل عبر صحراء إفريقيا الكبرى خلال العصور الوسطى'
 titles:
   references: "المراجع"
   about: "حول"
@@ -35,7 +35,7 @@ footer:
 pages:
   tour:
     title: 'جولة'
-    caption: 'خلال حقبة القرون الوسطى، ساهمت طرق التجارة الرئيسية التي تعبر الصحراء الكبرى في ربط المدن والبلدات التي تميزت كمراكز للتجارة. وقد اتجهت الطرق جنوبًا متصلةً بنهر النيجر، وهو الطريق الرئيسي إلى منطقة الغابات في أفريقيا. وارتبطت الطرق المتجهة شمالاً بشبكات التجارة الواسعة للبحر الأبيض المتوسط وزحفت إلى الداخل عبر أوروبا. كما التقت الطرق المتجهة شرقًا بطرق بلاد الشام منتهيةً بطرق الحرير في وسط وشرق آسيا.'
+    caption: 'خلال حقبة القرون الوسطى، ساهمت طرق التجارة الرئيسية التي تعبر الصحراء الكبرى في ربط المدن والبلدات التي تميزت كمراكز للتجارة. وقد اتجهت الطرق جنوبًا متصلةً بنهر النيجر، وهو الطريق الرئيسي إلى منطقة الغابات في إفريقيا. وارتبطت الطرق المتجهة شمالًا بشبكات التجارة الواسعة للبحر الأبيض المتوسط وزحفت إلى الداخل عبر أوروبا. كما التقت الطرق المتجهة شرقًا بطرق بلاد الشام منتهيةً بطرق الحرير في وسط وشرق آسيا.'
     sections:
       -
         title: 'أصداء الصحراء'
@@ -62,7 +62,7 @@ pages:
         img_src: '/img/tour/igbo-tour_300.jpg'
         img_alt: 'View Long Reach of the Sahara tour options'
       -
-        title: 'مجافاة الصحراء'
+        title: 'التنقل بعيدا عن الصحراء'
         link: /tour/shifting-away-from-the-sahara/
         img_srcset: '/img/tour/shifting-away-from-the-sahara_300.jpg 300w, /img/tour/shifting-away-from-the-sahara_800.jpg 800w'
         img_src: '/img/tour/shifting-away-from-the-sahara_300.jpg'
@@ -113,7 +113,7 @@ pages:
     كان نهر النيجر طريقًا رئيسيًا للتجارة من الصحراء الكبرى إلى غرب إفريقيا. ترتبط تجارة نهر النيجر بالطرق البرية عبر غابة غرب أفريقيا والمنطقة المعروفة باسم وسط السودان. في هذا القسم، يتم تقديم مواقع إيغبو أوكوو، إيفي، دوربي تاكيوتشي كدراسات حالة تساهم في فهم تاريخ غرب إفريقيا في العصور الوسطى.'
     sections:
       -
-        title: 'إيغبو أوكو '
+        title: 'إيغبو أوكوو'
         link: /tour/long-reach-of-the-sahara/igbo/
         img_srcset: '/img/tour/man_on_camel_card_300.jpg 300w, /img/tour/man_on_camel_card_800.jpg 800w'
         img_src: '/img/tour/man_on_camel_card_800.jpg'
@@ -125,13 +125,13 @@ pages:
         img_src: '/img/tour/saharan-frontiers_300.jpg'
         img_alt: 'View the Ife and Its Orbit tour tour'
       -
-        title: 'وسط السودان / دوربي تاكيوتشي'
+        title: ' السودان الأوسط / دوربي تاكوشيي'
         link: /tour/long-reach-of-the-sahara/central-sudan/
         img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
         img_src: '/img/tour/atlas-of-maritime_300.jpg'
         img_alt: 'View the Central Sudan/Durbi Takusheyi tour'
       -
-        title: 'خرز زجاجي في العصور الوسطى'
+        title: 'درر زجاجية من العصر الوسيط'
         link: /tour/long-reach-of-the-sahara/medieval-glass-beads/
         img_srcset: '/img/tour/igbo-tour_300.jpg 300w, /img/tour/igbo-tour_800.jpg 800w'
         img_src: '/img/tour/igbo-tour_300.jpg'
