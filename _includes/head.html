@@ -5,26 +5,27 @@
   <title>
     {% if page.title == true %}{% t page.title %} | {% endif %}{% t global.title %}
   </title>
+
   <link rel='canonical' href='{{ page.url | absolute_url }}'/>
-  <link rel='stylesheet' href="{{ '/assets/styles.css' | absolute_url }}"/>
+  <link rel='stylesheet' href="{{ '/assets/styles.css' | prepend: site.baseurl_root }}"/>
   <link rel="manifest" href="{{ '/manifest.json' | absolute_url }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="img/icons/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="img/icons/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="img/icons/favicon-16x16.png">
-  <link rel="mask-icon" href="img/icons/safari-pinned-tab.svg" color="#234190">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/img/icons/apple-touch-icon.png' | prepend: site.baseurl_root }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/img/icons/favicon-32x32.png' | prepend: site.baseurl_root }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/img/icons/favicon-16x16.png' | prepend: site.baseurl_root }}">
+  <link rel="mask-icon" href="{{ '/img/icons/safari-pinned-tab.svg' | prepend: site.baseurl_root }}" color="#234190">
   <meta http-equiv="content-language" content="{{ site.lang }}">
   <meta name="msapplication-TileColor" content="#234190">
   <meta name="theme-color" content="#234190">
   <meta name="twitter:site"    content="@NUblockmuseum">
   <meta name="twitter:title"   content="{% t global.title %}">
   <meta name="twitter:description" content="{% t splash.description %}">
-  <meta name="twitter:image" content="{{ '/img/bead-hero-mobile.jpg' | absolute_url }}">
+  <meta name="twitter:image" content="{{ '/img/bead-hero-mobile.jpg' | prepend: site.baseurl_root }}">
   <meta name="twitter:card"  content="summary">
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{% t global.title %}:{{ site.subtitle }}" />
   <meta property="og:description" content="{% t splash.description %}" />
-  <meta property="og:image" content="{{ '/img/bead-hero-mobile.jpg' | absolute_url }}" />
-  <script type='text/javascript' src="{{ '/assets/jquery-3.4.1.min.js' | absolute_url }}"></script>
+  <meta property="og:image" content="{{ '/img/bead-hero-mobile.jpg' | prepend: site.baseurl_root }}" />
+  <script type='text/javascript' src="{{ '/assets/jquery-3.4.1.min.js' | prepend: site.baseurl_root }}"></script>
   <noscript>Please enable JavaScript in your browser.</noscript>
 </head>

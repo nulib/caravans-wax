@@ -20,7 +20,7 @@ layout: default
 <div class='item-view'>
    <div class='image-viewer'>
      <a href='{{ page.full }}'>
-       <img class='item-full-image' src='{{ page.full | absolute_url }}' alt='{{ label | slugify }}'/>
+       <img class='item-full-image' src='{{ page.full | prepend: site.baseurl_root }}' alt='{{ label | slugify }}'/>
      </a>
    </div>
 </div>

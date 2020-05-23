@@ -37,9 +37,9 @@
 
     {% include language-toggle.html %}
     {% include footer.html %}
-    <script type='text/javascript' src='{{ "/assets/lazysizes.min.js" | absolute_url }}' async></script>
-    <script type='text/javascript' src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}' async></script>
-    <script type='text/javascript' src='{{ "/assets/popper.min.js" | absolute_url }}' async></script>
+    <script type='text/javascript' src='{{ "/assets/lazysizes.min.js" | prepend: site.baseurl_root }}' async></script>
+    <script type='text/javascript' src='{{ "/assets/bootstrap/bootstrap.min.js" | prepend: site.baseurl_root }}' async></script>
+    <script type='text/javascript' src='{{ "/assets/popper.min.js" | prepend: site.baseurl_root }}' async></script>
   </body>
   <!--
   <script>

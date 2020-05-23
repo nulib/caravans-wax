@@ -137,10 +137,20 @@ footer:
       link: 'https://www.library.northwestern.edu/'
       alt: 'Northwestern Libraries'
 
+# --------------------------------------------------------------
+# JEKYLL MULTIPLE LANGUAGES PLUGIN SETTINGS
+# --------------------------------------------------------------
+#
+
 root: 'https://caravans.library.northwestern.edu'
 
 languages: ["en", "ar", "fr"]
-exclude_from_localization: ["javascript", "images", "css"]
+exclude_from_localizations: ["assets", "img"]
+
+# --------------------------------------------------------------
+# JEKYLL PLUGINS LIST
+# --------------------------------------------------------------
+#
 
 plugins:
   - jekyll-multiple-languages-plugin
