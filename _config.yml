@@ -42,6 +42,7 @@ exclude:
   - wax_theme.gemspec
   - s3_website.yml
   - pwa_map.md
+  - deploy.sh
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
