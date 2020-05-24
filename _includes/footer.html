@@ -20,7 +20,7 @@
         {% for item in site.footer.logos %}
         {% assign link = item.link | default: '#' %}
         <a href="{{ link | absolute_url }}" aria-label="Logo link to resource">
-          <img src='{{ item.img | absolute_url }}' alt="{{ item.alt }}" width="267px"/>
+          <img src='{{ item.img | prepend: site.baseurl_root }}' alt="{{ item.alt }}" width="267px"/>
         </a><br>
         {% endfor %}
       </p>
@@ -49,7 +49,7 @@
         {% for item in site.footer.logos %}
         {% assign link = item.link | default: '#' %}
         <a href="{{ link | absolute_url }}" aria-label="Logo link to resource">
-          <img src='{{ item.img | absolute_url }}' alt="{{ item.alt }}" width="267px"/>
+          <img src='{{ item.img | prepend: site.baseurl_root }}' alt="{{ item.alt }}" width="267px"/>
         </a><br>
         {% endfor %}
       </p>
