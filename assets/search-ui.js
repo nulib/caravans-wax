@@ -10,7 +10,7 @@ function excerptedString(str) {
 
 function getThumbnail(item, url) {
   if ('thumb_150' in item) {
-    return `<img class='img-thumbnail' src='{{ "${url}${item.thumb_150}" | prepend: site.baseurl_root }}'/>&nbsp;&nbsp;&nbsp;`
+    return `<img class='img-thumbnail' src='${url}${item.thumb_150}'/>&nbsp;&nbsp;&nbsp;`
   }
   else {
     return '';
