@@ -5,7 +5,7 @@ titles:
   references: "References"
   about: "À propos"
   search: "Recherche Mots clés"
-  key_works: "Mots clés"
+  key_works: "Oeuvres Principales"
   tour: "Visite"
 menu:
   - label: 'À propos'
@@ -26,7 +26,7 @@ splash:
   tagline: 'Voyage pour l’Afrique au cœur du monde médiéval.'
   tour: 'Visite guidée'
   description: 'Un projet numérique présenté en arabe, en français et en anglais, pour explorer la portée mondiale du commerce saharien du huitième au seizième siècle.'
-  browse: 'Rechercher des mots clés'
+  browse: 'Rechercher des oeuvres principales'
   image_alt_tags:
     hero: Maritime Atlas of the Sahara
 footer:
