@@ -67,6 +67,7 @@ pages:
         img_srcset: '/img/tour/shifting-away-from-the-sahara_300.jpg 300w, /img/tour/shifting-away-from-the-sahara_800.jpg 800w'
         img_src: '/img/tour/shifting-away-from-the-sahara_300.jpg'
         img_alt: 'Begin Shifting Away from the Sahara tour'
+
   saharan_frontiers:
     title: 'Saharan Frontiers'
     caption: 'Routes across the vast Sahara Desert (that comprises more than 3.5 million square miles) follow paths through a varied terrain, moving between oases—the underground sources of water that are critical to the survival of travelers. The main routes across the Sahara were established by the fifth century CE, and most continue to be used today. In this section the sites of Sijilmasa, Tadmekka, and Gao are presented as case studies that reveal the history of medieval West Africa.'
@@ -107,6 +108,7 @@ pages:
         img_srcset: '/img/tour/spread-of-ideas_300.jpg 300w, /img/tour/spread-of-ideas_800.jpg 800w'
         img_src: /img/tour/spread-of-ideas_300.jpg
         img_alt: "View Mansa Musa's Hajj to Mecca tour"
+        
   long_reach_of_the_sahara:
     title: 'The Long Reach of the Sahara'
     caption: 'The Niger River was a major thoroughfare for trade from the Sahara into West Africa. Niger River trade connected to land routes through the West African forest and the region known as the Central Sudan. In this section the sites of Igbo Ukwu, Ife, and Durbi Takusheyi are presented as case studies that contribute to understanding the history of medieval West Africa.'
@@ -152,7 +154,7 @@ tours:
     -
       img_src: '/img/works/1/1_640x.jpg'
       img_alt: 'Tuareg camel saddle (tarik or tamzak)'
-      caption: 'Camel saddle (<i>tarik or tamzak</i>), Tuareg, Algerian Sahara, date unknown (probably 20th century). Leather, rawhide, wood, parchment or vellum, wool, silk, tin-plated metal, brass-plated metal, iron, copper alloy, and cheetah skin, 75 x 71 x 46 cm. Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA, gift of the Estate of Dr. Lloyd Cabot Briggs, 1975, 975-32-50/11927. Photograph © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology'
+      caption: 'Camel saddle (<em>tarik or tamzak</em>), Tuareg, Algerian Sahara, date unknown (probably 20th century). Leather, rawhide, wood, parchment or vellum, wool, silk, tin-plated metal, brass-plated metal, iron, copper alloy, and cheetah skin, 75 x 71 x 46 cm. Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA, gift of the Estate of Dr. Lloyd Cabot Briggs, 1975, 975-32-50/11927. Photograph © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology'
     -
       text: 'Until the widespread domestication of the camel in the early centuries of the Common Era, historians believe, trans-Saharan trade and exchange was quite rare. Camels are ideal for Saharan movement: they rarely sweat, even in hot desert climates, and can conserve fluids for long periods of time. <sup><a href="/references/">4</a></sup> With camels to ride and to carry loads, the Tuareg and other Imazighen peoples of the Sahara once controlled the caravan routes that stretched across the desert.'
     -
@@ -160,7 +162,7 @@ tours:
     -
       img_src: '/img/works/2/2_640x.jpg'
       img_alt: 'Drawing of a guinbri'
-      caption: 'Drawing of a guinbri.  Reproduced from Georg Hjersing Høst, <i>Reports on Morocco and Fes (Efterretninger om Marokos og Fes: Samlede der i Landene fra ao. 1760 til 1768)</i>. Copenhagen: N. Möller, 1779. Melville J. Herskovits Library of African Studies, Northwestern University, Evanston, IL, DT308.H83 1779. Photograph by Clare Britt'
+      caption: 'Drawing of a guinbri.  Reproduced from Georg Hjersing Høst, <em>Reports on Morocco and Fes (Efterretninger om Marokos og Fes: Samlede der i Landene fra ao. 1760 til 1768)</em>. Copenhagen: N. Möller, 1779. Melville J. Herskovits Library of African Studies, Northwestern University, Evanston, IL, DT308.H83 1779. Photograph by Clare Britt'
     -
       text: 'From at least the nineteenth century, the word *gnawa* has been used in Morocco to refer to the descendants of enslaved people from the Western Sudan. The term is now associated with black Moroccans who entertain in public squares and on concert stages. The guinbri is the most prestigious of all Gnawa musical instruments. This drawing of a guinbri is from the account of Danish businessman and diplomat Georg Høst of his travels in Morocco.'
     -
@@ -205,7 +207,7 @@ tours:
       img_src: '/img/tour/saharan-frontiers/sijilmasa/colored-fragments_600.jpg'
       img_srcset: '/img/tour/saharan-frontiers/sijilmasa/colored-fragments_300.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/colored-fragments_600.jpg 600w'
       img_alt: 'ceramic fragments'
-      caption: '<i>Cuerda seca</i> ceramic fragments excavated at Sijilmasa (various dimensions). Ministère de la culture et de la communication du Royaume du Maroc. Photograph by Fouad Mahdaoui'
+      caption: '<em>Cuerda seca</em> ceramic fragments excavated at Sijilmasa (various dimensions). Ministère de la culture et de la communication du Royaume du Maroc. Photograph by Fouad Mahdaoui'
     -
       img_src: '/img/tour/saharan-frontiers/sijilmasa/glazed-ceramic_600.jpg'
       img_srcset: '/img/tour/saharan-frontiers/sijilmasa/glazed-ceramic_300.jpg 300w, /img/tour/saharan-frontiers/sijilmasa/glazed-ceramic_600.jpg 600w'
@@ -842,7 +844,7 @@ work_labels:
 
 works:
   1:
-    label: 'Camel saddle (<i>tarik or tamzak</i>)'
+    label: 'Camel saddle (<em>tarik or tamzak</em>)'
     section: Saharan Echoes
     _date: 'Date unknown (probably 20th century)'
     region_culture_timeperiod: Tuareg, Algerian Sahara
@@ -851,7 +853,7 @@ works:
     credit_line: 'Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA, gift of the Estate of Dr. Lloyd Cabot Briggs, 1975, 975-32-50/11927. Photograph &copy; President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology '
     description: 'Until the widespread domestication of the camel in the early centuries of the Common Era, historians believe, trans-Saharan trade and exchange was quite rare. Camels are ideal for Saharan movement: they rarely sweat, even in hot desert climates, and can conserve fluids for long periods of time. With camels to ride and to carry loads, the Tuareg and other Imazighen peoples of the Sahara once controlled the caravan routes that stretched across the desert. Their economy was based on herding and supplemented by the trade of salt. Tuareg nobility depended on artisans to produce wood, metal, and leather goods like this saddle. This example is too ornate to have been used for lengthy travel. It was made by covering a wooden core with dyed and tooled leather and then decorating the pommel and other parts with metal embellishments filled with geometric patterns. '
   2:
-    label: 'Drawing of a guinbri. Reproduced from Georg Hjersing Høst, <i>Reports on Morocco and Fes (Efterretninger om Marokos og Fes: Samlede der i Landene fra ao. 1760 til 1768)</i>.'
+    label: 'Drawing of a guinbri. Reproduced from Georg Hjersing Høst, <em>Reports on Morocco and Fes (Efterretninger om Marokos og Fes: Samlede der i Landene fra ao. 1760 til 1768)</em>.'
     section: Saharan Echoes
     _date: '1779'
     region_culture_timeperiod: 'Copenhagen, Denmark: N. Möller'
@@ -1017,7 +1019,7 @@ works:
     credit_line: Direction nationale du patrimoine culturel, Bamako, Mali, 2002. Photograph by Seydou Camara
     description: Originally a grindstone, the bottom half of an apparatus for processing grain, this stone was inscribed with Arabic script by a local artisan at some time between the thirteenth and seventeenth century and repurposed as a grave monument at the same cemetery. Its accompanying top stone, used for processing grain in tandem with the grindstone, was likewise inscribed with Arabic script.
   21:
-    label: "Al-qadi ‘Iyad, <i>The Remedy by the Recognition of the Rights of the Chosen One (Al-Shifta’ bi-ta’rif huquq al-Mustafa)</i>"
+    label: "Al-qadi ‘Iyad, <em>The Remedy by the Recognition of the Rights of the Chosen One (Al-Shifta’ bi-ta’rif huquq al-Mustafa)</em>"
     section: Saharan Frontiers/The Movement of Language, People, and Ideas
     _date: Unknown date
     region_culture_timeperiod: North Africa
@@ -1037,7 +1039,7 @@ works:
       2000.326. Photograph courtesy of The Art Institute of Chicago/Art Resource, NY
     description: 'This large textile is covered with Qur’anic verses in Arabic script. The elongated figure may represent a lizard, a spirit, or a stylized rendering of the name Muhammad, while the red checkered motifs recall magic squares, arrangements of numbers that always amount to the same sum, no matter the direction they are added. The attached amulets likely encase small squares of folded paper with sacred writing. Across Senegal, Sufi practitioners apply esoteric knowledge of the Qur’an and other sacred texts to the therapeutic practices of divination, healing, and spiritual protection. The textile may have been lent or rented to clients as needed by the practitioner who created it.'
   23:
-    label: 'Leo Africanus, <i>Description of Africa (De totius Africae descriptio)</i>'
+    label: 'Leo Africanus, <em>Description of Africa (De totius Africae descriptio)</em>'
     section: Saharan Frontiers/The Movement of Language, People, and Ideas
     _date: '1556'
     region_culture_timeperiod: Antwerp
@@ -1064,7 +1066,7 @@ works:
     credit_line: Los Angeles County Museum of Art, Los Angeles, CA, The Nasli M. Heeramaneck Collection, gift of Joan Palevsky, M.73.5.336
     description: 'The historian and geographer Abu ‘Ubayd al-Bakri (d. 1094) provided information about Saharan caravan trade to a readership hungry to learn about faraway trading partners. In his _Book of Routes and Realms_, published in 1063, al-Bakri describes royal succession in Kawkaw, the medieval name for Gao: “When a king ascends the throne, he is handed a signet ring, a sword, and a copy of the Qur’an, which, as they assert, were sent to them by the Commander of the Faithful. Their king is a Muslim, for they entrust their kingship only to Muslims.” A sword and jewelry were among the diplomatic gifts received by Mansa Musa.'
   26:
-    label: 'Abraham Cresques (?). <i>Atlas of Maritime Charts (The Catalan Atlas)</i>'
+    label: 'Abraham Cresques (?). <em>Atlas of Maritime Charts (The Catalan Atlas)</em>'
     section: 'Driving Desires'
     _date: '1375'
     region_culture_timeperiod: 'Majorca'
@@ -1103,7 +1105,7 @@ works:
     credit_line: 'American Numismatic Society, New York, 1954.237.214. Photograph courtesy of the American Numismatic Society '
     description: 'In 1252 the city-state of Florence in Italy adopted the gold standard and began minting its own currency. This adoption was supported by an influx of gold from West Africa via trans-Saharan trade routes. Florins were stamped with a fleur-de-lis on one side and an image of John the Baptist, the patron saint of the city of Florence, on the other. A mint mark appears above John the Baptist’s right hand, indicating where the coin was produced. Florins could also be hammered out to form valuable gold leaf, which was used to embellish objects including religious paintings.'
   30:
-    label: '<i>Coronation of the Virgin</i>'
+    label: '<em>Coronation of the Virgin</em>'
     section: Driving Desires
     _date: 15th century
     region_culture_timeperiod: Italy
@@ -1131,7 +1133,7 @@ works:
     description: "The page of this sumptuous Qur’an features gold and silver script on indigo-colored parchment. The Blue Qur’an was housed in the library of the Great Mosque of Kairouan in Tunisia from at least 1294. Today more than one hundred of its 600 pages are dispersed in collections around the world and more than sixty
     are still in Tunisia. Although scholars disagree on the precise origins of this sumptuous book, the use of gold and silver script on parchment colored a deep blue nevertheless signals competition with the expensive purple-dyed manuscripts (from the murex sea snail) also circulating in courts around the Mediterranean basin. During the medieval period, a shared manuscript culture among Muslims, Christians, and Jews extended across North Africa, the Middle East, and Europe. Common elements in this manuscript tradition included elegant calligraphy, colorful embellishments including gold, and decorative leather bindings. Gold and leather, both prominently used in bookmaking, were imported from West Africa. Book culture likewise spread to West Africa as Islam spread across the Sahara Desert."
   33:
-    label: '<i>Ethics of the Fathers (Pirkei Avot)</i>, siddur (prayer book)'
+    label: '<em>Ethics of the Fathers (Pirkei Avot)</em>, siddur (prayer book)'
     section: Driving Desires
     _date: Late 15th century
     region_culture_timeperiod: Lisbon
@@ -1158,7 +1160,7 @@ works:
     credit_line: Art Institute of Chicago, Samuel P. Avery Endowment, 1926.389. Photograph courtesy of The Art Institute of Chicago/Art Resource, NY
     description: 'This ivory box, or casket, was made on the island of Sicily, off the southern tip of Italy, not long after the Norman conquest. The Arabic-speaking Muslim population of Sicily was not entirely displaced by the Normans, and these communities—and their commercial connections—contributed significantly to a unique visual culture that flourished under Norman rule. The box is embellished with gold leaf and copper fittings, valuable materials that circulated along with ivory across networks that were central to trans-Saharan trade. An inscription in Arabic reads “May glory endure.”'
   36:
-    label: '<i>Coronation of the Virgin</i>'
+    label: '<em>Coronation of the Virgin</em>'
     section: Driving Desires
     _date: ca. 1480
     region_culture_timeperiod: English
@@ -1280,7 +1282,7 @@ works:
     credit_line: National Commission for Museums and Monuments, Abuja, Nigeria. Photograph by Clare Britt
     description: 'The glass bead assemblage from Igbo Olokun and the other glass-related materials discovered there have provided a unique avenue to understanding different aspects of glass bead production in medieval West Africa. These include the degree of sophistication and expertise of glass bead makers, the scale of production, and the transformations it brought to the society locally, regionally, and transregionally. Examination of the glass bead assemblage from Igbo Olokun has shown that beads were made using the drawing technique in which molten glass is pulled into tubes. '
   48:
-    label: Bowl (<i>kuduo</i>)
+    label: Bowl (<em>kuduo</em>)
     section: Shifting Away from the Sahara
     _date: 16th/18th (?) century
     region_culture_timeperiod: Asante, Offin River, Ghana
