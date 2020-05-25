@@ -44,29 +44,30 @@ pages:
         img_src: '/img/tour/man_on_camel_card_800.jpg'
         img_alt: 'Begin DES ÉCHOS SAHARIENS tour'
       -
-        title: 'Saharan Frontiers'
+        title: 'LES FRONTIÈRES SAHARIENNES'
         link: /tour/saharan-frontiers/
         img_srcset: '/img/tour/saharan-frontiers_300.jpg 300w, /img/tour/saharan-frontiers_800.jpg 800w'
         img_src: /img/tour/saharan-frontiers_300.jpg
         img_alt: 'View Saharan Frontiers tour options'
       -
-        title: 'Driving Desires'
+        title: 'MOTIVATIONS ET CONVOITISES'
         link: /tour/driving-desires/
         img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
         img_src: '/img/tour/atlas-of-maritime_300.jpg'
         img_alt: 'Begin Driving Desires tour'
       -
-        title: 'Long Reach of the Sahara'
+        title: 'LA VASTE PORTÉE DU SAHARA'
         link: /tour/long-reach-of-the-sahara/
         img_srcset: '/img/tour/igbo-tour_300.jpg 300w, /img/tour/igbo-tour_800.jpg 800w'
         img_src: '/img/tour/igbo-tour_300.jpg'
         img_alt: 'View Long Reach of the Sahara tour options'
       -
-        title: 'Shifting Away from the Sahara'
+        title: 'UN DÉPLACEMENT AILLEURS DU SAHARA'
         link: /tour/shifting-away-from-the-sahara/
         img_srcset: '/img/tour/shifting-away-from-the-sahara_300.jpg 300w, /img/tour/shifting-away-from-the-sahara_800.jpg 800w'
         img_src: '/img/tour/shifting-away-from-the-sahara_300.jpg'
         img_alt: 'Begin Shifting Away from the Sahara tour'
+        
   saharan_frontiers:
     title: 'LES FRONTIÈRES SAHARIENNES'
     caption: 'Les routes du vaste désert du Sahara (qui couvre plus de 9 millions de kilomètres carré) empruntent des itinéraires à la topographie variée, et traversent des oasis, sources d’eau souterraines essentielles à la survie des voyageurs. Les routes principales qui traversent le Sahara ont été établies jusqu’au cinquième siècle et continuent d’être utilisées aujourd’hui. Dans cette section, les sites de Sijilmasa, Tadmekka et Gao sont présentés en tant qu’études de cas qui révèlent l’histoire de l’Afrique de l’Ouest médiévale.  '
