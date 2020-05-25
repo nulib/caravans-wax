@@ -838,6 +838,7 @@ tours:
 
 work_labels:
   object_name: 'Object Name'
+  culture_site: 'Culture / Site'
   credit_line: 'Credit Line'
   description: 'Description'
   medium: 'Medium'
