@@ -8,9 +8,9 @@ function excerptedString(str) {
   }
 }
 
-function getThumbnail(item, url) {
+function getThumbnail(item, base_url) {
   if ('thumb_150' in item) {
-    return `<img class='img-thumbnail' src='${url}${item.thumb_150}'/>&nbsp;&nbsp;&nbsp;`
+    return `<img class='img-thumbnail' src='${base_url}${item.thumb_150}'/>&nbsp;&nbsp;&nbsp;`
   }
   else {
     return '';
@@ -22,7 +22,7 @@ function displayResult(item, fields, url) {
   var name  = item.label
   var label = item.description || 'Untitled';
   var link  = item.permalink;
-  var thumb = getThumbnail(item, url);
+  var thumb = getThumbnail(item, base_url);
   var meta  = []
 
   for (i in fields) {

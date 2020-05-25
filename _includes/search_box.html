@@ -27,6 +27,7 @@
   var fields    = {{ fields | jsonify }};
   var indexFile = "{{ index | absolute_url }}";
   var url       = "{{ url }}{{ site.baseurl }}/";
+  var base_url  = "{{ url }}/";
 
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);
