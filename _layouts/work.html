@@ -86,7 +86,7 @@ layout: default
     <dt>Section</dt>
     <dd>{{ section }}</dd>
     <dt>{% t work_labels.description %}</dt>
-    <dd>{{ description }}</dd>
+    <dd>{{ description | markdownify }}</dd>
   </dl>
 
 {% endif %}
