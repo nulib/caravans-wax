@@ -54,7 +54,7 @@ pages:
         link: /tour/driving-desires/
         img_srcset: '/img/tour/atlas-of-maritime_300.jpg 300w, /img/tour/atlas-of-maritime_800.jpg 800w'
         img_src: '/img/tour/atlas-of-maritime_300.jpg'
-        img_alt: 'Begin Driving Desires tour'
+        img_alt: 'Begin MOTIVATIONS ET CONVOITISES tour'
       -
         title: 'LA VASTE PORTÉE DU SAHARA'
         link: /tour/long-reach-of-the-sahara/
@@ -879,7 +879,7 @@ works:
   1:
     label: 'Selle de chameau (<em>tarik ou tamzak</em>)'
     section: DES ÉCHOS SAHARIENS
-    _date: 'Date unknown (probablement XXe siècle)'
+    _date: 'Date inconnue  (probablement XXe siècle)'
     region_culture_timeperiod: Touareg, Sahara algérien
     medium: 'Cuir, cuir brut, bois, parchemin ou vélin, laine, soie, métal étamé, métal laitonné, fer, alliage de cuivre, et peau de guépard'
     dimensions: '75 x 71 x 46 cm'
@@ -897,7 +897,7 @@ works:
   3:
     label: 'Ornements de tête'
     section: DES ÉCHOS SAHARIENS
-    _date: mid-20th century
+    _date: 'milieu du XXe siècle'
     region_culture_timeperiod: 'Tekna, Laayoune, Sahara occidental'
     medium: 'Cheveux en nylon et polypropylène, ambre, corail, coquillages, argent, cornaline et perles de verre'
     dimensions: 12,5 x 18 x 2,6 cm
@@ -905,7 +905,7 @@ works:
     description: 'Les Tekna vivent dans la partie nord-occidentale du Sahara et descendent des Imazighen et des Arabes locaux qui immigrèrent dans la région entre le quinzième et le dix-septième siècle. Cette coiffe Tekna est constituée de cheveux synthétiques tressés et cousus, bien qu’à cette époque, les poils de la queue d’un cheval aient été traditionnellement utilisés dans la conception de ces coiffes. Les chevaux, ainsi que le verre, l’argent, le corail, les coquillages et les perles en pierre dure utilisés pour la coiffe rappellent l’époque médiévale, à laquelle ces matériaux de valeur circulaient. Ils illustrent l’impact que l’héritage du passé peut avoir sur le présent.'
   4:
     label: 'Fragment d’une décoration murale peinte'
-    section: Saharan Frontiers/Sijilmasa
+    section: 'LES FRONTIÈRES SAHARIENNES /Sijilmasa'
     _date: 'IXe/Xe siècle'
     region_culture_timeperiod: 'Découvert à Sijilmasa, Maroc'
     medium: Plâtre
@@ -914,17 +914,17 @@ works:
     description: 'À son apogée, Sijilmasa était un riche centre urbain de taille conséquente. L’historien et géographe andalou Abu ‘Ubayd al-Bakri (décédé en 1094) décrivit la ville comme "un mur au douze portes. À l’intérieur se trouvent de belles maisons, nombre d’entre elles possédant un jardin, de magnifiques bâtiments publics, une mosquée aux bases solides, et des bains aux pauvres fondations." Sur ce fragment de plâtre peint est inscrite une citation du Coran, qui, en entier, signifie: "Allah n&apos;impose à aucune âme une charge supérieure à sa capacité. Elle sera récompensée du bien qu&apos;elle aura fait, punie du mal qu&apos;elle aura fait." Il a été découvert à l’emplacement d’une résidence de prestige datant du neuvième ou dixième siècle. Un ou deux siècles plus tard, une mosquée fut construite au même emplacement.'
   5:
     label: Bague
-    section: Saharan Frontiers/Sijilmasa
-    _date: 9th/10th century
+    section: LES FRONTIÈRES SAHARIENNES /Sijilmasa
+    _date: 'IXe/Xe siècle'
     region_culture_timeperiod: Découvert à Sijilmasa, Maroc
     medium: Or
     dimensions: Diameter 1.9 cm
     credit_line: 'Fondation nationale des musées du Royaume du Maroc, Rabat, 2006-1. Photographie de Abdallah Fili et Hafsa El Hassani'
     description: 'Cette bague en or fait partie du peu d’objets en or ayant survécu de l’époque médiévale saharienne, et représente une preuve matérielle importante illustrant le lien entre Sijilmasa et le commerce du Sahara. Un orfèvre confectionna la bague en soudant de fines bandes d’or aplaties, pour former un motif ondulé entre les bandes inférieures et supérieures de la bague. La bague fut découverte dans une résidence de prestige et date d’une période prolongée de développement de la ville par les chefs Amazigh locaux, les Ben Midrar. La technique de travail de l’or ressemble à celle utilisée pour confectionner les bijoux Amazigh aux dix-neuvième et vingtième siècles dans le Sahara et de l’Atlas. '
   6:
-    label: 'Vase gravé "al-Baraka"'
-    section: Saharan Frontiers/Sijilmasa
-    _date: 11th century
+    label: 'Vase gravé « al-Baraka »'
+    section: LES FRONTIÈRES SAHARIENNES /Sijilmasa
+    _date: 'XIe siècle' 
     region_culture_timeperiod: 'Retrouvé à Sijilmasa, Maroc'
     medium: Céramique vitrifiée
     dimensions: '25,4 x 17,8 x 14 cm'
@@ -932,26 +932,26 @@ works:
     description: 'Un nombre important de fragments de céramique vitrifiée et non vitrifiée ont été découverts sur des sites au nord et au sud du Sahara. Parmi eux, des restes de bols, de carafes, de lampes, de récipients de stockage, et autres objets nécessaires à la vie quotidienne. Ce vase vitrifié et gravé, datant du onzième siècle, est l’un des objets en céramique les mieux préservés parmi ceux découverts à Sijilmasa. Retrouvé à l’ouest des vestiges de la grande mosquée de Sijilmasa, le vase porte l’inscription « al-Baraka » (la bénédiction), suivie de « Allah » (Dieu) ou « al-yawman » (prospérité).'
   7:
     label: 'Fragments de récipients à bec verseur'
-    section: Saharan Frontiers/Tadmekka
-    _date: '10th/14th century'
-    region_culture_timeperiod: Retrouvés à Tadmekka, Mali
+    section: LES FRONTIÈRES SAHARIENNES / TADMEKKA
+    _date: 'Xe/XIVe siècle'
+    region_culture_timeperiod: 'Retrouvés à Tadmekka, Mali'
     medium: Verre
-    dimensions: Various dimensions
-    credit_line: 'Collection du Corning Museum of Glass, Corning, New York, 63.1.5'
+    dimensions: 'Plusieurs tailles'
+    credit_line: 'Institut des sciences humaines, Bamako, Mali. Photographie de Clare Britt'
     description: 'La forme légèrement arquée de ces petits tubes de verre de couleur verte, découverts à Essouk-Tadmekka, au Mali, indiquent qu’ils faisaient sûrement partie de petites bouteilles à bec verseur. Ces bouteilles, fabriquées en Asie de l’Ouest ou en Égypte, étaient utilisées dans toute la région méditerranéenne de l’époque médiévale comme flacons pour du parfum ou de l’eau de rose. Des vestiges matériels du commerce longue distance de la verrerie de luxe, ainsi que des fragments de récipients en verre, comme ceux de l’exemple du Corning Museum, ont également été retrouvés sur d’autres sites médiévaux au nord et au sud du désert du Sahara.'
   8:
     label: 'Récipient à bec verseur'
-    section: Saharan Frontiers/Tadmekka
-    _date: 'ca. 800/1099'
+    section: LES FRONTIÈRES SAHARIENNES / TADMEKKA
+    _date: 'vers 800/1099'
     region_culture_timeperiod: 'Provenant probablement d’Égypte ou d’Asie occidentale'
     medium: Verre soufflé
-    dimensions: Height 6 cm, maximum width 9.9 cm; rim diameter 4.5 cm
-    credit_line: Collection of the Corning Museum of Glass, Corning, NY, 63.1.5
+    dimensions: '6 cm de hauteur, largeur maximale 9,9 cm, diamètre extérieur 4,5 cm'
+    credit_line: 'Collection du Corning Museum of Glass, Corning, New York, 63.1.5'
     description: 'La forme légèrement arquée de ces petits tubes de verre de couleur verte, découverts à Essouk-Tadmekka, au Mali, indiquent qu’ils faisaient sûrement partie de petites bouteilles à bec verseur. Ces bouteilles, fabriquées en Asie de l’Ouest ou en Égypte, étaient utilisées dans toute la région méditerranéenne de l’époque médiévale comme flacons pour du parfum ou de l’eau de rose. Des vestiges matériels du commerce longue distance de la verrerie de luxe, ainsi que des fragments de récipients en verre, comme ceux de l’exemple du Corning Museum, ont également été retrouvés sur d’autres sites médiévaux au nord et au sud du désert du Sahara.'
   9:
     label: 'Fragment de porcelaine Qingbai'
-    section: Saharan Frontiers/Tadmekka
-    _date: '10/12th century'
+    section: LES FRONTIÈRES SAHARIENNES / TADMEKKA
+    _date: 'Xe/XIIe siècle '
     region_culture_timeperiod: 'Chine, dynastie Song du Nord ; découvert à Tadmekka'
     medium: Porcelaine
     dimensions: '1,48 x 1,74 cm'
@@ -959,43 +959,43 @@ works:
     description: 'Les marchandises et produits manufacturés circulant sur les routes du commerce transsaharien étaient le plus souvent destinés à des marchés particulièrement éloignés de leurs lieux d’origine. Le petit fragment de céladon découvert sur le site d’Essouk-Tadmekka au Mali, fait partie de la vaisselle Qingbai. La vaisselle Qingbai, produite au sud-est de la Chine, fut largement exportée entre le dixième et le douzième siècle et était échangée le long des routes, transportée de marché en marché selon un processus appelé « le commerce de relai ». Des fragments de vaisselle Qingbai ont été découverts sur des sites médiévaux allant de l’Asie centrale à l’Égypte, en passant par le Sahara. '
   10:
     label: 'Bol foliacé gravé d’une gerbe de pivoines stylisées'
-    section: Saharan Frontiers/Tadmekka
-    _date: '12th century'
+    section: LES FRONTIÈRES SAHARIENNES / TADMEKKA
+    _date: 'XIIe siècle'
     region_culture_timeperiod: 'Chine, dynastie Song du Nord ; découvert à Tadmekka'
     medium: Porcelaine avec décor incisé sous glaçure
-    dimensions: 'Height 7.1 cm, diameter 20.1 cm'
+    dimensions: 'hauteur 7,1 cm, diamètre 20,1 cm'
     credit_line: 'Art Institute of Chicago, legs de Russell Tyson, 1964.847. Photographie provenant de l’Art Institute of Chicago/Art Resource, New York'
     description: 'Les marchandises et produits manufacturés circulant sur les routes du commerce transsaharien étaient le plus souvent destinés à des marchés particulièrement éloignés de leurs lieux d’origine. Le petit fragment de céladon découvert sur le site d’Essouk-Tadmekka au Mali, fait partie de la vaisselle Qingbai. La vaisselle Qingbai, produite au sud-est de la Chine, fut largement exportée entre le dixième et le douzième siècle et était échangée le long des routes, transportée de marché en marché selon un processus appelé "le commerce de relai". Des fragments de vaisselle Qingbai ont été découverts sur des sites médiévaux allant de l’Asie centrale à l’Égypte, en passant par le Sahara.'
   11:
     label: Fragments de vaisselle en terre cuite
-    section: Saharan Frontiers/Tadmekka
-    _date: '10th/14th century'
+    section: LES FRONTIÈRES SAHARIENNES / TADMEKKA
+    _date: 'Xe/XIVe siècle'
     region_culture_timeperiod: 'Retrouvés à Tadmekka, Mali'
     medium: Céramique
-    dimensions: Various dimensions
+    dimensions: 'Plusieurs tailles'
     credit_line: 'Institut des sciences humaines, Bamako, Mali. Photographie de Kathleen Bickford Berzock, 2016'
     description: 'Un nombre important de fragments de céramique non vitrifiée a été découvert sur plusieurs sites de la région du Soudan occidental et dans le nord du Sahara, y compris à Sijilmasa. Parmi eux, des restes de bols, de carafes, de récipients de stockage, et autres objets nécessaires à la vie quotidienne. Décorés de motifs imprimés à la roulette sculptée, ou par des motifs peints à la barbotine, ces récipients étaient principalement utilisés pour la cuisine domestique ou pour le stockage de la nourriture. Ces récipients en terre cuite étaient également utilisés pour transporter des marchandises sur de longues distances, comme les céréales ou le poisson provenant du delta intérieur du Niger, terre fertile du Mali.'
   12:
     label: Creuset
-    section: Saharan Frontiers/Gao
+    section: LES FRONTIÈRES SAHARIENNES/GAO
     _date: 'VIIIe/Xe siècle'
     region_culture_timeperiod: 'Retrouvé à Gao Sané, Mali'
     medium: Terre cuite
-    dimensions: 'Maximum width 4.8 cm'
+    dimensions: 'Largeur maximale 4,8 cm'
     credit_line: 'Direction nationale du patrimoine culturel, Mali. Photographie de Seydou Camara'
     description: 'Ce petit creuset découvert sur le site de Gao Sané était utilisé pour la conception des perles de verre. Les perles de verre, produites en de nombreux endroits et échangées sur de grandes distances, sont le microcosme des réseaux complexes qui se rassemblaient à Gao Sané. Environ deux tiers des perles appartenaient à la classe inférieure et furent confectionnées entre le huitième et le dixième siècle. La plupart d’entre elles furent découvertes dans des tranchées, dans un état inachevé, cassées ou mal formées. Les découvertes issues des fouilles de ces tranchées sont particulièrement remarquables, et indiquent que Gao Sané était un site de production pour le recyclage et la refonte du verre importé. En revanche, sur le site de Gao Ancien, la plupart des perles découvertes étaient complètes.'
   14:
     label: 'Deux fragments de céramique vitrifiée et un fragment d’albâtre sculpté'
-    section: Saharan Frontiers/Gao
-    _date: '10th/11th century'
+    section: LES FRONTIÈRES SAHARIENNES/GAO
+    _date: 'Xe/XIe siècle'
     region_culture_timeperiod: Retrouvés à Gao, Mali
     medium: Céramique, albâtre
-    dimensions: Various dimensions
+    dimensions: 'Plusieurs tailles'
     credit_line: 'Musée national du Mali, Bamako. Photographie de Seydou Camara'
     description: 'Les céramiques vitrifiées et décorées selon différents styles caractéristiques étaient transportées à travers le Sahara, et des fragments ont été retrouvés sur plusieurs sites. Sur l’image de gauche, le grand fragment de céramique lustrée (au centre) et celui de céramique jaspée (à droite) ont été retrouvés à Gao, au Mali, tout comme le morceau d’albâtre sculpté (à gauche), qui provenait probablement d’une source en Égypte ou en Syrie. Le lustre métallique est l’une des innovations les plus ingénieuses des potiers arabes, qui mixaient des sulfures d’argent avec des oxydes de cuivre pour créer un lustre brillant et métallique à la surface des bols, assiettes ou autre vaisselle fonctionnelle en faïence vitrifiée. La vaisselle décorée, comme l’exemple sur l’image de droite représentant un lièvre vif au milieu des vignes, était populaire en Égypte et en Grande Syrie pendant la période fatimide (909-1171). La technique s’étendit également en Afrique du Nord et en Andalousie, jusque dans les villes de Malaga et de Valence. Le succès de la céramique peinte au lustre métallique n’est pas surprenant étant donné sa ressemblance avec l’éclat scintillant de l’or.'
   15:
     label: Personnage à genoux
-    section: Saharan Frontiers/Connecting Trade to the Niger River
+    section: LES FRONTIÈRES SAHARIENNES/ LE COMMERCE LIÉ AU FLEUVE NIGER
     _date: 'XIIe/XIVe siècle'
     region_culture_timeperiod: 'Découvert à Natamatao, région Mopti, Mali'
     medium: Terre cuite
@@ -1004,8 +1004,8 @@ works:
     description: 'Ces personnages en terre cuite représentant un homme assis et un cheval ont été retrouvés à Natamatao, au Mali, aux côtés de squelettes de chevaux et d’humains. Ils font partie d’une tradition locale répandue du dixième au quinzième siècle, qui consiste à confectionner des sculptures en terre cuite. La fertilité du delta intérieur du fleuve Niger alimenta un urbanisme florissant au Moyen-Âge, qui comprenait plus de soixante communautés interdépendantes. À Natamatao, les fouilles ont révélé des objets associés au commerce transsaharien, notamment un lot de lingots de cuivre importés. Des bracelets et des pendentifs, similaires à ceux portés par le personnage à genoux, auraient pu être composés de laiton, un alliage de cuivre. La représentation de chevaux suggère également l’existence d’échanges commerciaux, puisqu’ils étaient commercialisés à travers le Sahara.'
   16:
     label: Cheval
-    section: Saharan Frontiers/Connecting Trade to the Niger River
-    _date: 12th/14th century
+    section: LES FRONTIÈRES SAHARIENNES/ LE COMMERCE LIÉ AU FLEUVE NIGER
+    _date: 'XIIe/XIVe siècle'
     region_culture_timeperiod: 'Découvert à Natamatao, région Mopti, Mali'
     medium: Terre cuite
     dimensions: '37,7 x 23,5 x 45 cm'
@@ -1013,8 +1013,8 @@ works:
     description: 'Ces personnages en terre cuite représentant un homme assis et un cheval ont été retrouvés à Natamatao, au Mali, aux côtés de squelettes de chevaux et d’humains. Ils font partie d’une tradition locale répandue du dixième au quinzième siècle, qui consiste à confectionner des sculptures en terre cuite.  La fertilité du delta intérieur du fleuve Niger alimenta un urbanisme florissant au Moyen-Âge, qui comprenait plus de soixante communautés interdépendantes. À Natamatao, les fouilles ont révélé des objets associés au commerce transsaharien, notamment un lot de lingots de cuivre importés. Des bracelets et des pendentifs, similaires à ceux portés par le personnage à genoux, auraient pu être composés de laiton, un alliage de cuivre. La représentation de chevaux suggère également l’existence d’échanges commerciaux, puisqu’ils étaient commercialisés à travers le Sahara.'
   17:
     label: 'Fragment d’une couverture tissée'
-    section: Saharan Frontiers/Connecting Trade to the Niger River
-    _date: 15th century
+    section: LES FRONTIÈRES SAHARIENNES/ LE COMMERCE LIÉ AU FLEUVE NIGER
+    _date: 'XVe siècle'
     region_culture_timeperiod: 'Retrouvée dans la cave Y, falaise de Bandiagara, Tellem, Mali'
     medium: 'Coton et laine tissés en reps tramé, armure toile'
     dimensions: 60 x 84 cm
@@ -1022,7 +1022,7 @@ works:
     description: 'Les textiles tissés retrouvés dans les caves des falaises de Bandiagara parmi des restes d’inhumation, à l’est du delta intérieur du Niger au Mali, font partie des textiles les plus anciens d’Afrique de l’Ouest ayant survécu. Ils datent du onzième siècle au moins. À ce titre, ils apportent une preuve importante de la longévité des technologies de tissage et de coloration de tissus dans la région. Des motifs communs aux peuples Amazigh et Fulani du Sahara ont été identifiés sur d’importants fragments de couverture. La couverture elle-même est un assemblage de bandes tissées et définit l’ancienneté de la technologie de tissage propre à l’Afrique de l’Ouest.'
   18:
     label: 'Perle biconique'
-    section: Saharan Frontiers/Connecting Trade to the Niger River
+    section: LES FRONTIÈRES SAHARIENNES/ LE COMMERCE LIÉ AU FLEUVE NIGER
     _date: 'XIXe/XXe siècle'
     region_culture_timeperiod: 'Fulani, Sénégal'
     medium: Argent doré
@@ -1031,7 +1031,7 @@ works:
     description: 'Cette perle biconique confectionnée à la fin du dix-neuvième siècle ou au début du vingtième siècle partage la même forme que les perles biconiques de l’époque médiévale. Il est probable que la confection de ce style de perles ait perduré dans la région après le onzième siècle, bien qu’elles ne soient pas parfaitement identiques. Cet exemple de perle a été moulé dans de l’argent puis recouvert de fines couches d’or à la surface, une technique appelée dorure. La surface de la perle est décorée de fils en filigrane, de fines bandes de métal formant un motif, de granulations et de petites sphères d’or. '
   19:
     label: Monument en pierre
-    section: Saharan Frontiers/Connecting Trade to the Niger River
+    section: 'LES FRONTIÈRES SAHARIENNES/ LA CIRCULATION DES LANGUES, DES PERSONNES ET DES IDÉES'
     _date: 'XIIe siècle'
     region_culture_timeperiod: 'Nécropole de Sané, Gao, Mali'
     medium: Marbre
@@ -1040,8 +1040,8 @@ works:
     description: 'L’alphabétisation arabe fut le fruit du commerce transsaharien et dissémina des livres, des objets gravés, et des pratiques religieuses à travers le Sahara. Le monument funéraire en marbre provenant du cimetière situé près du site archéologique de Gao Sané, au Mali, et datant du douzième siècle, est gravé d’un poème inspiré d’un vers du Coran. On peut y lire, en partie : « ... seul, Il n’a pas de partenaire, et Mohammed est Son serviteur et Son messager. Il vécut et mourut fidèle à sa religion, et vivra encore si Dieu le souhaite — Puisse Dieu faire preuve de miséricorde pour ceux qui demandent la miséricorde pour lui. » Il est probable que ce monument fasse partie d’une paire de pierres tombales. L’autre aurait porté le nom, le titre et les dates d’un membre de la classe dirigeante de Gao. La pierre tombale est l’un des cinq monuments funéraires conservés. Ils furent conçus à Almeria en Espagne puis transportés à travers le désert du Sahara pour des clients à Gao.'
   20:
     label: Meule transformée en pierre tombale
-    section: Saharan Frontiers/The Movement of Language, People, and Ideas
-    _date: 13th/17th century
+    section: LES FRONTIÈRES SAHARIENNES/ LA CIRCULATION DES LANGUES, DES PERSONNES ET DES IDÉES
+    _date: 'XIIIe/XVIIe siècle'
     region_culture_timeperiod: 'Cimetière de Tafdit, Djebok, Mali'
     medium: Pierre
     dimensions: '46,5 x 24 x 7,5 cm'
@@ -1049,8 +1049,8 @@ works:
     description: 'Initialement une meule, moitié inférieure d’un mécanisme pour transformer le grain, cette pierre fut gravée d’un texte en arabe par un artisan local et transformée en pierre tombale entre le treizième et le dix-septième siècle. La pierre supérieure qui accompagne la meule pour transformer le grain était également gravée d’un texte en arabe.'
   21:
     label: "Al-qadi ‘Iyad, <em>La guérison par la reconnaissance des droits de l'Élu Mohammed Al-Shifta’ bi-ta’rif huquq al-Mustafa</em>"
-    section: Saharan Frontiers/The Movement of Language, People, and Ideas
-    _date: Unknown date
+    section: LES FRONTIÈRES SAHARIENNES/ LA CIRCULATION DES LANGUES, DES PERSONNES ET DES IDÉES
+    _date: Date inconnue 
     region_culture_timeperiod: Afrique du Nord
     medium: 'Encre colorée et or sur papier'
     dimensions: '30,5 x 58 cm'
@@ -1058,16 +1058,16 @@ works:
     description: 'À l’époque médiévale, la langue arabe et la foi musulmane se répandirent ensemble le long des routes du Sahara, puis progressivement dans la région du Soudan occidental. Peu de manuscrits ouest-africains de la période médiévale ont pu être conservés, et le plus ancien date du seizième siècle. Cependant, l’héritage de la circulation de la langue arabe en Afrique de l’Ouest apparaît dans des livres tels que ce texte intitulé La vie du Prophète, qui reflète la circulation conjointe de la langue, de la foi et du commerce. L’intellectuel Al-qadi écrivit au douzième siècle une biographie du Prophète Mohammed contenant des instructions pieuses. Ce manuscrit en est probablement une copie produite ultérieurement en Afrique du Nord et importée au Sahara à une date inconnue. Il fait partie des près de 40 000 manuscrits qui composent la collection de l’Institut des hautes études et de recherches islamiques Ahmed Baba au Mali. La plupart proviennent de bibliothèques familiales privées présentes dans des centres de culture islamique au Mali.'
   22:
     label: 'Tissu talismanique'
-    section: Saharan Frontiers/The Movement of Language, People, and Ideas
+    section: LES FRONTIÈRES SAHARIENNES/ LA CIRCULATION DES LANGUES, DES PERSONNES ET DES IDÉES
     _date: 'fin du XIXe ou début du XXe siècle'
     region_culture_timeperiod: Provenant probablement du Sénégal
     medium: 'Coton, panneaux (4) en armure toile assemblés et peints, amulettes de feutre et peaux d’animaux liées par des bandes de cuir nouées'
     dimensions: '255,2 x 178,8 cm'
     credit_line: 'Art Institute of Chicago, African and Amerindian Purchase Endowment, 2000.326. Photographie provenant de l’Art Institute of Chicago/Art Resource, New York'
-    description: 'This large textile is covered with Qur’anic verses in Arabic script. The elongated figure may represent a lizard, a spirit, or a stylized rendering of the name Muhammad, while the red checkered motifs recall magic squares, arrangements of numbers that always amount to the same sum, no matter the direction they are added. The attached amulets likely encase small squares of folded paper with sacred writing. Across Senegal, Sufi practitioners apply esoteric knowledge of the Qur’an and other sacred texts to the therapeutic practices of divination, healing, and spiritual protection. The textile may have been lent or rented to clients as needed by the practitioner who created it.'
+    description: 'Ce large tissu est couvert de vers du Coran rédigés en arabe. La forme allongée pourrait représenter un lézard, un esprit ou une représentation stylisée du nom Mohammed, tandis que les motifs à carreaux rouges rappellent des carrés magiques, compositions numériques qui équivalent toujours à la même somme, quelle que soit la direction dans laquelle ils sont additionnés. Les amulettes qui y sont attachées contiennent probablement des petits carrés de papier plié renfermant des textes sacrés. Au Sénégal, les praticiens soufis appliquent le savoir ésotérique du Coran et d’autres textes sacrés aux pratiques thérapeutiques de la divination, de la guérison et de la protection spirituelle. Le tissu pourrait avoir été loué ou prêté à des clients selon les besoins du praticien qui le conçut.'
   23:
     label: 'Léon l’Africain, <em>Description de l’Afrique (De totius Africae descriptio)</em>'
-    section: Saharan Frontiers/The Movement of Language, People, and Ideas
+    section: LES FRONTIÈRES SAHARIENNES/ LA CIRCULATION DES LANGUES, DES PERSONNES ET DES IDÉES
     _date: '1556'
     region_culture_timeperiod: 'Anvers (Belgique)'
     medium: Inconnue
@@ -1076,7 +1076,7 @@ works:
     description: '_Description de l’Afrique_, rédigé par le diplomate et savant Al-Hassan Ibn Muhammad al-Hassan, connu également sous le nom de Léon l’Africain, fut initialement publié en 1526. Né à Fez, au Maroc, al-Wazzan fut arrêté à bord d’un bateau sur la mer Méditerranée et emprisonné à Rome pendant neuf ans, sur ordre du pape. Son récit est fondé sur ses propres expériences de voyage dans des lieux tels que Le Caire, en passant par le Sahara jusqu’à Tombouctou, qui faisait à l’époque partie de l’empire Songhaï. Le livre, rédigé en italien, fut la première description de l’Afrique publiée en Europe, pour un public majoritairement européen et chrétien curieux d’en apprendre davantage sur la géographie du continent, son peuple et ses ressources. Cette traduction latine fut publiée en 1556.'
   24:
     label: 'Coiffe rayée de soierie incisée'
-    section: Saharan Frontiers/Mansa Musa's Hajj to Mecca
+    section: LES FRONTIÈRES SAHARIENNES/ LE HADJ DE MANSA MOUSSA À LA MECQUE  
     _date: 'Mamluk period, XIVe siècle'
     region_culture_timeperiod: 'Égypte ou Syrie'
     medium: 'Lampas, soie et or'
@@ -1085,28 +1085,28 @@ works:
     description: 'Pendant son séjour au Caire, Mansa Moussa fut accueilli par le sultan al-Nasir al-Din Muhammad, qui le couvrit de présents, dont une calotte ornée d’emblèmes califiens officiels. La coiffe où il est inscrit "Gloire à notre seigneur sultan al-Malik al-Nasir" ressemble sans aucun doute à cet exemple luxueux de la même époque.'
   25:
     label: 'Chevalière'
-    section: Saharan Frontiers/Mansa Musa's Hajj to Mecca
+    section: LES FRONTIÈRES SAHARIENNES/ LE HADJ DE MANSA MOUSSA À LA MECQUE  
     _date: 'XVe/XVIe siècle'
     region_culture_timeperiod: Iran
     medium: Argent
-    dimensions: 3.18 cm x 2.54 cm
+    dimensions: '3,18 cm x 2,54 cm'
     credit_line: 'Museum of Art, Los Angeles, Californie, Collection Nasli M. Heeramaneck, don de Joan Palevsky, M.73.5.336'
     description: 'L’historien et géographe Abu ‘Ubayd al-Bakri (décédé en 1094) donna des informations sur les caravanes du commerce saharien à un public curieux d’en apprendre davantage sur des partenaires commerciaux aussi éloignés. Dans son livre Le livre des routes et des royaumes, publié en 1063, al-Bakri décrit la succession royale de Kawkaw, nom médiéval de Gao : « Quand un roi accède au trône, on lui tend une chevalière, une épée, et une copie du Coran, qui, selon leurs récits, leur ont été envoyées par le Commandeur des croyants. Leur roi est musulman, car la royauté n’est confiée qu’à des musulmans. » Une épée et des bijoux faisaient partie des présents diplomatiques reçus par Mansa Moussa.'
   26:
     label: 'Abraham Cresques (?). <em>Atlas de cartes marines (Atlas catalan)</em>'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: '1375'
-    region_culture_timeperiod: France
+    region_culture_timeperiod: 'Majorque'
     medium: 'Parchemin enluminé monté sur six panneaux de bois'
-    dimensions: Each panel 64.5 x 25 cm
+    dimensions: 'Chaque panneau 64,5 x 25 cm'
     credit_line: 'Bibliothèque nationale de France, Paris, Ms. Espagnol 30'
-    description: 'Cette somptueuse carte avait probablement été commandée par le roi d’Aragon pour Charles V, roi de France, et produite par le cartographe juif Abraham Cresques. Elle fut achevée en 1375. La couronne d’Aragon, confédération de territoires puissants incluant une partie de la péninsule ibérique et des îles de la Méditerranée, avait un emplacement idéal pour devenir une puissance commerciale. L’Atlas catalan prouve l’intérêt significatif des européens pour le commerce international, et la proéminence de l’Afrique de l’Ouest dans ces réseaux d’échange. Mansa Moussa, empereur du Mali, est représenté au premier plan sur le deuxième panneau, assis sur un trône et tenant un globe d’or dans une main. La légende indique: "Ce dirigeant maure se nomme Musse Melly [Mansa Moussa], seigneur de Guinée. Ce roi est le dirigeant le plus riche et le plus éminent de la région entière, en raison de l’importante quantité d’or extraite sur ses terres."'
+    description: 'Cette somptueuse carte avait probablement été commandée par le roi d’Aragon pour Charles V, roi de France, et produite par le cartographe juif Abraham Cresques. Elle fut achevée en 1375. La couronne d’Aragon, confédération de territoires puissants incluant une partie de la péninsule ibérique et des îles de la Méditerranée, avait un emplacement idéal pour devenir une puissance commerciale. L’Atlas catalan prouve l’intérêt significatif des européens pour le commerce international, et la proéminence de l’Afrique de l’Ouest dans ces réseaux d’échange. Mansa Moussa, empereur du Mali, est représenté au premier plan sur le deuxième panneau, assis sur un trône et tenant un globe d’or dans une main. La légende indique; « Ce dirigeant maure se nomme Musse Melly [Mansa Moussa], seigneur de Guinée. Ce roi est le dirigeant le plus riche et le plus éminent de la région entière, en raison de l’importante quantité d’or extraite sur ses terres. »'
     link_label: 'View Map Manuscript'
-    link_url: https://gallica.bnf.fr/ark:/12148/btv1b52509636n
-    link_caption: 'The National Library of France hosts a high definition scan of the <em>Catalan Atlas</em> manuscript.'
+    link_url: https://gallica.bnf.fr/ark:/12148/btv1b52509636n 
+    link_caption: 'La Bibliothèque nationale de France héberge une numérisation haute définition du manuscrit de l'Atlas catalan.'
   27:
     label: 'Honorius Solidus'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: '395/400'
     region_culture_timeperiod: 'Milan, Italie'
     medium: Or
@@ -1114,9 +1114,9 @@ works:
     credit_line: 'Musée archéologique de Rabat, Morocco, 24.3. Photographie de Fouad Mahdaoui'
     description: 'Les origines de l’or transsaharien datent probablement du quatrième siècle. Les postes d’avant-garde romains en Afrique étaient idéalement situés pour entreprendre ce commerce et faire circuler l’or et d’autres biens dans le vaste monde romain. La première pièce en or solidus, représentant l’empereur Honorius de profil, fut émise par l’Empire romain en 312 et pesait 4,5 grammes.  Ses mesures et échelons devinrent des unités standard pour la pesée de l’or partout où les pièces romaines étaient utilisées, et ces unités continuèrent à être utilisées par les états musulmans d’Afrique du Nord et du Moyen-Orient à l’époque médiévale. Il est probable que ce système ait également été transmis à l’Afrique de l’Ouest par le biais du commerce transsaharien, car il était utilisé pour les poids d’or de la région akan du Ghana au dix-neuvième siècle.'
   28:
-    label: "Dinar d’Abu Inan Faris, ( 1348–1358)"
-    section: Driving Desires
-    _date: 14th century
+    label: "Abu Inan Faris, (régna de1348 à 1358)"
+    section: MOTIVATIONS ET CONVOITISES
+    _date: 'XIVe siècle'
     region_culture_timeperiod: 'Frappé à Sijilmasa, Maroc'
     medium: Or
     dimensions: 'diamètre 1,0 cm'
@@ -1124,16 +1124,16 @@ works:
     description: "Dérivé du solidus romain standard, le dinar était une monnaie musulmane d’un poids moyen de 4,5 grammes. Introduits au septième siècle, les dinars étaient frappés dans plusieurs sites de la région méditerranéenne, souvent à partir d’or d’Afrique de l’Ouest. Un dinar avait une valeur significative et était principalement utilisé pour les dépenses importantes. Ce dinar fut frappé à Sijilmasa, au Maroc, un des ateliers monétaires les plus productifs dû à sa proximité des sources aurifères de l’Afrique de l’Ouest. Les inscriptions sur le dinar témoignent du leadership politique de Abu ‘Inan Faris et font de Sijilmasa un centre de commerce et de production majeur. "
   29:
     label: 'Florin portant l’emblème de Florence (pile) et représentant Jean le Baptiste (face)'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: '1252/1303'
     region_culture_timeperiod: 'Frappé à Florence, Maroc'
     medium: Or
-    dimensions: 'diamètre 1,23 cm'
+    dimensions: '76,2 x 55,9 cm'
     credit_line: 'American Numismatic Society, New York, 1954.237.214. Photographie provenant de l’American Numismactic Society '
     description: 'En 1252, la cité-État de Florence en Italie adopta l’étalon-or et commença à frapper sa propre monnaie. Cette décision fut appuyée par un afflux d’or provenant d’Afrique de l’Ouest par les routes du commerce transsaharien. Les florins étaient frappés d’une fleur de lys d’un côté et d’une représentation de Jean le Baptiste, saint patron de la ville de Florence, de l’autre. Un poinçon d’atelier se trouve au dessus de la main droite de Jean le Baptiste, et indique la provenance de la pièce. Les florins pouvaient également être battus jusqu’à former des feuilles d’or de grande valeur, utilisées pour décorer des objets, y compris des peintures religieuses.'
   30:
     label: '<em>Couronnement de la Vierge</em>'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: XVe siècle
     region_culture_timeperiod: Italie
     medium: 'Tempéra et or sur panneau'
@@ -1142,7 +1142,7 @@ works:
     description: 'Les œuvres médiévales chrétiennes étaient souvent décorées avec des feuilles d’or. Sur cette peinture sur panneau provenant d’Italie, le Christ place une couronne sur la tête de sa mère Marie, symbolisant son rôle de Reine du Ciel. Des anges et d’autres personnages sacrés occupent l’espace céleste représenté par l’arrière-plan doré. Une grande partie de l’or utilisé en Italie venait d’Afrique de l’Ouest, et était acheminé par les routes du commerce transsaharien. Depuis le treizième siècle, les cités-État telles que Florence ou Venise commencèrent à frapper leur monnaie majoritairement à partir d’or ouest-africain. Ces pièces étaient battues jusqu’à devenir des fines feuilles de métal, puis étaient utilisées comme feuilles d’or. Plus d’une centaine de feuilles pouvaient être faites à partir d’une seule pièce.'
   31:
     label: 'Perle biconique'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: 'Xe/XIe siècle'
     region_culture_timeperiod: 'Égypte ou Syrie'
     medium: 'Or en filigrane, granulation et fil en torsion'
@@ -1151,7 +1151,7 @@ works:
     description: "Le riche et puissant Califat fatimide (909-1171) qui régnait sur l’Afrique du Nord, l’Égypte, et la Syrie, était actif dans les réseaux de commerce transsahariens, mais aussi dans ceux de la Méditerranée et de l’Océan Indien. Ses dirigeants étaient en concurrence avec les Omeyyades d’Espagne pour l’accès à l’or d’Afrique de l’Ouest et le contrôle des grandes villes de commerce telles que Sijilmasa. Cette large perle fatimide très détaillée est composée de deux cônes filigranes joints le long d’un filon central. Cette forme provient de l’Antiquité. Le filigrane est une technique complexe qui consiste à souder des fils très fins à un fond en métal, où les orfèvres entrelacent de fines feuilles de métal et créent une décoration très intéressante sur le plan visuel. "
   32:
     label: 'Page du "Coran Bleu", Chapitre 2, Al-Baqara (La vache): versets 148-150.'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: 'IXe/Xe siècle'
     region_culture_timeperiod: 'Iraq, Iran, ou Tunisie'
     medium: 'Or et argent sur parchemin coloré à l’indigo'
@@ -1160,7 +1160,7 @@ works:
     description: "Cette page de ce somptueux Coran présente un texte en or et argent sur un parchemin coloré à l’indigo. Le Coran Bleu fut conservé à la bibliothèque de la Grande Mosquée de Kairouan en Tunisie à partir de l’an 1294 au moins. Aujourd’hui, plus d’une centaine de ses 600 pages sont dispersées dans des collections à travers le monde et plus de soixante sont encore en Tunisie. Bien que les intellectuels soient en désaccord sur les origines exactes de ce splendide livre, l’or et l’argent utilisés pour écrire sur ce parchemin coloré d’un bleu profond indiquent une compétition avec les onéreux manuscrits teints en pourpre (extrait du murex marin) qui circulaient également dans les royaumes du bassin Méditerranéen."
   33:
     label: '<em>Le traité d’Avot Pirkei Avot</em>,siddour (livre de prière)'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: 'fin du XVe siècle'
     region_culture_timeperiod: Lisbonne
     medium: 'Encre, aquarelle opaque et or sur parchemin'
@@ -1169,7 +1169,7 @@ works:
     description: 'Ce siddour, livre de prière juif, indique un goût pour les entrelacs manuscrits raffinés. Certaines pages importantes sont également décorées avec des feuilles d’or et de l’aquarelle. L’or, provenant majoritairement d’Afrique de l’Ouest, était un matériel artistique particulièrement utilisé par les trois religions principales de la Méditerranée à l’époque médiévale : le judaïsme, le christianisme et l’islam. Les artisans juifs, qui travaillaient souvent l’or, contribuèrent énormément à l’art et la culture du Moyen-Âge, en confectionnant des œuvres pour des clients juifs, musulmans et chrétiens.'
   34:
     label: 'Vierge à l’Enfant'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: ca. 1275/1300
     region_culture_timeperiod: France
     medium: 'Ivoire et peinture'
@@ -1178,7 +1178,7 @@ works:
     description: "Les défenses en ivoire faisaient partie, avec l’or, des produits de luxe commercialisés dans le désert du Sahara. Deux sous-espèces d’éléphant existent en Afrique de l’Ouest : l’éléphant de savane, l’espèce majoritaire, et l’éléphant de forêt. Les défenses des deux espèces circulaient par le commerce transsaharien médiéval."
   35:
     label: 'Coffre'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: 'XIIe siècle'
     region_culture_timeperiod: 'Sicile'
     medium: 'Ivoire, laiton, tempéra, et feuilles d’or'
@@ -1187,7 +1187,7 @@ works:
     description: 'Cette boîte, ou coffre, d’ivoire, a été confectionnée en Sicile, île située à l’extrémité sud de l’Italie, peu après la conquête normande. La population musulmane arabophone de Sicile ne fut pas complétement déportée par les Normands, et ces communautés, ainsi que leurs relations commerciales, contribuèrent considérablement à la culture visuelle qui se développa sous la domination normande. Le coffre est agrémenté d’accessoires en cuivre et de feuilles d’or, matériaux de grande valeur qui, au même titre que l’ivoire, circulèrent dans les réseaux principaux du commerce transsaharien. On peut lire une inscription en arabe qui signifie "Que la gloire dure toujours".'
   36:
     label: '<em>Couronnement de la Vierge</em>'
-    section: Driving Desires
+    section: MOTIVATIONS ET CONVOITISES
     _date: ca. 1480
     region_culture_timeperiod: Angleterre
     medium: 'Or et fil de soie sur lin'
