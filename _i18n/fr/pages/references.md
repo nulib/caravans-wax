@@ -56,9 +56,7 @@ L’exposition s’accompagne d’une publication universitaire co-publiée par 
     1981; réimpr. Princeton: Markus Wiener, 2000), 85.
 
 12. *Essouk-Tadmekka: An Early Islamic Trans-Saharan Market Town,* éd.
-    Sam Nixon, vol. 12, *Journal of African Archaeology Monograph
-    Series*, éd. Peter Breunig, Sonja Magnavita, et Katharina Neumann
-    (London: Brill, 2017), xii–xiii et 3–6.
+    Sam Nixon, « Essouk-Tadmekka » (présentation au programme « From the Field: International Archaeologists in Conversation »), The Block Museum of Art, Northwestern University, Evanston, IL, 24 avril 2019).
 
 13. Raymond Mauny, *Tableau géographique de l’Ouest africain au Moyen
     Age, d’après les sources écrites, la tradition et
