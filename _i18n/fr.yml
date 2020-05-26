@@ -4,15 +4,15 @@ global:
 titles:
   references: "References"
   about: "À propos"
-  search: "Recherche Oeuvres principales"
-  key_works: "Oeuvres Principales"
+  search: "Rechercher des oeuvres principales"
+  key_works: "Oeuvres principales"
   tour: "Visite"
 menu:
   - label: 'À propos'
     link: '/about/'
   - label: 'Visite'
     link: '/tour/'
-  - label: 'Mots clés'
+  - label: 'Oeuvres principales'
     link: '/works/'
   - label: 'Recherche'
     link: '/search/'
