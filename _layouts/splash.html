@@ -71,12 +71,11 @@
     <script type='text/javascript' src='{{ "/assets/bootstrap/bootstrap.min.js" | prepend: site.baseurl_root }}' async></script>
     <script type='text/javascript' src='{{ "/assets/popper.min.js" | prepend: site.baseurl_root }}' async></script>
   </body>
-  <!--
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('{{"/sw.js" | prepend: site.baseurl_root }}', {scope: '{{ site.url }}'});
+        navigator.serviceWorker.register('{{ "/sw.js" | prepend: site.baseurl_root }}', {scope: '{{ site.url }}'});
       });
     }
-  </script> -->
+  </script>
 </html>
