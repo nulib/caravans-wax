@@ -9,23 +9,22 @@
 		{% if page.description %}
 		<meta name="description" content="{{ page.description }}">
 		{% endif %}
-		<link rel="stylesheet" href="/assets/reveal.js/css/reset.css">
-		<link rel="stylesheet" href="/assets/reveal.js/css/reveal.css">
-		<link rel="stylesheet" href="/assets/reveal.js/css/theme/simple.css">
-
+		<link rel="stylesheet" href="{{ '/assets/reveal.js/css/reset.css' | prepend: site.baseurl_root }}">
+		<link rel="stylesheet" href="{{ '/assets/reveal.js/css/reveal.css' | prepend: site.baseurl_root }}">
+		<link rel="stylesheet" href="{{ '/assets/reveal.js/css/theme/simple.css' | prepend: site.baseurl_root }}">
 	</head>
 	<body>
 		{% if site.lang == 'ar' %}
 		<nav dir="rtl" class="reveal-header">
-			<a class="reveal-header-button" href="{{ site.baseurl }}"><em>&#127968;</em></a>
+			<a class="reveal-header-button" title="Back to Homepage" href="{{ site.url }}{{ site.baseurl }}"><em>&#127968;</em></a>
 			<span class="reveal-header-delimiter">•</span>
-			<a class="reveal-header-button" href="{{ site.baseurl }}/tour/#sections"><em>&#8592;</em></a>
+			<a class="reveal-header-button" title="Back to Tour sections" href="{{ site.baseurl }}/tour/#sections"><em>&#128281;</em></a>
 		</nav>
 		{% else %}
 		<nav class="reveal-header">
-			<a class="reveal-header-button" href="{{ site.baseurl }}"><em>&#127968;</em></a>
+			<a class="reveal-header-button" title="Back to Homepage" href="{{ site.url }}{{ site.baseurl }}"><em>&#127968;</em></a>
 			<span class="reveal-header-delimiter">•</span>
-			<a class="reveal-header-button" href="{{ site.baseurl }}/tour/#sections"><em>&#8592;</em></a>
+			<a class="reveal-header-button" title="Back to Tour sections" href="{{ site.baseurl }}/tour/#sections"><em>&#128281;</em></a>
 		</nav>
 		{% endif %}
 
@@ -84,7 +83,7 @@
 		{% endif %}
 
 		<script src="/assets/reveal.js/js/reveal.js"></script>
-		<script type='text/javascript' src='{{ "/assets/lazysizes.min.js" | absolute_url }}' async></script>
+		<script type='text/javascript' src='{{ "/assets/lazysizes.min.js" | prepend: site.baseurl_root }}' async></script>
 
 		{% if site.lang == 'ar' %}
 
@@ -96,8 +95,8 @@
 				transition: 'none',
 				rtl: true,
 				dependencies: [
-					{ src: '/assets/reveal.js/plugin/markdown/marked.js' },
-					{ src: '/assets/reveal.js/plugin/markdown/markdown.js' },
+					{ src: '{{ '/assets/reveal.js/plugin/markdown/marked.js' | prepend: site.baseurl_root }}' },
+					{ src: '{{ '/assets/reveal.js/plugin/markdown/markdown.js' | prepend: site.baseurl_root }}' },
 				]
 			});
 		</script>
@@ -112,8 +111,8 @@
 				transition: 'none',
 				rtl: false,
 				dependencies: [
-					{ src: '/assets/reveal.js/plugin/markdown/marked.js' },
-					{ src: '/assets/reveal.js/plugin/markdown/markdown.js' },
+					{ src: '{{ '/assets/reveal.js/plugin/markdown/marked.js' | prepend: site.baseurl_root }}' },
+					{ src: '{{ '/assets/reveal.js/plugin/markdown/markdown.js' | prepend: site.baseurl_root }}' },
 				]
 			});
 		</script>
