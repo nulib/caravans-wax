@@ -16,15 +16,23 @@
 	<body>
 		{% if site.lang == 'ar' %}
 		<nav dir="rtl" class="reveal-header">
-			<a class="reveal-header-button" title="Back to Homepage" href="{{ site.url }}{{ site.baseurl }}"><em>&#127968;</em></a>
+			<a class="reveal-header-button" title="Back to Homepage" href="{{ site.url }}{{ site.baseurl }}">
+				<img src="{{ site.baseroot_url }}/img/icons/home.svg" style="width:25px">
+			</a>
 			<span class="reveal-header-delimiter">•</span>
-			<a class="reveal-header-button" title="Back to Tour sections" href="{{ site.baseurl }}/tour/#sections"><em>&#128281;</em></a>
+			<a class="reveal-header-button" title="Back to Tour sections" href="{{ site.baseurl }}/tour/#sections">
+				<img src="{{ site.baseroot_url }}/img/icons/x.svg" style="width:25px">
+			</a>
 		</nav>
 		{% else %}
 		<nav class="reveal-header">
-			<a class="reveal-header-button" title="Back to Homepage" href="{{ site.url }}{{ site.baseurl }}"><em>&#127968;</em></a>
+			<a class="reveal-header-button" title="Back to Homepage" href="{{ site.url }}{{ site.baseurl }}">
+				<img src="{{ site.baseroot_url }}/img/icons/home.svg" style="width:25px">
+			</a>
 			<span class="reveal-header-delimiter">•</span>
-			<a class="reveal-header-button" title="Back to Tour sections" href="{{ site.baseurl }}/tour/#sections"><em>&#128281;</em></a>
+			<a class="reveal-header-button" title="Back to Tour sections" href="{{ site.baseurl }}/tour/#sections">
+				<img src="{{ site.baseroot_url }}/img/icons/x.svg" style="width:25px">
+			</a>
 		</nav>
 		{% endif %}
 
