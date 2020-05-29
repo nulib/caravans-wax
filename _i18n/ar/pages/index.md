@@ -7,3 +7,9 @@
 <div class="embed-responsive embed-responsive-16by9">
   <iframe title="vimeo-player" src="https://player.vimeo.com/video/307108617" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<div class="alert alert-dark mt-3" role="alert">
+  <p class="lead" dir="rtl">
+   تبلورت قوافل من ذهب من خلال الشراكات والتبادلات. إذا كنت ترغب في مشاركة كيفية استخدامك لهذه المواد، أو كنت ترغب في إبلاغنا بأي أخطاء في الترجمة أو المحتوى، فيرجى الاتصال بنا على <br>block-museum@northwestern.edu.
+  </p>
+</div>
