@@ -4,5 +4,5 @@
 
 <img class="img-fluid text-centered" srcset="/img/tour/saharan-frontiers/saharan-frontiers-landing-page_300.png 300w, /img/tour/saharan-frontiers/saharan-frontiers-landing-page_800.png 800w" sizes="(max-width: 600px) 300px, 600px" src="/img/tour/saharan-frontiers/saharan-frontiers-landing-page_800.png">
 <p class="small">
-تفاصيل رسمة الخان. مستنسخة من جورج هجيرسينج هوست، تقارير عن المغرب وفاس (Efterretninger om Marokos og Fes: Samlede der i Landene fra ao. 1760 til 1768). كوبنهاغن: ن. مولر، 1779. كوبنهاغن: ن. مولر، 1779. مكتبة ميلفيل ج. هيرسكوفيتس للدراسات الإفريقية، جامعة نورث ويسترن، إيفانستون، إلينوي، DT308.H83 1779. تصوير كلير بريت 
+تفاصيل رسمة الخان. مستنسخة من جورج هجيرسينج هوست، تقارير عن المغرب وفاس (Efterretninger om Marokos og Fes: Samlede der i Landene fra ao. 1760 til 1768). كوبنهاغن: ن. مولر، 1779. كوبنهاغن: ن. مولر، 1779. Melville J. Herskovits Library of African Studies, Northwestern University ، إيفانستون، إلينوي، DT308.H83 1779. تصوير كلير بريت 
 </p>
