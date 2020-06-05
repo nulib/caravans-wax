@@ -4,6 +4,8 @@ Travel with the Block Museum along routes crossing the Sahara Desert to a time w
 
 _Caravans of Gold_ draws on recent archaeological discoveries, including rare fragments from major medieval African trading centers like Sijilmasa, Gao, and Tadmekka. These “fragments in time” are seen alongside works of art that invite us to imagine them as they once were. They are the starting point for a new understanding of the medieval past and for seeing the present in a new light.
 
+Subtitles in videos linked to this website are displayed in English.
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe title="vimeo-player" src="https://player.vimeo.com/video/307108617" frameborder="0" allowfullscreen></iframe>
 </div>

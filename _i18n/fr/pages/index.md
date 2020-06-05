@@ -4,6 +4,8 @@ Voyagez avec le Block Museum le long des routes traversant le désert du Sahara 
 
 _Les caravanes d’or_ s'appuie sur des découvertes archéologiques récentes, incluant des fragments rares provenant de grands centres commerciaux médiévaux africains comme Sijilmasa, Gao et Tadmekka. Ces « fragments dans le temps » sont exposés aux côtés d’œuvres d’art qui nous invitent à les imaginer tels qu'ils étaient. Ils sont le point de départ nous permettant de comprendre le passé médiéval et de voir le présent sous un autre angle.
 
+Les sous-titres des vidéos liées à ce site sont en anglais.
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe title="vimeo-player" src="https://player.vimeo.com/video/307108617" frameborder="0" allowfullscreen></iframe>
 </div>
