@@ -74,7 +74,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('{{ "/sw.js" | prepend: site.baseurl_root }}', {scope: '{{ site.url }}'});
+        navigator.serviceWorker.register('https://caravans.library.northwestern.edu/sw.js', {updateViaCache: 'all',scope: '/'});
       });
     }
   </script>
