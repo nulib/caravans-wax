@@ -1,7 +1,17 @@
 module.exports = {
   "globDirectory": "_site/",
   "globPatterns": [
-    "**/*.{html,xml,ico,json,js,css,jpg,png,svg}"
+    "**/*.{html,json,js,css}"
   ],
-  "swDest": "_site/sw.js"
+  "swDest": "_site/sw.js",
+  runtimeCaching: [{
+    urlPattern: /\.(?:png|jpg|svg)$/,
+    handler: 'CacheFirst',
+    options: {
+      cacheName: 'images',
+      expiration: {
+        maxEntries: 20,
+      },
+    },
+  }],
 };
