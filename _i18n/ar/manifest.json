@@ -18,9 +18,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?from=homescreen",
+  "start_url": "https://caravans.library.northwestern.edu/ar/",
   "background_color": "#234190",
   "display": "standalone",
-  "scope": "/",
+  "scope": "https://caravans.library.northwestern.edu/",
   "theme_color": "#234190"
 }
