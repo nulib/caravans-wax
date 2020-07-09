@@ -63,7 +63,7 @@ __United States__
 
 ### Credits
 
-This project was conceptualized during the museum seminar “Reshaping an Exhibition: Preparing Caravans of Gold for Presentation in Africa,” taught by Dr. Kathleen Bickford Berzock at Northwestern University, Spring 2019. Sarah M. Estrela, Block Curatorial Graduate Fellow, and Melanie Garcia Sympson, Block Curatorial Associate, assisted on the development of the app, which was built by Chris Diaz, Digital Publishing Services Librarian at Northwestern University Libraries. Undergraduate student contributors: Emily Andry, Lois Biggs, Meghan Clare Considine, Brian Rogers Cook, Zoe Detweiler, Brianna Heath, Nicholas Liou, Mina Milaz, Joely Simon, Cindy Qian, Elizabeth Zhang.
+This project was conceptualized during the museum seminar “Reshaping an Exhibition: Preparing Caravans of Gold for Presentation in Africa,” taught by Dr. Kathleen Bickford Berzock at Northwestern University, Spring 2019. Sarah M. Estrela, Block Curatorial Graduate Fellow, and Melanie Garcia Sympson, Block Curatorial Associate, assisted on the development of the app, which was built by Chris Diaz, Digital Publishing Services Librarian at Northwestern University Libraries. Undergraduate student contributors: Emily Andrey, Lois Biggs, Meghan Clare Considine, Brian Rogers Cook, Zoe Detweiler, Brianna Heath, Nicholas Liou, Mina Milaz, Joely Simon, Cindy Qian, Elizabeth Zhang.
 
 ### Contact
 
